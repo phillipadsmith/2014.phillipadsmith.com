@@ -1,5 +1,6 @@
 .jekyll
 node_modules
+bower_components
 _site
 Gemfile.lock
 _x*
