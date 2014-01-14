@@ -1,0 +1,43 @@
+---
+layout: post
+title: Bricolage CMS hacking made easy!
+date: '2010-07-05 16:00:38 -0500'
+mt_id: 1978
+---
+<p><em>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2010/07/bricolage-cms-hacking-made-easy.html">Phillip Smith</a></em></p></small>
+
+        <p>After my last post about <a href="http://blogs.perl.org/users/phillip_smith/2010/07/not-for-the-faint-of-heart-installing-bricolage-2-on-os-x-106-snow-leopard.html">Installing Bricolage 2 on Mac OS X 10.6 "Snow Leopard,"</a> I realized that there are a few more important steps that should be documented for those that was to hack on <a href="http://www.bricolagecms.org">Bricolage CMS</a> vs. just running it. The following instructions link up your git clone with the application itself, making it easy to apply changes, test them, and push them upstream.</p>
+        
+<strong>Preparations</strong>
+<p>
+Assuming you made it to the "<a href="http://blogs.perl.org/users/phillip_smith/2010/07/not-for-the-faint-of-heart-installing-bricolage-2-on-os-x-106-snow-leopard.html">Installing Bricolage</a>" section of the previous post -- and maybe even got Bricolage running! -- you're now all set to tear down that installation and set-up your development environment. Thankfully, Bricolage provides a handy 'make dev' to do all of the hard work for you. </p>
+
+<p>Now I'm going to assume that you went the 'git clone' route if you had the intent of doing some hacking. If not, now's the time to do so! <a href="http://wiki.github.com/bricoleurs/bricolage/">Head over to the Bricolage wiki</a> and <a href="http://wiki.github.com/bricoleurs/bricolage/working-with-git">follow the instructions for Contributing to Bricolage</a>. </p>
+
+<p>Now, instead of making using 'make dist' to create a distribution that can be installed with 'make install', we're going to use 'make dev' instead. However, before we do that, we're going to do two things:</p>
+
+<ol>
+<li><p>Shut down Bricolage if it's already running with 'sudo /usr/local/bricolage/bin/bric_apachectl stop' (And check your process table to ensure it's stopped.)</p></li>
+<li><p>Remove the existing Bricolage installation to ensure that we're starting with a fresh development installation. You can do that with 'sudo rm -r -f /usr/local/bricolage'. If you did any fancy configuration settings to get your Bricolage installation working the first time, you may want to back-up /usr/local/bricolage/conf/* first. Also, 'make dev' drops the Bricolage database and loads a fresh copy, so if did any work on your existing installation, you'll want to dump the database first. </p></li>
+</ol>
+
+<p>The other thing to quickly think about is the location of the git clone you just created. The directories /Users/ and $HOME already have the appropriate permissions, but anything below those may not. Mine was initially in '/Users/username/Documents/Foldername' and that caused a number of problems for Apache relating to permissions on symlinks and so on. Thus, I created a '/Users/username/Development' directory and gave it the necessary 'drwxr-xr-x' permissions so that Apache would be happy. So now my git clone was in '/Users/username/Development/bricolage' and that's where I headed next. </p>
+
+<strong>Make Dev</strong>
+<p>Because I'm not using the OS X system-installed Perl, I wanted to ensure that I was building Bricolage from '/usr/local/bin/perl' and, thus, I ran '/usr/local/bin/perl Makefile.PL' to get things started.</p>
+
+<p>Next, I ran 'make dev' and passed in a number of environmental variables for the installation that I wanted. Mine looks like 'sudo make dev BRICOLAGE_HTTPD_VERSION=apache2 BRICOLAGE_SSL=0' and tells 'make dev' to build for Apache2 without SSL. These are the same as the questions you are asked during a normal installation. </p>
+
+<p>Once that's done, you should be able to run 'sudo /usr/local/bin/perl /usr/local/bricolage/bin/bric_apachectl start' and see Apache start-up successfully, at which point you can log-in to Bricolage as you did the first time. </p>
+
+<p>The only difference is that your 'bin', 'comp', and 'lib' directories in /usr/local/bricolage/ are linked to '/Users/username/Development/bricolage/*' (or wherever you choose to create your git clone). Thus, you can make changes the files in your git clone directory and have those change reflected in the live Bricolage application that's running from '/usr/local/bricolage'.</p>
+
+<p>Try it out. Make an improvement. Send us a pull request!  :-)</p>
+
+<strong>Build Aliases</strong>
+<p>David Wheeler has -- in his own slightly-perfection-obsessed fashion -- taken this idea to new levels. As he explained on the <a href="http://bricolagecms.org/support/">Bricolage mailing list</a>, using the approach outlined above -- passing environmental variables to 'make dev' -- and the Unix '<a href="http://en.wikipedia.org/wiki/Alias_(command)">alias</a>' command, he's able to quickly tear down and build new development versions of Bricolage to test different configurations. David calls these 'build aliases' and you can read more about it <a href="http://wiki.github.com/bricoleurs/bricolage/build-aliases">here</a>. </p>
+
+<p>That's it for today. Happy Bricolage hacking. </p>
+    
+
+<p><em>Feel free to comment here or on the <a href="http://blogs.perl.org/users/phillip_smith/2010/07/bricolage-cms-hacking-made-easy.html">original post</a></em></small>

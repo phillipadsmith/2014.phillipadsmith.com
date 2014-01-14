@@ -1,0 +1,26 @@
+---
+layout: archive 
+body:
+- category
+---
+{% include module_avatar_plus_bio_short.html %}
+<div class="container tag-archive ">
+    <div class="section">
+    <header>
+{% for tag in site.data.tags %}
+    {% if tag.name == page.tag %}
+        <hgroup>
+            <h1 class="title">{{ tag.heading }}</h1>
+            {% if tag.dek %}<h2 class="dek">{{ tag.dek }}</h2>{% endif %}
+        </hgroup>
+        <p>{{ tag.desc }}</p>
+    {% else %}
+    <h1 class="title">Archive for {{ page.tag }}</h1>
+    {% endif %}
+{% endfor %}
+    </header>
+    <ul>
+{{ content }}
+    </ul>
+    </div> <!-- /.section -->
+</div> <!-- /.container -->

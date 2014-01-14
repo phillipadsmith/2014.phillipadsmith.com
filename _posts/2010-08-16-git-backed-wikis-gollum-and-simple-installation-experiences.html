@@ -1,0 +1,25 @@
+---
+layout: post
+title: Git-backed wikis, Gollum, and simple installation experiences
+date: '2010-08-16 07:56:28 -0500'
+mt_id: 1983
+---
+<p><em>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2010/08/git-backed-wikis-gollum-and-simple-installation-experiences.html">Phillip Smith</a></em></p></small>
+
+        <p><img alt="bric-wiki-in-gollum.png" src="http://blogs.perl.org/users/phillip_smith/bric-wiki-in-gollum.png" width="638" height="409" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;border:1px solid black" /></p>
+
+<p>Last night I upgraded the <a href="http://github.com/bricoleurs/bricolage/wiki">Bricolage wiki on Github</a> to the new git-backed wiki that <a href="http://github.com/blog/699-making-github-more-open-git-backed-wikis">Github rolled out last week</a>. May sound like a trivial thing and not worth a blog post, but it&#8217;s quite the opposite, actually &#8212; the changes are (almost) revolutionary. </p>
+
+<p>The first really interesting thing about the upgrade is that all of a project&#8217;s wiki pages are now simple text files in their own git repository. Now I can update these pages anyway I like, in any one of several markup languages, including <a href="http://en.wikipedia.org/wiki/Plain_Old_Documentation">POD</a>. On it&#8217;s own, that&#8217;s pretty useful &#8212; now I can clone a project&#8217;s wiki along with the project itself and submit changes back as I would any other changes via Git.</p>
+
+<p>The second interesting thing about the upgrade is the <a href="http://github.com/github/gollum">offline viewing and editing tool that Github released called Gollum</a>. This is a small Ruby on Sinatra application that &#8212; when run in the git-backed wiki repository &#8212; runs a local copy of the Github wiki that can be used to view and edit those wiki pages offline (see screenshot above).</p>
+
+<p>On a final note: I remarked to <a href="http://twitter.com/theory">Theory</a> last night that I hadn&#8217;t played with <a href="http://rubygems.org/">RubyGems</a> for a while and I was impressed at how painless and easy the Gollum installation was. He pointed out that &#8216;gem install&#8217; almost always runs without any tests (unlike the cpan client). I did make me wonder about the best way to distribute a &#8220;mini app&#8221; like Gollum within the current Perl ecosystem of mini tools and micro frameworks&#8230; perhaps <a href="http://search.cpan.org/perldoc?App%3A%3Acpanminus">cpanm</a> plus <a href="http://search.cpan.org/dist/Mojolicious/lib/Mojolicious/Lite.pm">Mojolicious::Lite</a> could create a similar &#8220;no brain required&#8221; installation?</p>
+
+<p>Food for thought. </p>
+
+        
+
+    
+
+<p><em>Feel free to comment here or on the <a href="http://blogs.perl.org/users/phillip_smith/2010/08/git-backed-wikis-gollum-and-simple-installation-experiences.html">original post</a></em></small>

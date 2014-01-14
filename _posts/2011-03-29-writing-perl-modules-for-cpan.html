@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Writing Perl Modules for CPAN '
+date: '2011-03-29 09:06:34 -0600'
+mt_id: 2618
+---
+<p><i>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2011/03/ten-million-dollars-to-dotcloud-but-still-no-perl-support.html">blogs.perl.org</a>.</i></p>
+
+<br /><img alt="9781590590188.gif" src="http://blogs.perl.org/users/phillip_smith/9781590590188.gif" width="125" height="155" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />
+<p>This past weekend I dusted off my copy of Sam Tregar's <em><a href="http://www.apress.com/book/view/9781590590188">Writing Perl Modules for CPAN</a></em>. The book was published in 2002 and that gave me some trepidation about re-reading it almost nine years later. However, I not yet written a CPAN module and I wanted to give it a shot -- so this seemed like a logical place to start. Thankfully, any reservations were misplaced: this book should be on the shelf of any person wanting to expand their Perl repertoire. </p>
+
+<p>Here's a quick summary of what really stood out for me this time:</p>
+
+<ul>
+<li><p>Chapter 2, incorrectly titled "Perl Module Basics," should be a must-read for anyone new to Perl. It answers all the burning questions about Perl modules. Specifically, why modules are an improvement over one-off scripts almost 99% of the time, the difference between compile-time and runtime in the life of a Perl program, the concept of Packages, Symbols, Encapsulation, Object-Oriented vs. Functional style modules, Classes, Accessors and Mutators, Inheritance, Overloading, and much more. I've rarely read a programming book chapter so full of valuable information and so clearly written.</p></li>
+<li><p>Chapter 3 covers "Module Design and Implementation" and does it quickly and thoroughly. It starts with an explanation of Plain Old Documentation in the context of a documentation-first approach to module design, and then quickly jumps into design decisions like functions vs. objects, naming, and parameters and return values. With that information delivered to the reader, it jumps another level deep and provides a thorough exploration of inheritance vs. composition and the challenges of dealing with multiple-inheritance, and then wraps up with a quick overview of how to visually map out a module's design with UML.</p></li>
+<li><p>Chapter 5 delves into "Submitting Your Module to CPAN," and is a good read for the process-related concerns of getting a module submitted. It touches on how to get feedback from the Perl community and the nitty-gritty details of the PAUSE upload process. Of course, being from 2002, it could use a quick refresh and a section on newer tools like <a href="http://dzil.org/">Dist::Zilla</a>.</p></li>
+<li><p>Last but not least, Chapter 7 -- "Great CPAN Modules" -- is a worthy read. Sections on <a href="search.cpan.org/perldoc?DBI">DBI</a>, <a href="search.cpan.org/perldoc?Storable">Storable</a>, and <a href="http://search.cpan.org/perldoc?LWP">LWP</a> are particularly noteworthy, while others like CGI.pm could be updated with newer examples, and -- generally -- there are a number of great CPAN modules that could be unpacked here for the reader's benefit, e.g.: modules that take advantage of <a href="http://search.cpan.org/perldoc?Moose">Moose</a>, and perhaps one of the event-loop modules. </p></li>
+</ul>
+
+<p>Obviously, that's just four chapters out of eleven that hit the mark. But, nonetheless, I would still recommend the book as a great resource just for those chapters alone. However, the rest of the book is not without value -- just a bit outdated for the era of "<a href="http://www.onyxneon.com/books/modern_perl/index.html">Modern</a>" and "<a href="http://www.effectiveperlprogramming.com/">Effective</a>" Perl. Specifically: </p>
+
+<ul>
+<li>I'm guessing that most folks would agree that h2xs is a bit outdated, and that people should probably just jump right into reading about <a href="http://search.cpan.org/perldoc?Module::Starter">module-starter</a> or Dist::Zilla instead. </li>
+<li>The chapter on module maintenance and  community could be updated to include mention of blogging, Twitter, and, most importantly, Github, as ways to build community, find contributors, and manage patches.</li>
+<li>The last three chapters are all devoted to various ways to write CPAN modules in C, either using XS or Inline::C, which didn't feel as contemporary or timeless as other chapters. (That said, I've never wanted to write a Perl module in C, so maybe it's just a topic that doesn't interest me.)</li>
+<li>Writing Web applications in Perl is relegated to the last chapter, but seems to be a pressing concern "with the kids" these days. It could easily be presented earlier and be updated to include sections on <a href="http://search.cpan.org/perldoc?Catalyst">Catalyst</a>, <a href="http://perldancer.org">Dancer</a>, <a href="http://mojolicio.us/">Mojolicious</a>, and <a href="http://plackperl.org/">Plack</a>. </li>
+</ul>
+
+<p>In summary, my sense is that Apress could fairly easily update this book for 2011, and that doing so would make a great resource for years to come. I must admit, I enjoyed Sam Tregar's clear, simple writing enough to almost forgive him for leaving the <a href="http://bricolagecms.org">Bricolage</a> project to work on <a href="http://krangcms.com">Krang</a> (inside joke). </p>
+
+<p>So, what's on your Perl back catalog reading list these days? </p>
+
+<p><i>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2011/03/ten-million-dollars-to-dotcloud-but-still-no-perl-support.html">blogs.perl.org</a>. Feel free to comment here, or on the original.</i></p>

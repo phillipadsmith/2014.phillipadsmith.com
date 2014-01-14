@@ -1,0 +1,82 @@
+---
+layout: default
+---
+        <article  itemscope itemtype="http://schema.org/BlogPosting">
+        <script>
+            var disqus_shortname  = 'phillipadsmith';
+            var disqus_title      = '{{ page.title }}'
+            var disqus_url        = '{{ site.url }}{{ page.url }}';
+            var disqus_identifier = '{{ page.id }}';
+            var img_opt = '{{ page.img_opt }}';
+            var img_sml = '{{ page.img_sml }}';
+            var img_med = '{{ page.img_med }}';
+            var img_lrg = '{{ page.img_lrg }}';
+            var img_xlg = '{{ page.img_xlg }}';
+        </script>
+        {% if page.img_opt == 'cover' %}
+        <div class="img_cover" style="background: url('{{ page.img_sml }}') no-repeat top center; background-size:cover;">
+        {% endif %}
+
+        <div class="container{% if page.img_opt == 'cover' %} cover{% elsif page.img_opt == 'inline' %} inline{% else %} noimage{% endif %}">
+{% include module_avatar_plus_bio_short.html %}
+            <div class="section">
+        {% if page.img_opt == 'inline' %}
+                    <span data-picture data-alt="{{ page.img_alt }}">
+                    <span class="responsive sm" data-src="{{ page.img_sml }}"></span>
+                    <span class="responsive med" data-src="{{ page.img_med }}"    data-media="(min-width: 400px)"></span>
+                    <span class="responsive lrg" data-src="{{ page.img_lrg }}"   data-media="(min-width: 580px)"></span>
+                    <!--[if (lt IE 9) & (!IEMobile)]>
+                    <span class="responsive med ie" data-src="{{ page.img_lrg }}"></span>
+                    <![endif]-->
+
+                    <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+                    <noscript>
+                        <img class="responsive noscript" src="{{ page.img_sml }}" alt="{{ page.img_alt }}">
+                    </noscript>
+                </span>
+        {% endif %}
+                <header>
+                    <hgroup>
+                        <h6>
+                        {% for category in page.categories %}
+                          {% if forloop.first %}
+                          <a href="/{{ category }}/">{{ category }}</a>
+                          {% endif %}
+                        {% endfor %}
+                        </h6>
+                        <h1>{{ page.title }}</h1>
+                        {% if page.dek %}
+                        <h2 class="dek">{{ page.dek }}</h2>
+                        {% endif %}
+                    </hgroup>
+                <p class="post-meta">{{ page.date | date_to_string }}<span class="pipe">&nbsp;|&nbsp;</span><a href="#disqus_thread" data-toggle="collapse" data-target="#comments">No comments yet</a>
+                </p>
+                <!-- only show this if there's a cover image -->
+                {% if page.img_opt == 'cover' %}
+                <p class="text-center scroll">
+                    (Scroll down for a {{ page.content | reading_time }}) 
+                </p>
+                {% endif %}
+                </header>
+            </div> <!-- /.section -->
+        </div> <!-- /.container -->
+
+        {% if page.img_opt == 'cover' %}
+        </div> <!-- /img_cover -->
+        {% endif %}
+
+        <div class="container">
+            <div class="section">
+            <div id="post-content">
+{{ content }}
+            </div>
+
+            <h4>About</h4>
+            <p class="extro">
+            Hi, I'm <a href="/about/">Phillip Smith</a>, a veteran <a href="/about/#consulting">digital publishing consultant</a>, <a href="/about/#advocacy">online advocacy specialist</a>, and <a href="/about#convening">strategic convener.</a>
+            If you enjoyed reading this, find me on <a href="https://twitter.com/phillipadsmith">Twitter</a> and I'll keep you updated.</p>
+
+{% include module_comments.html %}
+            </div> <!-- /.section -->
+        </div> <!-- /.container -->
+    </article>

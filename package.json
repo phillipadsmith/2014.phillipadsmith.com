@@ -1,0 +1,16 @@
+{
+    "name": "phillipadsmith-2014",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "~0.4.2",
+        "grunt-contrib-less": "~0.8.3",
+        "less": "~1.5.1",
+        "grunt-contrib-watch": "git://github.com/gruntjs/grunt-contrib-watch",
+        "grunt-jekyll": "~0.4.1",
+        "grunt-concurrent": "~0.4.2",
+        "grunt-contrib-copy": "~0.5.0",
+        "grunt-contrib-jshint": "~0.8.0",
+        "grunt-jsbeautifier": "~0.2.6",
+        "load-grunt-tasks": "~0.2.1"
+    }
+}

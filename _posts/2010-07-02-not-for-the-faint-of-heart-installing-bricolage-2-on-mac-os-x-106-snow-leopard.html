@@ -1,0 +1,91 @@
+---
+layout: post
+title: 'Not for the faint of heart: Installing Bricolage 2 on Mac OS X 10.6 "Snow
+  Leopard"'
+date: '2010-07-02 13:36:04 -0500'
+mt_id: 1977
+---
+<p><em>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2010/07/not-for-the-faint-of-heart-installing-bricolage-2-on-os-x-106-snow-leopard.html">Phillip Smith</a></em></p>
+
+<p>Okay, I admit it: <a href="http://bricolagecms.org/">Bricolage CMS</a> -- the open-source enterprise-class content management system -- takes a few hours to install. The upside? A well-deserved sense of accomplishment.</p>
+
+<p>Seriously, as someone who works with Bricolage regularly and likes to contribute to the project (when time permits), it's incredibly helpful to be able to have it running locally on my laptop from the latest <a href="http://github.com/bricoleurs/bricolage">Github source</a>. </p>
+
+<p>Unfortunately, the Bricolage installation documentation for OS X needs some serious love. There are at least three contradictory resources at the moment: David Wheeler's post "<a href="http://www.justatheory.com/computers/os/macosx/my_adventures.html">My Adventures with Mac OS X</a>" from 2002 (OS X 10.1), the <a href="http://github.com/bricoleurs/bricolage/blob/master/README.MacOSX">README.MacOSX</a> that Bricolage comes with, and the "<a href="http://wiki.github.com/bricoleurs/bricolage/installing-bricolage-on-mac-os-x">Installing Bricolage on Mac OS X wiki page on Github</a>, which only covers OS X 10.3. Thankfully, <a href="http://twitter.com/theory">Theory</a> (David Wheeler) is easy to find in the #bricolage channel on irc.perl.org and can be cajoled into providing helpful install hints. </p>
+
+<p>All that said, installing Bricolage 2.0 on the current version of OS X -- 10.6.4 "Snow Leopard" -- was actually quite straightforward. So, before diving into updating all of the install documentation, I wanted to capture the basic process here and get some feedback on next steps. If you want to help with feedback, just jump to the <strong>Questions</strong> section at the end of this post.</p>
+
+<p class="c1"><strong>Before you begin</strong>
+  <p class="c1">Quoting from a Bricolage wiki page:
+  <p class="c1"><strong>Xcode Tools (formerly Developer Tools)</strong>: As of OS X 10.3, all of the development libraries, compilers, etc. are included in Xcode Tools. In 10.2 and prior, they were included in the Developer Tools. In order to compile anything on OS X, you need to install Xcode Tools. These are available for free from the <a href="http://connect.apple.com/" class="c2">Apple Developer Connection</a> website. It is currently a 600+ MB download, so go make yourself something to eat while you wait.
+  <p class="c1">So you'll need to download Xcode, or install it from your Snow Leopard DVD.
+  <p class="c1"><strong>Installing the pre-requisites</strong>
+  <p class="c1">Bricolage is a big application and it requires a non-trivial list of prerequisites to be installed. Notably a bunch of Perl modules, <a href="http://expat.sourceforge.net/" class="c2">Expat</a>, and <a href="http://httpd.apache.org/apreq/" class="c2">libapreq</a>. And, given that Bricolage is a mod<em>perl application, you'll also require Apache, mod</em>perl, and also a database like Postgres or MySQL.
+  <p class="c1">Personally, I like to just run the latest version of just about everything, and my sense is that what many other folks will want to do also, so I elected to skip anything relating to Apache 1.3 or mod_perl 1.
+  <p class="c1">So, referring to the three documents mentioned above, I got underway with the prerequisites as follows:
+  <p class="c1"><strong>gdbm</strong>: I skipped installing gdbm on Theory's recommendation.
+  <p class="c1"><strong>Expat</strong>: Pretty straightforward. Download the latest source (expat-2.0.1 in my case), untar it and enter directory, run './configure' and then 'make', 'make test', and 'sudo make install'.
+  <p class="c1"><strong>Perl</strong>: This is a topic for a longer post, but quickly: OS X comes with Perl v5.10.0 these days, however many recommend installing a newer version in /usr/local/ for any serious Perl fun. Compiling your own Perl also helps to ensure that you don't mess up the system's Perl installation, and that future upgrades to the OS won't mess up your Perl.
+  <p class="c1">I already had Perl v5.12.1 built on my laptop, but -- if you need to do that -- the basic steps to build and install Perl with all of the defaults are: download the latest source, untar the source, enter the source directory and type 'sh Configure -de', then 'make', 'make test', and 'sudo make install'. It's very straightforward. After it's installed, be sure to add something like 'export PATH=/usr/local/bin:$PATH' to your .profile or similar to use the new Perl by default.
+  <p class="c1"><strong>Apache 2</strong>: I took the lazy route here and just <a href="https://svn.kineticode.com/cap/bin/apache2.sh" class="c2">used Theory's Apache 2 installation script</a>. He's got some fancy <a href="http://www.capify.org/index.php/Capistrano" class="c2">Capistrano</a> set-up that uses the above linked script to download, unpack, and compile Apache 2 in one step. If you want to do it manually, just follow the steps in that script.
+  <p class="c1">Remember that you'll now have two versions of Apache 2 installed on your system -- the one installed by OS X, and the one you've just installed -- thus you'll want to update your .profile or similar to use it be default with something like 'export PATH=/usr/local/apache2/bin:${PATH}'.
+  <p class="c1">A nice side-effect of using Apache 2 is that it there's no need to separately download and install mod_ssl, as it's already included. Same goes for OpenSSL, as it ships with OS X these days. So a few steps are saved there.
+  <p class="c1"><strong>libapreq</strong>: You'll also need this library installed and loaded in Apache 2. However, to build libapreq you'll need to first install <a href="http://kobesearch.cpan.org/htdocs/ExtUtils-XSBuilder/ExtUtils/XSBuilder.html" class="c2">ExtUtils::XSBuilder</a>. I did that quickly via CPAN. Similar to Apache 2 above, I took the easy route and used <a href="https://svn.kineticode.com/cap/bin/apreq2.sh" class="c2">Theory's fancy little install script to install libapreq for Apache 2</a>.
+  <p class="c1"><strong>mod_perl2</strong>: This was a bit tricky, as there were various sources of conflicting advise on the best way to configure mod_perl2 on OS X. In the end, I went with the following: download the latest source, untar and enter source directory, and 'perl Makefile.PL', 'make -j8', make test (some tests fail), sudo make install.
+  <p class="c1">After the successful install, make sure to follow the instructions presented and add the 'LoadModule perl_module modules/mod_perl.so' line to your Apache 2 httpd.conf file.
+  <p class="c1"><strong>Testing everything so far</strong>
+  <p class="c1">At this point, I wanted to ensure that everything was working smoothly before I proceeded. To do that, I started up Apache 2 with 'apachectl start' and confirmed that Apache 2 was running, and then ran 'apachectl -M' to list all of the loaded modules and looked to confirm that 'perl_module' was there.
+  <p class="c1">If you want to do one step further, you can also <a href="http://perl.apache.org/docs/2.0/user/intro/start_fast.html#Registry_Scripts" class="c2">follow the mod_perl documentation</a> to test that you can successfully serve a .pl file.
+  <p class="c1"><strong>Postgres or MySQL</strong>
+  <p class="c1">Installing PostgreSQL was dead simple. I just followed <a href="http://zanshin.net/2009/09/07/installing-postgresql-on-mac-10-6-snow-leopard/" class="c2">Mark H. Nichols' write up</a>, which included the manual steps to create a new user and group for Postgres now that Apple no longer ships the Netinfo Manager application.
+  <p class="c1">For MySQL, there are <a href="http://hivelogic.com/articles/compiling-mysql-on-snow-leopard" class="c2">lots of articles</a> on installing it from source, or you can use the handy <a href="http://dev.mysql.com/downloads/mysql/" class="c2">one-click binary installer</a>.
+  <p class="c1"><strong>Perl modules</strong>
+  <p class="c1">If you're using Perl regularly, you'll probably have a bunch of the Perl modules installed already. If not, I would recommend something like <a href="http://search.cpan.org/perldoc?Task::Kensho" class="c2">Task::Kensho</a> as a great way to install a set of "Enlightened Perl" modules that ease day-to-day development with Perl. Either way, here's a list of the modules that you'll want to install first:
+  <p class="c1">
+  <ul>
+    <li>XML::Parser 
+    <li>DBD::Pg 
+    <li>Test::File 
+    <li>Imager
+  </ul>
+  <p class="c1">And, also, most of the modules listed in <a href="http://search.cpan.org/dist/Bundle-Bricolage/lib/Bundle/Bricolage.pm" class="c2">Bundle::Bricolage</a>. I used the bundle, even though it's a bit outdated and I didn't need mod_perl1 obviously, as I was already using mod_perl2. I had also installed libprereq in the steps above, so didn't need to install Apache::Request. You can decide which way you want to go.
+  <p class="c1">In any case, using CPAN or the new <a href="http://search.cpan.org/perldoc?App::cpanminus" class="c2">cpanm</a> to install the required modules, or the bundle, should get you 90% of the way to having Bricolage installed and running on your Mac or <a href="http://www.hackintosh.com/" class="c2">Hackintosh</a>.
+  <p class="c1"><strong>Installing Bricolage</strong>
+  <p class="c1">Now you have two ways to go here. You can either <a href="http://bricolagecms.org/downloads/" class="c2">download a distribution</a> or get the <a href="http://github.com/bricoleurs/bricolage" class="c2">latest source via Github</a>. If you're going to do any development on Bricolage itself (patches greatly welcome!), you'll want to go the Github route. If you just want to get it running and/or don't have Git installed, you can skip some of these steps by downloading a distribution. Here's how I did it:
+  <p class="c1">Cloned the public git repository with 'git clone git://github.com/bricoleurs/bricolage.git' and entered the 'bricolage' directory and ran 'perl Makefile.PL'.
+  <p class="c1">If you're using the git source, you'll need to run 'make dist' to create a distribution from the source and enter the distribution directory that was created. From there, things are the same regardless of how you got the source.
+  <p class="c1">Run 'make', 'sudo make test &amp; make install' and answer the questions that the installer asks. If you followed the steps above, most of the questions should have sensible / usable defaults suggested and you can just accept them. I answered 'no' for SSL, as I wasn't planning to use it.
+  <p class="c1">If successful, you should see the following:
+  <blockquote class="c3">
+    <p class="c1">Bricolage Installation Complete
+    <p class="c1">You may now start your Bricolage server with the command (as root):
+    <p class="c1">/usr/local/bricolage/bin/bric_apachectl start
+    <p class="c1">If this command fails, look in your error log for more information:
+    <p class="c1">/usr/local/bricolage/log/error_log
+    <p class="c1">Once your server is started, open a web browser and enter the URL for your server:
+    <p class="c1">http://your-local-host-name:8080
+    <p class="c1">Login in as "admin" with the default password "change me now!". Your first action should be changing this password. Click "Logged in as Bricolage Administrator" in the top right corner of the browser window and change the password.
+    <p class="c1">Pointers for documentation and lots of getting started advice are in the main README file in the unpacked distribution directory.
+  </blockquote>
+  <p class="c1">Open a browser, navigate to the URL provided and you should see the Bricolage log-in screen.
+  <p class="c1"><s>If you want to do some Bricolage hacking, you'll also want to run 'make dev' with the proper options from your source directory to link up the /usr/local/bricolage files to your git-managed files. (More on that shortly.)</s> Ignore this for now. I'll do a separate post about it. <strong>Update</strong>: <a href="http://blogs.perl.org/users/phillip_smith/2010/07/bricolage-cms-hacking-made-easy.html">Here's the post</a>.
+  <p class="c1"><strong>Questions</strong>
+  <p class="c1">So, after all that, I must task myself with cleaning up the installation documentation. However, before I do, my questions are:
+  <ol class="c5">
+    <li class="c4">
+      <p class="c1">I think most of this should simply be in <a href="http://github.com/bricoleurs/bricolage/blob/master/README.MacOSX" class="c2">README.MacOSX</a> file and not in a separate Wiki page, or elsewhere. Sensible?
+    <li class="c4">
+      <p class="c1">Should information still be provided on how to install Bricolage using the OS X-supplied version of Apache 2? Given the curious way that OS X lays out the various configuration files and how easy it is to install a /usr/local/ version, I don't see many advantages of supporting this approach -- do you?
+    <li class="c4">
+      <p class="c1">Now that Bricolage supports Apache2 and mod<em>perl2, should the instructions still provide information on installing Apache 1.3 and mod</em>perl1? In the past, the Bricolage team has made a Herculean effort at providing information on almost any supported configuration, but I wonder if it would make sense to provide more detailed and regularly updated information on a "recommended configuration" vs. every possible configuration. Thoughts? My own thinking is -- given how painless it was to install with the more recent releases of Apache and mod_perl -- that the README.MacOSX should present the path of least resistance, and we can have supplemental pages in the wiki for other configurations.
+    </ol>
+  <p class="c1">Pending answers to the above, the next steps are to:
+  <ul class="c6">
+    <li class="c4">Update the <a href="http://github.com/bricoleurs/bricolage/blob/master/README.MacOS" class="c2">README.MacOSX</a> to provide the most pain-free path possible
+    <li class="c4">Replace the "<a href="http://wiki.github.com/bricoleurs/bricolage/installing-bricolage-on-mac-os-x" class="c2">Installing Bricolage on Mac OS X</a>" wiki page with a pointer to the above README
+    <li class="c4">Move alternate installation methods to a separate wiki page that can be appended as folks work through those configurations
+  </ul>
+  <p class="c1">If you've read this far, you must have something to say! So drop a note in the comments below or <a href="http://twitter.com/phillipadsmith" class="c2">follow me on Twitter here</a>.
+
+
+<p><em>Feel free to comment here or on the <a href="http://blogs.perl.org/users/phillip_smith/2010/07/not-for-the-faint-of-heart-installing-bricolage-2-on-os-x-106-snow-leopard.html">original post</a></em></p>

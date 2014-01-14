@@ -1,0 +1,25 @@
+- name: consulting
+  heading: 'The Tao of Consulting'
+  dek:      '(And the pursuit of consulting flawlessly.)'
+  desc:     "At the end of the day, <a href='/about/#consulting' title='Looking for a digital publishing consultant? Look no further!'>I'm a consultant</a>. I’ve been consulting in one form or another <a href='http://ca.linkedin.com/in/phillipadsmith/' title='My irregularly-updated profile on LinkedIn'>for almost two decades</a>. I love helping people solve difficult challenges. I started out as a new media producer. Then I followed my heart and my politics and became an online advocacy specialist. Later, I realized that change is difficult without an independent media, so I started working with publishers. Now, I focus on \"news innovation\": the technology & ideas that are shaping how users interact with journalism online." 
+  links: 'Here are some things I learned along the way:'
+- name: convening 
+  heading:  'The Art of Hosting'
+  dek:      '(How to be a *real* "Kickstarter")'
+  desc:     'To stay inspired, I like to hang out with really smart, creative, and passionate people, so I help to create spaces that bring them together, like <a href="http://awesometo.wordpress.com/">The Awesome Foundation Toronto</a>, <a href="http://meetupto.hackshackers.com/">Hacks/Hackers Toronto</a>, and &mdash; most recently &mdash; <a href="http://beautifultrouble.org/">Beautiful Trouble</a>.'
+  links: "I try to keep track of what I'm thinking here:"
+- name: coding
+  heading: 'Musings on code & programming.'
+  dek:      '(And personal projects never finished.)'
+  desc:     "In my spare time, I'm a geek. I'm usually tinkering with Perl and JavaScript. That said, this site is built with Jekyll (Ruby) and I produce & lead workshops on \"data journalism\" that make use of a fair bit of Python. I like languages, preferably spoken. You can find my tinkerings on <a href='http://github.com/phillipadsmith' title='Phillip Smith (@phillipadsmith) on Github'>Github</a>."
+  links: "I write a lot of notes to myself, listed here:"
+- name: covering
+  heading: 'Covering new ground'
+  dek:      '(Exploring consciousness, the world, and how to do less.)'
+  desc:     "I'm intensely curious about the stuff that has a direct impact on my life, from local politics to healthy food, from open data to daily exercise and meditation. I hate traveling, but I love actually *living* in other cultures. I'm a die-hard \"slacker,\" but everyone thinks I'm a work-a-holic. My daily mantra is: <i>surrender</i>."
+  links: "Capturing the journey, through mind and space:"
+- name: commentary
+  heading:  'Commentary'
+  dek:      '(Sometimes requested, mostly not.)'
+  desc:     "I'm obsessed with the intersection of journalism & technology. It's what I dream about most nights, and what haunts me on vacations. Occasionally, I write things down about this obsession, and &mdash; even more occasionally &mdash; some nice people publish those ideas online. I've written for publications like <a href='http://www.pbs.org/idealab'>PBS MediaShift's Idea Lab</a>, <a href='http://thetyee.ca/Bios/Phillip_Smith/'>The Tyee</a>, and <a href='http://newint.org/contributors/phillip-smith/'>New Internationalist</a>, and professional associations like Magazines Canada and the Alberta Magazine Publishers Association. I try to keep track of published work on <a href='http://muckrack.com/phillipadsmith'>MuckRack</a>."
+  links: "Columns, guest posts, and diatribes, all considered equal:"

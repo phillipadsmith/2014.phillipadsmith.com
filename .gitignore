@@ -1,0 +1,7 @@
+.jekyll
+node_modules
+_site
+Gemfile.lock
+_x*
+.DS_Store
+IDEAS.md

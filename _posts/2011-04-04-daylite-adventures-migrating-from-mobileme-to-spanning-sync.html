@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'Daylite adventures: Migrating from MobileMe to Spanning Sync '
+date: '2011-04-04 08:02:28 -0500'
+mt_id: 2620
+---
+<p>30-second summary:</p>
+
+<ul>
+<li>Apple is <a href="http://support.apple.com/kb/HT4037">forcing an upgrade to their new MobileMe calendar on May 5, 2011</a></li>
+<li>The new MobileMe calendars are not CalDav compatible and break calendar synchronization for some third-party applications like Daylite CRM</li>
+<li>I use <a href="http://www.marketcircle.com/daylite/">Daylite</a>&nbsp;with MobileMe calendar syncing &amp; needed a solution before May 5th</li>
+<li>After some investigation &amp; experimentation, I implemented to <a href="http://spanningsync.com/?r=NRPAU7">Spanning Sync 3</a> (referral link) to replace MobileMe</li>
+<li>Now, thanks to Spanning Sync, I can continue to use Daylite and also enjoy <a class="zem_slink rdfa" href="http://google.com/calendar" title="Google Calendar" rel="ctag:means homepage nofollow" xmlns:ctag="http://commontag.org/ns#" typeof="ctag:Tag" resource="http://rdf.freebase.com/ns/en/google_calendar" property="ctag:label">Google calendar</a> and contacts syncing (that syncs to both my Android phone and iPad)</li>
+</ul>
+
+<p>If you want the nitty-gritty, read on...</p>
+
+<p>Back in February, I got an e-mail from Apple's MobileMe department informing me that I would need to upgrade to the new MobileMe calendar by May 5th. The new calendar promised "calendar sharing with friends and family," a "beautiful new Web application," and "event invitations with 1-click RSVP" -- what could be better, right? </p>
+
+<p>Sadly, MobileMe's new calendar is a bust, and has left many people like me looking for other solutions to keep our various calendars in sync. Specifically, I used MobileMe as a hub for calendar data, various applications would create calendar events and MobileMe would keep those events in sync across my Macs, iOS devices, and also provided a Web-based calendar. The new calendar breaks this functionality for third-party applications -- coming from Apple, this is no big surprise. </p>
+
+<p>Since 2005, I've been using Daylite to keep my life organized. You know: appointments, contact information, projects and to-do lists, and so on. Back then, it was pretty much the only game in town for Outlook-like functionality on a Mac, i.e., something that integrated with my e-mail-centric workflow. </p>
+
+<p>I've paid for Daylite maybe two or three times over the years -- the initial purchase, the <a href="http://www.marketcircle.com/daylite/mail.html">mail integration plug-in</a>, and maybe one upgrade -- so, overall, I'm pretty happy with the cost-benefit analysis. However, the company that makes Daylite (Marketcirle) is moving toward a software rental business model -- a model that I'm not super-fond of -- and that means it's probably time to think about moving on. </p>
+
+<p>Alas, I've not had the time to find a replacement yet, so the looming date of May 5th to migrate from MobileMe was starting to feel ominous.</p>
+
+<p>There was a <a href="http://forums.marketcircle.com/eve/forums/a/tpc/f/6441090623/m/2990075616/p/1">feisty thread over on the Marketcircle forums</a> about the issue. Long story short, the choices appeared to be: migrate to a Daylite-only solution for syncing (requiring a hefty investment in software licenses and ongoing annual fees), or implement a third-party sync solution like BusyMac or Spanning Sync. </p>
+
+<p>I had some free time this weekend and decided not to delay the inevitable. Conclusion: after a decent amount of reading and experimenting, I migrated to <a href="http://spanningsync.com/?r=NRPAU7">Spanning Sync 3</a>&nbsp;(referral link).</p>
+
+<p>So, basically, my system works like so:</p><p></p><ul><li>I'm still using Daylite on my main laptop (where I create most appointments and contacts)
+* Daylite synchronizes to my local iCal and Address Book</li><li>Spanning Sync now synchronizes appointments and contacts to Google</li><li>My <a href="http://www.phillipadsmith.com/2011/01/because-android-is-where-the-innovation-is.html">Google Nexus One (Android) phone</a> syncs with Google calendar and contacts</li><li>My iPad also syncs with Google calendar and contacts using the <a href="http://www.google.com/support/mobile/bin/answer.py?hl=en&amp;answer=138740">Exchange sync option</a>&nbsp;</li><li>Spanning sync also runs on my Dell Mini 10v "Hackintosh" to keep iCal and Address Book synced over there too</li></ul><p></p>
+
+<p>So, after a couple hours of mucking about, I've now got the same functionality that I had before, <em>plus</em> I can see and edit my appointments &amp; contacts on my Android phone and share calendars with other people -- both are big bonuses. More than that, now that I'm migrated to Google calendar and contacts, I feel like I'm one step less dependent on Daylite. </p>
+
+<p>Maybe one of these days I'll be able to migrate completely. (If you have suggestions, please let me know. Extra points if it runs on Linux too.)</p><p>UPDATE: I haven't tried it, but the folks at Eltima e-mailed me after I wrote this post about their <a href="http://mac.eltima.com/sync-mac.html">SyncMate software</a>. Looks interesting if you have a whole whack of devices to sync, and want to sync more than just calendars and contacts.&nbsp;</p>
+
+<div class="zemanta-pixie" style="margin-top:10px;height:15px"><a class="zemanta-pixie-a" href="http://www.zemanta.com/" title="Enhanced by Zemanta"><img class="zemanta-pixie-img" src="http://img.zemanta.com/zemified_e.png?x-id=7345b5da-e918-4088-909b-4e6877eb0f31" alt="Enhanced by Zemanta" style="border:none;float:right" /></a></div>

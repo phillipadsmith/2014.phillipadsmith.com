@@ -1,0 +1,13 @@
+    <span data-picture data-alt="A giant stone face at The Bayon temple in Angkor Thom, Cambodia">
+        <span class="responsive sm" data-src="{{ include.img_sml }}"></span>
+        <span class="responsive med" data-src="{{ include.img_med }}"    data-media="(min-width: 400px)"></span>
+        <span class="responsive lrg" data-src="{{ include.img_lrg }}"   data-media="(min-width: 580px)"></span>
+        <!--[if (lt IE 9) & (!IEMobile)]>
+        <span class="responsive med ie" data-src="{{ include.img_lrg }}"></span>
+        <![endif]-->
+
+        <!-- Fallback content for non-JS browsers. Same img src as the initial, unqualified source element. -->
+        <noscript>
+            <img class="responsive noscript" src="{{ include.img_sml }}" alt="A giant stone face at The Bayon temple in Angkor Thom, Cambodia">
+        </noscript>
+    </span>

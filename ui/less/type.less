@@ -1,0 +1,257 @@
+/* Only typography styles */
+
+body {
+    font-family: Georgia;
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(56, 45, 38, 1);
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    font-size: 24px;
+    line-height: 38px;
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-style: italic;
+}
+
+h1 {
+  font-size: 34px;
+  line-height: 38px;
+  margin: 0px 0 0px 0;
+  font-family: "Open Sans";
+  font-weight: 800;
+  font-style: normal;
+  color: #000000;
+  position: relative;
+  z-index: 1;
+}
+
+h2.dek {
+  font-size: 22px;
+  line-height: 24px;
+  font-family: "Open Sans";
+  font-weight: 300;
+  font-style: normal;
+  margin: 0px 0px 0px 0px;
+}
+
+h2 {
+    font-size: 26px;
+    line-height: 33px;
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-style: normal;
+    text-transform: none;
+}
+h3 {
+    font-size: 26px;
+    line-height: 33px;
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-style: normal;
+    text-transform: none;
+    margin: 0px 0px 25px 0px;
+}
+
+h4 {
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Open Sans";
+    text-transform: uppercase;
+}
+
+h5 {
+    margin-bottom: 25px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Open Sans";
+}
+
+h6 {
+    font-weight: 300;
+    font-style: normal;
+    font-family: "Open Sans";
+    text-transform: uppercase;
+    font-size: 12px;
+    margin: 0px;
+    position: relative;
+    z-index:2;
+}
+
+p.intro, p.lead {
+    font-size: 20px;
+    font-family: "Georgia";
+    font-weight: 400;
+    font-style: normal;
+    line-height: 28px;
+}
+
+p.post-meta {
+    font-weight: 300;
+    font-style: normal;
+    font-family: "Open Sans";
+    text-transform: uppercase;
+    font-size: 11px;
+    margin: 0px;
+}
+
+p.scroll {
+    font-weight: 300;
+    font-style: normal;
+    font-family: "Open Sans";
+    text-transform: uppercase;
+    font-size: 10px;
+    margin: 0px;
+    i {
+        top: -14px;
+    }
+}
+/* Links */
+
+.module p, article, .section, footer p {
+    a:link, a:hover, a:visited {
+        text-decoration: none;
+        color: inherit;
+        text-decoration: none;
+        border-bottom: 1px dotted @headingLighter;
+    }
+
+    a:hover {
+        color: @headingLight;
+        background: @headingDark;
+        transition: all 400ms linear;
+        -moz-transition: all 400ms linear;
+        -webkit-transition: all 400ms linear;
+        -o-transition: all 400ms linear;
+    }
+}
+
+#post-content p {
+    a:link, a:hover, a:visited {
+        border-bottom: 1px dotted darken(@headingLighter, 20%);
+    }
+}
+
+/* Modules */
+
+    /* module nav */
+
+.nav {
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: "Open Sans";
+    text-transform: uppercase;
+}
+
+.nav a {
+    color: @headingDark;
+}
+
+    /* module avatar */
+.avatar-plus-bio-short {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-style: normal;
+    .bio a {
+        
+    }
+}
+
+   /* module img_cover */
+
+.img_cover h1, .img_cover h2.dek, .img_cover header {
+    color: white;
+    text-shadow: 1px 1px 1px @headingDarkest;
+}
+
+  /* Module: copyright/copyleft */
+
+footer p.copyright { 
+    font-weight: 300;
+    font-style: normal;
+    font-family: "Open Sans";
+    font-size: 13px;
+}
+
+///////////////////////////////////////////////////////////////
+// Progressively enhance for larger screens
+///////////////////////////////////////////////////////////////
+@media screen and (min-width: 768px) { /* Adjust for large desktop */
+    body {
+        font-size: 18px;
+        line-height: 28px;
+    }
+     h1 {
+      font-size: 42px;
+      line-height: 48px;
+      margin-bottom: 4px;
+    }
+    h2.dek {
+      font-size: 24px;
+      line-height: 28px;
+    }
+    p.post-meta {
+      font-size: 12px;
+    }
+
+    p.scroll {
+      font-size: 11px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) { /* Adjust for standard desktop */
+    body {
+        font-size: 18px;
+        line-height: 28px;
+    }
+     h1 {
+      font-size: 42px;
+      line-height: 48px;
+      margin-bottom: 4px;
+    }
+    h2.dek {
+      font-size: 24px;
+      line-height: 28px;
+    }
+    p.post-meta {
+      font-size: 12px;
+    }
+
+    p.scroll {
+      font-size: 11px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width: 992px) { /* portrait tablets */ 
+    body {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    h1 {
+      font-size: 42px;
+      line-height: 48px;
+      margin-bottom: 4px;
+    }
+    h2.dek {
+      font-size: 24px;
+      line-height: 28px;
+    }
+    p.post-meta {
+      font-size: 12px;
+    }
+
+    p.scroll {
+      font-size: 11px;
+    }
+}

@@ -1,0 +1,23 @@
+/* However, there is a distinction between layouts dictating the major and minor components of a page. The minor components—such as a callout, or login form, or a navigation item—sit within the scope of major components such as a header or footer. I refer to the minor components as Modules and will dive into those in the next section. The major components are referred to as Layout styles.
+*/
+article {
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.post-content {
+  margin: 30px 0 40px 0;
+}
+.post-image-wrap {
+  padding-top: 380px;
+  height: 900px;
+}
+@media screen and (min-width: 768px) {
+  /* Adjust for large desktop */
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  /* Adjust for standard desktop */
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  /* portrait tablets */
+}

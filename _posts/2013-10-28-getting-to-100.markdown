@@ -1,0 +1,28 @@
+---
+layout: post
+title: Getting to 1.0.0
+date: '2013-10-28 13:29:37 -0600'
+categories:
+- consulting
+tag: frontpage
+mt_id: 2950
+---
+<p class="lead">There is something immensely satisfying about getting to version 1.0.0 on a project (in less-technical terms, meaning the public launch of a project when it's ready to exist in the world).</p>
+
+<img src="http://thetyee.cachefly.net/Mediacheck/2013/10/27/TyeeNationalVideo_600px.jpg" alt="The Tyee goes national" />
+
+Today is one of those days, [with the announcement of The Tyee's campaign to go national with its award-winning reporting](http://thetyee.ca/Mediacheck/2013/10/28/Tyee-National-Launch/). 
+
+It's a bold campaign to raise $100,000 in 20 days that will be invested directly into hard-hitting, fact-based, independent reporting by [some of Canada's best reporters](http://support.thetyee.ca#people). I hope you'll help out, because Canada really needs some help right now.
+
+I've been working with independent and progressive media organizations for more than a decade-and-a-half: more than sixty  different publishers, I would guess. But through it all I have been drawn to work with the individuals at [The Tyee](http://thetyee.ca) again and again. For ten years now, The Tyee has demonstrated to me how passion can motivate a newsroom more than money ever could compel on its own.
+
+Anyway, back to 1.0.0 ...
+
+[This project](http://support.thetyee.ca) marks an upgrade to The Tyee's ability to accept and manage one-time and recurring payments. The first major campaign to raise funds to support The Tyee's reporting was launched almost two years ago with a fair bit of bubble gum and shoestring to make it all work. Needless to say, as the number of "Tyee Builders" (contributors) increased, managing the "[dunning process](http://ps.ht/1ipmRLG)" became more challenging. So, starting in April, I set out, along with The Tyee's tireless team (Geoff, Julie, and Ashley, as well as Alex), to overhaul that original infrastructure with something that will take The Tyee forward for the next couple of years at least, and will enable the number of contributors to grow exponentially without significantly more management. 
+
+After a fair bit of vendor research (and waffling!), the decision was made to build the new "Tyee Builder" platform on top of the [Recurly](http://recurly.com/) payment processing platform, while retaining the existing gateway provider in Canada, [Beanstream](http://beanstream.org). With roughly 500 supporters already migrated, and [new ones joining every day](http://support.thetyee.ca), I have high hopes for the important role of ongoing financial contributions to The Tyee's paywall-free future of award-winning reporting.
+
+This launch also marks the fourth deployment of our new micro-app architecture, which enables us to more rapidly prototype, develop, and iteratively improve the functionality on The Tyee. Underlying projects like this one, and the recent [BC provincial election site](http://election.thetyee.ca), is a community of open-source software that we owe huge debt to: [Mojolicous::Lite](http://mojolicio.us/), the real-time micro web framework;  [DBIx::Class](http://www.dbix-class.org/), an extensible and flexible Object/Relational Mapper; [PosgreSQL](http://www.postgresql.org/), the "world's most admanced open source database"; and [Sqitch](http://sqitch.org/), for sane database change management.
+
+Onward to 2.0.0! (After a little break to recuperate...)

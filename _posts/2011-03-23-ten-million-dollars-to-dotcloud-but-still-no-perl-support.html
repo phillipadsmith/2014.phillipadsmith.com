@@ -1,0 +1,35 @@
+---
+layout: post
+title: Ten million dollars to DotCloud, but still no Perl support
+date: '2011-03-23 11:55:33 -0600'
+mt_id: 2614
+---
+<p><i>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2011/03/ten-million-dollars-to-dotcloud-but-still-no-perl-support.html">blogs.perl.org</a></i></p>
+
+<p>Let's face it: The promise of "PaaS" (<a href="http://en.wikipedia.org/wiki/Platform_as_a_service">Platform as a Service</a>) -- easily deploying your application to a whole stack living up there in the cloud -- is pretty cool shit. Back in January (ages ago in Internet time), I kicked the tires of <a href="http://www.dotcloud.com/">DotCloud</a> and, after a whole three minutes, announced to the world "<a href="https://twitter.com/#!/phillipadsmith/status/32577897180954625">this is just too easy</a>." No wonder they <a href="http://gigaom.com/cloud/dotcloud-gets-10m-to-redefine-cloud-openness/">just raised a cool ten million</a>.</p>
+
+<p>Yet, still, there is <em>not one</em> PaaS solution for Perl today. </p>
+
+<p></p><ul><li><a href="http://aws.amazon.com/elasticbeanstalk/">Amazon Elastic Beanstock</a>? Nope. Just Java.&nbsp;</li><li><a href="">Google App Engine</a>? Nope. Just Java or Python.&nbsp;</li><li>Red Hat's <a href="http://www.makara.com/tour/">Makara</a>? Nope, no Perl.&nbsp;</li><li><a href="http://www.dotcloud.com/">DotCloud</a>? Everything&nbsp;but Perl.</li></ul><p></p>
+
+<p>So, what gives? </p>
+
+<p>Well, when I asked the DotCloud folks back in January, they indicated that Perl support <em>is</em> on their road map, but that they didn't have a sense of what the most common use cases for deployment are in the Perl community, for example CGI, FastCGI, etc. </p>
+
+<p>When I pointed the helpful gent who responded to my inquiry toward <a href="http://plackperl.org/">Plack</a> (Perl's answer to Ruby's Rack, or Python's WSGI), he seemed to think that it could facilitate "a swift integration into our web stacks." Phew! One issue down. </p>
+
+<p>The next question was about "worker scripts." Specifically, how the DotCloud system could take a "dependency file" (like a Gemfile for Ruby, or pip-style requirements.txt for Python) and "some code" (an installation script) that could be run to automatically install module dependencies and start-up a daemon or service. I must admit some confusion about this question -- I kept asking myself, is this not what a Makefile and things like <a href="search.cpan.org/perldoc?Module::ScanDeps">Module::ScanDeps</a> are for? Isn't this exactly what projects like <a href="http://search.cpan.org/perldoc?cpanm">cpanm</a> are meant to do, i.e., ease the installation of Perl modules? This must be a solvable (if not solved) problem.</p>
+
+<p>My guess is that I'm not not understanding the requirement clearly, and I'm hoping that the wisdom of the Perl community can weigh in with some suggestions and recommendations for me, our friends at dotCloud, and, well, anyone else that might be thinking about Perl in the cloud.</p>
+
+<p>Needless to say, as PaaS start-ups get bought up faster than umbrellas on a rainy day in downtown Manhattan, my attention keeps turning back toward projects like <a href="http://www.slideshare.net/osfameron/oyster">Oyster</a>, the North West England Perl Mongers initiative to create a Heroku specifically for Perl Web apps. Not only is a project like Oyster attractive for the practical benefits to (the rather large number of) Perl developers, but also as something that has&nbsp;potentially to not get&nbsp;instantly bought-up by <a href="http://www.zdnet.com/blog/btl/salesforce-buy-heroku-for-212-million-eyes-ruby-developers/42495">Salesforce</a>, <a href="http://www.serverwatch.com/news/article.php/3915006/Red-Hat-Acquires-Makara-in-Cloud-Dev-Tools-Play.htm">Redhat</a>, or <a href="https://www.cloudkick.com/blog/2010/dec/16/acquisition/">Rackspace</a>.</p>
+
+<p>In fact, given how hot PaaS is, I can't help but wonder why some enterprising Perler hasn't gotten an offering off the ground yet? Or, perhaps more in the Perl spirit, why some group or individual hasn't offered to run it pseudo-voluntarily for the Perl community, like <a href="http://www.cpan.org/">CPAN</a>, <a href="http://pause.perl.org/pause/query?ACTION=pause_04about">PAUSE</a>, or the <a href="http://use.perl.org/~Ranguard/journal/">Perl.org</a> site itself. (<i>Better idea: run it as a paid service and contribute the surplus to the The Perl Foundation, or <a href="http://www.enlightenedperl.org/">Enlightened Perl Organizatio</a></i><a href="http://www.enlightenedperl.org/">n.</a>)</p>
+
+<p>Here's to hoping that $10,000,000.00 can push Perl into DotCloud's PaaS cloud offering, or that some whip-smart folks here in the Perl community can finally 'git push' Perl into the clouds. (And, while we're pushing, let's push for a Perl port of the excellent, open-source, <a href="http://incubator.apache.org/libcloud/index.html">libcloud</a> project.)</p>
+
+<p>UPDATE: A <a href="http://blogs.perl.org/users/phillip_smith/2011/03/ten-million-dollars-to-dotcloud-but-still-no-perl-support.html#comment-20444">comment</a> points out that <a href="http://www.phenona.com/">Phenona</a> might be attacking this challenge. Will look forward to hearing from folks who've tried it.</p>
+
+<p>UPDATE 2:&nbsp;Jérôme from DotCloud says "<a href="http://blogs.perl.org/users/phillip_smith/2011/03/ten-million-dollars-to-dotcloud-but-still-no-perl-support.html#comment-20459">It's still pretty hard to give out a straight ETA, but Perl will be soon on DotCloud, you can rely on it.</a>"</p>
+
+<p><i>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2011/03/ten-million-dollars-to-dotcloud-but-still-no-perl-support.html">blogs.perl.org</a>. Feel free to comment here, or on the original.</i></p>

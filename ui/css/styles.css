@@ -1,0 +1,452 @@
+@import "bigfoot.css";
+/* ============================================
+/* styles.less
+/* - Globals & Mixins
+/* - Color palette
+/* - @imports
+/* - And maybe print styles...
+/* ============================================
+
+/* Globals & Mixins */
+/* Colour Palette */
+/* Only typography styles */
+body {
+  font-family: Georgia;
+  background-color: #ffffff;
+  color: #382d26;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+p {
+  margin-bottom: 20px;
+}
+blockquote p {
+  font-size: 24px;
+  line-height: 38px;
+  font-family: "Open Sans";
+  font-weight: 300;
+  font-style: italic;
+}
+h1 {
+  font-size: 34px;
+  line-height: 38px;
+  margin: 0px 0 0px 0;
+  font-family: "Open Sans";
+  font-weight: 800;
+  font-style: normal;
+  color: #000000;
+  position: relative;
+  z-index: 1;
+}
+h2.dek {
+  font-size: 22px;
+  line-height: 24px;
+  font-family: "Open Sans";
+  font-weight: 300;
+  font-style: normal;
+  margin: 0px 0px 0px 0px;
+}
+h2 {
+  font-size: 26px;
+  line-height: 33px;
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-style: normal;
+  text-transform: none;
+}
+h3 {
+  font-size: 26px;
+  line-height: 33px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-style: normal;
+  text-transform: none;
+  margin: 0px 0px 25px 0px;
+}
+h4 {
+  font-weight: 600;
+  font-style: normal;
+  font-family: "Open Sans";
+  text-transform: uppercase;
+}
+h5 {
+  margin-bottom: 25px;
+  font-style: normal;
+  font-weight: 800;
+  font-family: "Open Sans";
+}
+h6 {
+  font-weight: 300;
+  font-style: normal;
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 0px;
+  position: relative;
+  z-index: 2;
+}
+p.intro,
+p.lead {
+  font-size: 20px;
+  font-family: "Georgia";
+  font-weight: 400;
+  font-style: normal;
+  line-height: 28px;
+}
+p.post-meta {
+  font-weight: 300;
+  font-style: normal;
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  font-size: 11px;
+  margin: 0px;
+}
+p.scroll {
+  font-weight: 300;
+  font-style: normal;
+  font-family: "Open Sans";
+  text-transform: uppercase;
+  font-size: 10px;
+  margin: 0px;
+}
+p.scroll i {
+  top: -14px;
+}
+/* Links */
+.module p a:link,
+article a:link,
+.section a:link,
+footer p a:link,
+.module p a:hover,
+article a:hover,
+.section a:hover,
+footer p a:hover,
+.module p a:visited,
+article a:visited,
+.section a:visited,
+footer p a:visited {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted #e6e6e6;
+}
+.module p a:hover,
+article a:hover,
+.section a:hover,
+footer p a:hover {
+  color: #cccccc;
+  background: #474747;
+  transition: all 400ms linear;
+  -moz-transition: all 400ms linear;
+  -webkit-transition: all 400ms linear;
+  -o-transition: all 400ms linear;
+}
+#post-content p a:link,
+#post-content p a:hover,
+#post-content p a:visited {
+  border-bottom: 1px dotted #b3b3b3;
+}
+/* Modules */
+/* module nav */
+.nav {
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: "Open Sans";
+  text-transform: uppercase;
+}
+.nav a {
+  color: #474747;
+}
+/* module avatar */
+.avatar-plus-bio-short {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: "Open Sans";
+  font-weight: 300;
+  font-style: normal;
+}
+/* module img_cover */
+.img_cover h1,
+.img_cover h2.dek,
+.img_cover header {
+  color: white;
+  text-shadow: 1px 1px 1px #141414;
+}
+/* Module: copyright/copyleft */
+footer p.copyright {
+  font-weight: 300;
+  font-style: normal;
+  font-family: "Open Sans";
+  font-size: 13px;
+}
+@media screen and (min-width: 768px) {
+  /* Adjust for large desktop */
+  body {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  h1 {
+    font-size: 42px;
+    line-height: 48px;
+    margin-bottom: 4px;
+  }
+  h2.dek {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  p.post-meta {
+    font-size: 12px;
+  }
+  p.scroll {
+    font-size: 11px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  /* Adjust for standard desktop */
+  body {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  h1 {
+    font-size: 42px;
+    line-height: 48px;
+    margin-bottom: 4px;
+  }
+  h2.dek {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  p.post-meta {
+    font-size: 12px;
+  }
+  p.scroll {
+    font-size: 11px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  /* portrait tablets */
+  body {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  h1 {
+    font-size: 42px;
+    line-height: 48px;
+    margin-bottom: 4px;
+  }
+  h2.dek {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  p.post-meta {
+    font-size: 12px;
+  }
+  p.scroll {
+    font-size: 11px;
+  }
+}
+.section,
+footer,
+header.avatar-plus-bio-short {
+  max-width: 700px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+article img {
+  max-width: 100%;
+}
+article .responsive img,
+p.responsive img {
+  width: 100%;
+}
+footer {
+  margin-bottom: 100px;
+}
+#post-content {
+  margin: 30px 0 40px 0;
+}
+.post-image-wrap {
+  padding-top: 380px;
+  height: 900px;
+}
+body.page .avatar-plus-bio-short,
+body.category .avatar-plus-bio-short,
+div.noimage .avatar-plus-bio-short {
+  margin-bottom: 40px;
+}
+body.page hgroup,
+body.category hgroup,
+div.noimage hgroup {
+  margin-bottom: 20px;
+}
+@media screen and (min-width: 768px) {
+  /* Adjust for large desktop */
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  /* Adjust for standard desktop */
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  /* portrait tablets */
+}
+/* Module: front page */
+body.frontpage h1 a:link,
+body.frontpage h1 a:visited,
+body.frontpage h1 a:hover {
+  text-decoration: none;
+  border: none;
+}
+body.frontpage h1 a:hover {
+  transition: none;
+  -moz-transition: none;
+  -webkit-transition: none;
+  -o-transition: none;
+  background: none;
+}
+/* Module: Avatar, plus short bio */
+.avatar-plus-bio-short {
+  text-align: center;
+  padding: 10px 0 0 0;
+  margin: 0 0 80px 0;
+}
+.avatar-plus-bio-short .avatar img {
+  width: 50px;
+  height: 50px;
+  -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+}
+.avatar-plus-bio-short .avatar a {
+  text-decoration: none;
+  background: transparent;
+  border: none;
+}
+/* Module: Cover image (img_cover) */
+.img_cover {
+  position: relative;
+  min-height: 400px;
+}
+div.cover .section header {
+  position: absolute;
+  bottom: 0px;
+  max-width: 700px;
+  margin: 0 auto;
+  width: 95%;
+}
+div.cover .avatar-plus-bio-short .bio p {
+  text-shadow: 1px 1px 1px #141414;
+}
+div.cover .avatar-plus-bio-short .avatar img {
+  -moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+/* Module: Archive page headers */
+body.category header {
+  text-align: center;
+}
+body.category header h2 {
+  margin-bottom: 20px;
+}
+body.category .section header p {
+  text-align: left;
+}
+/* Module: Footer */
+footer p.copyright {
+  text-align: center;
+  padding: 0 10px 0 10px;
+}
+@media screen and (min-width: 768px) {
+  /* Adjust for large desktop */
+  .avatar-plus-bio-short {
+    padding: 60px 0 0 0;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  /* Adjust for standard desktop */
+  .avatar-plus-bio-short {
+    padding: 40px 0 0 0;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  /* portrait tablets */
+  .avatar-plus-bio-short {
+    padding: 30px 0 0 0;
+  }
+}
+/* Another option 
+
+I. Table Of Contents
+II. CSS Variables
+1. Reset
+2. Headings
+3. Anchors
+4. Form Elements
+5. General Classes
+6. Template & Layout
+7. Print
+8. Handheld
+9. Aural
+10. CSS Diagnostics – http://www.nealgrosskopf.com/tech/thread.asp?pid=17
+
+*/
+@media print, (-o-min-device-pixel-ratio: 5/4), (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
+  /* Style adjustments for high resolution devices */
+}
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+@media print {
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    /* Black prints faster: h5bp.com/s */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+  /*
+     * Don't show links for images, or javascript/internal links
+     */
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: "";
+  }
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+  thead {
+    display: table-header-group;
+    /* h5bp.com/t */
+  }
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+  img {
+    max-width: 100% !important;
+  }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}

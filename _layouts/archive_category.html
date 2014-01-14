@@ -1,0 +1,25 @@
+---
+layout: archive 
+body:
+- category
+---
+{% include module_avatar_plus_bio_short.html %}
+<div class="container category-archive ">
+    <div class="section">
+{% for category in site.data.categories %}
+    {% if category.name == page.category %}
+    <header>
+        <hgroup>
+            <h1 class="title">{{ category.heading }}</h1>
+            <h2 class="dek">{{ category.dek }}</h2>
+        </hgroup>
+        <p>{{ category.desc }}</p>
+    </header>
+    <h5>{{ category.links }}</h5>
+    {% endif %}
+{% endfor %}
+    <ul>
+{{ content }}
+    </ul>
+    </div> <!-- /.section -->
+</div> <!-- /.container -->

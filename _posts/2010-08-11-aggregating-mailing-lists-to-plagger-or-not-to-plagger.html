@@ -1,0 +1,52 @@
+---
+layout: post
+title: 'Aggregating mailing lists: To Plagger or not to Plagger?'
+date: '2010-08-11 11:00:46 -0500'
+mt_id: 1981
+---
+<p><em>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2010/08/aggregating-mailing-lists-to-plagger-or-not-to-plagger.html">Phillip Smith</a></em></p>
+
+        <p><img alt="plagger_header.png" src="http://blogs.perl.org/users/phillip_smith/plagger_header.png" width="236" height="73" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" /></p>
+
+<p>Over the last few years, I've come to rely on tools that summarize information for me: Being on a mailing list in digest mode and receiving a summary of activity once or twice a day is a great example -- and it's also the specific challenge that I'm struggling with.</p>
+
+<p>As my information consumption habits change, I find that I also want to customize how that information is delivered, and when, more than simply changing to digest mode allows. And, frankly, even in digest mode, I receive too many individual e-mails. </p>
+
+<p>To resolve this, I end up setting my list subscriptions to "no mail" and fooling myself into thinking I'll peruse them on the Web from time-to-time. However, for those mailing lists, I'd actually <strong>would</strong> like to see what's happening regularly. So, last week I started brainstorming a tool that would send me a daily summary of all activity across a variety of different lists -- combining, say, all lists about security into one daily e-mail summary with links to the individual posts. </p>
+
+<p>So, here's the challenge: half the lists are <a href="http://www.list.org">Mailman</a> lists, the other half are <a href="http://www.groups.google.com">Google Groups</a>; half of them are public, the other half private.</p>
+
+<p>After I'd sketched out the initial requirements, I thought to myself "I probably don't need to start from scratch, I'm pretty sure that my old friend <a href="http://plagger.org">Plagger</a> -- the Perl-based "UNIX pipe programming for Web 2.0" -- can do most of this." Thus, I updated my Plagger source from Github and started digging...</p>
+
+<p>Turns out that Plagger can handle two requirements already: consuming a Mailman archive and outputting it in a variety of ways, and -- obviously -- consuming the XML feed that's provided for a public Google Group. In the Plagger world, that would be as simple as this: </p>
+
+<script src="http://gist.github.com/519063.js?file=gistfile1.txt"></script>
+
+<p>So, that part is surprisingly simple. The bigger challenge is dealing with private mailing lists, where:</p>
+
+<ul>
+<li>If it's a Google Group, I need to authenticate to Google first (though, I only need to authenticate once for all lists, thankfully);</li>
+<li>If it's Mailmain, I need to authenticate to each list with a different password.</li>
+</ul>
+
+<p>So -- drumroll please -- here's the actual question: <strong>Should I simple develop a couple of new plugins for Plagger to handle Google Groups and private Mailman lists? Or should I develop something smaller that is focused on my specific set of requirements?</strong> </p>
+
+<p>I think the question is really about the status of the Plagger project and community. I've developed a couple of plugins for Plagger already -- one that integrates <a href="http://bit.ly">bit.ly</a> and another that fixes problem in the existing Draft::MT plugin -- but there are a couple things that bother me about going down this road again. Specifically:</p>
+
+<ul>
+<li>It's difficult to get help for Plagger: the IRC channel is not really active, and the Plagger Google Group is full of spam. </li>
+<li>The Plagger documentation is woefully incomplete and -- in some cases -- just plain wrong.</li>
+<li>The existing Plagger Web site is terribly unhelpful, and more-often-than-not, contradictory (where do I get the latest Plagger source? From Subversion, or from Github?)</li>
+</ul>
+
+<p>Lately, some folks have told me they looked at Plagger and then decided to develop their own aggregation tool instead of using it. So, What am I missing? Should I be heading down the "roll my own" path also?</p>
+
+<p>There seems to be some recent activity on <a href="http://github.com/miyagawa/plagger">Plagger's github page</a> -- a few forks anyway -- so the project is not entirely abandoned, it appears. However, it would be really comforting to see some efforts at making it easy for those of us who are working with Plagger to share configuration files, new plugins, and so on. Or maybe none of this should be a concern at all?</p>
+
+<p>What do you think? What would you do? </p>
+
+        
+
+    
+
+<p><em>Feel free to comment here or on the <a href="http://blogs.perl.org/users/phillip_smith/2010/08/aggregating-mailing-lists-to-plagger-or-not-to-plagger.html">original post</a></em></p>

@@ -1,0 +1,28 @@
+---
+layout: post
+title: GNU Privacy Guard and GPGMail on OSX Snow Leopard 10.6.4
+date: '2010-06-20 22:07:20 -0500'
+mt_id: 1976
+---
+<div class="zemanta-img mt-image-right" style="margin-top: 1em; margin-right: 1em; margin-bottom: 1em; margin-left: 1em; display: block; float: right; width: 304px; "><a href="http://commons.wikipedia.org/wiki/File:Gnupg_logo.svg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gnupg_logo.svg/294px-Gnupg_logo.svg.png" alt="from http://logo-contest.gnupg.org/subm-6.html..." width="294" height="102" /></a><p class="zemanta-img-attribution" style="font-size:0.8em">Image via <a href="http://commons.wikipedia.org/wiki/File:Gnupg_logo.svg">Wikipedia</a></p></div>
+<p>Just finished the annoying, yet easy enough, install of GNU Privacy Guard on a new Macbook Pro Core i7 laptop with Apple's <a class="zem_slink" href="http://www.apple.com/macosx/" title="Mac OS X Snow Leopard" rel="homepage">Snow Leopard</a> 10.6.4 release (June 2010). In summary ('cause I know I'll forget next time):</p>
+
+<ul>
+<li><p>Download Mac GNU Privacy Guard from <a href="http://macgpg.sourceforge.net/">here</a>. I use the GnuPG v2.x version that comes with a nice installer. Looks like you can <a href="http://knutbert.com/Blog/Entries/2010/1/19_How_to_use_GPGMail_with_Mac_OS_X_10.6_(Snow_Leopard).html">configure and build it manually</a>&nbsp;if you're into that kind of thing. </p></li>
+<li><p>Download the GPG Keychain Access tool on the same page. I put the extracted folder into my Application folder for safe keeping. If you don't have <a href="http://www.apple.com/rosetta/">Rosetta</a> installed, it will ask you to install it on first run. </p></li>
+<li><p>I had existing keys from my old laptop, so I didn't need to set-up new keys. You may have to do that if you're following along at home. If you have existing keys, you can use the "Import Keys" option in GPG Keychain Access to import them. Usually, they'll be stored in a .gnupg folder in your home directory. If you can't see dot files, you'll need to <a href="http://www.macworld.com/article/51830/2006/07/showallfinder.html">sort that out first</a>. </p></li>
+<li><p>Next, I hunted around a bit to find the new home of <a href="http://github.com/gpgmail/GPGMail">GPGMail on Github</a>. The home page for the GPGMail project states that GPGMail is not Snow Leopard compatible -- however, the Github version is compatible, and there's an active development community with <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=gpgmail-users">a helpful mailing list</a>.</p></li>
+<li><p>After downloading the GPGMail bundle <a href="http://github.com/gpgmail/GPGMail/downloads">here</a>, I followed the instructions and put it in my /Users/username/Library/Mail/Bundle/ folder. </p></li>
+<li><p>Next, I quit Mail. </p></li>
+<li><p>Then I followed the instructions in step one over here to set some Mail.app preferences, Specifically: <strong># defaults write com.apple.mail EnableBundles -bool true</strong> and <strong># defaults write com.apple.mail BundleCompatibilityVersion 3</strong>. I already use some Mail.app "bundles," so I probably only required the later and maybe not even that. Either way, like a drunken fool, I typed them in! :-)</p></li>
+<li><p>Next, because I've had problems getting the "GPG Agent" to start in the past, I restarted my computer. If the GPG Agent doesn't start, you won't be able to enter your passphrase or properly decrypt encrypted messages in Mail. </p></li>
+</ul>
+
+<p>And -- low-and-behold -- once my laptop restarted and Mail was opened, I was once again able to sign, encrypt, and decrypt Mail messages. Oh the joy.</p>
+
+<p>If you made it this far, you may want to read <a href="http://www.robertsosinski.com/2008/02/18/working-with-pgp-and-mac-os-x/">Working with PGP and Mac OS X</a>; it's a little outdated, but mostly accurate and quite thorough. </p>
+
+<p>Should you want to send me one, you can find my public key over <a href="http://pgp.mit.edu/">here</a> (just search for my name). </p>
+
+
+<div class="zemanta-pixie" style="margin-top:10px;height:15px"><a class="zemanta-pixie-a" href="http://www.zemanta.com/" title="Enhanced by Zemanta"><img class="zemanta-pixie-img" src="http://img.zemanta.com/zemified_e.png?x-id=d9c269ef-1de4-494a-996f-fed17ae2b4cb" alt="Enhanced by Zemanta" style="border:none;float:right" /></a><span class="zem-script more-related pretty-attribution"><script type="text/javascript" src="http://static.zemanta.com/readside/loader.js" defer="defer"></script></span></div>
