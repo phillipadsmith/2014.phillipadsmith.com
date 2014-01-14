@@ -1,7 +1,7 @@
 name: 'phillipadsmith.com re-loaded for 2014'
 # Also used in the RSS plugin
 url: 'http://www.phillipadsmith.com' 
-description: "Pushing bits since '96" 
+description: "Veteran digital publishing consultant, online advocacy specialist, and strategic convener." 
 author: 'Phillip Smith' 
 copyright: 'Copyleft 2014' 
 #rss_path       - (optional) the path to the feed (if not specified "/" will be used)
@@ -30,3 +30,4 @@ category_archive:
     layout: archive_category
 fbadmins:
     - 511961152
+img_lrg: '/ui/img/phillipadsmith-500x500.jpg'

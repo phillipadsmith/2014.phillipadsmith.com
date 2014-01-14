@@ -26,8 +26,8 @@
         <meta property="og:description" content="{{ page.dek }}" />
         <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
         <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-        <meta property="og:image" content="{{ site.url }}{{ page.img_lrg }}" />
-        <meta property="og:site_name" content="{{ site.description }} - {{ site.name }}" />
+        <meta property="og:image" content="{{ site.url }}{% if page.img_lrg %}{{ page.img_lrg }}{% else %}{{ site.img_lrg }}{% endif %}" />
+        <meta property="og:site_name" content="{{ site.author }}" />
         <meta property="fb:admins" content="{{ site.fbadmins | join: ', ' }}" />
         <!-- Twitter card properties -->
         <meta name="twitter:card" content="summary"><!-- TODO: switch to summary_large_image if img_opt eq cover -->
@@ -36,4 +36,4 @@
         <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
         <meta name="twitter:title" content="{{ page.title }}">
         <meta name="twitter:description" content="{{ page.dek }}">
-        <meta name="twitter:image" content="{{ site.url }}{{ page.img_lrg }}"><!-- TODO: switch to twitter:image:src if img_opt eq cover -->
+        <meta name="twitter:image" content="{{ site.url }}{% if page.img_lrg %}{{ page.img_lrg }}{% else %}{{ site.img_lrg }}{% endif %}"><!-- TODO: switch to twitter:image:src if img_opt eq cover -->
