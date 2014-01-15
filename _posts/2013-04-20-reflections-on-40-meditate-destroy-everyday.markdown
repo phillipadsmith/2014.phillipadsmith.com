@@ -2,6 +2,11 @@
 layout: post
 title: 'Reflections on 40: Meditate & destroy, Everyday.'
 date: '2013-04-20 15:48:58 -0500'
+category: covering
+tags:
+- frontpage
+- lifehacking
+- forty 
 mt_id: 2905
 ---
 <a href="http://www.phillipadsmith.com/files/DSCF0501.jpg"><img alt="DSCF0501.jpg" src="http://www.phillipadsmith.com/assets_c/2013/04/DSCF0501-thumb-600x273-1609.jpg" width="600" height="273" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>

@@ -2,6 +2,9 @@
 layout: post
 title: 'The post-post-CMS CMS: Loosely coupled monoliths & read-only APIs'
 date: '2011-07-28 11:04:29 -0500'
+category: coding
+tags:
+- cms
 mt_id: 2725
 ---
 <div align="center">

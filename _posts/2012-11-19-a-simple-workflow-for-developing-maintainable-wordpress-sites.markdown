@@ -2,6 +2,10 @@
 layout: post
 title: A simple workflow for developing maintainable Wordpress sites
 date: '2012-11-19 12:35:38 -0600'
+category: coding
+tags:
+- wordpress
+- git
 mt_id: 2879
 ---
 A few weeks later, I've refined my [workflow for developing maintainable Wordpress sites](http://www.phillipadsmith.com/2012/07/note-to-self-working-with-wordpress-its-been-a-while.html). This process feels quite well tuned now, and -- as people use these sites, and as their design and functionality start to iterate -- the "maintainable" quality has really lived up to my expectations. 

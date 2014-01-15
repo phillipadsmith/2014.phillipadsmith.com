@@ -2,6 +2,11 @@
 layout: post
 title: 'Beautiful Trouble: Powered by Wordpress, Advanced Custom Fields, and Bootstrap'
 date: '2012-05-17 11:21:03 -0500'
+category: coding
+tags:
+- frontpage
+- beautifultrouble
+- wordpress
 mt_id: 2828
 ---
 

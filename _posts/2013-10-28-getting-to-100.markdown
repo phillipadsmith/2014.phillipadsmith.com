@@ -1,10 +1,15 @@
 ---
 layout: post
 title: Getting to 1.0.0
+dek:     "Launching The Tyee's campaign to go national"
+summary: "Launching The Tyee's campaign to go national: How it was done..."        # 140 characters or less!
 date: '2013-10-28 13:29:37 -0600'
-categories:
-- consulting
-tag: frontpage
+category: consulting
+tags: 
+- frontpage
+- thetyee
+- crowdfunding
+- journalism
 mt_id: 2950
 ---
 <p class="lead">There is something immensely satisfying about getting to version 1.0.0 on a project (in less-technical terms, meaning the public launch of a project when it's ready to exist in the world).</p>

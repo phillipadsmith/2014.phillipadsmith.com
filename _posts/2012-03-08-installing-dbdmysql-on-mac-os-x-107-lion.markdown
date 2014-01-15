@@ -2,6 +2,10 @@
 layout: post
 title: Installing DBD::mysql on Mac OS X 10.7 "Lion"
 date: '2012-03-08 12:36:10 -0600'
+category: coding
+tags:
+- mysql
+- perl
 mt_id: 2812
 ---
 _Cross-posted on [blogs.perl.org](http://blogs.perl.org/users/phillip_smith/2012/03/installing-dbdmysql-on-mac-os-x-107-lion.html)_

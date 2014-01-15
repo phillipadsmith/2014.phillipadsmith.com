@@ -3,6 +3,9 @@ layout: post
 title: '#Catalyst on @dot_cloud Adding a #PostgreSQL data service. (#Perl in the cloud,
   Part IIII)'
 date: '2011-08-16 13:09:15 -0500'
+category: coding
+tags:
+- perl
 mt_id: 2740
 ---
 

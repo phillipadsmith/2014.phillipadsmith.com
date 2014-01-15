@@ -342,6 +342,10 @@ div.cover .avatar-plus-bio-short .avatar img {
   -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
 }
+/* Module: Inline image (img_inline) */
+.img_inline {
+  margin: 20px 0 40px 0;
+}
 /* Module: Archive page headers */
 body.category header {
   text-align: center;

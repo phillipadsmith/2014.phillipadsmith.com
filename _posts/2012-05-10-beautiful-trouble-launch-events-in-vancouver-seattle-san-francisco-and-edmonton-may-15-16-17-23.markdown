@@ -3,6 +3,10 @@ layout: post
 title: Beautiful Trouble launch events in Vancouver, Seattle, San Francisco and Edmonton.
   May 15, 16, 17 & 23.
 date: '2012-05-10 10:49:07 -0500'
+category: convening
+tags:
+- frontpage
+- beautifultrouble
 mt_id: 2825
 ---
 <img src="http://beautifultrouble.org/ui/img/h/Beautiful_Trouble_Book_Cover.png" style="float: right; margin: 0 0 10px 10px;" />

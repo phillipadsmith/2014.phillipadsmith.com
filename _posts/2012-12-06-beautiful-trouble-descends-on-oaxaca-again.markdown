@@ -2,6 +2,11 @@
 layout: post
 title: 'Beautiful Trouble descends on Oaxaca (again) '
 date: '2012-12-06 12:20:35 -0600'
+category: convening
+tags:
+- frontpage
+- beautifultrouble
+- mexico
 mt_id: 2883
 ---
 <a href="http://www.flickr.com/photos/phillipadsmith/8249473005/" title="IMG_1555 by phillipadsmith, on Flickr"><img src="http://farm9.staticflickr.com/8207/8249473005_6ecf0b4435_z.jpg" width="640" height="640" alt="IMG_1555"></a>

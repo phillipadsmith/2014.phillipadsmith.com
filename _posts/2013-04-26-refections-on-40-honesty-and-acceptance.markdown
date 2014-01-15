@@ -1,8 +1,16 @@
 ---
 layout: post
 title: 'Refections on 40: Honesty and acceptance'
+dek:     
+summary:         # 140 characters or less!
 date: '2013-04-26 20:40:46 -0500'
+category: covering
+tags:
+- frontpage
+- lifehacking
+- forty 
 mt_id: 2910
+
 ---
 <a href="http://www.phillipadsmith.com/files/6281669171_d07b0a95be_b.jpg"><img alt="6281669171_d07b0a95be_b.jpg" src="http://www.phillipadsmith.com/assets_c/2013/04/6281669171_d07b0a95be_b-thumb-600x400-1628.jpg" width="600" height="400" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 0" /></a><small><i>Photo from <a href="http://www.flickr.com/photos/graphicward/6281669171/">Deanna Wardin @ Tattoo Boogaloo</a> on Flickr</i></small>
 <br />

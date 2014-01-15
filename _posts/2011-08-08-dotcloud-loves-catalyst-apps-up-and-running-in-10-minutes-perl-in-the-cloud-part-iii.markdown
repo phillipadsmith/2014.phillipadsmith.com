@@ -3,6 +3,9 @@ layout: post
 title: '@dotCloud loves Catalyst apps: Up-and-running in 10-minutes (#Perl in the
   cloud, Part III)'
 date: '2011-08-08 15:00:42 -0500'
+category: coding
+tags:
+- perl
 mt_id: 2734
 ---
 <p><em>Cross-posted from <a href="http://blogs.perl.org/users/phillip_smith/2011/08/dotcloud-loves-catalyst-apps-up-and-running-in-10-minutes-perl-in-the-cloud-part-iii.html">Phillip Smith</a></em></p></small>

@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Living on a gigabyte of data (is kinda' like moving into a bigger apartment)
+title: Living on a gigabyte of data 
+dek:     "(It's kinda' like moving into a bigger apartment)"
+summary: ""        # 140 characters or less!
 date: '2013-08-15 11:28:24 -0500'
-categories:
-- covering
-tag: frontpage
+category: covering
+tags: 
+- frontpage
+- lifehacking
+- travel
 mt_id: 2941
 ---
 <a href="http://www.flickr.com/photos/cornelli/8181857525/" title="Digital Nomad by Cornelli2010, on Flickr"><img src="http://farm9.staticflickr.com/8349/8181857525_cd02bd0cbf_z.jpg" width="640" height="427" alt="Digital Nomad"></a>

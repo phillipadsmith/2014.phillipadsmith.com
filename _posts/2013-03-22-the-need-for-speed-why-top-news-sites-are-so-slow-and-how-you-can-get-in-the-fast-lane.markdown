@@ -3,7 +3,14 @@ layout: post
 title: 'The need for speed: Why top news sites are so slow, and how you can get in
   the fast lane.'
 date: '2013-03-22 09:34:23 -0600'
+category: commentary
+tags:
+- frontpage
+- pagespeed
+- mobile
+- newsteckstacks
 mt_id: 2902
+
 ---
 _Cross-posted from [PBS MediaShift Idea Lab](http://www.pbs.org/idealab/2013/03/ranking-the-slowest-loading-news-sites-and-how-they-can-speed-up074.html)._
 

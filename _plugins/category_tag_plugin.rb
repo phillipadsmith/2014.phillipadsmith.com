@@ -61,7 +61,7 @@ module Jekyll
       self.data = {
           'layout' => @layout,
           'type' => 'archive',
-          'title' => "Tag archive for #{@tag}",
+          'title' => "Filed under '#{@tag}'",
           'posts' => @posts.reverse!
       }
     end

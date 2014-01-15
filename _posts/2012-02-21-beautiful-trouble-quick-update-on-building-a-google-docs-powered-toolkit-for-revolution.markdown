@@ -3,6 +3,10 @@ layout: post
 title: 'Beautiful Trouble: Quick update on building a Google Docs-powered toolkit
   for revolution'
 date: '2012-02-21 11:29:50 -0600'
+category: convening
+tags:
+- frontpage
+- beautifultrouble
 mt_id: 2809
 ---
 

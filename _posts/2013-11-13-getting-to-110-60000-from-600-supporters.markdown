@@ -1,15 +1,20 @@
 ---
 layout: post
-title: 'Getting to 1.1.0: $60,000 from 600 supporters and growing'
+title: 'Getting to 1.1.0'
+dek:     '$60,000 from 600 supporters and growing'
+summary: "How @TheTyee raised $10k in the first two days of it's national fundraising campaign"        # 140 characters or less!
 date: '2013-11-13 11:39:01 -0600'
-categories:
-- consulting
-tag: frontpage
+category: consulting
+tags: 
+- frontpage
+- thetyee
+- crowdfunding
+- journalism
 mt_id: 2952
 ---
 <img src="http://thetyee.cachefly.net/Tyeenews/2013/11/02/paper-dolls-small.jpg" />
 
-I received an e-mail a couple of days after my [last post on "Getting to 1.0.0"](http://www.phillipadsmith.com/2013/10/getting-to-100.html) from a colleague at a progressive publication in the US: 
+I received an e-mail a couple of days after my [last post on "Getting to 1.0.0"](/2013/10/getting-to-100.html) from a colleague at a progressive publication in the US: 
 
 > _Would you please give a short overview of what The Tyee has done to promote this campaign? $10k in 2 days has raised a few eyebrows around here._
 
@@ -25,7 +30,7 @@ The campaign, to date, has relied on very little more than feature stories on Th
 
 On slower days, small incentives were introduced to help reach the day's target, for example a signed copy of Lawrence Martin's  book [Harperland](http://www.harperland.ca/). The biggest surges of support, however, consistently come from The Tyee's own e-mail campaigns to its supporters, as well as e-mail campaigns by [the civil-society groups](https://support.thetyee.ca/#featurettes2) that are supporting The Tyee's bid to bring more independent reporting to the national conversation. Some efforts, like the "[Canada's Emperors Wearing No Clothes!](http://thetyee.ca/Tyeenews/2013/11/04/Canadas-Emperors-Wearing-No-Clothes/)" feature story and mailing performed less impressively, which might speak to the resonance of the campaign's generally more earnest messaging. 
 
-<img alt="tyee-campaign-widget.png" src="http://www.phillipadsmith.com/files/tyee-campaign-widget.png" width="332" height="432" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />
+<img alt="The Tyee's national campaign fundraising widget" src="/files/tyee-campaign-widget.png" width="332" height="432" class="pull-right" />
 
 Maybe I'm just a geek, but I also think there's some magical effect that the live-updating campaign-progress widget has a on supporters psychologically. This was a big part of the many, many fundraising campaigns (at least two a week, if I remember correctly) that we undertook during the Nader 2008 presidential campaign that resulted in more than $1,000,000 in online donations, and which seem to have become the standard on most of the crowd-funding sites out there. What I do know  for sure is that the widget has a profound physiological impact on _those of us working on this campaign_: **we're glued to it almost all day every day**.
 

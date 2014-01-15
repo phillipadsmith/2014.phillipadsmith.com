@@ -3,6 +3,11 @@ layout: post
 title: 'More tools for reporting at @TheTyee: Introducing the muckrackers to Muck
   Rack'
 date: '2012-10-18 12:33:38 -0500'
+category: convening
+tags:
+- journalism
+- thetyee
+- trainings
 mt_id: 2869
 ---
 <a href="http://www.phillipadsmith.com/files/tyee-lunch-and-learn.jpg"><img alt="tyee-lunch-and-learn.jpg" src="http://www.phillipadsmith.com/assets_c/2012/10/tyee-lunch-and-learn-thumb-600x398-1440.jpg" width="600" height="398" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>

@@ -3,6 +3,10 @@ layout: post
 title: 'For immediate release: Beautiful Trouble: A "how-to-think" manual for 21st
   century activism  '
 date: '2012-01-19 15:15:11 -0600'
+category: convening
+tags:
+- frontpage
+- beautifultrouble
 mt_id: 2790
 ---
 <i>This is likely to turn out to be one of the most important projects that I had the opportunity to work on in 2011, and that I will continue work on through 2012. 

@@ -2,12 +2,16 @@
 layout: post
 title: Sublet my desk at the original "maker space," Studio Huddle (King & Bathurst),
   from June 1
+dek:     
+summary:         # 140 characters or less!
 date: '2013-05-24 17:19:11 -0500'
+category: 
+tags:
 mt_id: 2916
 ---
 <div align="center"><img src="https://lh4.googleusercontent.com/-3Fmr-1s7zQ0/UCu4LQqrAiI/AAAAAAAABPs/otAA3Qo9F1g/s640/IMG_1057.jpg" alt="Office space in Studio Huddle. Photo by Phillip Smith." /></div>
 
-Once again, I'm heading back to my second home in [Oaxaca, Mexico](/tags/mexico/), and that means that I'm looking to sublet my desk at [Studio Huddle](http://www.studiohuddle.com/) from June 1st, 2013 - May 31st, 2014. **The cost is $205/month inclusive (tax, wireless Internet, studio fees, etc.). You should [contact me](/#contact) to visit next week (before May 31st) if you're interested.** Read on for more information...
+Once again, I'm heading back to my second home in [Oaxaca, Mexico](/tag/mexico/), and that means that I'm looking to sublet my desk at [Studio Huddle](http://www.studiohuddle.com/) from June 1st, 2013 - May 31st, 2014. **The cost is $205/month inclusive (tax, wireless Internet, studio fees, etc.). You should [contact me](/#contact) to visit next week (before May 31st) if you're interested.** Read on for more information...
 
 You might ask why I keep an office in Toronto when I'm away for so much of the year, and there's only one answer to that question: I literally *love* the people I share the space with, and [the space itself is the perfect oasis away from the other distractions in life](http://www.studiohuddle.com/space/).
 

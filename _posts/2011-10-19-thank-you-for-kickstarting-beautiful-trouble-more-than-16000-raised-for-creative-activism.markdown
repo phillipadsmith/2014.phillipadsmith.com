@@ -3,6 +3,10 @@ layout: post
 title: 'Thank you for Kickstarting Beautiful Trouble: more than $16,000 raised for
   creative activism.'
 date: '2011-10-19 08:12:38 -0500'
+category: convening
+tags:
+- frontpage
+- beautifultrouble
 mt_id: 2764
 ---
 

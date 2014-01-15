@@ -2,6 +2,10 @@
 layout: post
 title: Ten things to love (or hate) about Bricolage
 date: '2009-07-06 00:00:00 -0500'
+category: coding
+tags:
+- perl
+- bricolage
 excerpt: " <p><i>Cross-posted from the <a href=\"http://blog.newint.org/tech/2009/07/06/ten-things-to-love-or-hate-about-bricolage/\">New
   Internationalist Tech blog.</a></i><br />\r\n\t</p><p>Behinds the scenes at <a href=\"http://www.newint.org/\">www.newint.org</a>
   and <a href=\"http://blog.newint.org/\">blog.newint.org</a> is a tireless workhorse

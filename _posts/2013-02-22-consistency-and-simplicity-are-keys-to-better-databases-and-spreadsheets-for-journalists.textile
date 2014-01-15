@@ -3,7 +3,14 @@ layout: post
 title: Consistency and simplicity are keys to better databases (and spreadsheets)
   for journalists
 date: '2013-02-22 11:58:24 -0600'
+category: commentary
+tags:
+- frontpage
+- pbs
+- journalism
+- workingwithdata
 mt_id: 2901
+
 ---
 <a href="http://www.pbs.org/idealab/phillipadsmith/DSCF0712.jpg"><img alt="DSCF0712.jpg" src="http://www.pbs.org/idealab/assets_c/2013/02/DSCF0712-thumb-500x332-2953.jpg" width="500" height="332" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>
 

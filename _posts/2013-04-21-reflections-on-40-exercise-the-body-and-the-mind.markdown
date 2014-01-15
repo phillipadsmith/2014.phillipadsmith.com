@@ -2,6 +2,11 @@
 layout: post
 title: 'Reflections on 40: Exercise, the body *and* the mind.'
 date: '2013-04-21 16:27:38 -0500'
+category: covering
+tags:
+- frontpage
+- lifehacking
+- forty 
 mt_id: 2907
 ---
 <a href="http://www.phillipadsmith.com/files/IMG_1952.jpg"><img alt="IMG_1952.jpg" src="http://www.phillipadsmith.com/assets_c/2013/04/IMG_1952-thumb-300x300-1621.jpg" width="300" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></a>

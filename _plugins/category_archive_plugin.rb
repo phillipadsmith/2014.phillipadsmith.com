@@ -61,7 +61,7 @@ module Jekyll
       self.data = {
           'layout' => @layout,
           'type' => 'archive',
-          'title' => "Category archive for #{@category}",
+          'title' => "Filed under '#{@category}'",
           'posts' => @posts.reverse!
       }
     end

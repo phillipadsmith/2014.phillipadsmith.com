@@ -1,11 +1,17 @@
 ---
 layout: post
 title: 'Beyond the click: getting to actual engagement. Send me your questions!'
+dek:     
+summary:         # 140 characters or less!
 date: '2013-05-21 14:38:56 -0500'
 mt_id: 2914
-categories:
-- Convening
-tag: frontpage
+category: Convening
+tags: 
+- frontpage
+- journalism
+- chartbeat
+- disqus
+
 ---
 <img src="http://chartbeat.files.wordpress.com/2012/06/screen-shot-2012-06-03-at-10-41-16-am.png" width="600" />
 

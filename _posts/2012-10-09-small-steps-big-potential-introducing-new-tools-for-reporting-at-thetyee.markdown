@@ -2,6 +2,11 @@
 layout: post
 title: 'Small steps, big potential: Introducing new tools for reporting at @TheTyee'
 date: '2012-10-09 13:37:30 -0500'
+category: convening
+tags:
+- journalism
+- thetyee
+- trainings
 mt_id: 2865
 ---
 <a href="http://www.phillipadsmith.com/files/phillipadsmith_thetyee_documentcloud.jpeg"><img alt="phillipadsmith_thetyee_documentcloud.jpeg" src="http://www.phillipadsmith.com/assets_c/2012/10/phillipadsmith_thetyee_documentcloud-thumb-600x448-1426.jpeg" width="600" height="448" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>

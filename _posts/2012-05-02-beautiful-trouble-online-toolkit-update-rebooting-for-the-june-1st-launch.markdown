@@ -2,6 +2,10 @@
 layout: post
 title: 'Beautiful Trouble online toolkit update: Rebooting for the June 1st launch.'
 date: '2012-05-02 11:09:00 -0500'
+category: convening
+tags:
+- frontpage
+- beautifultrouble
 mt_id: 2821
 ---
 

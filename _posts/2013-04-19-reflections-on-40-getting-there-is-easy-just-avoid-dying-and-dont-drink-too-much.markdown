@@ -3,6 +3,11 @@ layout: post
 title: 'Reflections on 40: Getting there is easy, just avoid dying and don''t drink
   too much'
 date: '2013-04-19 13:02:37 -0500'
+category: covering
+tags:
+- frontpage
+- lifehacking
+- forty 
 mt_id: 2904
 ---
 In six days, I will be forty. 

@@ -2,6 +2,10 @@
 layout: post
 title: 'TimesOpen: Sockets & Streams'
 date: '2012-09-13 10:05:50 -0500'
+category: coding
+tags:
+- journalism
+- events
 mt_id: 2859
 ---
 <a href="http://www.flickr.com/photos/phillipadsmith/7982797923/" title="IMG_1207 by phillipadsmith, on Flickr"><img src="http://farm9.staticflickr.com/8169/7982797923_c6fdcdbf10_z.jpg" width="640" height="263" alt="IMG_1207"></a>

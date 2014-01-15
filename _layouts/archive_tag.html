@@ -7,20 +7,24 @@ body:
 <div class="container tag-archive ">
     <div class="section">
     <header>
+{% assign have_tag = false %}
 {% for tag in site.data.tags %}
     {% if tag.name == page.tag %}
+        {% assign have_tag = true %}
         <hgroup>
             <h1 class="title">{{ tag.heading }}</h1>
             {% if tag.dek %}<h2 class="dek">{{ tag.dek }}</h2>{% endif %}
         </hgroup>
-        <p>{{ tag.desc }}</p>
-    {% else %}
-    <h1 class="title">Archive for {{ page.tag }}</h1>
+        {% if tag.desc %}<p>{{ tag.desc }}</p>{% endif %}
     {% endif %}
 {% endfor %}
+{% if have_tag != true %}
+    <h1 class="title">Filed under '{{ page.tag }}'</h1>
+{% endif %}
     </header>
     <ul>
 {{ content }}
     </ul>
+    <p><i>Psst!</i> I've recently re-launched this site and lots of content is not filed yet. You may want to check the <a href="/archive">archive</a>.</p>
     </div> <!-- /.section -->
 </div> <!-- /.container -->

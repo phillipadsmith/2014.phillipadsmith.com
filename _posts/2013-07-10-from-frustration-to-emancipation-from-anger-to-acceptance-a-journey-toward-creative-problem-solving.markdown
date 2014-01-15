@@ -1,11 +1,14 @@
 ---
 layout: post
-title: 'From frustration to emancipation, from anger to acceptance: a journey toward
-  creative problem solving.'
+title: 'From frustration to emancipation, from anger to acceptance'
+dek:     "A journey toward creative problem solving."
+summary: ""        # 140 characters or less!
 date: '2013-07-10 10:48:54 -0500'
 category: covering
 tags:
 - frontpage
+- travel
+- mexico
 mt_id: 2929
 ---
 <a href="http://www.flickr.com/photos/rwoan/7941854838/" title="Quesadilla Stand by rwoan, on Flickr"><img src="http://farm9.staticflickr.com/8314/7941854838_67bdee7e4d_z.jpg" width="640" height="427" alt="Quesadilla Stand"></a>
@@ -46,5 +49,5 @@ If we all say "Not my problem," or "I'm going to focus exclusively on my problem
 
 I'll finish this off by making my own personal commitment to **recognize anger and frustration in myself and others as a sign of a problem in search of a creative solution.** I will choose to work to improve my ability to turn that frustration into emancipation by setting myself free of the limits of my current view of the situation, and to turn anger into acceptance by recognizing the opportunity to receive the learning that the situation is offering me.
 
-* _A feel compelled to give a tip of the hat to my old friend [Rob Purdie](https://twitter.com/robpurdie) who shared with me the wisdom that almost all inter-team tension and frustration stems from a person feeling "blocked" from doing their best work. My thought above, looking at frustration and tension as a sign of a blockage that is preventing the best possible outcomes, are concepts that I am taking from those wise words so long ago.  Thanks Rob!_
+\* _I feel compelled to give a tip of the hat to my old friend [Rob Purdie](https://twitter.com/robpurdie) who shared with me the wisdom that almost all inter-team tension and frustration stems from a person feeling "blocked" from doing their best work. My thought above, looking at frustration and tension as a sign of a blockage that is preventing the best possible outcomes, are concepts that I am taking from those wise words so long ago.  Thanks Rob!_
 

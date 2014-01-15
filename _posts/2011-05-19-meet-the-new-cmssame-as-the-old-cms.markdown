@@ -2,6 +2,9 @@
 layout: post
 title: Meet the new CMS/Same as the old CMS
 date: '2011-05-19 09:14:19 -0500'
+category: coding
+tags:
+- cms 
 mt_id: 2671
 ---
 

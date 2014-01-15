@@ -1,11 +1,16 @@
 ---
 layout: post
-title: 'Forget about cutting your cable: cut your mobile phone minutes plan.'
+title: 'Forget about cutting your cable'
+dek:     "Cut your mobile phone minutes plan instead"
+summary: "How to make the move from mobile minutes to data"        # 140 characters or less!
 date: '2013-10-07 09:36:24 -0500'
-categories:
-- covering
-tag: frontpage
+category: covering
+tags: 
+- frontpage
+- lifehacking
+- travel
 mt_id: 2947
+
 ---
 <p class="lead">Consensus is that consumers can save by eliminating their reliance on cable companies and using Internet services instead. The story with mobile is moving in that direction too.</p>
 

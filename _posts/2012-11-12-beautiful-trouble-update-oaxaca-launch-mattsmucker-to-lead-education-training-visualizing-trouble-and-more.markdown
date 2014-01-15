@@ -3,6 +3,10 @@ layout: post
 title: 'Beautiful Trouble update: 3000 troublemakers, Oaxaca launch, @mattsmucker
   to lead education & training, visualizing trouble, and more.'
 date: '2012-11-12 11:58:01 -0600'
+category: convening
+tags:
+- frontpage
+- beautifultrouble
 mt_id: 2877
 ---
 <a href="http://www.phillipadsmith.com/files/DSCF2829.jpg"><img alt="DSCF2829.jpg" src="http://www.phillipadsmith.com/assets_c/2012/11/DSCF2829-thumb-600x337-1497.jpg" width="600" height="337" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>

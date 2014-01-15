@@ -4,7 +4,7 @@ title: 'Reflections on 40: Relationships and belonging'
 date: '2013-04-25 15:06:05 -0500'
 mt_id: 2909
 ---
-<a href="http://www.phillipadsmith.com/files/this_is_40.png"><img alt="this_is_40.png" src="http://www.phillipadsmith.com/assets_c/2013/04/this_is_40-thumb-600x450-1626.png" width="600" height="450" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>
+<img alt="this_is_40.png" src="/files/this_is_40.png" width="600" height="450" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
 
 The night before my fortieth birthday I received one of the most profoundly moving gifts of all time. It was not a thing, an object, or a possession; it was something that money could not buy. It was a collection of memories -- a virtual scrapbook, full of thoughtful words and photos long forgotten, gathered from friends old and new, close and far -- and it reminded me that, more than anything else, the quality of my life is a reflection of the incredible people that I am surrounded by.
 

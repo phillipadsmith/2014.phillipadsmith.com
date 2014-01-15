@@ -2,6 +2,9 @@
 layout: post
 title: 'Note to self: Working with WordPress, how I roll these days.'
 date: '2012-07-23 14:25:44 -0500'
+category: coding
+tags:
+- wordpress
 mt_id: 2844
 ---
 

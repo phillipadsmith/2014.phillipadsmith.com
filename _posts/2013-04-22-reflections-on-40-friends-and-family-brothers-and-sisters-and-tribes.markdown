@@ -2,6 +2,11 @@
 layout: post
 title: 'Reflections on 40: Friends and family, brothers and sisters, and tribes.'
 date: '2013-04-22 20:23:32 -0500'
+category: covering
+tags:
+- frontpage
+- lifehacking
+- forty 
 mt_id: 2908
 ---
 <a href="http://www.phillipadsmith.com/files/DSCF1430.jpg"><img alt="DSCF1430.jpg" src="http://www.phillipadsmith.com/assets_c/2013/04/DSCF1430-thumb-600x229-1624.jpg" width="600" height="229" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>

@@ -2,6 +2,10 @@
 layout: post
 title: 'Slacker lesson No. 2: Work with truly fscking great designers '
 date: '2012-11-30 14:17:12 -0600'
+category: covering
+tags:
+- slacktivism
+- design
 mt_id: 2882
 ---
 <a href="http://www.phillipadsmith.com/assets_c/2012/11/RM Splashpage 1-1501.html" onclick="window.open('http://www.phillipadsmith.com/assets_c/2012/11/RM Splashpage 1-1501.html','popup','width=4605,height=3045,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="http://www.phillipadsmith.com/assets_c/2012/11/RM Splashpage 1-thumb-600x396-1501.jpg" width="600" height="396" alt="Ryan Meili splash page design, desktop." class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>

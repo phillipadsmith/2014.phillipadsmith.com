@@ -2,6 +2,9 @@
 layout: post
 title: Exploring Perl Web frameworks
 date: '2009-05-07 12:49:23 -0500'
+category: coding
+tags:
+- perl
 excerpt: "<p><em>Cross-posted from the <a href=\"http://blog.newint.org/tech/2009/05/04/exploring-perl-web-frameworks/\">New
   Internationalist Tech blog</a></em></p>\r\n<p>A couple of years ago I started looking
   at options to deliver common “front end” functionality for sites using <a href=\"http://www.bricolagecms.org\">Bricolage</a>,

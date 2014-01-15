@@ -2,6 +2,10 @@
 layout: post
 title: Bricolage permissions 101
 date: '2008-04-02 16:20:16 -0600'
+category: coding
+tags:
+- perl
+- bricolage
 excerpt: |-
   <p><center><img src="http://communitybandwidth.ca/files/bricolage-permissions-101.gif" alt="Bricolage permissions 101" /></center></p>
 

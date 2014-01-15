@@ -2,6 +2,12 @@
 layout: post
 title: Investigating the Technology Underlying Top News Organizations
 date: '2013-02-07 10:36:39 -0600'
+category: commentary
+tags:
+- frontpage
+- pagespeed
+- mobile
+- newsteckstacks
 mt_id: 2900
 ---
 _Cross-posted from [PBS MediaShift Idea Lab](http://www.pbs.org/idealab/2013/02/investigating-the-technology-underlying-top-news-organizations036.html)_

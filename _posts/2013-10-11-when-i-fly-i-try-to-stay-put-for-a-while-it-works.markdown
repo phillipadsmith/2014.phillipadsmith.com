@@ -1,13 +1,24 @@
 ---
 layout: post
 title: When I fly, I try to stay put for a while. It works.
+dek:     "Fly less, enjoy more."
+summary: "Fly less, enjoy more: why I try to stick around for a few weeks when I travel."        # 140 characters or less!
 date: '2013-10-11 08:55:04 -0500'
-categories:
-- covering
-tag: frontpage
+category: covering
+tags:
+- frontpage
+- travel
+- lifehacking
+img_opt: 'inline'
+img_sml: 'http://farm8.staticflickr.com/7436/10207834966_08825b0315_n.jpg'
+img_med: 'http://farm8.staticflickr.com/7436/10207834966_08825b0315_z.jpg'
+img_lrg: 'http://farm8.staticflickr.com/7436/10207834966_08825b0315_c.jpg'
+img_alt: 'Playa Mermejita, Mazunte, Oaxaca, Mexico.'
+img_caption: 'Playa Mermejita, Mazunte, Oaxaca, Mexico.'
+img_url: 'http://www.flickr.com/photos/phillipadsmith/10207834966/'
 mt_id: 2948
+
 ---
-<a href="http://www.flickr.com/photos/phillipadsmith/10207834966/" title="DSCF0501 by phillipadsmith, on Flickr"><img src="http://farm8.staticflickr.com/7436/10207834966_08825b0315_z.jpg" width="640" height="292" alt="DSCF0501"></a>
 
 The climate cost of air travel is something I've been aware of for many years. Early into my six-year relationship with the Oxford-based politically progressive publication New Internationalist, I was forging a friendship with climate activist and editor [Adam Ma'anit](http://adammaanit.com/) as he was completing work on [his tour-de-force magazine on carbon](http://newint.org/issues/2006/07/01/).
 

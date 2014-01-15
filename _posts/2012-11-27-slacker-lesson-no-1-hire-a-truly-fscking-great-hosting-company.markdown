@@ -2,6 +2,9 @@
 layout: post
 title: 'Slacker lesson No. 1: Hire a truly fscking great hosting company'
 date: '2012-11-27 10:55:00 -0600'
+category: coding
+tags:
+- hosting
 mt_id: 2881
 ---
 <a href="http://www.phillipadsmith.com/files/Screenshot%202012-11-27%2010%3A48%20AM.png"><img alt="Gossamer Threads" src="http://www.phillipadsmith.com/assets_c/2012/11/Screenshot 2012-11-27 10:48 AM-thumb-600x282-1499.png" width="600" height="282" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>

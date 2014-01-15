@@ -2,6 +2,10 @@
 layout: post
 title: 'Two great tastes that taste great together: Bricolage and Drupal'
 date: '2010-02-26 15:48:33 -0600'
+category: coding
+tags:
+- perl
+- bricolage
 excerpt: "<p>Long-time \"Bricoleur\" Chris Schults reports that every Seattleite's
   favourite co-op, PCC Natural Markets (the largest consumer-owned natural food retail
   co-operative in the United States), has just re-launched their Web property using

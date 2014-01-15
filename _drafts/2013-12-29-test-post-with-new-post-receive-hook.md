@@ -1,26 +1,27 @@
 ---
 layout: post
-title:   'Jekyll with a post-receive hook'
-dek:     'This is a test dek, that should sit below the title'
-summary: 'This is a quick summary of this post'
-date:    '2014-01-11 09:28:39 -0600'
-img_opt: 'cover' # cover | inlne
-img_sml: '/ui/img/320x256.jpg'  # default on cover or inline
-img_med: '/ui/img/640x512.jpg'  # 640x512px cover, inline
-img_lrg: '/ui/img/800x640.jpg'  # 800x640px cover, inline
-img_xlg: '/ui/img/1200x960.jpg' # 1200x960px cover only
-img_alt: ''
-img_caption: ''
-categories: 
-- Coding
-tag: frontpage
-body:
+title:   Template
+dek:     
+summary:         # 140 characters or less!
+date:    '2014-01-11 09:28:39 -0600'                    # This is used in place of the filename
+img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
+img_sml: '/ui/img/320x256.jpg'                          # Default on cover or inline
+img_med: '/ui/img/640x512.jpg'                          # 640x512px cover, inline
+img_lrg: '/ui/img/800x640.jpg'                          # 800x640px cover, inline
+img_xlg: '/ui/img/1200x960.jpg'                         # 1200x960px cover only
+img_alt: ''                                             # Alt for inline
+img_caption: ''                                         # Caption for either
+img_url: ''                                             # URL to original image
+category: coding                                        # Just one of the 4xCs
+tags:                                                   # E.g., frontpage
+- frontpage
+body:                                                   # Add some class
 - class1
-- class2
+
 ---
 
 <p class="lead">
-Here we go. This is a test!
+Lead or intro paragraph, class 'lead' or 'intro'
 </p>
 
 Worked nicely! :)
@@ -29,7 +30,7 @@ Worked nicely! :)
 
 ### Heading 3
 
-And a test of the grunt watch concurrent task.
+Here is an attribute helper, which adds a class to the containing element. Details [here](http://kramdown.gettalong.org/syntax.html#inline-attribute-lists)
 
 ![My helpful screenshot](/ui/img/phillipadsmith-100x100.jpg)
 {: .class1}

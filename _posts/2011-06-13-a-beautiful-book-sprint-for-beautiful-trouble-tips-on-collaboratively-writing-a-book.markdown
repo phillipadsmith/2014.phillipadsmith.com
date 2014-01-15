@@ -3,6 +3,10 @@ layout: post
 title: 'A beautiful book sprint for Beautiful Trouble: Tips on collaboratively writing
   a book.'
 date: '2011-06-13 18:20:16 -0500'
+category: convening
+tags:
+- frontpage
+- beautifultrouble
 mt_id: 2686
 ---
 
