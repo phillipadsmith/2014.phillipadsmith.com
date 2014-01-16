@@ -361,6 +361,10 @@ footer p.copyright {
   text-align: center;
   padding: 0 10px 0 10px;
 }
+/* Module: Social & authorship */
+.google-authorship {
+  display: none;
+}
 @media screen and (min-width: 768px) {
   /* Adjust for large desktop */
   .avatar-plus-bio-short {
