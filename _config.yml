@@ -4,9 +4,6 @@ url: 'http://www.phillipadsmith.com'
 description: "Veteran digital publishing consultant, online advocacy specialist, and strategic convener." 
 author: 'Phillip Smith' 
 copyright: 'Copyleft 2014' 
-#rss_path       - (optional) the path to the feed (if not specified "/" will be used)
-# rss_name       - (optional) the name of the rss file (if not specified "rss.xml" will be used)
-#rss_post_limit - (optional) the number of posts in the feed
 tagline: "Pushing bits since '96"
 mode: 'development'
 markdown: 'kramdown'
