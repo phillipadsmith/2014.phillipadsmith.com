@@ -356,6 +356,10 @@ body.category header h2 {
 body.category .section header p {
   text-align: left;
 }
+/* Module: Comments */
+.toggle-comments {
+  margin-bottom: 10px;
+}
 /* Module: Footer */
 footer p.copyright {
   text-align: center;
