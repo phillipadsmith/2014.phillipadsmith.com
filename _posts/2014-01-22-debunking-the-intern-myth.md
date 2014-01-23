@@ -3,6 +3,7 @@ layout: post
 title:   "Debunking the lone intern myth"
 dek:    "Did an intern really create the New York Times most popular piece of content?"
 summary: "Debunking the lone intern myth: Focusing on the intern, not the work, misses the real story."
+date:    '2014-01-23 08:00:00 -0600'                    # This is used in place of the filename
 img_opt: 'inline'                                        # Options: 'cover' or 'inlne' or 'none'
 category: commentary                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
