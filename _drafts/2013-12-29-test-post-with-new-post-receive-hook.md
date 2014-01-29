@@ -20,9 +20,8 @@ body:                                                   # Add some class
 
 ---
 
-<p class="lead">
 Lead or intro paragraph, class 'lead' or 'intro'
-</p>
+{: .lead}
 
 Worked nicely! :)
 

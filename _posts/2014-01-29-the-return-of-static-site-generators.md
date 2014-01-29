@@ -1,12 +1,13 @@
 ---
 layout: post
-dek:
+title:   The emerging NoCMS movement
+dek:    Exploring the resurgence of static site generators
 summary:         # 140 characters or less!
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
-img_sml: 'http://farm4.staticflickr.com/3091/3241512841_1fd19e208a_n.jpg'                          # Default on cover or inline
-img_med: 'http://farm4.staticflickr.com/3091/3241512841_1fd19e208a_z.jpg'                          # 640x512px cover, inline
-img_lrg: 'http://farm4.staticflickr.com/3091/3241512841_1fd19e208a_b.jpg'                          # 800x640px cover, inline
-img_xlg: 'http://farm4.staticflickr.com/3091/3241512841_1ca8d8d1c8_o.jpg'                         # 1200x960px cover only
+img_sml: '/files/static-site-generators_sml.jpg'                          # Default on cover or inline
+img_med: '/files/static-site-generators_med.jpg’                          # 640x512px cover, inline
+img_lrg: '/files/static-site-generators_lrg.jpg'                          # 800x640px cover, inline
+img_xlg: ‘/files/static-site-generators_xlg.jpg'                         # 1200x960px cover only
 img_alt: ‘Photo by futureatlas.com on Flickr’ # Alt for inline
 img_caption: 'Photo by futureatlas.com on Flickr'                                         # Caption for either
 img_url: 'http://www.flickr.com/photos/87913776@N00/3241512841/'                                             # URL to original image
@@ -17,12 +18,10 @@ tags:                                                   # E.g., frontpage
 - staticsites
 ---
 
-# The future of the CMS: static site generators
-## How history repeats itself every ten years
+Started in 2001, [Bricolage CMS](http://bricolagecms.org), initially developed at Salon.com, was one of many "static site generators" at the time. It seems that we've returned to static sites in a big way in 2014.
+{: .lead}
 
-<p class="lead">Started in 2001, [Bricolage CMS](http://bricolagecms.org), initially developed at Salon.com, was one of many "static site generators" at the time. It seems that we've returned to static sites in a big way in 2014.</p>
-
-Over the holidays, I migrated [this site](http://phillipadsmith.com) -- after many enjoyable years -- from old faithful CMS, MoveableType, to [Jekyll](http://jekyllrb.com/) -- just one of many of a contemporary bread of what are referred to as "static site generators." 
+Over the holidays, I migrated [this site](http://phillipadsmith.com) -- after many enjoyable years -- from old faithful CMS, MoveableType, to [Jekyll](http://jekyllrb.com/) -- just one of many of a contemporary bread of what are referred to as “[static site generators](http://staticsitegenerators.net/).” 
 
 My earliest forays into blogging were at a time when so-called static site generators were pretty much the way things worked: the [Greymatter software]() that I initially used for blogging, though it provided a Web-based interface for writing and management, ultimately output static HTML files. When I later upgraded to Moveable Type it felt familiar because it did the same.
 
