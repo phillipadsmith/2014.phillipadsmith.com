@@ -13,6 +13,7 @@ img_caption: 'Photo by futureatlas.com on Flickr'                          # Cap
 img_url: 'http://www.flickr.com/photos/87913776@N00/3241512841/'           # URL to original image
 category: coding                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
+- frontpage
 - jekyll
 - bricolagecms
 - staticsites
@@ -24,7 +25,7 @@ Started in 2001, [Bricolage CMS](http://bricolagecms.org), initially developed a
 
 Over the holidays, I migrated [this site](http://phillipadsmith.com) -- after many enjoyable years -- from old faithful CMS, MoveableType, to [Jekyll](http://jekyllrb.com/) -- just one of many of a contemporary bread of what are referred to as “[static site generators](http://staticsitegenerators.net/).” 
 
-My earliest forays into blogging were at a time when so-called static site generators were pretty much the way things worked: the [Greymatter software]() that I initially used for blogging, though it provided a Web-based interface for writing and management, ultimately output static HTML files. When I later upgraded to Moveable Type it felt familiar because it did the same.
+My earliest forays into blogging were at a time when so-called static site generators were pretty much the way things worked: the [Greymatter software](http://ps.ht/LoCidV) that I initially used for blogging, though it provided a Web-based interface for writing and management, ultimately output static HTML files. When I later upgraded to Moveable Type it felt familiar because it did the same.
 
 The advantages of having a site served statically back in those days were pretty obvious. Hosting accounts, if you were lucky enough to have one, were pretty paltry offerings, and a simple static site was usually less expensive and more straightforward to maintain. Thus, I get a bit of a chuckle when I read about the renaissance of static sites: really, it seems to be all the rage again… and for good reason.
 
