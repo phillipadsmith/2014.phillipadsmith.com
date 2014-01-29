@@ -2,10 +2,10 @@
 layout: post
 title:   'The emerging NoCMS movement'
 dek:    'Exploring the resurgence of static site generators'
-summary: ''        # 140 characters or less!
+summary:         # 140 characters or less!
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
 img_sml: '/files/static-site-generators_sml.jpg'                          # Default on cover or inline
-img_med: '/files/static-site-generators_med.jpg’                          # 640x512px cover, inline
+img_med: '/files/static-site-generators_med.jpg'                          # 640x512px cover, inline
 img_lrg: '/files/static-site-generators_lrg.jpg'                          # 800x640px cover, inline
 img_xlg: '/files/static-site-generators_xlg.jpg'                         # 1200x960px cover only
 img_alt: 'Photo by futureatlas.com on Flickr' # Alt for inline
