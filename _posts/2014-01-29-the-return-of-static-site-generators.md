@@ -2,20 +2,22 @@
 layout: post
 title:   'The emerging NoCMS movement'
 dek:    'Exploring the resurgence of static site generators'
-summary: ''        # 140 characters or less!
+dek:
+summary:         # 140 characters or less!
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
-img_sml: '/files/static-site-generators_sml.jpg'                          # Default on cover or inline
-img_med: '/files/static-site-generators_med.jpg’                          # 640x512px cover, inline
-img_lrg: '/files/static-site-generators_lrg.jpg'                          # 800x640px cover, inline
-img_xlg: '/files/static-site-generators_xlg.jpg'                         # 1200x960px cover only
-img_alt: 'Photo by futureatlas.com on Flickr' # Alt for inline
-img_caption: 'Photo by futureatlas.com on Flickr'                          # Caption for either
-img_url: 'http://www.flickr.com/photos/87913776@N00/3241512841/'           # URL to original image
+img_sml: 'http://farm4.staticflickr.com/3091/3241512841_1fd19e208a_n.jpg'                          # Default on cover or inline
+img_med: 'http://farm4.staticflickr.com/3091/3241512841_1fd19e208a_z.jpg'                          # 640x512px cover, inline
+img_lrg: 'http://farm4.staticflickr.com/3091/3241512841_1fd19e208a_b.jpg'                          # 800x640px cover, inline
+img_xlg: 'http://farm4.staticflickr.com/3091/3241512841_1ca8d8d1c8_o.jpg'                         # 1200x960px cover only
+img_alt: ‘Photo by futureatlas.com on Flickr’ # Alt for inline
+img_caption: 'Photo by futureatlas.com on Flickr'                                         # Caption for either
+img_url: 'http://www.flickr.com/photos/87913776@N00/3241512841/'                                             # URL to original image
 category: coding                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - jekyll
 - bricolagecms
 - staticsites
+
 ---
 
 Started in 2001, [Bricolage CMS](http://bricolagecms.org), initially developed at Salon.com, was one of many "static site generators" at the time. It seems that we've returned to static sites in a big way in 2014.
