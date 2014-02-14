@@ -1,13 +1,16 @@
 ---
 layout: post
-title: 'Reflections on 40: Getting there is easy, just avoid dying and don''t drink
+title: 'Getting there is easy, just avoid dying and don''t drink
   too much'
-date: '2013-04-19 13:02:37 -0500'
+dek: Reflections on turning 40 
+summary:         # 140 characters or less!
 category: covering
 tags:
 - frontpage
 - lifehacking
 - forty 
+
+date: '2013-04-19 13:02:37 -0500'
 mt_id: 2904
 ---
 In six days, I will be forty. 
@@ -18,7 +21,7 @@ My stepfather used to tell me with annoying frequency "you'll be dead before you
 
 I am alive. 
 
-More than that, I can look myself in the eye and say, "if I died tomorrow, I would die happy." I don't feel like I've missed anything. I live a blessed life and I have very, very few regrets. 
+More than that, I can look myself in the eye and say "if I died tomorrow, I would die happy." I don't feel like I've missed anything. I live a blessed life and I have very, very few regrets. 
 
 Having managed to actively avoid death this long, I thought I would turn my attention to other ambitions, like some directed personal exploration and experimentation. You know, um, trying new shit and "living on my learning edge," as my west-coast friends would say.
 

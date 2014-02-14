@@ -2,11 +2,13 @@
 layout: post
 title: Sublet my desk at the original "maker space," Studio Huddle (King & Bathurst),
   from June 1
-dek:     
-summary:         # 140 characters or less!
 date: '2013-05-24 17:19:11 -0500'
-category: 
+dek:
+summary:         # 140 characters or less!
+category: covering
 tags:
+- makers
+
 mt_id: 2916
 ---
 <div align="center"><img src="https://lh4.googleusercontent.com/-3Fmr-1s7zQ0/UCu4LQqrAiI/AAAAAAAABPs/otAA3Qo9F1g/s640/IMG_1057.jpg" alt="Office space in Studio Huddle. Photo by Phillip Smith." /></div>

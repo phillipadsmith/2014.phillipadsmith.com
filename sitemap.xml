@@ -46,4 +46,11 @@
   </url>
   {% endif %}
   {% endfor %}
+  {% for tag in site.data.tags %}
+    <url>
+        <loc>{{ site.url }}/tag/{{ tag.name }}/</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+  {% endfor %}
 </urlset>

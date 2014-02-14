@@ -9,8 +9,8 @@ tags:
 - pagespeed
 - mobile
 - newsteckstacks
-mt_id: 2902
 
+mt_id: 2902
 ---
 _Cross-posted from [PBS MediaShift Idea Lab](http://www.pbs.org/idealab/2013/03/ranking-the-slowest-loading-news-sites-and-how-they-can-speed-up074.html)._
 

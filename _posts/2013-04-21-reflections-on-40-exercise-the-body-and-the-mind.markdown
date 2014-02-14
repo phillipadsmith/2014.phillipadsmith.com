@@ -1,12 +1,15 @@
 ---
 layout: post
-title: 'Reflections on 40: Exercise, the body *and* the mind.'
-date: '2013-04-21 16:27:38 -0500'
+title: 'Exercise, the body *and* the mind.'
+dek: Reflections on turning 40 
+summary:         # 140 characters or less!
 category: covering
 tags:
 - frontpage
 - lifehacking
 - forty 
+
+date: '2013-04-21 16:27:38 -0500'
 mt_id: 2907
 ---
 <a href="http://www.phillipadsmith.com/files/IMG_1952.jpg"><img alt="IMG_1952.jpg" src="http://www.phillipadsmith.com/assets_c/2013/04/IMG_1952-thumb-300x300-1621.jpg" width="300" height="300" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></a>
@@ -25,7 +28,7 @@ I remember something that [Madeline Stanionis](http://www.watershedcompany.com/i
 
 The recipe wasn't all that complicated. It looks like this: 
 
-* **I try to achieve six hours of "focused productive time" each day, Monday to Friday**. Most days, that's 11AM-7PM. Some days that time is decimated to paid client work, other days it's dedicated to personal projects or learning new skills. That varies week-to-week, but I try to strike a 60-40 balance and usually manage to hit 80-20 even if I have a lot of client work on the go. That means that I strive for two days a week of productive time invested in personal development that is not weekend days.
+* **I try to achieve six hours of "focused productive time" each day, Monday to Friday**. Most days, that's 11AM-7PM. Some days that time is dedicated to paid client work, other days it's dedicated to personal projects or learning new skills. That varies week-to-week, but I try to strike a 60-40 balance and usually manage to hit 80-20 even if I have a lot of client work on the go. That means that I strive for two days a week of productive time invested in personal development that is not weekend days.
 
 * **8-11AM, I exercise my body and my mind**. [Like meditation](http://www.phillipadsmith.com/2013/04/reflections-on-40-meditate-destroy-everyday.html), I try to work out [everyday](http://www.phillipadsmith.com/2013/04/reflections-on-40-meditate-destroy-everyday.html). I alternate running with simple exercises that I can do wherever I am: push-ups, sit-ups, squats, and skipping rope. Meditation and body exercise are done by 9, so I've got two hours to make breakfast and prepare for the day. 
 

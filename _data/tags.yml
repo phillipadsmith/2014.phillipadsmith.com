@@ -2,6 +2,11 @@
   heading: 'Front-page worthy posts'
   dek:      '(Questionably, at best.)'
   desc:     'Not everything makes it to the front page of this site, but below is a mostly-accurate list of everything that has, at least since January 2014. Oh, and, happy new year!'
+- name: forty
+  heading: 'Reflections on turning 40'
+  dek:      '(You can make it if you try.)'
+  desc:     'I gave up alcohol for a month before my 40th birthday and spent some of that time writing instead. Here''s how that turned out:'
+- name: newsteckstacks
 - name: thetyee
 - name: crowdfunding
 - name: journalism
@@ -10,8 +15,7 @@
 - name: pbs
 - name: chartbeat
 - name: disqus
-- name: forty
-- name: newsteckstacks
+- name: lifehacking 
 - name: workingwithdata
 - name: makerculture
 - name: slacktivism 

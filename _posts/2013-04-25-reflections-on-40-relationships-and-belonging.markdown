@@ -1,7 +1,15 @@
 ---
 layout: post
-title: 'Reflections on 40: Relationships and belonging'
+title: 'Relationships and belonging'
 date: '2013-04-25 15:06:05 -0500'
+dek: Reflections on turning 40 
+summary:         # 140 characters or less!
+category: covering
+tags:
+- frontpage
+- lifehacking
+- forty 
+
 mt_id: 2909
 ---
 <img alt="this_is_40.png" src="/files/this_is_40.png" width="600" height="450" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" />
