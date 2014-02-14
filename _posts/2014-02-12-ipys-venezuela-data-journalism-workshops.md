@@ -23,7 +23,7 @@ At the end of nine exhausting yet exhilarating days spent in three Venezuelan ci
 Given what I saw in those presentations, it is going to be an exciting time for data journalism in Venezuela over the coming months and years.
 
 ## Data boot camp for journalists
-Last week, [IPYS Venezuela](http://ipysvenezuela.org/) -- an organization that promotes and advocates free speech, investigative journalism, and access to information -- with funding from the Canadian Fund for Local Initiatives, hosted two two-day workshops for journalists and designers working in news organizations. The workshops focused on the skills generally grouped under the heading of “data journalism.”
+Last week, [IPYS Venezuela](http://ipysvenezuela.org/) -- an organization that promotes and advocates free speech, investigative journalism, and access to information -- with funding from the Canadian Fund for Local Initiatives, hosted [two two-day workshops](ipysvenezuela.org/2014/01/21/ipys-venezuela-y-el-fondo-canadiense-para-iniciativas-locales-invitan-al-taller-de-periodismo-de-datos-en-valencia-y-maracaibo/) for journalists and designers working in news organizations. The workshops focused on the skills generally grouped under the heading of “data journalism.”
 
 To develop the workshops, I worked closely with two colleagues: Vancouver-based cartographic whizkid [Hugh Stimson](http://geocology.ca/), and the Caracas-based award-winning investigative journalist [Emilia Díaz-Struck](http://www.icij.org/contributors/emilia-diaz-struck). We strived to develop a curriculum that balanced learning and doing, and moulded the two days into a boot camp where all participants were expected to present their work at the end of the second day.
 
