@@ -8,7 +8,7 @@ img_sml: '/files/ve_workshop_sml.jpg'                          # Default on cove
 img_med: '/files/ve_workshop_med.jpg'                          # 640x512px cover, inline
 img_lrg: '/files/ve_workshop_lrg.jpg'                          # 800x640px cover, inline
 img_xlg: '/files/ve_workshop_xlg.jpg'                         # 1200x960px cover only
-img_alt: 'Photo by futureatlas.com on Flickr' # Alt for inline
+img_alt: 'Photo by Hugh Stimson' # Alt for inline
 img_caption: 'Photo by Hugh Stimson'                          # Caption for either
 category: convening                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
