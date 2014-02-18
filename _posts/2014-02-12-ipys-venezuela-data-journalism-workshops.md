@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   'Turbulent times in Venezuela, but good for #DataJournalism'
-dek:    Mounting economic problems and lack of transparency highlight the opportunities for innovative journalism to make a huge impact.
+dek:    Mounting economic problems highlight the opportunity for innovative journalism to make an impact.
 summary:   Mounting economic problems and lack of transparency highlight the opportunities for innovative journalism to make a huge impact.
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
 img_sml: '/files/ve_workshop_sml.jpg'                          # Default on cover or inline
