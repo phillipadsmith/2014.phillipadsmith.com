@@ -4,13 +4,13 @@ title:   Email is alive and well, reports of death exaggerated.
 dek:    Contrary to what some would like you to believe, e-mail still delivers. 
 summary:  Contrary to what some would like you to believe, e-mail still delivers.
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
-img_sml: '/ui/img/320x256.jpg'                          # Default on cover or inline
-img_med: '/ui/img/640x512.jpg'                          # 640x512px cover, inline
-img_lrg: '/ui/img/800x640.jpg'                          # 800x640px cover, inline
-img_xlg: '/ui/img/1200x960.jpg'                         # 1200x960px cover only
-img_alt: ''                                             # Alt for inline
-img_caption: ''                                         # Caption for either
-img_url: ''                                             # URL to original image
+img_sml: 'http://farm7.staticflickr.com/6090/6086151952_9d68d309f1_n.jpg'                          # Default on cover or inline
+img_med: 'http://farm7.staticflickr.com/6090/6086151952_9d68d309f1_z.jpg'                          # 640x512px cover, inline
+img_lrg: 'http://farm7.staticflickr.com/6090/6086151952_9d68d309f1_b.jpg'                          # 800x640px cover, inline
+img_xlg: 'http://farm7.staticflickr.com/6090/6086151952_9d68d309f1_b.jpg'                         # 1200x960px cover only
+img_alt: 'Neither snow nor rain by Comrade Foot on Flickr'                                             # Alt for inline
+img_caption: 'Neither snow nor rain by Comrade Foot on Flickr'                                         # Caption for either
+img_url: 'http://www.flickr.com/photos/82437626@N00/4356293394/in/photolist-7CX9fN-9JerHX-9hnHks-a9SsT5'                                             # URL to original image
 category: commentary                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
@@ -66,7 +66,7 @@ So, with that said, I think there are many, many opportunities to own that relat
 
 Now with the easy part -- that's asking for a person's e-mail address -- out of the way, you can move on to the more important, and most-often overlooked, step of building a relationship with that person over time. That is a topic that I will need to leave for another post, unfortunately.
 
-Curious to hear your thoughts, comments, case studies, and so on. You can drop a note here in the comments, or find me on [Twitter](http://twitter.com/phillipadsmith). And of course, you can always e-mail me. 
+Curious to hear your thoughts, comments, case studies, and so on. You can drop a note here in the comments, or find me on [Twitter](http://twitter.com/phillipadsmith). And of course, you can always [e-mail me](/about/#contact). 
 
 
  
