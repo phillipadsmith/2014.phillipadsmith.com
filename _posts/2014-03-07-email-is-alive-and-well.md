@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   Email is alive and well, reports of death exaggerated.
+title:   E-mail is alive and well, reports of death exaggerated.
 dek:    Contrary to what some would like you to believe, e-mail still delivers. 
 summary:  Contrary to what some would like you to believe, e-mail still delivers.
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
