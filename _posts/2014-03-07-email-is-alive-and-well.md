@@ -37,7 +37,8 @@ More interesting is that fact that services that seem to fly in the face of e-ma
 ![Caption](/files/email_delivers_twitter_newsletter.png)
 {: .responsive}
 
-Similarly, even the company that says “[Email’s About to Die](http://www.wired.com/business/2014/01/next-big-thing-missed-facebook-co-founder-says-email/)” is quietly asking users for an e-mail address to set-up their account. Just because the company does not say "Please provide your e-mail address" doesn't mean that they're not asking for one. Sure, they prioritize a Google account sign-in, but -- as pointed out above -- Google most certainly asks for an e-mail address when creating that account, and the [Google+ Platform API](https://developers.google.com/+/api/oauth) enables the site that uses it -- you guessed it! -- to request the user's e-mail address (as Asana does).
+Similarly, even the company that is the subject of a _Wired Magazine_ article titled “[Email’s About to Die](http://www.wired.com/business/2014/01/next-big-thing-missed-facebook-co-founder-says-email/)” is quietly asking users for an e-mail address to set-up their account[^tag]. Just because the company does not say "Please provide your e-mail address" doesn't mean that they're not asking for one. Sure, they prioritize a Google account sign-in, but -- as pointed out above -- Google most certainly asks for an e-mail address when creating that account, and the [Google+ Platform API](https://developers.google.com/+/api/oauth) enables the site that uses it -- you guessed it! -- to request the user's e-mail address (as Asana does). 
+
 
 ![Caption](/files/email_delivers_asana_asks_for_email.png)
 {: .responsive}
@@ -81,5 +82,4 @@ Now with the easy part -- that's asking for a person's e-mail address -- out of 
 
 Curious to hear your thoughts, comments, case studies, and so on. You can drop a note here in the comments, or find me on [Twitter](http://twitter.com/phillipadsmith). And of course, you can always [e-mail me](/about/#contact). 
 
-
- 
+[^tag]: I've updated the post to correct the fact that Asana co-founder [Dustin Moskovitz](http://twitter.com/moskov) did not actually say "E-mail's about to die," and that Wired simply gave the article that title. Moskovitz pointed out that he's not quoted as saying that, and in fact only believes that e-mail has reached "peak importance." Conversation on Twitter [here](https://twitter.com/phillipadsmith/status/442033518592278528).
