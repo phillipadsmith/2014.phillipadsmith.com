@@ -4,13 +4,13 @@ title:   E-mail is alive and well, reports of death exaggerated.
 dek:    Contrary to what some would like you to believe, e-mail still delivers. 
 summary:  Contrary to what some would like you to believe, e-mail still delivers.
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
-img_sml: 'http://farm7.staticflickr.com/6090/6086151952_9d68d309f1_n.jpg'                          # Default on cover or inline
-img_med: 'http://farm7.staticflickr.com/6090/6086151952_9d68d309f1_z.jpg'                          # 640x512px cover, inline
-img_lrg: 'http://farm7.staticflickr.com/6090/6086151952_9d68d309f1_b.jpg'                          # 800x640px cover, inline
-img_xlg: 'http://farm7.staticflickr.com/6090/6086151952_9d68d309f1_b.jpg'                         # 1200x960px cover only
-img_alt: 'Neither snow nor rain by Comrade Foot on Flickr'                                             # Alt for inline
-img_caption: 'Neither snow nor rain by Comrade Foot on Flickr'                                         # Caption for either
-img_url: 'http://www.flickr.com/photos/82437626@N00/4356293394/in/photolist-7CX9fN-9JerHX-9hnHks-a9SsT5'                                             # URL to original image
+img_sml: '/files/email_delivers_sml.jpg'                          # Default on cover or inline
+img_med: '/files/email_delivers_med.jpg'                          # 640x512px cover, inline
+img_lrg: '/files/email_delivers_lrg.jpg'                          # 800x640px cover, inline
+img_xlg: '/files/email_delivers_lrg.jpg'                         # 1200x960px cover only
+img_alt: 'Mail carrier. Life archives.'                                             # Alt for inline
+img_caption: 'Mail carrier. Life archives'                                         # Caption for either
+img_url: 'http://images.google.com/hosted/life/355ea249733aa3e5.html'                                             # URL to original image
 category: commentary                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
