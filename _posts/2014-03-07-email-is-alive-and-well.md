@@ -27,11 +27,20 @@ If you'd like to watch the entire panel from the conference, the video is online
 
 It's just a fact that everyone who you want to reach has an e-mail address. In fact, most people have several. There are many reasons for this, but the most common is that an e-mail address is required to sign-up for almost every service on the Internet. Even Google's unified account system that's used by Gmail (their e-mail service) asks for "your current e-mail address." Short of getting an e-mail address in the first place, there are virtually no online services that don't require one. 
 
+![Caption](/files/email_delivers_twitter_signup.png)
+{: .responsive}
+
 You may say that many sites are now using social login services like Facebook and Twitter and you would be right, however each of those services requires an e-mail to sign-up. Also, many major publishers in the US, UK, Canada and elsewhere are moving to various paywall models, each of which requires users to subscribe using -- you guessed it -- an e-mail address. You can tell me that people are creating single-use e-mail addresses for these moments, but I believe that you would be wrong and I've yet to see any real data that supports that idea. 
 
 More interesting is that fact that services that seem to fly in the face of e-mail and e-newsletters, like Twitter for example, are relying on e-mail and e-newsletters more as time goes on. Twitter has been trying to solve its challenge of people who sign-up and don't utilize the service with e-mail-based notifications and, most recently, has started sending out e-newsletters around time-sensitive events like the Olympics. If e-newsletters don't work, and if nobody has an e-mail or if nobody reads their e-mail, then why does Twitter invest the time, energy and money in sending them? 
 
+![Caption](/files/email_delivers_twitter_newsletter.png)
+{: .responsive}
+
 Similarly, even the company that says “[Email’s About to Die](http://www.wired.com/business/2014/01/next-big-thing-missed-facebook-co-founder-says-email/)” is quietly asking users for an e-mail address to set-up their account. Just because the company does not say "Please provide your e-mail address" doesn't mean that they're not asking for one. Sure, they prioritize a Google account sign-in, but -- as pointed out above -- Google most certainly asks for an e-mail address when creating that account, and the [Google+ Platform API](https://developers.google.com/+/api/oauth) enables the site that uses it -- you guessed it! -- to request the user's e-mail address (as Asana does).
+
+![Caption](/files/email_delivers_asana_asks_for_email.png)
+{: .responsive}
 
 At the end of the day, companies can say "e-mail is dead," but none of them believe what they're saying enough to cut the cord.
 
@@ -42,6 +51,9 @@ Even in this time of "mobile first" news delivery, forward-thinking trailblazers
 For years I've been encouraging the publishers I work with to send MORE e-mail, not less, as every time I've run a test to see how increasing frequency impacts engagement indicators (opens, clicks, etc.) and attrition (unsubscribes, active but not engaged accounts, etc.) the results say that **increasing frequency increases engagement and reduces attrition**. As long as the product fits the frequency, I've not seen much evidence that sending more e-mail pushes people toward unsubscribing. 
 
 More importantly, the data I see on engagement speaks volumes about the role of e-mail in bringing the right kind of traffic back to a site. Most recently, an independent audit was undertaken for a daily online news site that I work with, splitting out site engagement metrics (average time on site, etc.) by those users that subscribe via e-mail and those that do not. Unsurprisingly, e-mail subscribers were spending up to 4x more time on the site than non-subscribers, and the trend was the same across the other engagement metrics. 
+
+![Caption](/files/email_delivers_avg_time_on_site.png)
+{: .responsive}
 
 Higher engagement leads to all kinds of useful stuff, like consistent traffic that often competes with (and sometimes outpaces) traffic from social media sources, as well as higher conversion rates for subscription offers, donation appeals, and so on. Sure, the social media folks will say that e-mail is the "closer" where social media is like the highway billboard that embeds the idea in people's minds (and I'm sure that there's some truth to that), but, personally, I'll continue to encourage the organizations I work with to invest more in the closer than the hard-to-measure display advertising.
 
