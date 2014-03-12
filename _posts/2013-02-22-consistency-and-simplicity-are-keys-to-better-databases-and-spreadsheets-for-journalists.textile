@@ -12,8 +12,6 @@ tags:
 
 mt_id: 2901
 ---
-<a href="http://www.pbs.org/idealab/phillipadsmith/DSCF0712.jpg"><img alt="DSCF0712.jpg" src="http://www.pbs.org/idealab/assets_c/2013/02/DSCF0712-thumb-500x332-2953.jpg" width="500" height="332" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>
-
 <i>This post originally appeared on <a href="http://www.pbs.org/idealab/2013/02/how-journalists-can-think-like-programmers051.html">PBS MediaShift Idea Lab</a></i>
 
 I'm working on a fun little project at the moment that involves pulling data out of a Google Spreadsheet that is being curated by a team of journalists. The interesting thing about this project is that it so clearly illustrates the difference in thinking between people who _regularly_ work with databases (herein called programmers) and those who use them less frequently (herein called journalists). In this particular case, the spreadsheet was initially developed by a more technically inclined editor, but -- nonetheless -- it exhibits some humorous and illustrative shortcomings, which we'll explore here.
