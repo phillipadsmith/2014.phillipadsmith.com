@@ -18,11 +18,11 @@ I'm working on a fun little project at the moment that involves pulling data out
 
 h2. What is a column, what is a row
 
-In one of the earliest books that I read on databases design (and still a personal favorite), "<a href="http://www.amazon.com/gp/product/0321884493/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321884493&linkCode=as2&tag=phillipadsmit-20">Database Design for Mere Mortals</a>," under the heading of "Objectives of good design," it says:
+In one of the earliest books that I read on databases design (and still a personal favorite), <a href="http://www.amazon.com/gp/product/0321884493/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321884493&linkCode=as2&tag=phillipadsmit-20">Database Design for Mere Mortals</a>, under the heading of "Objectives of good design," it says:
 
 bq. Each table in the database represents a single subject, is composed of relatively distinct fields, keeps redundant data to an absolute minimum, and is identified throughout the database by a field with unique values.
 
-In fact, most day-to-day use of SQL-type databases utilizes terminology that matches a spreadsheet quite nicely, specifically: tables, rows, and columns (or, as C.J. Date would insist in his excellent book, "<a href="http://www.amazon.com/gp/product/0596100124/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596100124&linkCode=as2&tag=phillipadsmit-20">Database in Depth: Relational Theory for Practitioners</a>": relations, tuples, and attributes).
+In fact, most day-to-day use of SQL-type databases utilizes terminology that matches a spreadsheet quite nicely, specifically: tables, rows, and columns (or, as C.J. Date would insist in his excellent book, <a href="http://www.amazon.com/gp/product/0596100124/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596100124&linkCode=as2&tag=phillipadsmit-20">Database in Depth: Relational Theory for Practitioners</a>: relations, tuples, and attributes).
 
 Thus, we can think of a Google Spreadsheet as a simple database of sorts that describes a single domain, for example, an upcoming election. Within the spreadsheet there are worksheets (those little tabs along the bottom that I encourage you to use!), and each worksheet represents a table that describes "only one kind of thing, an entity, with its (non-repeating) attributes. A common way to name each table is with a plural noun name, e.g., "Customers, Products, Aircraft":http://www.fredosaurus.com/notes-db/design/terminology.html, etc." 
 
@@ -42,7 +42,7 @@ The bumpy landing that I experience most often, and most viscerally, is the seem
 
 Names are surprisingly tricky things, programatically, because they're made up of several component parts like the first name, middle name, and last name, not to mention the honorific, suffix, and so on. And, in today's multicultural world, even these distinctions are not always straightforward or obvious. 
 
-Take for example a name like "<a href="http://www.leg.bc.ca/mla/38thparl/kwan.htm">Jenny Wai Ching Kwan</a>." What is the first, middle, and last name? For a computer program, names like that can be difficult to guess (or to "parse") from the individual words. This is where the editorial judgment trumps robot journalism: A subject matter expert needs to break that name up into its component parts so that it's easy to work with.
+Take for example a name like <a href="http://www.leg.bc.ca/mla/38thparl/kwan.htm">Jenny Wai Ching Kwan</a>. What is the first, middle, and last name? For a computer program, names like that can be difficult to guess (or to "parse") from the individual words. This is where the editorial judgment trumps robot journalism: A subject matter expert needs to break that name up into its component parts so that it's easy to work with.
 
 Thus, as a rule of thumb, it's often best not to exclusively use "Name" as a column in your worksheet, and instead to separate that into "First name" and "Last name," and -- if you need more information about the name -- create more columns. 
 
