@@ -4,7 +4,6 @@ title: The making of CADIVI Abierta
 dek: A look inside a data bootcamp & a PDF data-liberation workflow
 date:
 summary:         # 140 characters or less!
-date:    '2014-03-19 09:28:39 -0600'                    # This is used in place of the filename
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
 img_sml: '/files/cadivi_abierta_sml.jpg'                          # Default on cover or inline
 img_med: '/files/cadivi_abierta_med.jpg'                          # 640x512px cover, inline
