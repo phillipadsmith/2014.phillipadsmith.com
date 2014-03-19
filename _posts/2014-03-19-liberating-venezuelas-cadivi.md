@@ -29,6 +29,9 @@ The project started simply enough as something we had tried to squeeze in betwee
 
 The PDF in question documents the companies in Venezuela that have asked to buy US dollars through the official exchange system that was put in place in 2004; it describes both the number of requests made over the last decade and also the number of requests fulfilled and the amount of US dollars purchased.
 
+![Screenshot of CADIVI Abierta](/files/cadivi_on_github.png)
+{: .responsive}
+
 ## Searching for data
 
 Finding the data was probably the easiest part of this project because data-savvy journalists in Venezuela have been sensibly making copies of whatever data the government releases, predicting that it might not always be available in the future. During the workshop, Emilia delivered a tour-de-force of how to find data online using site-specific searches and other tricks (all available in Spanish [here](http://ps.ht/ipys-ven-workshop-slides)), demonstrating how to search for information about companies that receive government contracts on the [Servicio Nacional de Contrataciones](http://rncenlinea.snc.gob.ve/) site and about those same companies, or their executives, in the [Venezuelan legal system](http://www.tsj.gov.ve). We put some of these ideas together in the final version of [CADIVI Abierta](http://phillipadsmith.github.io/cadivi/), making it easier to search for related records right from the company listing. The PDF that makes up the listing is downloadable from the CADIVI site [here](http://www.cadivi.gob.ve/empresasdivisas.html) or -- if that's not available -- on Github [here](https://github.com/phillipadsmith/cadivi/blob/master/data/empresas_diciembre2012.pdf).
@@ -36,6 +39,9 @@ Finding the data was probably the easiest part of this project because data-savv
 ## Extracting the data
 
 The next step was to pull the data out of the PDF and into a more manipulation-friendly format. Given that this was a 153-page PDF that was easier said than done. Historically, this might have required a Herculean effort, but today -- thanks to the work of  [Manuel Aristarán](http://jazzido.com/) and the others working on [Tabula](http://tabula.nerdpower.org/) -- it was as straightforward as highlighting the table in question and choosing "repeat area" and waiting for the process to finish (about an hour, if I recall correctly, to churn through all the pages). The end result was a [10,000+ row comma-separated values (CSV) file](https://github.com/phillipadsmith/cadivi/blob/master/data/empresas_all.csv) that we then uploaded to [Google Spreadsheets](https://docs.google.com/spreadsheet/ccc?key=0AgZzmiG9MvT4dFU5OGVsNWxOcEhESVpKXzhlM2oyVXc&usp=sharing). This was precisely the problem that Tabula was developed to address, and it did so with impressive accuracy. 
+
+![Screenshot of Tabula extracting data from PDF](/files/cadivi_tabula.png)
+{: .responsive}
 
 ## Cleaning the data
 
@@ -50,6 +56,9 @@ The biggest cleaning challenges we faced came from differences in numerical form
 The next step after our clean-up work, given that we couldn't check the entire data set by eye, was to make an effort to confirm that the data was still accurate. To do that, we made use of [a conditional statement in Google Spreadsheets](http://spreadsheets.about.com/od/otherspreadsheets/qt/090808-google-spreadsheet-if-function.htm) as well as [conditional formatting](https://support.google.com/drive/answer/78413?hl=en) to verify at minimum that each row still added up correctly. Rows that didn't add up were highlighted in red, making it easy to check those rows and make adjustments if necessary. You can see this technique at work in the Google Spreadsheet [here](https://docs.google.com/spreadsheet/ccc?key=0AgZzmiG9MvT4dFU5OGVsNWxOcEhESVpKXzhlM2oyVXc&usp=sharing) in column "S" called "Highlight Problems," and you'll note that a rounding error is the culprit for the remaining red rows.
 
 The other issue was related to the extraction of the RIF (company ID) column from the PDF, where extraneous characters had slipped in from the extraction step. Again, knowing what format the RIF should take -- single letter followed by a hyphen, followed by a string of nine digits -- these errors where quickly highlighted using the same approach described above and cleaned by hand.
+
+![Screenshot of Google Spreadsheet's conditional formatting to spot-check the data](/files/cadivi_google_spreadsheet.png)
+{: .responsive}
 
 ## Success! Now what...?
 
