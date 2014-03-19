@@ -71,13 +71,13 @@ The last step was to mix in a bit of [Bootstrap CSS](http://getbootstrap.com/) m
 
 Hopefully, this gives a sense of the workflow behind a small-D "data liberation" project, and how a typical two-day data bootcamp can unfold. If this type of thing interests you and you live in British Columbia, you should consider [joining us on June 7th & 8th in Vancouver for a two-day data boot camp, organized by The Tyee and in partnership with Langara Collage.](http://thetyee.ca/MasterClass/Spring2014/Data-Bootcamp/)
 
-I was spurred to complete this write up of the process behind the [CADIVI Abierta](http://phillipadsmith.github.io/cadivi/) for a couple of reasons: One, it appeared as if the official site and all of its data [had become inaccessible](https://twitter.com/phillipadsmith/status/443745930731216896). However, I've since hear that some in Venezuela are still able to reach it, so it may just be a temporary problem. 
+I was spurred to complete this write up of the process behind the [CADIVI Abierta](http://phillipadsmith.github.io/cadivi/) for a couple of reasons: One, it appeared as if the official site and all of its data [had become inaccessible](https://twitter.com/phillipadsmith/status/443745930731216896). However, I've since heard that some in Venezuela are still able to reach it, so it may just be a temporary problem. 
 
 Second was recognizing that Venezuela's president, Nicolas Maduro, had recently [announced](http://www.el-nacional.com/politica/Maduro-mantendra-creara_0_337766518.html) that the CADIVI system would be replaced with something else. Knowing that process might be underway, it seemed like a good time to let folks know that the existing data is still available. Emilia said recently "I think that is going to be very useful," and I hope she is proven right. 
 
 Let's fact it, sometimes it takes people on the streets before things start to get moving again. 
 
-Got your own liberation story? Drop me a note on [Twitter](http://twitter.com/phillipadsmith) or here in the comments.
+Got your own data liberation story? Drop me a note on [Twitter](http://twitter.com/phillipadsmith) or here in the comments.
 
 
 
