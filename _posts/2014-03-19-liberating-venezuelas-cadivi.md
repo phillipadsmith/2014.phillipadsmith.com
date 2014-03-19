@@ -84,7 +84,7 @@ I was spurred to complete this write up of the process behind the [CADIVI Abiert
 
 Second was recognizing that Venezuela's president, Nicolas Maduro, had recently [announced](http://www.el-nacional.com/politica/Maduro-mantendra-creara_0_337766518.html) that the CADIVI system would be replaced with something else. Knowing that process might be underway, it seemed like a good time to let folks know that the existing data is still available. Emilia said recently "I think that is going to be very useful," and I hope she is proven right. 
 
-Let's fact it, sometimes it takes people on the streets before things start to get moving again. 
+Let's face it, sometimes it takes people on the streets before things start to get moving again. 
 
 Got your own data liberation story? Drop me a note on [Twitter](http://twitter.com/phillipadsmith) or here in the comments.
 
