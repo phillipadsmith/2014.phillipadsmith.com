@@ -10,9 +10,6 @@ Let's face it -- technically speaking, comments are broken. With few exceptions,
 
 Web-based discussion threads have been part of the Internet experience since the late 1990s. However, the form of user commentary has stayed fairly static, and -- more importantly -- few solutions have been presented that address the complaints of publishers, commenters, or those of us who actually read comments.
 
-<a href="https://drumbeat.org/en-US/challenges/beyond-comment-threads/">
-<img alt="beyond comment threads.jpg" src="http://www.pbs.org/idealab/beyond%20comment%20threads.jpg" width="240" height="305" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></a>
-
 Publishers, for the most part, want software that will stamp out [trolls](http://en.wikipedia.org/wiki/Troll_%28Internet%29) and outsource the policing to the community itself (or, failing that, to [Winnipeg](http://www.insidethecbc.com/cbc-to-outsource-comment-moderation/)). Commenters, on the other hand, want a functional mini-soapbox from which to have their say -- preferably something that is easy to log into and has as few limitations as possible (including moderation). The rest of us are left to deal with the overly complicated switches, flashing lights, and rotary knobs that we're expected to know how to use to dial in to the conversation so it's just right for our individual liking, not too hot and not too cold.
 
 Thankfully, there is an opportunity _today_ to really innovate. [New capabilities in the browser](https://demos.mozilla.org/), and [emerging standards](http://emergentbydesign.com/2011/04/11/88-projects-standards-for-data-ownership-identity-a-federated-social-web/) provide an opportunity to completely rethink the relationship between news users and producers -- between those who comment and those who are commented upon -- and to demonstrate new forms of user interaction that are atomic, aggregated, augmented, or just plain awesome.
@@ -36,8 +33,6 @@ No wonder publishers are still asking questions about the value of comments: It 
 ## The Slashdot Era
 
 Sometime in late 1997 or 1998, a bunch of hackers who agreed that commenting was broken (or -- at that time -- just simply missing) on most news sites decided to take matters into their own hands. Enter the era of [Slashdot](http://ask.slashdot.org/story/11/05/09/203221/Ask-Slashdot-Going-Beyond-Comment-Threads), an early example of the kind of sites that would begin to separate church from state by disconnecting the discussion from the content being discussed. These sites -- with lots of comment and little content in the editorial sense -- threw some powerful ideas into the mix: community, identity and [karma](http://robertcarlsen.net/2009/12/03/motivations-karma-1039) (or incentives).
-
-<a href="http://www.pbs.org/idealab/assets_c/2011/05/slashdot-thumb-550x430-1914.jpg"><img alt="Thumbnail image for slashdot.jpg" src="http://www.pbs.org/idealab/assets_c/2011/05/slashdot-thumb-550x430-1914-thumb-250x195-1915.jpg" width="250" height="195" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" /></a>
 
 Fast-forward to today, more than 10 years later, and not much has changed. 
 
