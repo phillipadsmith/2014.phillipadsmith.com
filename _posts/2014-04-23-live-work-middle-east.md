@@ -17,7 +17,7 @@ tags:                                                   # E.g., frontpage
 - frontpage
 ---
 
-When my partner, Tania, said "I'm booked for a one-week assignment in Israel, it would be great if you could join me," I reminded her of my commitment to try to fly less by spending [at least four-weeks wherever I land](http://phillipadsmith.com/2013/10/when-i-fly-i-try-to-stay-put-for-a-while-it-works.html). Unfazed as always, she called and rearranged her return flight from Tel Aviv, and we started making plans to leave Mexico and live and work from the Middle East for a month.
+When my partner, Tania, said "I'm booked for a one-week assignment in Israel, it would be great if you could join me," I reminded her of my commitment to try to fly less by spending [at least four-weeks wherever I land](http://phillipadsmith.com/2013/10/when-i-fly-i-try-to-stay-put-for-a-while-it-works.html). Unfazed as always, she called and rearranged her return flight from Tel Aviv, and we started making plans to leave Mexico and to live and work from the Middle East for a month.
 {: .lead}
 
 I find it challenging to write about living and working remotely without feeling a small bit like one of those people trying to sell a [4-hour work week](http://www.amazon.com/gp/product/B002WE46UW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002WE46UW&linkCode=as2&tag=phillipadsmit-20)-esq nomadic lifestyle that "anyone" can have. I don't believe it's possible for everyone; in fact, it's probably unlikely if a person is  socially or economically disadvantaged in any number of the typical ways. That said, if your advantages in life make it possible for you to consider, I highly recommend it **right now** for a few reasons:
@@ -94,7 +94,7 @@ Last but not least, when I'm not working or relaxing or exploring, there are oft
 
 To get through those times, I rely on:
 
-* [Safari Online Books](http://www.safaribooksonline.com/): I can't recommend this service enough. Every technical and programming book that you'd ever want, often before their published, in the palm of your hand, and offline too. Well worth the $472.89 that I invest every year.
+* [Safari Online Books](http://www.safaribooksonline.com/): I can't recommend this service enough. Every technical and programming book that you'd ever want, often before they're published, in the palm of your hand, and offline too. Well worth the $472.89 that I invest every year.
 * [Instapaper](https://www.instapaper.com/): Obvious, but if you're not using it, you should be. I send all the articles from a handful of sites directly into Instapaper, then catch-up while on the plane, train, or automobile. 
 * [Video Download Pro](https://itunes.apple.com/us/app/video-download-pro-ibolt-downloader/id481606171?mt=8): Not great, nor even good, but it does the job. Download videos from the Web to an iPad for offline viewing. Great way to watch those software demos that I never have time for.
 
