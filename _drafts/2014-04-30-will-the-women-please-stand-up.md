@@ -2,20 +2,20 @@
 
 ## Ensuring a diversity of voices is hard work
 
-Without fail, eight out of ten of the women I reached out who could not participate, responded to me with the name of a man to take their place. Maybe that man is the right person at that organization for the topic I'm pitching, but how does that help in a world where most tech events are a wall of pale-male faces? 
+Without fail, eight out of ten of the women I reached out to, recommended a man to take their place. Maybe that man is the right person at that organization for the topic I'm pitching, but how does that help in a world where most tech events are a wall of pale-male faces? 
 {.lead}
 
 For the last few weeks, I've been working away to produce a little event that will happen during [Internet Week in New York](TK). 
 
-We imagined an event with "no boring panels," something that strives to keep participants interested as well as bringing them into the conversation. 
+We imagined an event with "no boring panels," something that strives to keep participants interested as well as contributing to the conversation. 
 
 Like many, I've been to a lot of these events. The ones I enjoy most are the ones that bring in new voices: people I haven't heard from before; not the usual suspects. Let's call it a "diversity of voices."
 
 However, achieving a diversity of voices at an event is surprisingly hard work! 
 
-This isn't new concept to me, as I've been producing events on-and-off for more than a decade now.  In 2004, I was discussing this very topic with the co-organizers of [Web of Change](http://webofchange.org), after having attended the Designs On Democracy gathering in Berkeley, California -- a gathering so diverse that it still stands out in my mind today as one of the best events I've ever had the opportunity to attend.
+This isn't a new concept to me, as I've been producing events on-and-off for more than a decade now.  In 2004, I was discussing this very topic with the co-organizers of [Web of Change](http://webofchange.org), after having attended the Designs On Democracy gathering in Berkeley, California -- a gathering so diverse that it still stands out in my mind today as one of the best events I've ever had the opportunity to attend.
 
-The secret of Designs On Democracy event was described to me simply as "getting that diversity of voices _involved_, and involved **early**" so that the content will resonate with a broader audience. 
+The secret of the Designs On Democracy event was described to me simply as "getting that diversity of voices _involved_, and involved **early**" so that the content will resonate with a broader audience. 
 
 We didn't have that opportunity for this Internet Week event, unfortunately. The event coalesced into something real, very unexpectedly: one minute we were saying "Hey, wouldn't it be timely to do an event like this?" the next minute "Holy cow, we're doing an event like this and _soon_!"
 
