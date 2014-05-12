@@ -17,7 +17,7 @@ tags:                                                   # E.g., frontpage
 - engagement
 ---
 
-Too many believe that the act of hitting the "publish" button is the end of the process when, in fact, it is the beginning. Those that understand the significance of this shift are already making headlines. Many are still trying to figure it out. If you're curious, come join us at the City Winery (NYC) next Monday morning, May 19th, for "[A breakfast engagement.](http://events.disqus.com/nyc/a-breakfast-engagement/)"
+Too many believe that the act of hitting the "publish" button is the end of the process when, in fact, it is the beginning. Those that understand the significance of this shift are already making headlines. Many are still trying to figure it out. If you're curious, come join us at the City Winery (NYC) next Monday morning, May 19th, for "[A breakfast engagement.](http://events.disqus.com/nyc/a-breakfast-engagement/)" with [Fred Wilson](http://twitter.com/fredwilson), [Christina Warren](http://twitter.com/film_girl) and many more.
 {: .lead}
 
 I woke up this morning, hopped on the streetcar, and started reading a report just published by the Newsroom Innovation Team at the New York Times exploring what the Times needs to be thinking to stay ahead of the digital curve. The recommendations in the report were summed up nicely for me by this passage that [Mathew Ingram highlighted in his coverage](http://gigaom.com/2014/05/09/internal-innovation-report-says-the-new-york-times-needs-to-up-its-digital-game-or-else/):
