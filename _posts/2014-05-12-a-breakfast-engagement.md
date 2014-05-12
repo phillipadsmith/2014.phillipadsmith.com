@@ -5,7 +5,7 @@ dek:    Do we measure what matters?
 summary:         # 140 characters or less!
 img_opt: 'inline'                                        # Options: 'cover' or 'inlne' or 'none'
 img_sml: '/files/engage_header.png'                          # Default on cover or inline
-img_med: '/files/engage_header.pngg'                          # 640x512px cover, inline
+img_med: '/files/engage_header.png'                          # 640x512px cover, inline
 img_lrg: '/files/engage_header.png'                          # 800x640px cover, inline
 # img_xlg: '/ui/img/1200x960.jpg'                         # 1200x960px cover only
 img_alt: ''                                             # Alt for inline
