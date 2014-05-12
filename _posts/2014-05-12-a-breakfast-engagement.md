@@ -14,6 +14,7 @@ img_url: ''                                             # URL to original image
 category: convening                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
+- engagement
 ---
 
 Too many believe that the act of hitting the "publish" button is the end of the process when, in fact, it is the beginning. Those that understand the significance of this shift are already making headlines. Many are still trying to figure it out. If you're curious, come join us at the City Winery (NYC) next Monday morning, May 19th, for "[A breakfast engagement.](http://events.disqus.com/nyc/a-breakfast-engagement/)"
