@@ -43,7 +43,7 @@ The event has been coming together very, very quickly and just this past Friday 
 
 ![Fred Wilson interviewed by Christina Warren](/files/engage_whos_there.png){: .responsive}
 
-Next we'll feature a series of quick-hitting, Ignite-style presentations from Ro Gupta (Disqus), Carol Kruse (The CMO Club), Jacqui Maher (New York Times), Romy Newman (Wall Street Journal), Hilary Parker (Etsy), Don Steele (Comedy Central) and Becky Wang (Sunday Dinner). It will be an information-packed 60-minute session: real-world case studies from the trenches. We'll follow that with a great head-to-head debate, featuring Tony Haile from Chartbeat and Jay Lauf from Quartz/Atlantic Media.
+Next we'll feature a series of quick-hitting, Ignite-style presentations from of the smartest people in the business: Ro Gupta (Disqus), Carol Kruse (The CMO Club), Jacqui Maher (New York Times), Romy Newman (Wall Street Journal), Hilary Parker (Etsy), Don Steele (Comedy Central) and Becky Wang (Sunday Dinner). It will be an information-packed 60-minute session: real-world case studies from the trenches. We'll follow that with a great head-to-head debate, featuring Tony Haile from Chartbeat and Jay Lauf from Quartz/Atlantic Media.
 
 We've pulled this event together quickly, but I'm confident that it's going to be one of the best of Internet Week New York. There are BIG QUESTIONS being discussed right now -- How do we measure engagement? What's the right metric? Do social interactions matter? What's the value of comments? Who pays for news? What new forms of advertising are going to fund news? And many more… -- and this is our shot at upping the ante, dispelling some myths and hot air, and talking about tangible, real-world solutions. 
 
