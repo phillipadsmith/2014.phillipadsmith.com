@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   Understanding Engagement
-dek:    Do we measure what matters?
+dek:    Do we measure what matters? Find out on May 19th in New York.
 summary:         # 140 characters or less!
 img_opt: 'inline'                                        # Options: 'cover' or 'inlne' or 'none'
 img_sml: '/files/engage_header.png'                          # Default on cover or inline
