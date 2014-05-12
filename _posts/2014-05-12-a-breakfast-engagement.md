@@ -20,7 +20,7 @@ tags:                                                   # E.g., frontpage
 Too many believe that the act of hitting the "publish" button is the end of the process when, in fact, it is the beginning. Those that understand the significance of this shift are already making headlines. Many are still trying to figure it out. If you're curious, come join us at the City Winery (NYC) next Monday morning, May 19th, for "[A breakfast engagement.](http://events.disqus.com/nyc/a-breakfast-engagement/)"
 {: .lead}
 
-A woke up this morning, hopped on the streetcar, and started reading a report just published by the Newsroom Innovation Team at the New York Times exploring what the Times needs to be thinking to stay ahead of the digital curve. The recommendations in the report were summed up nicely for me by this passage that [Mathew Ingram highlighted in his coverage](http://gigaom.com/2014/05/09/internal-innovation-report-says-the-new-york-times-needs-to-up-its-digital-game-or-else/):
+I woke up this morning, hopped on the streetcar, and started reading a report just published by the Newsroom Innovation Team at the New York Times exploring what the Times needs to be thinking to stay ahead of the digital curve. The recommendations in the report were summed up nicely for me by this passage that [Mathew Ingram highlighted in his coverage](http://gigaom.com/2014/05/09/internal-innovation-report-says-the-new-york-times-needs-to-up-its-digital-game-or-else/):
 
 > “Publishing, in today’s crowded environment, includes taking responsibility for and assuming ownership of the impact of our quality journalism … From the moment a story is published, we should host the conversation about it.” -- [The New York Times Newsroom Innovation Team](http://www.capitalnewyork.com/article/media/2014/05/8545059/emnew-york-timesem-completes-innovation-report-led-sulzberger-scion)
 
@@ -39,7 +39,7 @@ Anyway, I'm pretty excited to announce publicly the outcome of all those convers
 
 ![Fred Wilson interviewed by Christina Warren](/files/engage_fw_and_cw.png){: .responsive}
 
-The event has been coming together very, very quickly and just this past Friday we confirmed that [Christina Warren](https://twitter.com/film_girl), Mashable's Senior Technology Analyst will host our one-on-one interview with Fred Wilson, high-profile blogger, venture capitalist and managing partner at Union Square Ventures. We like to think that Fred Wilson is one of the people that "put the ideas of native advertising and consumer engagement on the map," and we know that Christina is going to hold his feet to the fire to give us the real scoop on what's coming next.
+The event has been coming together very, very quickly and just this past Friday we confirmed that [Christina Warren](https://twitter.com/film_girl), Mashable's Senior Technology Analyst, will host our one-on-one interview with Fred Wilson, high-profile blogger, venture capitalist and managing partner at Union Square Ventures. We like to think that Fred Wilson is one of the people that "put the ideas of native advertising and consumer engagement on the map," and we know that Christina is going to hold his feet to the fire to give us the real scoop on what's coming next.
 
 ![Fred Wilson interviewed by Christina Warren](/files/engage_whos_there.png){: .responsive}
 
