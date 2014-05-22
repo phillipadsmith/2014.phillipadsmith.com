@@ -77,7 +77,7 @@ We started with the mandate of "No. Boring. Panels!" and I think we achieved tha
 
 I'm more convinced than ever that we've just uncovered the surface of this conversation. I'm convinced that there are solutions within reach. I'm confident that we just need to get the right people in the room one or two more times to see this conversation move forward with some impressive momentum.
 
-And a key learning for me, gleaned in those anxiety-ridden moments of creative constraint -- as the clock ticked toward 9:30AM, realizing that Christina Warren our star interviewer was still stuck in traffic -- we ran through the options in the case we needed to start without Christina. In seconds it was clear what the best option was: let the people in the room lead the interview. 
+And a key learning for me, gleaned in those anxiety-ridden moments of creative constraint -- as the clock ticked toward 9:30AM, realizing that Christina Warren our star interviewer was still stuck in traffic -- we ran through the options in the case we needed to start without Christina. In seconds it was clear what the best option would have been if we had to choose: let the people in the room lead the interview. 
 
-That learning will be at the core of our the event, as we aim to close the gap between publishers, advertisers, platforms and people by actually bringing them together to get their hands dirty. If that's appealing to you, [please stay in touch](https://twitter.com/phillipadsmith).
+That learning will be at the core of our next event -- which we hope to announce soon -- as we continue to try to close the gap between publishers, advertisers, platforms and **people**, by actually bringing them together to get their hands dirty. If that's appealing to you, [please stay in touch](https://twitter.com/phillipadsmith).
 
