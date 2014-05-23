@@ -20,7 +20,7 @@ tags:                                                   # E.g., frontpage
 
 ---
 
-With the benefit of a few days to reflect, review and receive feedback, one thing is clear: our "Breakfast Engagement" event was just the beginning of a very necessary conversation. What advertisers and publishers measure and what matters to the people they're trying to reach is still an evolving area in online journalism. 
+With the benefit of a few days to reflect, review and receive feedback, one thing is clear: our "Breakfast Engagement" event was just the beginning of a very necessary conversation. What advertisers and publishers measure and what matters to the people they're trying to reach is still evolving rapidly. 
 {: .lead}
 
 <blockquote class="twitter-tweet" lang="en"><p>If we&#39;re going to be stuck with a few simple metrics, let&#39;s make sure they support quality on the web, says <a href="https://twitter.com/arctictony">@arctictony</a> <a href="https://twitter.com/search?q=%23EngageIWNY&amp;src=hash">#EngageIWNY</a></p>&mdash; Sean Blanchfield (@seanblanchfield) <a href="https://twitter.com/seanblanchfield/statuses/468425317674389504">May 19, 2014</a></blockquote>
@@ -30,7 +30,7 @@ With the benefit of a few days to reflect, review and receive feedback, one thin
 
 ### The question we were trying to push forward
 
-When we dived into producing [A Breakfast Engagement](http://events.disqus.com/nyc/a-breakfast-engagement/), we were convinced that -- just as the conversation about new ways of measuring engagement was coming to a head -- there was still very few good answers about what the shift toward measuring engagement vs. measuring clicks or page views means. And publishers were at a loss on how they can take advantage of it.
+When we dived into producing [A Breakfast Engagement](http://events.disqus.com/nyc/a-breakfast-engagement/), we were convinced that -- just as the conversation about new ways of measuring engagement was coming to a head -- was still a fair bit of “fluff” and very few good answers about what the shift toward measuring engagement vs. measuring clicks or page views means. And publishers were at a loss on how they can take advantage of it.
 
 We know this: we live in a page view world. The majority of the Web's advertising infrastructure is set-up to work that way and that's what advertisers and agencies are familiar with. At the end of the day, as much as the problems with the model are obvious -- click farms and fraudulent clicks, low user engagement, and so on -- it's a model that scales impressively.
 
@@ -58,7 +58,7 @@ Starting with the [evocative Fred Wilson interview](https://www.youtube.com/watc
 
 1. Paywalls vs. user engagement. Fred Wilson doesn't believe they can co-exist.  This played out as one of the more interesting dynamics that was debated that morning.
 1. When you’ve got engagement nailed, you’re able to tell a story that’s meaningful and users don’t have a shitty experience.
-1. If we can put a new focus on what the goal is for everybody, maybe we can get away from the unproductive debates about new forms of advertising, like native ads or branded content, and get to work experimenting with some new ideas instead.
+1. If we can put a new focus on what the goal is for everybody, maybe we can get away from the unproductive debates about new forms of advertising, like native ads or branded content, and get to work experimenting instead.
 1. A person's "attention" is definitely one of the more valuable measurements we have. Let's start sharing that story with advertisers.
 1. However, on the flip side, measuring attention isn't easy! As Tony asked "What's worth more: when a user views all of short video, or half of a long one?" Each publisher is going to need to figure that out.
 1. Resolving the tension between "viewed ads" (the ideal) and "delivered ads" (what is currently measured) also isn't easy. There's only so much above-the-fold real estate to go around.
