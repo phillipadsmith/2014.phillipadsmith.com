@@ -49,7 +49,7 @@ Here's what participants tackled in their final presentations:
 
 * Homeless shelters in metro Vancouver: investigating if Vancouver's shelters are located where they are needed ([CartoDB][cartodb])
 
-* Where do students come from: looking at the source of students journey's to B.C. for higher education ([Tableau Public][tableau])
+* Where do students come from: looking at the source of students' journeys to B.C. for higher education ([Tableau Public][tableau])
 
 * National Security Letters & preemptive action: do preventative arrests deter crime? ([Google Sheets][sheets])
 
