@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   Data Boot Camp B.C.
-dek:    Two-days, ten compelling, BC-focused data stories
+dek:    Two-days, ten compelling, B.C.-focused data stories
 summary:         # 140 characters or less!
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
 img_sml: '/files/databootcampbc_sml.png'                          # Default on cover or inline
@@ -14,10 +14,10 @@ category: convening                                        # Just one of the 4xC
 tags:                                                   # E.g., frontpage
 - frontpage
 ---
-A few short months after teaming up to develop  a [two-day data boot camp workshop for investigative reporters in Venezuela][venezuela], [Hugh Stimson](http://twitter.com/hughstimson) and I were able to bring the essence of the [data mapping & visual storytelling boot camp][bootcampbc] to Vancouver, B.C., on June 7 & 8th.
+A few short months after teaming up to develop  a two-day data boot camp workshop for investigative reporters in Venezuela, [Hugh Stimson](http://twitter.com/hughstimson) and I were able to bring the essence of the [data mapping & visual storytelling boot camp to Vancouver, B.C., on June 7 & 8th][bootcampbc].
 {: .lead}
 
-Unlike the aftermath of our workshops in Venezuela, there are no riots (as of yet)  breaking out in the streets of downtown Vancouver. The results may have been less incendiary, but they were no less impressive. By the end of the [two-day workshop at Langara College][bootcampbc], more than 10 B.C. stories were presented using maps & visualizations.
+Unlike the aftermath of our [workshops in Venezuela](http://phillipadsmith.com/2014/02/ipys-venezuela-data-journalism-workshops.html), there are no riots (as of yet)  breaking out in the streets of downtown Vancouver. The results may have been less incendiary, but they were no less impressive. By the end of the [two-day workshop at Langara College][bootcampbc], more than 10 B.C. stories were presented using maps & visualizations.
 
 ## Canada's data gold mind
 
