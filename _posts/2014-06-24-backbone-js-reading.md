@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   'Weekend reading: Backbone.js'
-dek:   Two quick backbone.js book reviews
+dek:   Two book reviews from the road
 summary:         # 140 characters or less!
 img_opt: 'inline'                                        # Options: 'cover' or 'inlne' or 'none'
 img_sml: '/files/books_backbone_sml.png'                          # Default on cover or inline
