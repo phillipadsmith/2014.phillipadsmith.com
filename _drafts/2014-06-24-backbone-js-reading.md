@@ -21,7 +21,7 @@ tags:                                                   # E.g., frontpage
 With several hours of road between Vancouver and [Tofino][tofino], not to mention a couple of ferry boat journeys, I threw two recently published books into my "offline book bag" and started reading.
 {: .lead}
 
-In the few moments when I wasn't out on a boat, getting  sun burnt, or watching whales off the majestic coast of B.C. this past weekend, I was hiding out with an espresso and my iPad taking furious notes on everyone's favourite JavaScript library, [Backbone.js][backbone].
+In the few moments when I wasn't out on a boat, getting sunburnt, or watching whales off the majestic coast of B.C. this past weekend, I was hiding out with an espresso and my iPad taking furious notes on everyone's favourite JavaScript library, [Backbone.js][backbone].
 
 Though Backbone has been around for almost four years now, it only reached 1.0 status -- typically a release that developers consider to be stable enough to  support for a while -- around this time last year. 
 
@@ -31,7 +31,7 @@ As I sat down and sketched out a couple of projects on the horizon that would ne
 
 Many years ago, I made one of the best investments of my business life: A subscription to [Safari Books Online][safari]. I believe that I get a big return on investment for the $400 that it costs each year -- basically, every technical book under the sun at my fingertips. And thanks to the "offline book bag" feature, I can load up the iPad version of the app with my current reading list for Internet-free enjoyment.
 
-The first book I read was by _[Developing a Backbone.js Edge][backboneedge]_ by Bleeding Edge Press (one of the nice things about [Safari Online Books][safari] is that they've got agreements with just about every publisher in the technology books space). 
+The first book I read was by _[Developing a Backbone.js Edge][backboneedge]_ Bleeding Edge Press (one of the nice things about [Safari Online Books][safari] is that they've got agreements with just about every publisher in the technology books space). 
 
 _Developing a Backbone.js Edge_ was a quick read. It covered all of the basics of the library without going into too much detail. Definitely a better starting point than the Backbone documentation for those not familiar with the basic concepts that separate this library from other JavaScript frameworks. 
 
