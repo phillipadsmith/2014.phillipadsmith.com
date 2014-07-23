@@ -37,7 +37,7 @@ Luckily (for me!), I'm only going to look at project bootstrapping today, so we 
 
 So, on to **bootstrapping!**
 
-The get a project underway, there are typically a handful of concerns: installation of the libraries and modules required by the static app stack, project layout & source code repository creation, setting stack-specific configuration options and secrets, and a process for extending or building on existing templates or blueprints. 
+To get a project underway, there are typically a handful of concerns: installation of the libraries and modules required by the static app stack, project layout & source code repository creation, setting stack-specific configuration options and secrets, and a process for extending or building on existing templates or blueprints. 
 
 Let's take those one at a time:
 
@@ -49,7 +49,7 @@ Chicago Tribune's Tarbell take a mostly self-contained approach, thus the user o
 
 The NPR app template set-up is a bit more manual and requires Node and NPM to be installed to manage the static assets pipeline (compiling, compressing, and minifying resources). 
 
-There are many different approaches that can be seen in the range of [static site generators][staticsitegenerators] out there.  You can pretty much pick-and-choose based on the features you're after and programming language you're most familiar with, and then replace Python's `pip install` with the equivalent of `gem install`, `npm install`, or `cpanm install` to download and install the required modules. 
+There are many different approaches that can be seen in the range of [static site generators][staticsitegenerators] out there.  You can pretty much pick and choose based on the features you're after and programming language you're most familiar with, and then replace Python's `pip install` with the equivalent of `gem install`, `npm install`, or `cpanm install` to download and install the required modules. 
 
 Before installing these modules, it's important to think about how they're going to be managed going forward, both on a local development machine and when deployed (if any tooling is necessary during deployment). Both Tarbell and NPR's template work with virtual environments in Python, and there's an equivalent in most other languages, e.g., Ruby's [rbenv](https://github.com/sstephenson/rbenv) and [Bundler](http://bundler.io/) and Perl's [plenv](https://github.com/tokuhirom/plenv) and [Carton](https://github.com/miyagawa/carton). These tools are incredibly useful as your "collection" of static apps grow and their requirements start to drift apart.
 
@@ -67,9 +67,9 @@ In the case of Tarbell, some data can be passed into the project directly from t
 
 ## Templates or blueprints
 
-Last but not least, no static app stack would be complete without templates to extend or build on top of. These templates can be as sparse as providing an example of a "page" and a "post," or extensive enough to provide a the building blocks for many different types of content, e.g., slides, maps, timelines, and so on. 
+Last but not least, no static app stack would be complete without templates to extend or build on top of. These templates can be as sparse as providing an example of a "page" and a "post," or extensive enough to provide the building blocks for many different types of content, e.g., slides, maps, timelines, and so on. 
 
-At minimum, these template folders typically contain boilerplate code for each page's "wrapper" elements (head, header, footer, etc) and a pattern for including various widgets for advertising, analytics, and common inner-page elements (sidebars, etc.). 
+At minimum, these template folders typically contain boilerplate code for each page's "wrapper" elements (head, header, footer, etc.) and a pattern for including various widgets for advertising, analytics, and common inner-page elements (sidebars, etc.). 
 
 Each system's approach to working with templates is a little different: Tarbell's pages inherit or override the included blueprints; NPR app template pages extend from a base template; Jekyll projects can build on the provided layouts. 
 
