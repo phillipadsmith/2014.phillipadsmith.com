@@ -20,7 +20,7 @@ tags:                                                   # E.g., frontpage
 - newtechstacks
 ---
 
-At the end of the day, [what makes for a great static news app toolchain](http://phillipadsmith.com/2014/07/recipes-for-delicious-tasting-static-news-apps.html)? To answer this question, I took a much closer look at what other news organizations are already doing in this space.
+[What makes for a great static news app toolchain](http://phillipadsmith.com/2014/07/recipes-for-delicious-tasting-static-news-apps.html)? To answer this question, I took a much closer look at what other news organizations are already doing in this space.
 {: .lead}
 
 The two obvious examples are the [NPR Visuals team][nprvisuals] and their [NPR static app template][nprtemplate], as well as the Chicago Tribune's [news apps team][chinewsapps] and their no-CMS CMS [Tarbell][tarbell]. Unpacking [the][nprtemplatedocs] [patterns][tarbelldocs] of those two open source projects, alongside my own experiences, presents a fairly clear picture of the component parts of the stack:
