@@ -10,14 +10,15 @@ img_sml: '/files/2014/07/24/the-tao-of-static-news-app-development/tao_sml.jpg' 
 img_med: '/files/2014/07/24/the-tao-of-static-news-app-development/tao_med.jpg'                          # 640x512px cover, inline
 img_lrg: '/files/2014/07/24/the-tao-of-static-news-app-development/tao_lrg.jpg'                          # 800x640px cover, inline
 img_xlg: '/files/2014/07/24/the-tao-of-static-news-app-development/tao_xlg.jpg'                         # 1200x960px cover only
-img_alt: ''                                             # Alt for inline
-img_caption: ''                                         # Caption for either
-img_url: ''                                             # URL to original image
+img_alt: 'Creative commons photo by Pascal on Flickr'                                             # Alt for inline
+img_caption: 'The Tao of static news app development'                                         # Caption for either
+img_url: 'https://www.flickr.com/photos/pasukaru76/5174278607'                                             # URL to original image
 category: coding                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
 - staticnewsapps
 - newstechstacks
+- jekyll
 ---
 It's great that there are [all][nprtemplate] [these][tarbell] [tools][jekyllrb] for [bootstrapping a static news app](http://phillipadsmith.com/2014/07/bootstrapping-the-static-news-app.html), but was is the day-to-day experience of developing with them, or using them as a reporter? That's what we're exploring today.
 {: .lead}
