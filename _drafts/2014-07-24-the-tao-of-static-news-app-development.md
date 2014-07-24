@@ -22,7 +22,7 @@ tags:                                                   # E.g., frontpage
 It's great that there are [all][nprtemplate] [these][tarbell] [tools][jekyllrb] for [bootstrapping a static news app](http://phillipadsmith.com/2014/07/bootstrapping-the-static-news-app.html), but was is the day-to-day experience of developing with them, or using them as a reporter? That's what we're exploring today.
 {: .lead}
 
-Building static apps has come a long way over the last few years and several key improvements have made the process much smoother. I touched on [some of those concepts yesterday](http://phillipadsmith.com/2014/07/bootstrapping-the-static-news-app.html) -- e.g., project scaffolding & HTML tempting systems that enable the use of includes and inheritance -- and I'll run though some of the other key ingredients for a [delicious tasting static news app](http://phillipadsmith.com/2014/07/recipes-for-delicious-tasting-static-news-apps.html) today, including:
+Building static apps has come a long way over the last few years and several key improvements have made the process much smoother. I touched on [some of those concepts yesterday](http://phillipadsmith.com/2014/07/bootstrapping-the-static-news-app.html) -- e.g., project scaffolding & HTML tempting systems that enable the use of includes and inheritance. Today, I'll run though some of the other key ingredients for a [delicious tasting static news app](http://phillipadsmith.com/2014/07/recipes-for-delicious-tasting-static-news-apps.html), including:
 
 * Previewing files through a mini HTTP server
 * Pre-processing, generating or rendering, and asset pipelines
@@ -39,7 +39,7 @@ There seem to be two approaches:
 
 I should note that it's also possible with the NPR template to render the application out to a static site using its `fab render` command and, from there, it can be previewed with  `python -m SimpleHTTPServer`. 
 
-The pros and cons of each approach are quite discreet. In the "previewing a dynamic app" approach, changes to templates or content is visible immediately with the drawback of having to remember to add a new route to the application for each new page. When taking the "previewing a rendered site" approach, the site needs to be regenerated before updates are visible, but this tend to happen quite quickly and is often done automatically with a 'watch' flag that keeps on eye on files that have changed.
+The pros and cons of each approach are quite discreet. In the "previewing a dynamic app" approach, changes to templates or content is visible immediately with the drawback of having to remember to add a new route to the application for each new page. When taking the "previewing a rendered site" approach, the site needs to be regenerated before updates are visible, but this tends to happen quite quickly and is often done automatically with a 'watch' flag that keeps on eye on files that have changed.
 
 (Nerdtastic side note: check out Tarbell's special [favicon-preview.ico](https://github.com/newsapps/flask-tarbell/blob/0.9-beta6/tarbell/docs/build.rst#anatomy-of-a-project-directory), which helps developers visually distinguish their local development site from their staging or production sites. Nice touch!) 
 
@@ -48,7 +48,7 @@ The real magic of the `serve` command in Tarbell or Jekyll, or the `python app.p
 
 We'll talk about content, or "data access," in more detail later, but this step usually pulls "content" -- the copy, images, and so-on that make this project unique -- from a file or remote resource, perhaps a Google Spreadsheet, and provides it to the project's templates as models, objects, variables, or what-have-you. Some of the data typically comes from configuration files and some from data sources.
 
-The next layer of awesome that has been baked into some static site generators is the concept of an asset pipeline: basically, taking steps to prepare your static assets for fast, efficient delivery in the real world. Typically the steps are:
+The next layer of awesome that has been baked into some static site generators is the concept of an asset pipeline.  Basically, taking steps to prepare your static assets for fast, efficient delivery in the real world. Typically the steps are:
 
 * Compile the assets if necessary: convert LESS or Sass into CSS; CoffeeScript into JavaScript
 * Concatenate the resources, where sensible: merge separate JavaScript files into one app.js file; merge separate CSS files into one app.css file
@@ -57,14 +57,14 @@ The next layer of awesome that has been baked into some static site generators i
 
 Again, there are different approaches to how each tool addresses the concept of an asset pipeline. Some include it in the core set of features that they provide (to some extent Jekyll does this for Sass and CoffeeScript), some include it in the "render" step (NPR's app template) and some leave it as an exercise for the developer (typically by using another tool, possibly task runner like [Grunt](http://gruntjs.com), to do that work). 
 
-In my own journey to think through the requirements for a great-tasting static news app template, this has been the most challenging to get right, and there are many opinions on what "right" means! Looking at this recent [Chicago Tribune News Apps team project](http://apps.chicagotribune.com/sports/highschools/), you can see that there is little in the way of optimization of the static assets. (Not a dig, just a observation!)
+In my own journey to think through the requirements for a great-tasting static news app template, this has been the most challenging to get right, and there are many opinions on what "right" means! Looking at this recent [Chicago Tribune News Apps team project](http://apps.chicagotribune.com/sports/highschools/), you can see that there is little in the way of optimization of the static assets. (Not a dig. Just a observation.)
 
 ## Project management & automation
 An optional, but very tasty, ingredient for a static news app stack is built-in commands for managing a project's lifecycle. The more I explore this, the more I obsess about it at night. 
 
 Typically, these project management commands are provided through a command-line interface. For example, the aforementioned `tarbell serve` and `fab render` are two such examples. Both the NPR app template and Tarbell are now developed on top of Python's [Flask microframework](http://flask.pocoo.org/). NPR's template also makes use of Python's [Fabric tool](http://www.fabfile.org/) for some of these management tasks, and it [looks like Tarbel might head that way soon too](https://github.com/newsapps/flask-tarbell/issues/98).
 
-Whether you choose to extend your core static site generator application with new commands to assist with managing the application lifecycle, or decide to use a deployment tool like Fabric, [Puppet (Ruby)](http://puppetlabs.com/) or [Rex (Perl)](http://www.rexify.org/) is of little importance. The objective is to have some way to consistently manage the different "states" of your project: bootstrapping, development,  staging, and deployment (ideally with some testing sprinkled in there somewhere). 
+Whether you choose to extend your core static site generator application with new commands to assist with managing the application lifecycle, or decide to use a deployment tool like Fabric, [Puppet (Ruby)](http://puppetlabs.com/) or [Rex (Perl)](http://www.rexify.org/) is of little importance. The objective is to have some way to consistently manage the different "states" of your project: bootstrapping, development, staging, and deployment (ideally with some testing sprinkled in there somewhere). 
 
 If you want to go all the way -- as NPR's app template does -- you can also provide commands to check out source code from repositories and to bootstrap a Github project, or -- as Tarbell does -- provide a command for switching between projects quickly and easily. There are so many options here! 
 
