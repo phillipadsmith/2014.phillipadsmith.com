@@ -63,11 +63,11 @@ In my own journey to think through the requirements for a great-tasting static n
 ## Project management & automation
 An optional, but very tasty, ingredient for a static news app stack is built-in commands for managing a project's lifecycle. The more I explore this, the more I obsess about it at night. 
 
-Typically, these project management commands are provided through a command-line interface. For example, the aforementioned `tarbell serve` and `fab render` are two such examples. Both the NPR app template and Tarbell are now developed on top of Python's [Flask microframework](http://flask.pocoo.org/). NPR's template also makes use of Python's [Fabric tool](http://www.fabfile.org/) for some of these management tasks, and it [looks like Tarbel might head that way soon too](https://github.com/newsapps/flask-tarbell/issues/98).
+Typically, these project management commands are provided through a command-line interface. The aforementioned `tarbell serve` and `fab render` are two such examples. Both the NPR app template and Tarbell are now developed on top of Python's [Flask microframework](http://flask.pocoo.org/). NPR's template also makes use of Python's [Fabric tool](http://www.fabfile.org/) for some of these management tasks, and it [looks like Tarbel might head that way soon too](https://github.com/newsapps/flask-tarbell/issues/98).
 
 Whether you choose to extend your core static site generator application with new commands to assist with managing the application lifecycle, or decide to use a deployment tool like Fabric, [Puppet (Ruby)](http://puppetlabs.com/) or [Rex (Perl)](http://www.rexify.org/) is of little importance. The objective is to have some way to consistently manage the different "states" of your project: bootstrapping, development, staging, and deployment (ideally with some testing sprinkled in there somewhere). 
 
-If you want to go all the way -- as NPR's app template does -- you can also provide commands to check out source code from repositories and to bootstrap a Github project, or -- as Tarbell does -- provide a command for switching between projects quickly and easily. There are so many options here! 
+If you want to go all the way -- as NPR's app template does -- you can also provide commands to check out source code from a repository and to bootstrap a Github project, or -- as Tarbell does -- provide a command for switching between projects quickly and easily. There are so many options here! 
 
 Personally, I've come to believe that only having one path through the project's administration is conceptually simpler to teach, understand, and remember. So I am leaning toward the Tarbell approach where all of the lifecycle-management steps are run through Tarbell's `tarbell` command.
 
