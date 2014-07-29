@@ -3,19 +3,22 @@ layout: post
 title: "Deploying your static news app like a Samurai"
 date: 2014-07-29 11:33:38 # This is used in place of the filename
 files_url: /files/2014/07/29/deploying-your-static-news-app-like-a-samurai/
-dek:     
+dek:     The Way of the Deployment Warrior 
 summary: # 140 characters or less!
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
-img_sml: '/files/2014/07/29/deploying-your-static-news-app-like-a-samurai/320x256.jpg'                          # Default on cover or inline
-img_med: '/files/2014/07/29/deploying-your-static-news-app-like-a-samurai/640x512.jpg'                          # 640x512px cover, inline
-img_lrg: '/files/2014/07/29/deploying-your-static-news-app-like-a-samurai/800x640.jpg'                          # 800x640px cover, inline
-img_xlg: '/files/2014/07/29/deploying-your-static-news-app-like-a-samurai/1200x960.jpg'                         # 1200x960px cover only
-img_alt: ''                                             # Alt for inline
-img_caption: ''                                         # Caption for either
-img_url: ''                                             # URL to original image
+img_sml: '/files/2014/07/29/deploying-your-static-news-app-like-a-samurai/samurai_sml.jpg'                          # Default on cover or inline
+img_med: '/files/2014/07/29/deploying-your-static-news-app-like-a-samurai/samurai_med.jpg'                          # 640x512px cover, inline
+img_lrg: '/files/2014/07/29/deploying-your-static-news-app-like-a-samurai/samurai_lrg.jpg'                          # 800x640px cover, inline
+img_xlg: '/files/2014/07/29/deploying-your-static-news-app-like-a-samurai/samurai_xlg.jpg'                         # 1200x960px cover only
+img_alt: 'Deploying your static news app like a Samurai:  The Way of the Deployment Warrior. Creative Commons Flickr photo by user Pascal'    # Alt for inline
+img_caption: 'Creative Commons Flickr photo by user Pascal'      # Caption for either
+img_url: 'https://www.flickr.com/photos/pasukaru76/5681034598/'                                             # URL to original image
 category: coding                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
+- staticnewsapps
+- newstechstacks
+- jekyll
 ---
 
 Picking up [where we left off last week][localdevelopment], today's addition to the [series][staticappseries] is going to explore deployment options that can be mixed into a static news app recipe. 
@@ -45,7 +48,7 @@ So, taking all of the above into consideration, how do the pros like NPR and the
 
 The Tribune's [Tarbell][tarbell] app takes the approach of building the static assets (combining data and templates) and pushing them to pre-defined S3 buckets. That's pretty much the only obvious deployment option with Tarbell. 
 
-NPR's [app template][nprapptemplate] is also meant to be deployed as static assets to S3, but it also provides the option of deploying the app as [dynamic Flask app](https://github.com/nprapps/app-template/blob/94181834dbf8bf3f4a4d955d899de787740d353d/PROJECT_README.md#deploy-to-ec2).  But wait, this is a series on _static_ news apps! 
+NPR's [app template][nprtemplate] is also meant to be deployed as static assets to S3, but it also provides the option of deploying the app as [dynamic Flask app](https://github.com/nprapps/app-template/blob/94181834dbf8bf3f4a4d955d899de787740d353d/PROJECT_README.md#deploy-to-ec2).  But wait, this is a series on _static_ news apps! 
 
 The NPR approach is an interesting idea -- a dynamic app that can "bake" out to a static app, similar to the LA Times' work with [Django bakery](http://datadesk.latimes.com/posts/2012/03/introducing-django-bakery/) -- but I'm curious about the trade-offs are with this approach.  For example, does the approach make sense to less technical contributors who are involved with the project? On the surface, it appears to provide a lot of flexibility at the expense of simplicity. 
 
@@ -67,7 +70,7 @@ I'm also left wondering how both avoid a situation where two developers deploy u
 
 There is a middle ground between these two approaches, however, for those seeking a balance between the simplicity of deployment and speed of development. It's also an approach that would seem on the surface to enforce good collaboration habits vis-a-vis source code management.
 
-There are many variations and customizations, but the main patterns described in the [Jekyll deployment documentation ][http://jekyllrb.com/docs/deployment-methods/] are good examples of middle ground approaches:
+There are many variations and customizations, but the main patterns described in the [Jekyll deployment documentation](http://jekyllrb.com/docs/deployment-methods/) are good examples of middle ground approaches:
 
 * Automated deployment with a [Git post-update hook](http://jekyllrb.com/docs/deployment-methods/#git-post-update-hook)
 * Automated deployment with a [Git post-receive hook](http://jekyllrb.com/docs/deployment-methods/#git-post-receive-hook)
@@ -85,12 +88,13 @@ If you have thoughts on the above – examples of other approaches, corrections,
 
 If you’d like to be notified of the next post, just subscribe to the comments and I’ll post the link there.
 
-[staticappseries]:
-[ec2]:
-[digitalocean]:
-[linode]:
+[staticappseries]: http://phillipadsmith.com/2014/07/recipes-for-delicious-tasting-static-news-apps.html
+[ec2]: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+[digitalocean]: https://www.digitalocean.com/
+[linode]: https://www.linode.com/
 [nprtemplate]: https://github.com/nprapps/app-template/
 [nprtemplatedocs]: https://github.com/nprapps/app-template/blob/94181834dbf8bf3f4a4d955d899de787740d353d/PROJECT_README.md#whats-in-here
+[localdevelopment]: http://phillipadsmith.com/2014/07/the-tao-of-static-news-app-development.html
 
 [tarbell]:  https://github.com/newsapps/flask-tarbell/
 [tarbelldocs]: https://github.com/newsapps/flask-tarbell/blob/0.9-beta6/tarbell/docs/build.rst#anatomy-of-a-project-directory
