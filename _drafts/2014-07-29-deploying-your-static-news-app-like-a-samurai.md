@@ -27,14 +27,14 @@ Like any Web application, the final step of publishing a news app -- whether it'
 1. The "Elastic Compute Cloud" or "Elastic Beanstalk" approach
 
 ## KISSS-compatible static apps
-KISSS-friendly static news apps only require their compiled assets -- HTML, CSS, images, JavaScript, and data files (CSV, JSON, etc.) -- to be fully functional  The advantage of building a KISSS-compatible static news app is the fast, inexpensive deployment to infinitely-scalable services like Amazon's S3, [Google Storage](https://developers.google.com/storage/) or [Eucalyptus](https://www.eucalyptus.com/) -- basically, any storage service that is Web-accessible and includes index document and error document support.
+KISSS-friendly static news apps only require their compiled assets -- HTML, CSS, images, JavaScript, and data files (CSV, JSON, etc.) -- to be fully functional. The advantage of building a KISSS-compatible static news app is the fast, inexpensive deployment to infinitely-scalable services like Amazon's S3, [Google Storage](https://developers.google.com/storage/) or [Eucalyptus](https://www.eucalyptus.com/) -- basically, any storage service that is Web-accessible and includes index document and error document support.
 
- It doesn't get any less expensive than deploying an app to a service like Amazon's S3, which is literally fractions of a penny per visitor, infinitely scaleable, and [blazingly fast](http://blog.dmpatierno.com/post/3359880951/s3-hosting-vs-ec2-micro). Some well-known people, using static site generators like [Jekyll][jekyllrb], were [pioneering users of S3 for web site hosting purposes](http://www.allthingsdistributed.com/2011/08/Jekyll-amazon-s3.html).
+It doesn't get any less expensive than deploying an app to a service like Amazon's S3, which is literally fractions of a penny per visitor, infinitely scaleable, and [blazingly fast](http://blog.dmpatierno.com/post/3359880951/s3-hosting-vs-ec2-micro). Some well-known people, using static site generators like [Jekyll][jekyllrb], were [pioneering users of S3 for website hosting purposes](http://www.allthingsdistributed.com/2011/08/Jekyll-amazon-s3.html).
 
 In contrast, some static news apps -- as simple as they are -- can still benefit from access to server-side processing functionality, like cron jobs that run the occasional dynamic script to collect or munge data. Amazon S3, however, does not support server-side scripting, so this is when the "server light" approach comes into focus. 
 
 ## A little bit more computing power
-Because the [objective of a static news app](http://phillipadsmith.com/2014/07/recipes-for-delicious-tasting-static-news-apps.html) is to keep it to keep things as scalable, fast, and cheap as possible -- when a little more computing power is needed -- the next-best option is often cloud computing.  Services like [Amazon's Elastic Compute Cloud][ec2], [Digital Ocean][digitalocean], and [Linode][linode] provide "scalable computing capacity" in the form of virtual servers that you configure to your specific needs. Provisioning is fast, and the cost is still very low for small applications. The trade off is a steeper learning curve and the need to "manage" those servers.
+Because the [objective of a static news app](http://phillipadsmith.com/2014/07/recipes-for-delicious-tasting-static-news-apps.html) is to keep things as scalable, fast, and cheap as possible -- when a little more computing power is needed -- the next-best option is often cloud computing.  Services like [Amazon's Elastic Compute Cloud][ec2], [Digital Ocean][digitalocean], and [Linode][linode] provide "scalable computing capacity" in the form of virtual servers that you configure to your specific needs. Provisioning is fast, and the cost is still very low for small applications. The trade-off is a steeper learning curve and the need to "manage" those servers.
 
 Another option for many is the newer ecosystem of "Platform as a Service" (PaaS) providers, like [Amazon's Elastic Beanstalk][beanstalk] or [Heruko][heroku]. However, the advantages that PaaS typically provides -- automated app deployment, scaling, and management -- is quickly offset by the more expensive pricing. Probably not a great fit for a static news apps most of the time.
 
@@ -45,9 +45,9 @@ So, taking all of the above into consideration, how do the pros like NPR and the
 
 The Tribune's [Tarbell][tarbell] app takes the approach of building the static assets (combining data and templates) and pushing them to pre-defined S3 buckets. That's pretty much the only obvious deployment option with Tarbell. 
 
-NPR's [app template][nprapptemplate] is also meant to be deployed as static assets to S3, but it also provides the option of deploying the app as [dynamic Flask app](https://github.com/nprapps/app-template/blob/94181834dbf8bf3f4a4d955d899de787740d353d/PROJECT_README.md#deploy-to-ec2).  But wait, this is a series on _static_ news apps! 
+NPR's [app template][nprapptemplate] is also meant to be deployed as static assets to S3, but it also provides the option of deploying the app as [dynamic Flask app](https://github.com/nprapps/app-template/blob/94181834dbf8bf3f4a4d955d899de787740d353d/PROJECT_README.md#deploy-to-ec2). But wait, this is a series on _static_ news apps! 
 
-The NPR approach is an interesting idea -- a dynamic app that can "bake" out to a static app, similar to the LA Times' work with [Django bakery](http://datadesk.latimes.com/posts/2012/03/introducing-django-bakery/) -- but I'm curious about the trade-offs are with this approach.  For example, does the approach make sense to less technical contributors who are involved with the project? On the surface, it appears to provide a lot of flexibility at the expense of simplicity. 
+The NPR approach is an interesting idea -- a dynamic app that can "bake" out to a static app, similar to the LA Times' work with [Django bakery](http://datadesk.latimes.com/posts/2012/03/introducing-django-bakery/) -- but I'm curious about the trade-offs with this approach. For example, does the approach make sense to less technical contributors who are involved with the project? On the surface, it appears to provide a lot of flexibility at the expense of simplicity. 
 
 ## Pondering the deployment workflow
 Okay, so how does this all work in practice, day-to-day, with a team? If you read through the documentation, the typical workflow for both the NPR app template and Tarbell appear to be:
@@ -77,7 +77,7 @@ The concept that really stands out to me when looking at the [DevelopmentSeed's]
 
 I'm curious to see that if that "source code to S3 proxy" concept will be extended to other static site generators, like the app template and Tarbell eventually, or to understand if they have another step in their workflow that handles those concerns.
 
-Well folks, there you have it: there are LOTS of options for deploying your own delicious-tasting static news app recipe. Experiment, explore, and pick the option that best fits with your own way of doing things. 
+Well folks, there you have it. There are LOTS of options for deploying your own delicious-tasting static news app recipe. Experiment, explore, and pick the option that best fits with your own way of doing things. 
 
 I'll move on to "Working with data in static apps" in the next post. 
 
