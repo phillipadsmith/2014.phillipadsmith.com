@@ -17,7 +17,7 @@ tags:                                                   # E.g., frontpage
 - jekyll
 - bricolagecms
 - staticsites
-
+- staticnewsapps
 ---
 
 Developed in 2001 at Salon.com, [Bricolage CMS](http://bricolagecms.org) was one of many "static site generators" at the time. And while many things have changed in 13 years, it seems we've returned to static sites in a big way in 2014.

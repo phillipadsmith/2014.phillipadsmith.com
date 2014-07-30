@@ -19,3 +19,7 @@
 - name: workingwithdata
 - name: makerculture
 - name: slacktivism 
+- name: staticnewsapps
+  heading: 'The Static News App Kitchen'
+  dek:      '(Trying new recipes. Making a mess.)'
+  desc:     'News apps should be inexpensive to deploy, respond quickly to user interaction, and scale to handle large volumes of traffic. However, trade-offs make it hard to achieve news app nirvana. These are notes from my journey to find the just the right mix:'

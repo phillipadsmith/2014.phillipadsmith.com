@@ -16,6 +16,8 @@ img_url: 'https://www.flickr.com/photos/chrisada/13916577767'                   
 category: coding                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
+- staticnewsapps
+- newstechstacks
 ---
 _The following is adapted from a session idea submitted to [SRCCON][srccon]._
 
