@@ -16,6 +16,10 @@ img_url: 'https://www.flickr.com/photos/neekohfi/5670651255'                    
 category: coding                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
+- staticnewsapps
+- newstechstacks
+- jekyll
+- middleman
 ---
 Many might think that static site generation concepts can only be applied when developing exceedingly simple news applications. However, nothing could be further from the truth. Static site development patterns provide several hooks that allow both content creators and content consumers to enjoy a rich "Web app"-like experience, while still meeting the [architectural requirements of being scaleable, fast, and cheap][staticappseries].
  {: .lead}
