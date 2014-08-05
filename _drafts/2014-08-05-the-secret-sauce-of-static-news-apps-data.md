@@ -2,17 +2,17 @@
 layout: post
 title: "Data is the secret sauce of static news apps"
 date: 2014-08-05 09:20:48 # This is used in place of the filename
-files_url: /files/2014/08/05/the-secret-sauce-of-static-news-apps:-data/
+files_url: /files/2014/08/05/the-secret-sauce-of-static-news-apps-data/
 dek:  How to give your static app that powerful wasabi kick
 summary: # 140 characters or less!
 img_opt: 'cover'                                        # Options: 'cover' or 'inlne' or 'none'
-img_sml: '/files/2014/08/05/the-secret-sauce-of-static-news-apps:-data/320x256.jpg'                          # Default on cover or inline
-img_med: '/files/2014/08/05/the-secret-sauce-of-static-news-apps:-data/640x512.jpg'                          # 640x512px cover, inline
-img_lrg: '/files/2014/08/05/the-secret-sauce-of-static-news-apps:-data/800x640.jpg'                          # 800x640px cover, inline
-img_xlg: '/files/2014/08/05/the-secret-sauce-of-static-news-apps:-data/1200x960.jpg'                         # 1200x960px cover only
-img_alt: ''                                             # Alt for inline
-img_caption: ''                                         # Caption for either
-img_url: ''                                             # URL to original image
+img_sml: '/files/2014/08/05/the-secret-sauce-of-static-news-apps-data/sml.jpg'                          # Default on cover or inline
+img_med: '/files/2014/08/05/the-secret-sauce-of-static-news-apps-data/med.jpg'                          # 640x512px cover, inline
+img_lrg: '/files/2014/08/05/the-secret-sauce-of-static-news-apps-data/lrg.jpg'                          # 800x640px cover, inline
+img_xlg: '/files/2014/08/05/the-secret-sauce-of-static-news-apps-data/xlg.jpg'                         # 1200x960px cover only
+img_alt: 'Data is the secret sauce of static news apps'                                             # Alt for inline
+img_caption: 'Creative commons photo by neekohfi on Flickr'                                         # Caption for either
+img_url: 'https://www.flickr.com/photos/neekohfi/5670651255'                                             # URL to original image
 category: coding                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
