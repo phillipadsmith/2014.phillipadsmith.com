@@ -84,7 +84,7 @@ If you have thoughts on the above – examples of other approaches, corrections,
 
 If you’d like to be notified of the next post, just subscribe to the comments and I’ll post the link there.
 
-[staticappseries]: http://phillipadsmith.com/2014/07/recipes-for-delicious-tasting-static-news-apps.html
+[staticappseries]: http://phillipadsmith.com/tag/staticnewsapps/
 [nprtemplate]: https://github.com/nprapps/app-template/
 [nprtemplatedocs]: https://github.com/nprapps/app-template/blob/94181834dbf8bf3f4a4d955d899de787740d353d/PROJECT_README.md#whats-in-here
 [localdevelopment]: http://phillipadsmith.com/2014/07/the-tao-of-static-news-app-development.html
