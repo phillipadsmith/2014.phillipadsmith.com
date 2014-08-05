@@ -17,7 +17,7 @@ category: coding                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
 ---
-Many might think that static site generation concepts can only be applied when developing exceedingly simple news applications. However, nothing could be further from the truth: static site development patterns provide several hooks that allow both content creators and content consumers to enjoy a rich "Web app"-like experience, while still meeting the [architectural requirements of being scaleable, fast, and cheap][staticappseries].
+Many might think that static site generation concepts can only be applied when developing exceedingly simple news applications. However, nothing could be further from the truth. Static site development patterns provide several hooks that allow both content creators and content consumers to enjoy a rich "Web app"-like experience, while still meeting the [architectural requirements of being scaleable, fast, and cheap][staticappseries].
  {: .lead}
 
 The secret "back-end" sauce that make [static site generators][staticsitegenerators] so practical and exciting is compile-time data access: the ability to consume data from a variety of sources and to emit that data at various points during the process of site generation. This is how static apps free themselves from the shackles of a database.
@@ -64,7 +64,7 @@ Now that there's lots of data available to the app at the point where it's going
 
 For example, with [Tarbell](http://tarbell.readthedocs.org/en/0.9-beta6/build.html#where-can-context-variables-be-used), "variables can be used in HTML, CSS, and Javascript files." And, with Jekyll, data can be use "anywhere that has front matter," which is just a fancy way for saying any file that has some standard markers at the top, including HTML, markdown, CSS, JavaScript and even other data files.
 
-This is an incredibly powerful feature when you think about it. It enables you to store data once that you can use over-and-over again in your templates or other files (DRY!), and to set site-specific options outside of a project's configuration file.
+This is an incredibly powerful feature when you think about it. It enables you to store data that you can use over-and-over again in your templates or other files (DRY!), and to set site-specific options outside of a project's configuration file.
 
 Combining this technique with a dynamic stylesheet language, like Less or Sass, could make it easy to create quickly-adjustable "themes" in a static news app template. Or one could use it with JavaScript in any number of interesting ways, like providing an initial data set directly, thus avoiding the need to request and parse it from somewhere when the page or app is first loading.
 
