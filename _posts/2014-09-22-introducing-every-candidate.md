@@ -27,6 +27,8 @@ This is an exciting Monday.
 ![Every Candidate logo](/files/2014/09/22/introducing-every-candidate/EveryCandidate_Colour.png)
 {: .responsive}
 
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169068988&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 Every Candidate is a wildly aspirational project to explore what the 485 individuals running for the position of councillor or school trustee tell us about city they seek to represent. Who are they? What is their background? What does their campaign material have to say? What do public records reveal?
 
 There are all kinds of questions that this project aspires to answer -- some quirky, some hopelessly esoteric -- but, at the same time, we hope that this project asks questions that also interest you, as a resident of Toronto. Whether you are a concerned citizen or a parent, Every Candidate hopes that we can help play a small part in your election-day research.
