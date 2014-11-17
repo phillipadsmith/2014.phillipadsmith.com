@@ -10,7 +10,7 @@ img_sml: '/files/2014/11/15/every-candidate-unplugged/everycandidate_sml.jpg'   
 img_med: '/files/2014/11/15/every-candidate-unplugged/everycandidate_med.jpg'                          # 640x512px cover, inline
 img_lrg: '/files/2014/11/15/every-candidate-unplugged/everycandidate_lrg.jpg'                          # 800x640px cover, inline
 img_xlg: '/files/2014/11/15/every-candidate-unplugged/everycandidate_xlg.jpg'                         # 1200x960px cover only
-img_alt: 'Every Candidate'                                             # Alt for inline
+img_alt: 'Every Candidate Unplugged'                                             # Alt for inline
 img_caption: 'Every Candidate Unplugged'                                         # Caption for either
 img_url: ''                                             # URL to original image
 category: coding                                        # Just one of the 4xCs
