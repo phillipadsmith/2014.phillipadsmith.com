@@ -70,6 +70,9 @@ The projects were at the same time impressive and practical. Some took aim at th
 
 And that will be an experience to remember.
 
+
+(And a huge thanks to my team for making the event so memorable: [Eva Constantaras](https://twitter.com/EVACONSTANTARAS), [Kasia Dybek](https://twitter.com/KASIADYBEK), [Bruno Faviero](https://twitter.com/BFAVIERO), [Heinze Havinga](https://twitter.com/HEINZEHAVINGA), and [Friedrich Lindenberg](https://twitter.com/PUDO).)
+
 [newsclispe]: http://canvas.challengepost.com/submissions/30703-newsclip-se
 [perspectives]: http://canvas.challengepost.com/submissions/30689-perspectives
 [lasertag]: http://canvas.challengepost.com/submissions/30690-lasertag
