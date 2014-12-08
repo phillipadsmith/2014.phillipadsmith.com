@@ -13,9 +13,11 @@ img_xlg: '/files/2014/12/08/putting-mediaincontext-making-software/al-jazeera-xl
 img_alt: ''                                             # Alt for inline
 img_caption: ''                                         # Caption for either
 img_url: ''                                             # URL to original image
-category: coding                                        # Just one of the 4xCs
+category: covering                                        # Just one of the 4xCs
 tags:                                                   # E.g., frontpage
 - frontpage
+- hackathons
+- aljazeera
 ---
 
 Around this time last Monday, I had forgone sleep for more than 24 hours and consumed enough RedBull to ensure I would not sleep for many hours to come. What fuelled this all-nighter was the excitement of working on a promising product with an amazing team at [Al Jezeera's inaugural hackathon in Doha, Qatar][canvas].
