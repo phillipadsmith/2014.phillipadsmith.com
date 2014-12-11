@@ -3,6 +3,15 @@ layout: post
 title: 'Honesty and acceptance'
 dek: Reflections on turning 40 
 summary:         # 140 characters or less!
+img_opt: 'inline'                                        # Options: 'cover' or 'inlne' or 'none'
+img_sml: '/files/6281669171_d07b0a95be_b.jpg'                          # Default on cover or inline
+img_med: '/files/6281669171_d07b0a95be_b.jpg'                          # 640x512px cover, inline
+img_lrg: '/files/6281669171_d07b0a95be_b.jpg'                          # 800x640px cover, inline
+img_xlg: '/files/6281669171_d07b0a95be_b.jpg'                         # 1200x960px cover only
+img_alt: ''                                             # Alt for inline
+img_caption: 'Photo from Deanna Wardin @ Tattoo Boogaloo on Flickr'                                         # Caption for either
+img_url: 'http://www.flickr.com/photos/graphicward/6281669171/'                                             # URL to original image
+
 category: covering
 tags:
 - frontpage
@@ -12,8 +21,6 @@ tags:
 date: '2013-04-26 20:40:46 -0500'
 mt_id: 2910
 ---
-<a href="http://www.phillipadsmith.com/files/6281669171_d07b0a95be_b.jpg"><img alt="6281669171_d07b0a95be_b.jpg" src="http://www.phillipadsmith.com/assets_c/2013/04/6281669171_d07b0a95be_b-thumb-600x400-1628.jpg" width="600" height="400" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 0" /></a><small><i>Photo from <a href="http://www.flickr.com/photos/graphicward/6281669171/">Deanna Wardin @ Tattoo Boogaloo</a> on Flickr</i></small>
-<br />
 
 When I woke this morning, the first day of my forty-first year, I thought to myself: going forward, there is one idea that will guide me in life, above all others, and that is _honesty_.
 
