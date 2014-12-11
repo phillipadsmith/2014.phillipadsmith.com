@@ -22,7 +22,7 @@ date: '2013-04-26 20:40:46 -0500'
 mt_id: 2910
 ---
 
-When I woke this morning, the first day of my forty-first year, I thought to myself: going forward, there is one idea that will guide me in life, above all others, and that is _honesty_.
+When I woke this morning, the first day of my forty-first year, I thought to myself: going forward there is one idea that will guide me in life, above all others, and that is _honesty_.
 
 Call it what you will -- radical honesty, microscopic truth, total transparency, proactive honesty, or just plain ol' honesty -- but don't underestimate the change that it can bring. It is this one simple idea -- honesty -- that has had the most profound and lasting impact on my life this last year, and I will choose it again and again.
 
@@ -34,13 +34,13 @@ I imagine how it must sound, reading a reflection on honesty, as before this yea
 
 It was little things said to make a situation more comfortable or, inversely, small details left out to avoid a misunderstanding. It is a silence at the end of a conversation unresolved. It is the answer given to please others. It is working within the confines of the "socially acceptable." The motive was almost always the same, not wanting to unnecessarily hurt another person, but I no longer believe that even the purest motives justify half-truths or concealment. There is a liberation that comes from embracing the idea that people deserve the truth.
 
-There is a balance to this scale, however: on the one side is _honesty_, but on the other side is **acceptance**. 
+There is a balance to this scale, however: on the one side is _honesty_, on the other side is **acceptance**. 
 
 To embrace honesty, I have to surrender the outcome of any given situation and trust that it will resolve fairly: I have to be ready to accept _any_ outcome and recognize that, with honesty, I have no hold or sway over what that outcome might be. I have to acknowledge that when I was withholding honesty, it was to effect the outcome of a given situation, to make it work out in a way that was better for me -- perhaps less uncomfortable, less dramatic, or to my benefit. With honesty, the outcome is in hands of the other, and that is the way it should be.
 
-But this is what I believe it means "[to reveal rather than conceal](http://www.goop.com/journal/be/169/co-committed)": it is the greatest form of respect to look another person in the eye and to say "you can hear this truth;" to know that they are able to hear it; to trust that they can find a way to integrate or resolve it; to have faith that the outcome -- no matter what it is -- is the correct one. And to accept that outcome. _That_ is honesty to me.
+But this is what I believe it means "[to reveal rather than conceal](http://www.goop.com/journal/be/169/co-committed)": it is the greatest form of respect to look another person in the eyes and to say "you can hear this truth;" to know that they are able to hear it; to trust that they can find a way to integrate or resolve it; to have faith that the outcome -- no matter what it is -- is the correct one. And to accept that outcome. _That_ is honesty to me.
 
-It had been the most challenging to be **radically** honest with those that are closest to me -- my family, my life partners, my closest and dearest friends -- because those are the relationships that I cherish the most, those are the relationships where I feel like I have the most to lose, those are the relationships with the most emotional tension. The irony of this is not uncommon, I would guess. But in this past year I have chosen a new path and, one step at a time, that is changing.
+It has been the most challenging to be **radically** honest with those that are closest to me -- my family, my life partners, my closest and dearest friends -- because those are the relationships that I cherish the most, those are the relationships where I feel like I have the most to lose, those are the relationships with the most emotional tension. The irony of this is not uncommon, I would guess. But in this past year I have chosen a new path and, one step at a time, that is changing.
 
 And each time in my life when I am proactively transparent, each day that I choose to reveal rather than conceal, and each moment when I can share or receive a microscopic truth with someone close ... I feel that much closer to knowing myself, that much more confident that others know and accept me, and I feel a little bit more liberated from the bonds that I have confined myself with for so long.
 
