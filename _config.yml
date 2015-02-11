@@ -28,3 +28,34 @@ category_archive:
 fbadmins:
     - 511961152
 img_lrg: '/ui/img/phillipadsmith-500x500.jpg'
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://phillipadsmith.com'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'files'
+  ignore:
+    - index.md
+    - index.html
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - .gitignore
+    - .ruby-version
+    - 404.html
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Add Category"
+          placeholder: "Choose Category"
+          options:
+            - name: "Coding"
+              value: "coding"
+            - name: "Convening"
+              value: "convening"
+    
