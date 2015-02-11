@@ -44,7 +44,7 @@ prose:
     - 404.html
   metadata:
     _posts:
-    date: CURRENT_DATETIME
+    - date: CURRENT_DATETIME
     - name: "layout"
       field:
         element: "hidden"
