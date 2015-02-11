@@ -44,10 +44,10 @@ prose:
     - 404.html
   metadata:
     _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "post"
     - name: "dek"
       field:
         element: "text"
@@ -61,68 +61,75 @@ prose:
         element: "text"
         label: "title"
     - name: "category"
-        field:
+      field:
         element: "select"
-          label: "Add Category"
-          placeholder: "Choose Category"
-          options:
-            - name: "Coding"
-              value: "coding"
-            - name: "Convening"
-              value: "convening"
-            - name: "Consulting"
-              value: "consulting"
-            - name: "Covering"
-              value: "covering"
-            - name: "Commentary"
-              value: "commentary"
+        label: "Add Category"
+        placeholder: "Choose Category"
+        options:
+          - name: "Coding"
+            value: "coding"
+          - name: "Convening"
+            value: "convening"
+          - name: "Consulting"
+            value: "consulting"
+          - name: "Covering"
+            value: "covering"
+          - name: "Commentary"
+            value: "commentary"
     - name: "tags"
-        field:
-          element: "multiselect"
-          alterable: "true"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Front Page"
-              value: "frontpage"
-            - name: "Static News Apps"
-              value: "staticnewsapps"
-            - name: "News Tech Stacks"
-              value: "newsteckstacks"
-            - name: "The Tyee"
-              value: "thetyee"
-            - name: "Journalism"
-              value: "journalism"
+      field:
+        element: "multiselect"
+        alterable: "true"
+        label: "Add Tags"
+        placeholder: "Choose Tags"
+        options:
+          - name: "Front Page"
+            value: "frontpage"
+          - name: "Static News Apps"
+            value: "staticnewsapps"
+          - name: "News Tech Stacks"
+            value: "newsteckstacks"
+          - name: "The Tyee"
+            value: "thetyee"
+          - name: "Journalism"
+            value: "journalism"
     - name: "img_opt"
       field:
         element: "select"
-          label: "Image type"
-          placeholder: "Choose type"
-          options:
-            - name: "Cover"
-              value: "cover"
-            - name: "Inline"
-              value: "inline"
-            - name: "None"
-              value "none"
+        label: "Image type"
+        placeholder: "Choose type"
+        options:
+          - name: "Cover"
+            value: "cover"
+          - name: "Inline"
+            value: "inline"
+          - name: "None"
+            value: "none"
     - name: "img_sml"
+      field:
         element: "text"
         label: "Small image (320x256)"
     - name: "img_med"
+      field:
         element: "text"
         label: "Med image (640x512)"
     - name: "img_lrg"
+      field:
         element: "text"
         label: "Large image (800x640)"
     - name: "img_xlg"
+      field:
         element: "text"
         label: "XL image (1200x960)"
     - name: "img_alt"
+      field:
         element: "text"
         label: "Alt text"
     - name: "img_caption"
+      field:
         element: "text"
         label: "Caption"
     - name: "img_url"
+      field:
         element: "text"
         label: "URL"
