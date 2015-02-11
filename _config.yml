@@ -44,15 +44,11 @@ prose:
     - 404.html
   metadata:
     _posts:
+    date: CURRENT_DATETIME
     - name: "layout"
       field:
         element: "hidden"
         value: "post"
-    - name:
-      field:
-          element: "text"
-          label: "Post date"
-          value: CURRENT_DATETIME
     - name: "dek"
       field:
         element: "text"
