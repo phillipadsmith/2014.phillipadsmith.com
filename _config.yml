@@ -39,9 +39,27 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /_plugins
+    - /_data
+    - /.bundle
+    - /_source
+    - /ui
+    - /files
     - .gitignore
     - .ruby-version
     - 404.html
+    - Gemfile
+    - Gruntfile.js
+    - apple-touch-icon-precomposed.png
+    - bower.json
+    - f7e127f4ed59.html
+    - favicon.ico
+    - googleb1c5f7dde771b2ba.html
+    - humans.txt
+    - keybase.txt
+    - package.json
+    - robots.txt
+    - sitemap.xml
   metadata:
     _posts:
     - name: "date"
