@@ -79,7 +79,7 @@ prose:
     - name: "tags"
         field:
           element: "multiselect"
-          alterable: true
+          alterable: "true"
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
