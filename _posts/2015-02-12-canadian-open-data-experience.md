@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: "Canadian Open Data Experience"
 category: commentary
 img_opt: inline
 dek: Road show visits Vancouver
