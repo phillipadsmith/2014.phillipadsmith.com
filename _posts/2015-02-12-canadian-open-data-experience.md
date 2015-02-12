@@ -7,6 +7,7 @@ img_opt: inline
 dek: Road show visits Vancouver
 tags: 
   - opendata
+  - frontpage
 img_xlg: "/files/code-tony-clement.jpg"
 img_lrg: "/files/code-tony-clement.jpg"
 img_alt: Minister Tony Clement at the CODE road show
