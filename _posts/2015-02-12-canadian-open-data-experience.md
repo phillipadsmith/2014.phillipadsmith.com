@@ -20,7 +20,7 @@ img_caption: Minister Tony Clement at the CODE road show
 Last night, I dashed out of work and fought rush-hour traffic up Vancouver's unseasonably dry streets to catch the [Canadian Open Data Experience][1] "road show." The road show is snaking its way across Canada to [promote an upcoming government-sponsored open data competition][1].
 {: .lead}
 
-Sadly, I arrived too late to enjoy the free nibbles. But it was a good opportunity to put a few faces to names in the open data scene here in "The 'Couve." Interesting side note: as a hammer out this post on my iPad mini at the [Elysian](http://elysiancoffee.com/) the cafe chatter is thick with mentions of "open-source software" and "apps" and so on -- this city is buzzing with data enthusiasts it seems.
+Sadly, I arrived too late to enjoy the free nibbles. But it was a good opportunity to put a few faces to names in the open data scene here in "The 'Couve." Interesting side note: as a hammer out this post on my iPad mini at the [Elysian](http://elysiancoffee.com/), the cafe chatter is thick with mentions of "open-source software" and "apps" and so on -- this city is buzzing with data enthusiasts it seems.
 
 > "Data should be open data by default"
 > &mdash; Minister Tony Clement

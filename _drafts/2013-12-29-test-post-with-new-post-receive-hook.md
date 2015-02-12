@@ -17,7 +17,6 @@ tags:
   - frontpage
 body: 
   - class1
-published: true
 ---
 
 
