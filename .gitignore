@@ -1,9 +1,10 @@
-.jekyll
-node_modules
-bower_components
 _site
 _drafts
+.jekyll
 Gemfile.lock
-_x*
 .DS_Store
 IDEAS.md
+_x*
+_vendor
+node_modules
+bower_components
