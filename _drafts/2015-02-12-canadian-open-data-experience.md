@@ -56,4 +56,4 @@ And, as much as I wasn't left filled with inspiration by the business pitches, I
 
 Perhaps some of the open data enthusiasts that the road show is connecting with across the country will turn their attention to real estate data next.
 
-1: https://www.canadianopendataexperience.ca
+[1]: https://www.canadianopendataexperience.ca
