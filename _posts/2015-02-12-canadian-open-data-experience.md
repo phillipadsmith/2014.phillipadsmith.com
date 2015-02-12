@@ -24,7 +24,7 @@ Sadly, I arrived too late to enjoy the free nibbles. But it was a good opportuni
 
 ## Open data, represented
 
-> "Data should be open data by default"
+> "Data should be open by default"
 > &mdash; Minister Tony Clement
 
 Minister Tony Clement (President of the Treasury Board), to my surprise, was disarmingly sincere and impressively well informed. He painted a picture of why open data is an important priority for Canada. And [David Wrate, Director of DataBC](http://www.data.gov.bc.ca/), spoke excitedly about the province's efforts to share more "APIs, code, and data with the public," even throwing in an appropriately hip reference to publishing these artifacts on [Github](http://github.com).
