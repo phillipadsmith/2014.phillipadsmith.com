@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: "Canadian Open Data Experience"
+date: 2015-02-12 12:15
 category: commentary
 img_opt: inline
 dek: Government open data road show hits Vancouver
