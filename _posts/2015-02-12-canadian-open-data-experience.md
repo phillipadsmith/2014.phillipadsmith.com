@@ -38,7 +38,7 @@ It was a good show day for elected officials.
 > "This is serious business"
 > &mdash; Minister Tony Clement
 
-Those representing business, industry, and venture capital, however, talked a lot and said little. Vancouver's had its share of recent startup-to-exit successes and I was hoping for more substance to complete the picture that Minister Clement started, where open data connects to commercialization and contributes to the Canadian economy.
+Those representing business, industry, and venture capital, however, talked a lot and said little. Vancouver's had its share of recent startup-to-exit successes and I was hoping for more substance to complete the picture that Minister Clement started, specifically where open data connects to commercialization and contributes to the Canadian economy.
 
 The was an odd reference to Wikipedia as "open source software," which it most certainly is not -- a surprising slip. It was also explained that municipal governments don't trust each other -- and, for some unexplained reason, shouldn't -- and hence the need for a non-profit called [Urban Opus Society](http://urbanopus.net/) to fill that gap with the [Urban Opus Datahub
 ](http://urbanopus.net/datahub/). I'm curious to do some digging here to better understand the hurdles.
@@ -47,9 +47,9 @@ By the time that [Adam Lerner](https://twitter.com/adamler) ambled onto the stag
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/44560257" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/adamlerner/solvable-code-2015-roadshow-presentation-v1" title="The Open Data Narrative: CODE 2015 Vancouver" target="_blank">The Open Data Narrative: CODE 2015 Vancouver</a> </strong> from <strong><a href="//www.slideshare.net/adamlerner" target="_blank">Solvable - @Solvable</a></strong> </div>
 
-## Maturing on open data
+## Canada matures on open data
 
-While I'm not sure if attendees in the room walked away realizing that [the government's hackathon is just two weeks away][1], getting underway February 20th, there were certainly several interesting take aways for me worth mentioning:
+While I'm not sure if attendees in the room walked away realizing that [the government's hackathon is just two weeks away][1], getting underway February 20th, there were several other interesting take aways worth mentioning:
 
 * Minister Clement spoke to his "open data by default" policy for federal government, where ministries would be expected to release their data proactively unless there was a clear risk to national security or personal privacy.
 * Councillor Andrea Reimer made an interesting analogy of the challenge for Vancouver's open data efforts, comparing open data to [surface mining rights](https://en.wikipedia.org/wiki/Mineral_rights) and underscoring the need for interpretation or augmentation of the data to make it useful to non-technical people.
