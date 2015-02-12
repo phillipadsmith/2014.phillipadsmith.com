@@ -10,6 +10,8 @@ tags:
   - frontpage
 img_xlg: "/files/code-tony-clement.jpg"
 img_lrg: "/files/code-tony-clement.jpg"
+img_med: "/files/code-tony-clement.jpg"
+img_sml: "/files/code-tony-clement.jpg"
 img_alt: Minister Tony Clement at the CODE road show
 img_caption: Minister Tony Clement at the CODE road show
 ---
