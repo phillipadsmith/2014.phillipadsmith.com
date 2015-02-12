@@ -4,7 +4,7 @@ published: true
 title: "Canadian Open Data Experience"
 category: commentary
 img_opt: inline
-dek: Governament road show hits Vancouver
+dek: Government road show hits Vancouver
 tags: 
   - opendata
   - frontpage
