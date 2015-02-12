@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ""
 category: commentary
 img_opt: inline
