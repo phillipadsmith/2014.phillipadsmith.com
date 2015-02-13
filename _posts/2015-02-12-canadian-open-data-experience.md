@@ -52,7 +52,7 @@ By the time that [Adam Lerner](https://twitter.com/adamler) ambled onto the stag
 
 While I'm not sure if attendees in the room walked away realizing that [the government's hackathon is just two weeks away][1], getting underway February 20th, there were several other interesting take aways worth mentioning:
 
-* Minister Clement spoke to his "open data by default" policy for federal government, where ministries would be expected to release their data proactively unless there was a clear risk to national security or personal privacy. [Update: a reader rightly pointed out the contradiction here, i.e., this same government killed the long-form census]
+* Minister Clement spoke to his "open data by default" policy for federal government, where ministries would be expected to release their data proactively unless there was a clear risk to national security or personal privacy. [Update: a reader rightly pointed out the contradiction here, i.e., this same government killed the long-form census, arguably one of the most important national open data projects.]
 * Councillor Andrea Reimer made an interesting analogy of the challenge for Vancouver's open data efforts, comparing open data to [surface mining rights](https://en.wikipedia.org/wiki/Mineral_rights) and underscoring the need for interpretation or augmentation of the data to make it useful to non-technical people.
 * The story of Surrey's open data efforts demonstrate that a scrappy can-do approach, mixed with a little [David Eaves](http://eaves.ca/about-david/) wow factor, can go a long way in the journey toward a [successfully bootstrapped municipal open data initiative](http://data.surrey.ca/).
 
