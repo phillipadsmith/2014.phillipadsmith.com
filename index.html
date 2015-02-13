@@ -33,6 +33,7 @@ body:
 {% include module_avatar_plus_bio_short.html %}
             <div class="section">
         {% if page.img_opt == 'inline' %}
+                <div class="img_inline">
                     <span data-picture data-alt="{{ page.img_alt }}">
                     <span class="responsive sm" data-src="{{ page.img_sml }}"></span>
                     <span class="responsive med" data-src="{{ page.img_med }}"    data-media="(min-width: 400px)"></span>
@@ -45,7 +46,7 @@ body:
                     <noscript>
                         <img class="responsive noscript" src="{{ page.img_sml }}" alt="{{ page.img_alt }}">
                     </noscript>
-                </span>
+                </div>
         {% endif %}
                 <header>
                     <hgroup>
