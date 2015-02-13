@@ -17,3 +17,4 @@
     Another test!
     One more!
     I should just be using curl!
+    Setting up a requestb.in
