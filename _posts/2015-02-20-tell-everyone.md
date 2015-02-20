@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ""
 category: convening
 img_opt: inline
