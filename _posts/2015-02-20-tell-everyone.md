@@ -62,6 +62,6 @@ Given that this was held at Hootsuite, produced by the Hootsuite Labs, and on th
 
 All-in-all: amazing speakers, engaged audience, and a thought-provoking evening. And, at the same time, I reflect back today and wonder: what was the "hidden in plain sight" opportunity that unique mix of ingredients presented that wasn't taken to the next level? That'll be a question I continue to wrestle with in the context of convening people, i.e., now that we've got these people here, what's the one thing we can ask them to do?
 
-By the way, if you're interested in the question of how media organizations are using (or aren't using) social media for sourcing and 1verification, or how readers are engaging with news, or how the role of "the reporter" is changing, [you should join on Feb 26, 2015 for the re-launch of Hacks/Hackers Vancouver](http://www.meetup.com/HacksHackersVancouver/events/220358780/). 
+By the way, if you're interested in the question of how media organizations are using (or aren't using) social media for sourcing and verification, or how readers are engaging with news, or how the role of "the reporter" is changing, [you should join on Feb 26, 2015 for the re-launch of Hacks/Hackers Vancouver](http://www.meetup.com/HacksHackersVancouver/events/220358780/). 
 
 Hope to see you there!
