@@ -40,7 +40,7 @@ Danny Ramadan built on this example with the now well-known story of [Amina Arra
 
 ## There is no filter bubble
 
-> The "filter bubble" doesn't exist, the theory is wrong, we should stop saying it does"
+> "The 'filter bubble' doesn't exist, the theory is wrong, we should stop saying it does"
 > &mdash; Alfred Hermida
 
 Hermida, in response to another panelist, fired a shot across the bow of author [Eli Pariser](http://www.thefilterbubble.com/) and proposed that the concept of the [filter bubble](https://en.wikipedia.org/wiki/Filter_bubble) -- roughly, the concept that we're obsessed with news and information that supports our beliefs -- is plainly wrong and has been disproven by recent studies. 
