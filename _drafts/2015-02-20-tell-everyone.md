@@ -1,12 +1,23 @@
 ---
 layout: post
 published: false
-title: Tell Everyone
-category: coding
-img_opt: cover
+title: Why We Share and Why It Matters
+category: convening
+img_opt: inline
+dek: "Does social media help us understand the world?"
+tags: 
+  - frontpage
+  - events
+  - socialmedia
+img_sml: /files/IMG_5078.jpg
+img_med: /files/IMG_5078.jpg
+img_lrg: /files/IMG_5078.jpg
+img_xlg: /files/IMG_5078.jpg
+img_alt: "Panelists at the #TellEveryone event in Vancouver"
+img_caption: "Panelists at the #TellEveryone event in Vancouver"
 ---
 
-> "[The tree of Krakow)](https://fr.wikipedia.org/wiki/Arbre_de_Cracovie) was the Twitter of its days"
+> "[The tree of Krakow)](https://fr.wikipedia.org/wiki/Arbre_de_Cracovie) was the Twitter of its day"
 > &mdash [Alfred Hermida](http://alfredhermida.com/), Author of Tell Everyone
 
 I finally managed to see the inside of Vancouver's start-up darling, [Hootsuite](http://hootsuite.com), last night by crashing a panel exploring social media and verification (sadly, I wasn't able to find my way to the infamous beer fridge or foosball table!). Panel format aside, last night's [#TellEveryone: Why We Share and Why It Matters event](https://www.eventbrite.com/e/telleveryone-why-we-share-and-why-it-matters-with-alfred-hermida-tickets-15546590270) was a thought-provoking exploration of history, social media, revolution and verification. 
