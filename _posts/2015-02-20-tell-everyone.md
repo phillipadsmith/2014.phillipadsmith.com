@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: "Why We Share & Why It Matters"
 category: convening
 img_opt: inline
 dek: "Does social media help us, or hinder us, from understanding the world?"
@@ -16,6 +16,7 @@ img_xlg: /files/IMG_5078.jpg
 img_alt: "Panelists at the #TellEveryone event in Vancouver"
 img_caption: "Panelists at the #TellEveryone event in Vancouver"
 ---
+
 
 > "[The tree of Krakow](https://fr.wikipedia.org/wiki/Arbre_de_Cracovie) was the Twitter of its day"
 > &mdash; [Alfred Hermida](http://alfredhermida.com/), Author of Tell Everyone
