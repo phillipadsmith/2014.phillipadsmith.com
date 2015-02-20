@@ -17,7 +17,6 @@ img_alt: "Panelists at the #TellEveryone event in Vancouver"
 img_caption: "Panelists at the #TellEveryone event in Vancouver"
 ---
 
-
 > "[The tree of Krakow](https://fr.wikipedia.org/wiki/Arbre_de_Cracovie) was the Twitter of its day"
 > &mdash; [Alfred Hermida](http://alfredhermida.com/), Author of Tell Everyone
 
@@ -37,7 +36,7 @@ Hermida used the example of [American-educated Egyption-born "journalist, blogge
 Hermida used this example to explain how the mainstream media reflected only what we wanted to see, thus missing the movement and ideologies that would win political power in Egypt, surprising many in the west, just a short time later.
 
 Danny Ramadan built on this example with the now well-known story of [Amina Arraf, the "Gay Girl in Damascus
-" media personality that turned out to be an American man](http://www.ctvnews.ca/gay-girl-in-damascus-blogger-exposed-as-u-s-man-1.656416. Again, demonstrating the danger of seeing only what we want to see in social media.
+" media personality that turned out to be an American man](http://www.ctvnews.ca/gay-girl-in-damascus-blogger-exposed-as-u-s-man-1.656416.html) Again, demonstrating the danger of seeing only what we want to see in social media.
 
 ## There is no filter bubble
 
