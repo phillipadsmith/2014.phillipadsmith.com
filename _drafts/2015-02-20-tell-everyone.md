@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Why We Share and Why It Matters
+title: "Why We Share & Why It Matters"
 category: convening
 img_opt: inline
 dek: "Does social media help us, or hinder us, from understanding the world?"
