@@ -36,7 +36,7 @@ Hermida used the example of [American-educated Egyption-born "journalist, blogge
 Hermida used this example to explain how the mainstream media reflected only what we wanted to see, thus missing the movement and ideologies that would win political power in Egypt, surprising many in the west, just a short time later.
 
 Danny Ramadan built on this example with the now well-known story of [Amina Arraf, the "Gay Girl in Damascus
-" media personality that turned out to be an American man](http://www.ctvnews.ca/gay-girl-in-damascus-blogger-exposed-as-u-s-man-1.656416) Again, demonstrating the danger of seeing only what we want to see in social media.
+" media personality that turned out to be an American man](http://www.ctvnews.ca/gay-girl-in-damascus-blogger-exposed-as-u-s-man-1.656416). Again, demonstrating the danger of seeing only what we want to see in social media.
 
 ## There is no filter bubble
 
@@ -61,6 +61,6 @@ Given that this was held at Hootsuite, produced by the Hootsuite Labs, and on th
 
 All-in-all: amazing speakers, engaged audience, and a thought-provoking evening. And, at the same time, I reflect back today and wonder: what was the "hidden in plain sight" opportunity? The opportunity that this unique mix of ingredients presented, which wasn't taken to quite the next level? That'll be a question I continue to wrestle with in the context of convening people, i.e., now that we've got these people here, what's the one thing we can ask them to do?
 
-By the way, if you're interested in conversations about how media organizations are using (or aren't using) social media for sourcing and verification, or how readers are engaging with news, or how the role of "the reporter" is changing, [you should join on Feb 26, 2015 for the re-launch of Hacks/Hackers Vancouver](http://www.meetup.com/HacksHackersVancouver/events/220358780/). 
+By the way, if you're interested in conversations about how media organizations are using (or aren't using) social media for sourcing and verification, or how readers are engaging with news, or how the role of "the reporter" is changing, [you should join me on Feb 26, 2015 for the re-launch of Hacks/Hackers Vancouver](http://www.meetup.com/HacksHackersVancouver/events/220358780/). 
 
 Hope to see you there!
