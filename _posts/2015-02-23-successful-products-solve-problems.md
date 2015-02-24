@@ -18,7 +18,7 @@ img_lrg: "/files/Data_BC_2015-Feb-21.jpg"
 img_xlg: "/files/Data_BC_2015-Feb-21.jpg"
 ---
 
-When we arrived at the [Vancouver open data day hackathon](https://www.opendatabc.ca/pages/opendataday-vancouver-hackathon), we had a great team and a fuzzy idea. When we left more than twelve hours later, we had a great prototype and a fuzzy team. The [hackathon lessons](http://phillipadsmith.com/2014/12/putting-mediaincontext-making-software.html) stayed consistent: TK minimum viable product, get lots of feedback from people in the room, focus on solving a real-world problem (and just one!). 
+When we arrived at the [Vancouver open data day hackathon](https://www.opendatabc.ca/pages/opendataday-vancouver-hackathon), we had a great team and a fuzzy idea. When we left more than twelve hours later, we had a great prototype and a fuzzy team. The [hackathon lessons](http://phillipadsmith.com/2014/12/putting-mediaincontext-making-software.html) stayed consistent: build a minimum viable product, get lots of feedback from people in the room, focus on solving a real-world problem (and just one!). 
 {: .lead}
 
 The morning kicked off with an welcome from [OpenDataBC director, Gillan Vrooman](https://twitter.com/gndv) and an energetic pep talk from open-data advocate, [David Eaves](http://eaves.ca/about-david/). Eaves, dressed in hack-day chic hoodie, jeans, nerd-tastic spec and runners, encouraged participants to focus on real-world problem not just available data, and to talk openly about failures (and did so with surprising enthusiasm, given the early hour). 
