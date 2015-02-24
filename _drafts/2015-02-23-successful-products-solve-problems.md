@@ -1,10 +1,10 @@
 ---
 layout: post
 published: false
-title: Successful products solve problems
+title: "Successful products solve real-world problems"
 category: coding
 img_opt: inline
-dek: "Building an open-data app for soccer families"
+dek: "Building an open-data app for soccer families at #VODday"
 summary: Quick recap of the Vancouver open data day hackathon
 tags: 
   - frontpage
