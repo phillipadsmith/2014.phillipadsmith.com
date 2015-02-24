@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: "Successful products solve real-world problems"
 category: coding
 img_opt: inline
 dek: "Building an open-data app for soccer families at #VODday"
