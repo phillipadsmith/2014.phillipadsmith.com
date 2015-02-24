@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ""
 category: coding
 img_opt: inline
