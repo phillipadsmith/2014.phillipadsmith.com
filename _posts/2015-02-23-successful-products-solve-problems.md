@@ -18,7 +18,8 @@ img_lrg: "/files/Data_BC_2015-Feb-21.jpg"
 img_xlg: "/files/Data_BC_2015-Feb-21.jpg"
 ---
 
-When we arrived at the [Vancouver open data day hackathon](https://www.opendatabc.ca/pages/opendataday-vancouver-hackathon), we had a great team and a fuzzy idea. When we left more than twelve hours later, we had a great prototype and a fuzzy team. The [hackathon lessons](http://phillipadsmith.com/2014/12/putting-mediaincontext-making-software.html) stayed consistent: build a minimum viable product, get lots of feedback from people in the room, focus on solving a real-world problem (and just one!). 
+
+When we arrived at the [Vancouver open data day hackathon](https://www.opendatabc.ca/pages/opendataday-vancouver-hackathon), we had a great team and a fuzzy idea. When we left more than twelve hours later, we had a great prototype and a fuzzy team. The [hackathon lessons](http://phillipadsmith.com/2014/12/putting-mediaincontext-making-software.html) stayed consistent: build a minimum-viable product, get lots of feedback from people in the room, focus on solving a real-world problem (and just one!). 
 {: .lead}
 
 The morning kicked off with an welcome from [OpenDataBC director, Gillan Vrooman](https://twitter.com/gndv) and an energetic pep talk from open-data advocate, [David Eaves](http://eaves.ca/about-david/). Eaves, dressed in hack-day chic hoodie, jeans, nerd-tastic spec and runners, encouraged participants to focus on problems first before diving into the available data, and to talk  about failures openly (and did so with surprising enthusiasm, given the early hour). 
@@ -30,11 +31,11 @@ By 10:30PM that day, our hackathon team -- [Geoff D'auria](http://ca.linkedin.co
 ## The problem we set out to solve
 [As described last week](http://phillipadsmith.com/2015/02/open-data-s-uneven-field.html), we decided to focus our efforts on busy soccer dads and moms in and around Vancouver. Conservatively speaking, this is upwards of 100,000 people in the lower mainland alone (multiple leagues, multiple divisions in each league, boys and girls, more than 10 municipalities, etc.). And this is just one sport.
 
-The first use case is: You wake up and its raining out (no so uncommon in these parts). You need to know quickly -- _before_ you start getting the kids ready! -- "is the soccer even field open today?"
+The first use case is: You wake up and it's raining out (no so uncommon in these parts). You need to know quickly -- _before_ you start getting the kids ready! -- "is the soccer even field open today?"
 
-The secondary use case is to provide parents, coaches, referees, and league officials with essential information while on route to the field, e.g., You’re in the car, or running out the door, and it's too late or too cumbersome to Google around.
+The secondary use case is to provide parents, coaches, referees, and league officials with essential information while on route to the field, e.g., You’re in the car, or running out the door, and it's too late or too cumbersome to Google around for the info.
 
-Unfortunately for a busy parent, there's no comprehensive resource for playing field information across lower mainland.  The information is on municipal websites but teams play across municipalities. Additionally:
+Unfortunately for a busy parent, there's no comprehensive resource for playing field information across lower mainland.  The information _is_ on municipal websites, but teams play across several municipalities. Additionally:
 
 *	Fields close all the time, but there's no single place to find that information for all possible fields;
 * Playing field information is often not consistent across sites; 
@@ -49,14 +50,14 @@ The application is quite straightforward. For the first use case above: you text
 To pull this off in just a handful of hours on a surprisingly sunny Saturday in Vancouver, we:
 
 * Aggregated open data from City of Vancouver (parks, fields, etc.), DataBC (hospitals), and Open Street Maps (coffee shops); 
-* [Geoff](http://ca.linkedin.com/pub/geoff-d-auria/1/427/699) wrangled much of the park and field information into a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/172HoOQDKJaIMr930fugUK4GkxkzxR3mV3C3zJ0ruGeY/edit?usp=sharing);
+* [Geoff](http://ca.linkedin.com/pub/geoff-d-auria/1/427/699) researched all of the park and field information and wrangled it all [Google Spreadsheet](https://docs.google.com/spreadsheets/d/172HoOQDKJaIMr930fugUK4GkxkzxR3mV3C3zJ0ruGeY/edit?usp=sharing), as well as writing the witty copy;
 * [Hugh](http://geocology.ca/) loaded the coffee shops and hospitals into [CartoDB](https://cartodb.com/) and whipped up some fancy spatial SQL queries to sort by distance from the park;
-* After they'd done all the hard work, I wrapped all of that data goodness into a [single-file application](https://github.com/phillipadsmith/field-notes-lite) that leveraged [Twilio](http://twilio.com/) to easily received and responded to users' SMS messages.
+* After they'd done all the hard work, I wrapped all of that data goodness into a [quick-and-diry single-file application](https://github.com/phillipadsmith/field-notes-lite) that leveraged [Twilio](http://twilio.com/) to easily received and responded to users' SMS messages.
 
 Now that's teamwork! :)
 
 ## Greater potential 
-The potential for a product like this seem surprisingly large. Beyond youth soccer, this same approach could be expanded to all recreational soccer -- that would be a market several times larger than just the youth leagues. If this was expanded to cover other sports leagues, it would be a very, very large market indeed.
+The potential for a product like this seem surprisingly large. Beyond youth soccer, this same approach could be expanded to all recreational soccer -- which would be a market several times larger than just the youth leagues. If this was expanded to cover other sports leagues, it would be a very, very large market indeed.
 
 [As I mused last week](http://phillipadsmith.com/2015/02/open-data-s-uneven-field.html), there's an opportunity here to solve a surprising hairball of a data problem: pulling together geographic information about fields, parks as well as their condition, across many municipalities and parks boards, not to mention the challenge ahead of incorporating information about divisions, teams, and game schedules. We could probably have a hack day every Saturday for the next few months without running out of ideas to work on...
 
