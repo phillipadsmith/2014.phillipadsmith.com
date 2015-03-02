@@ -9,6 +9,7 @@ I've been blogging (irregularly) since about 2001. I started with [Greymatter](h
 ## Technical TODO list
 
 * [x] ~~Set-up [jekyll-hook](https://github.com/developmentseed/jekyll-hook)~~
-* [ ] Re-enable mod_pagespeed for this site
+* [x] Re-enable mod_pagespeed for this site
 * [ ] Responsive image generation: automatically generate the various sizes if not provided in the front matter
 * [ ] Upgrade Jekyll to take advantage of faster regeneration, etc.
+* [ ] Start migrating posts from the old Community Bandwidth site (circa 2003)
