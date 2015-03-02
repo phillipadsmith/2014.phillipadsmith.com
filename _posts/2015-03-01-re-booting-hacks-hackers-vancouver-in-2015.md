@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Re-booting Hacks/Hackers Vancouver for 2015"
 category: convening
 img_opt: inline
