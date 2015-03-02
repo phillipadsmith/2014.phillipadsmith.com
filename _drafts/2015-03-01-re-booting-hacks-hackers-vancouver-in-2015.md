@@ -4,7 +4,7 @@ published: false
 title: "Re-booting Hacks/Hackers Vancouver in 2015"
 category: convening
 img_opt: inline
-dek: Some dek to come
+dek: "Tech-interested journos & journalism-interested tech collide"
 tags: 
   - frontpage
   - hackshackers
