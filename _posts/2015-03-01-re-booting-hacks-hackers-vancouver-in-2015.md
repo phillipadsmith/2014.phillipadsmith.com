@@ -19,6 +19,7 @@ img_caption: "Hacks/Hackers YVR re-boot on Feb 26th, 2015"
 date: "2015-03-02"
 ---
 
+
 Last Thursday night, the back of an underground Australian pub quickly filled with an eclectic crowd of reporters, editors, journalism students and teachers, as well as a good smattering of "news nerds." Also in attendance were the Vancouver outposts of some very interesting journalism-meets-technology start-ups, like Meedan's Checkdesk, Axiom Zen's Timeline, and Invoke Lab's Quiet.ly. Slowly our motley crew took over the room: table after table engaged in rapt discussion of the future of news.
 {: .lead} 
 
@@ -42,5 +43,4 @@ On Thursday night, I saw tables mixing up journalism students, PhD candidates at
 
 This is a unique group of people, working on ambitious ideas, and I'm excited to bring them together again.
 
-Have ideas for our next meet-up? Keen to get more involved? Want to try out being a co-organizer? Drop a note in the comments here, [send me a quick e-mail](TK), or [find me on Twitter](http://twitter.com/phillipadsmith).
-
+Have ideas for our next meet-up? Keen to get more involved? Want to try out being a co-organizer? Drop a note in the comments here, [send me a quick e-mail](/about#contact), or [find me on Twitter](http://twitter.com/phillipadsmith).
