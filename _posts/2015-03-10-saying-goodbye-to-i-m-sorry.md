@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Saying goodbye to \"I'm sorry\""
+title: "Saying goodbye to "
 category: covering
 img_opt: inline
 dek: "Why I'll never apologize again, and why you shouldn't either"
@@ -16,6 +16,7 @@ img_caption: "\"Sorry, we're open\" by tara hunt on Flickr"
 img_url: "https://flic.kr/p/67i4Tg"
 summary: "Why I'll never apologize again, and why you shouldn't either"
 ---
+
 
 Over the last few months, I found myself regularly asking friends to not apologize to me. After that, I started slowly experimenting with removing various apologies from my daily vocabulary. After some consideration and some debate, I'm ready to banish "I'm sorry" for good.
 {: .lead} 
@@ -45,7 +46,7 @@ To come at the question with slightly more nuance, I could ask: when do we actua
 
 Thus I began experimenting. First trying to restructure my own language. Then the language of my friends. Then testing the idea on people I interacted with on a day-to-day basis (though, I must admit, when I pitched the idea to Lorne Craig of [Unicycle Creative](http://www.unicyclecreative.com/) he wasn't completely convinced -- but at least it was a lively conversation!).
 
-I don't know if this is true for your, or universally, but when I apologize I feel that I am using it to verbally express another more complex emotion or intention. Often that would be a something along the lines of a regret or a guilty feeling -- "I wish I had been able to make it to that event" -- or a personal criticism, e.g., "I should be better at keeping in touch with my friends."
+I don't know if this is true for you, or universally, but when I apologize I feel that I am using it to verbally express another more complex emotion or intention. Often that would be a something along the lines of a regret or a guilty feeling -- "I wish I had been able to make it to that event" -- or a personal criticism, e.g., "I should be better at keeping in touch with my friends."
 
 So what does it say when we apologize unnecessarily? In what light do we present ourselves when we sprinkle a casual "I'm sorry" into almost every interaction with our friends, family, and colleagues? Are we not saying to the world: I am racked with guilt, regrets, and personal self-loathing?
 
