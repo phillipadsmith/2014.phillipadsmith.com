@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Saying goodbye to \"I'm sorry\""
 category: covering
 img_opt: inline
