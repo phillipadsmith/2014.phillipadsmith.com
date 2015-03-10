@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Saying goodbye to \"I'm sorry\""
+title: "Saying goodbye to \"I am sorry\""
 category: covering
 img_opt: inline
 dek: "Why I'll never apologize again, and why you shouldn't either"
