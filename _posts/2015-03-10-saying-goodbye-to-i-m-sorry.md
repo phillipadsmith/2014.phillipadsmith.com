@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Saying goodbye to "
+title: "Saying goodbye to \"I'm sorry\""
 category: covering
 img_opt: inline
 dek: "Why I'll never apologize again, and why you shouldn't either"
@@ -16,6 +16,7 @@ img_caption: "\"Sorry, we're open\" by tara hunt on Flickr"
 img_url: "https://flic.kr/p/67i4Tg"
 summary: "Why I'll never apologize again, and why you shouldn't either"
 ---
+
 
 
 Over the last few months, I found myself regularly asking friends to not apologize to me. After that, I started slowly experimenting with removing various apologies from my daily vocabulary. After some consideration and some debate, I'm ready to banish "I'm sorry" for good.
