@@ -22,7 +22,7 @@ img_url: "https://www.flickr.com/photos/110751683@N02/13334048894/"
 Are you a journalist that regularly works with sources that you would not want to disclose? Are you doing research and interviews for your reporting that you simply would prefer to keep private? Is there a chance that a potential story might pass you by simply because the source can't communicate with you securely? If so, you should invest some time in getting up-to-speed on digital security. Here are some starting points.
 {: .lead}
 
-[Canadaland reported today that "only a handful of reporters in Canada have taken steps to secure themselves and their sources."](http://canadalandshow.com/article/which-reporters-dont-bother-encrypt-email). The article was reported by my colleague [Tim Groves](https://twitter.com/TimMGroves) and it is a topic that we've discussed on more than one occasion since the Edward Snowden leaks. Put simply: reporters in Canada need to step up their game.
+[Canadaland reported today that "only a handful of reporters in Canada have taken steps to secure themselves and their sources."](http://canadalandshow.com/article/which-reporters-dont-bother-encrypt-email) The article was reported by my colleague [Tim Groves](https://twitter.com/TimMGroves) and is a topic that we've discussed on more than one occasion since the Edward Snowden leaks. Put simply: reporters in Canada need to step up their game.
 
 It's not like [we know that the Canadian government spies on Canadians or anything](http://www.cbc.ca/news/canada/cse-what-do-we-know-about-canada-s-eavesdropping-agency-1.1400396). Ahem.
 
