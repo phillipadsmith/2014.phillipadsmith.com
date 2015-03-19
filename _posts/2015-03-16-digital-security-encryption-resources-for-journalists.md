@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: ""
+published: true
+title: "Digital security & encryption resources for journalists"
 category: commentary
 img_opt: inline
 summary: More journalists and media organizations need to be thinking about security.
