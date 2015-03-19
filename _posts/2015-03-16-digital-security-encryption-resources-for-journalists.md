@@ -6,6 +6,7 @@ category: commentary
 img_opt: inline
 summary: More journalists and media organizations need to be thinking about security.
 tags: 
+  - frontpage
   - security
   - infosec
   - hackshackers
