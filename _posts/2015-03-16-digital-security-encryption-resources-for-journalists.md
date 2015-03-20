@@ -19,6 +19,7 @@ img_caption: cc image by Yuri Samoilov on Flickr
 img_url: "https://www.flickr.com/photos/110751683@N02/13334048894/"
 ---
 
+
 Are you a journalist that regularly works with sources that you would not want to disclose? Are you doing research and interviews for your reporting that you simply would prefer to keep private? Is there a chance that a potential story might pass you by simply because the source can't communicate with you securely? If so, you should invest some time in getting up-to-speed on digital security. Here are some starting points.
 {: .lead}
 
@@ -43,7 +44,7 @@ Out of all of the resources that I reviewed, here are the top three that I feel 
 There are many, many more out there. But those are the resources at the top of my list *today*. Feel free to suggest others in the comments below, by sending me a quick note on [Twitter](http://twitter.com/phillipadsmith), or by sending me an [encrypted e-mail](http://keybase.io/phillipadsmith).
 
 ## New tools
-[I'm still personally a big fan of good ol' PGP](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x518BF15DD63C5D49). I use it daily to secure my e-mail communications with a number of friend and colleagues. Just this past January, I lead an online workshop to get the entire [Beautiful Rising team set-up with PGP and listed on Keybase](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/blob/master/the-team-and-contributors.md). You can find the [slides for that workshop online here](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/tree/master/presentations).
+[I'm still personally a big fan of good ol' PGP](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x518BF15DD63C5D49). I use it daily to secure my e-mail communications with a number of friend and colleagues. Just this past January, I lead an online workshop to get the entire [Beautiful Rising team set-up with PGP and listed on Keybase](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/blob/master/the-team-and-contributors.md). You can find the [slides for that workshop online here](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/blob/master/presentations/brising-security-training.pdf).
 
 There are, however, a number of new services and tools entering the market that are worth mentioning. Many aim to take the complexity out of communicating securely -- something that has up until now been a little too technical and not for the faint of heart. But, with simplicity, there often comes a trade off or two.
 
