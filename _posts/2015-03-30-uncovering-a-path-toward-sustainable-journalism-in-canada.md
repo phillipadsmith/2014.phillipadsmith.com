@@ -34,7 +34,7 @@ So far what I'm seeing is:
 
 The [campaign landing page][support] has received roughly 2000 uniques over the last week, resulting in approximately 425 gifts, for a conversion rate of roughly 21% (or basically one in five unique visitors complete a transaction). Of those that chose to give a one-time gift, the average contribution is $59. 
 
-As we've seen in the past, e-mail campaigns -- both campaign-specific and The Tyee's daily and weekly briefings -- drove the lion's share of gifts; almost 75% when combined. That is followed roughly by stories and display advertising on The Tyee, and then Twitter at a distant 3%.
+As we've seen in the past, e-mail campaigns -- both campaign-specific and The Tyee's daily and weekly briefings -- drove the lion's share of gifts; almost 75% when combined. That is followed roughly by stories and display advertising on The Tyee, and then Twitter at a distant 3%. This should surprise no one that has  [read my blog in the past](http://phillipadsmith.com/2014/03/email-is-alive-and-well.html) -- [I'm kinda' into e-mail](http://phillipadsmith.com/2014/03/email-is-alive-and-well.html)
 
 Of the contributions to date, about 10% have been completed on a mobile device (discussed earlier [here](http://phillipadsmith.com/2013/12/anatomy-of-100000-how-1000-individuals-helped-to-take-the-tyee-national.html)). Of those, 50% were on an iPad, then iPhones, then Androids and Blackberries.
 
