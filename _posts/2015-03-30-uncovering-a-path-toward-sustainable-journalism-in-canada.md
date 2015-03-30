@@ -50,7 +50,7 @@ Outside of British Columbia, these are the top five locations that people are co
 1. Nova Scotia
 1. Newfoundland
 
-There's also been some surprising support from New South Whales, Australia and Auckland, New Zealand.
+There's also been some surprising support from New South Wales, Australia and Auckland, New Zealand.
 
 In British Columbia, here's the top ten cities reported:
 
@@ -71,7 +71,7 @@ This time, I'm guessing that we Won't see the "hockey stick" chart that the was 
 
 My prediction is that the the campaign will raise roughly $5000 in the last day. That leaves roughly $20,000 to raise over the next 13 days, or roughly $1500/day. That's by no means an easy lift.
 
-The Tyee's new Director of Community Development, Jeanette Ageson (featured in the campaign video), has developed a great plan with lots of surprises. She's pulled in some whip-smart and funny minds to help out, like [Sarah Berman](http://thetyee.ca/Bios/Sarah_Berman/) and [Steve Burges](http://thetyee.ca/Bios/Steve_Burgess/). Just looking at the campaign calendar sketched out in the makeshift boardroom gives me confidence that the goal will be reached.
+The Tyee's new Director of Community Development, Jeanette Ageson (featured in the campaign video), has developed a great plan with lots of surprises. She's pulled in some whip-smart and funny minds to help out, like [Sarah Berman](http://thetyee.ca/Bios/Sarah_Berman/) and [Steve Burgess](http://thetyee.ca/Bios/Steve_Burgess/). Just looking at the campaign calendar sketched out in the makeshift boardroom gives me confidence that the goal will be reached.
 
 ## Sustainable journalism models
 
