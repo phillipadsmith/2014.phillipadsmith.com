@@ -11,10 +11,10 @@ tags:
   - journalism
   - crowdfunding
   - fundraising
-img_sml: "/files/I_want_better_election_coverage_this_year_-_do_you__–_Th"
-img_med: "/files/I_want_better_election_coverage_this_year_-_do_you__–_Th"
-img_lrg: "/files/I_want_better_election_coverage_this_year_-_do_you__–_Th"
-img_xlg: "/files/I_want_better_election_coverage_this_year_-_do_you__–_Th"
+img_sml: "/files/tyee-election-fundraiser.png"
+img_med: "/files/tyee-election-fundraiser.png"
+img_lrg: "/files/tyee-election-fundraiser.png"
+img_xlg: "/files/tyee-election-fundraiser.png"
 ---
 
 And we're off to the races again: in the wee hours last Monday morning, The Tyee launched its third campaign asking readers to directly fund  reporting projects. A bit more than a year ago, The Tyee asked readers to contribute $100,000 to put a reporter in Ottawa, and [they did it](http://thetyee.ca/Tyeenews/2013/11/19/Tyee-National-Day-After/). This time, the campaign is focused on raising $50,000 to cover the upcoming Canadian federal election. As of this morning -- just seven days into the campaign -- individuals have contributed more than $24,000.
