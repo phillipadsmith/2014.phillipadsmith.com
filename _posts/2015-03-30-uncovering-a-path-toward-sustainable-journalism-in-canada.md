@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: ""
+published: true
+title: Uncovering a path toward sustainable journalism in Canada
 category: consulting
 img_opt: inline
 dek: Over time successful patterns are emerging
