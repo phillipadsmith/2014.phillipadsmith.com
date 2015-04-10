@@ -69,7 +69,8 @@ Sit back and relax while Keybase handles the hard math for you.
 
 # To host or not to host, that is the question
 
-![Keybase.io: to host or not to host.]({{site.baseurl}}/files/8_keybase_host_private_key.jpg)
+![Keybase.io: to host or not to host.]({{site.baseurl}}/files/8_keybase_host_private_key2.jpg)
+
 This is a hotly-debated step in the security community. [There's a good explanatory conversation thread](https://github.com/keybase/keybase-issues/issues/160) on the site that hosts Keybase's code where various folks weigh-in on the options -- if you're concerned about this step, [it's worth a read](https://github.com/keybase/keybase-issues/issues/160).
 
 I'm not hear to preach one way or the other.
