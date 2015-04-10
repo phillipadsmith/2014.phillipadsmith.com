@@ -18,7 +18,9 @@ Some lead in
 [Review – Keybase.io, the Social Approach to Public Key Verification](http://www.vmfieldtips.com/2015/03/14/review-keybase-io-alpha/)
 http://www.vmfieldtips.com/about/
 
+
 http://pgp.mit.edu/pks/lookup?op=vindex&search=0x518BF15DD63C5D49
+https://keybase.io/phillipadsmith
 
 I receive approximately two encrypted e-mails a day at the moment. That's probably a 200% increase over this time last year.
 
@@ -44,25 +46,33 @@ Alternately, you can simply head to the [Keybase](https://keybase.io) site, clic
 ![Keybase.io: pick a good passphrase]({{site.baseurl}}/files/2_keybase_passphrase.jpg)
 The most important step when registering your Keybase account is picking an important passphrase. If you need some inspiration or coaching on this aspect of security, I suggest you put four minutes of your life into the hands of none other than [John Oliver and Edward Snowden (Facebook video link)](https://www.facebook.com/video.php?v=687975607998118&pnref=story).
 
-# You're not done yet: Add a PGP key
+## Hold on: You're not done yet!
 
 ![Keybase.io: No public key (yet!)]({{site.baseurl}}/files/3_keybase_no_public_key.jpg)
 Right about now you're feeling all smug and thinking "I'm one of the cool kids, yo! I got me an alpha Keybase account." But your work doesn't end there: in fact, the journey has only begun...
 
-For some reason that I haven't figure out yet, about one in ten of the people I invite to Keybase stop at the previous step and never actually set-up a public PGP key.
-
+For some reason that I haven't figure out yet, about one in ten of the people I invite to Keybase stop at the previous step and never actually set-up a public PGP key. However, without a public PGP key, nobody can send you an encrypted message. Having a Keybase account without a public key is actually kinda' lame. Let that be your public shaming and incentive to finish the job you started.
 
 ![Keybase.io: Add or create a key]({{site.baseurl}}/files/4_keybase_add_a_key.jpg)
+To get started, click the "Action required" button (kinda' obvious, right!?).
+
+## Add or create a key
 
 ![Keybase.io: To add, or create, that is the question.]({{site.baseurl}}/files/5_keybase_add_or_create_key.jpg)
+You now have a choice, you can either `add` or `create` a public key. If you don't have a public key yet, this is a fine time to create one and Keybase can help you with that. Click "Add or create a key" to get started.
 
 ![Keybase.io: You picked a good passphrase, right?]({{site.baseurl}}/files/6_keybase_passphrase_again.jpg)
+You picked a [good passphrase](https://www.facebook.com/video.php?v=687975607998118&pnref=story), right? Something memorable that you didn't need to write down on a piece of paper that is now sitting beside your computer on your desk?
 
 ![Keybase.io: Math is hard!]({{site.baseurl}}/files/7_keybase_math_is_hard.jpg)
+Sit back and relax while Keybase handles the hard math for you.
 
 # To host or not to host, that is the question
 
 ![Keybase.io: to host or not to host.]({{site.baseurl}}/files/8_keybase_host_private_key.jpg)
+This is a hotly-debated step in the security community. [There's a good explanatory conversation thread](https://github.com/keybase/keybase-issues/issues/160) on the site that hosts Keybase's code where various folks weigh-in on the options -- if you're concerned about this step, [it's worth a read](https://github.com/keybase/keybase-issues/issues/160).
+
+I'm not hear to preach one way or the other.
 
 # Hurray, you've got a public PGP key
 
@@ -78,7 +88,15 @@ For some reason that I haven't figure out yet, about one in ten of the people I 
 
 ## How to use your PGP key in your e-mail
 
+![keybase_GPG_cant_send_to_these.jpg]({{site.baseurl}}/files/keybase_GPG_cant_send_to_these.jpg)
+
+
 ### GPG Tools
+![keybase_gpg_tools.jpg]({{site.baseurl}}/files/keybase_gpg_tools.jpg)
+
+![keybase_GPG_keychain_access.jpg]({{site.baseurl}}/files/keybase_GPG_keychain_access.jpg)
+
+![keybase_gpg4win.jpg]({{site.baseurl}}/files/keybase_gpg4win.jpg)
 
 ### Update your info
 
@@ -89,3 +107,8 @@ For some reason that I haven't figure out yet, about one in ten of the people I 
 ### Publish your key on public keyservers
 
 ### Test your new capabilities
+
+
+[Tor support!](https://keybase.io/docs/command_line/tor)
+
+
