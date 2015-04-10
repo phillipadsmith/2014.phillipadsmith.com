@@ -67,21 +67,31 @@ You picked a [good passphrase](https://www.facebook.com/video.php?v=687975607998
 ![Keybase.io: Math is hard!]({{site.baseurl}}/files/7_keybase_math_is_hard.jpg)
 Sit back and relax while Keybase handles the hard math for you.
 
+If you alrady have a public GPG key, you can upload that public key to Keybase at this point. Just click the `add` button.
+
 # To host or not to host, that is the question
 
 ![Keybase.io: to host or not to host.]({{site.baseurl}}/files/8_keybase_host_private_key2.jpg)
 
 This is a hotly-debated step in the security community. [There's a good explanatory conversation thread](https://github.com/keybase/keybase-issues/issues/160) on the site that hosts Keybase's code where various folks weigh-in on the options -- if you're concerned about this step, [it's worth a read](https://github.com/keybase/keybase-issues/issues/160).
 
-I'm not hear to preach one way or the other.
+I'm not hear to preach one way or the other. Choose an option that is a fit with your security needs.
+
+If you don't feel comfortable hosting your private key on Keybase, then you have the option of not doing so. You won't be able to decrypt files using the Web interface, but -- if you're concerns are that high -- you probably know how to decrypt files elsewhere already.
 
 # Hurray, you've got a public PGP key
 
 ![Keybase.io: You got key!]({{site.baseurl}}/files/10_keybase_published_a_key_yeah.jpg)
+Horray! You've got a public key hosted on Keybase. You are now officially one of the "cool kids." You can pat yourself on the back for a job well done.
+
+Of course, the real test of coolness is using your new skills to start exchanging encrypted messages with your friends, family, and colleagues.
+
+There are a couple of ways to do that. Let's dive right in.
 
 # How to use your new PGP key via the Web
 
 ![Keybase.io: encryption and decryption]({{site.baseurl}}/files/11_keybase_encrypt_decrypt.jpg)
+
 
 [Keybase.io: Track yo friends!]({{site.baseurl}}/files/12_keybase_track_yo_friends2.jpg)
 
