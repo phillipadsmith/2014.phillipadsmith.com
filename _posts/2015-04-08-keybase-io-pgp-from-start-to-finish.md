@@ -22,9 +22,9 @@ Encryption is the real deal folks. Love it or hate it, we know that [Pretty Good
 
 I receive approximately two encrypted e-mails a day at the moment. That's probably a 200% increase over this time last year. I expect it will only continue to increase.
 
-One of the reasons why it's increasing for me is because I've made time to try to explain encyption to my friends and work colleagues. I've walked many through the steps to get set-up. And, I'm happy to say, over the years it's become easier and easier -- the tools have gotten better, the user experience smoother, and the problems fewer.
+One of the reasons why it's increasing for me is because I've made time to try to explain encyption to my friends and work colleagues. I've walked many through the steps to get it set-up. And, I'm happy to say, over the years it's become easier and easier -- the tools have gotten better, the user experience smoother, and the problems fewer.
 
-Last year, the founders of the well-known online dating site OKCupid put their weight behind the reamaining problems with adoption of Pretty Good Privacy (PGP) and launched an alpha version of a service called [Keybase](https://keybase.io/). Keybase aims to address some of the challenges of getting started and building a "[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)" using contemporary "social proofs" like our online social indentities.
+Last year, the founders of the well-known online dating site OKCupid put their weight behind fixing some of the reamaining problems with adoption of Pretty Good Privacy (PGP) and launched an alpha version of a service called [Keybase](https://keybase.io/). Keybase aims to address some of the challenges of getting started and building a "[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)" using contemporary "social proofs" like our online social indentities.
 
 Opinions are mixed about Keybase. Some experts like [Tim Bray](https://www.tbray.org/) -- a security buff and software developer at Amazon -- [give it a thumbs up](https://www.tbray.org/ongoing/When/201x/2014/03/19/Keybase). Others, like one of the developers of the popular security tools [TextSecure and Redphone](https://whispersystems.org/), [are ready to give up on PGP entirely](http://www.thoughtcrime.org/blog/gpg-and-me/).
 
@@ -88,8 +88,10 @@ I'm not hear to preach one way or the other. Choose an option that is a fit with
 
 If you don't feel comfortable hosting your private key on Keybase, then you have the option of not doing so. You won't be able to decrypt files using the Web interface, but -- if you're concerns are that high -- you probably know how to decrypt files elsewhere already.
 
-If if helps you to make a decision, here are a couple of points to consider:
+If helps you to make a decision, here are a couple of points to consider:
+
 - I don't personally host my private key on Keybase, [but I've been using PGP since 2009](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x518BF15DD63C5D49) so the other tools are very familar to me
+
 - You can always delete your private key from Keybase once you've got the hang of encrypting and decrypting messages elsewhere
 
 ### Hurray, you've got a public PGP key
