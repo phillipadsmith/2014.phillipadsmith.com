@@ -2,10 +2,19 @@
 layout: post
 published: false
 title: Pretty Good Privacy in 10 minutes or less
-category: coding
+category: commentary
 img_opt: cover
 dek: "A step-by-step guide to getting started with Keybase"
 img_xlg: /files/phillipadsmith_on_keybase_xlg.jpg
+tags: 
+  - frontpage
+  - security
+  - privacy
+  - PGP
+date: "2015-04-10"
+img_lrg: /files/phillipadsmith_on_keybase_lrg.jpg
+img_med: /files/phillipadsmith_on_keybase_med.jpg
+img_sml: /files/phillipadsmith_on_keybase_med.jpg
 ---
 
 Encryption is the real deal folks. Love it or hate it, we know that [Pretty Good Privacy](TK) works well enough to have [protected sources like Edward Snowden](TK). The time for excuses is over. If you work in world where protecting your sources, contacts, or colleagues is important, it's time to stop procrastinating and to get yourself up to speed. This post will help you do that in 10 minutes.
@@ -17,7 +26,7 @@ One of the reasons why it's increasing for me is because I've made time to try t
 
 Last year, the founders of the well-known online dating site OKCupid put their weight behind the reamaining problems with adoption of Pretty Good Privacy (PGP) and launched an alpha version of a service called [Keybase](https://keybase.io/). Keybase aims to address some of the challenges of getting started and building a "[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)" using contemporary "social proofs" like our online social indentities.
 
-Opinions are mixed about Keybase. Some experts like [Tim Bray](https://www.tbray.org/) -- a security buff and software developer at Amazon -- [give it a thumbs up] (https://www.tbray.org/ongoing/When/201x/2014/03/19/Keybase). Others, like this developer of the popular security tools [TextSecure and Redphone](https://whispersystems.org/), [are ready to give up on PGP entirely](http://www.thoughtcrime.org/blog/gpg-and-me/).
+Opinions are mixed about Keybase. Some experts like [Tim Bray](https://www.tbray.org/) -- a security buff and software developer at Amazon -- [give it a thumbs up](https://www.tbray.org/ongoing/When/201x/2014/03/19/Keybase). Others, like one of the developers of the popular security tools [TextSecure and Redphone](https://whispersystems.org/), [are ready to give up on PGP entirely](http://www.thoughtcrime.org/blog/gpg-and-me/).
 
 I'm personally of the opinion that some security is better than none, and that -- as the tools will always be evolving -- putting a stake in the ground is an important step toward a committment to learning.
 
@@ -29,7 +38,7 @@ So, with all that said, let's get started with setting up PGP on Keybase...
 
 I've successfully invited more than twenty people to Keybase over the last few months. In exchange for the invite code, I try to encourage and support them in getting a public key published and exchanging an encrypted message with me. 
 
-If you're received an invitation from me, the process looks something like this:
+If you've received an invitation from me, the process looks something like this:
 
 ![Keybase.io e-mail invitation from me!]({{site.baseurl}}/files/0_keybase_email_invite.jpg)
 Look for an e-mail from `keybase.io` in your e-mail client. If you can't find it at first, check your "Promotions" tab in Gmail, or your "junk" folder or what-have-you. Maybe search for it.
@@ -58,7 +67,7 @@ To get started, click the "Action required" button (kinda' obvious, right!?).
 ![Keybase.io: To add, or create, that is the question.]({{site.baseurl}}/files/5_keybase_add_or_create_key.jpg)
 You now have a choice, you can either `add` or `create` a public key. 
 
-If you alrady have a public GPG key, you can upload that public key to Keybase at this point. Just click the `add` button.
+If you alrady have a public PGP key, you can upload that public key to Keybase at this point. Just click the `add` button.
 
 If you don't have a public key yet, this is a fine time to create one and Keybase can help you with that. Click "Add or create a key" to get started.
 
