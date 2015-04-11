@@ -17,7 +17,7 @@ img_med: /files/phillipadsmith_on_keybase_med.jpg
 img_sml: /files/phillipadsmith_on_keybase_med.jpg
 ---
 
-Encryption is the real deal folks. Love it or hate it, we know that [Pretty Good Privacy](TK) works well enough to have [protected sources like Edward Snowden](TK). The time for excuses is over. If you work in world where protecting your sources, contacts, or colleagues is important, it's time to stop procrastinating and to get yourself up to speed. This post will help you do that in 10 minutes.
+Encryption is the real deal folks. Love it or hate it, we know that [Pretty Good Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) works well enough to have [protected sources like Edward Snowden](http://www.businessinsider.com/edward-snowden-email-encryption-works-against-the-nsa-2013-6?op=1). The time for excuses is over. If you work in world where protecting your sources, contacts, or colleagues is important, it's time to stop procrastinating and to get yourself up to speed. This post will help you do that in 10 minutes.
 {: .lead}
 
 I receive approximately two encrypted e-mails a day at the moment. That's probably a 200% increase over this time last year. I expect it will only continue to increase.
