@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: ""
+published: true
+title: Pretty Good Privacy in 10 minutes or less
 category: commentary
 img_opt: cover
 dek: "A step-by-step guide to getting started with Keybase"
