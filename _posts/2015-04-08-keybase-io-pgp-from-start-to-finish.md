@@ -40,47 +40,47 @@ I've successfully invited more than twenty people to Keybase over the last few m
 
 If you've received an invitation from me, the process looks something like this:
 
-![Keybase.io e-mail invitation from me!]({{site.baseurl}}/files/0_keybase_email_invite.jpg)
+![Keybase.io e-mail invitation from me!](/files/0_keybase_email_invite.jpg)
 Look for an e-mail from `keybase.io` in your e-mail client. If you can't find it at first, check your "Promotions" tab in Gmail, or your "junk" folder or what-have-you. Maybe search for it.
 
-![Confirm that e-mail address]({{site.baseurl}}/files/0_keybase_email_confirm.jpg)
+![Confirm that e-mail address](/files/0_keybase_email_confirm.jpg)
 Clicking the link in the e-mail will lead you to this page.
 
-![1_keybase_already_have_a_code.jpg]({{site.baseurl}}/files/1_keybase_already_have_a_code.jpg)
+![1_keybase_already_have_a_code.jpg](/files/1_keybase_already_have_a_code.jpg)
 Alternately, you can simply head to the [Keybase](https://keybase.io) site, click "Join" in the top right corner, and then click the "Already have a code?" link.
 
-![Keybase.io: pick a good passphrase]({{site.baseurl}}/files/2_keybase_passphrase.jpg)
+![Keybase.io: pick a good passphrase](/files/2_keybase_passphrase.jpg)
 The most important step when registering your Keybase account is picking an important passphrase. If you need some inspiration or coaching on this aspect of security, I suggest you put four minutes of your life into the hands of none other than [John Oliver and Edward Snowden (Facebook video link)](https://www.facebook.com/video.php?v=687975607998118&pnref=story).
 
 ### Hold on: You're not done yet!
 
-![Keybase.io: No public key (yet!)]({{site.baseurl}}/files/3_keybase_no_public_key.jpg)
+![Keybase.io: No public key (yet!)](/files/3_keybase_no_public_key.jpg)
 Right about now you're feeling all smug and thinking "I'm one of the cool kids, yo! I got me an alpha Keybase account." But your work doesn't end there: in fact, the journey has only begun...
 
 For some reason that I haven't figure out yet, about one in ten of the people I invite to Keybase stop at the previous step and never actually set-up a public PGP key. However, without a public PGP key, nobody can send you an encrypted message. Having a Keybase account without a public key is actually kinda' lame. Let that be your public shaming and incentive to finish the job you started.
 
-![Keybase.io: Add or create a key]({{site.baseurl}}/files/4_keybase_add_a_key.jpg)
+![Keybase.io: Add or create a key](/files/4_keybase_add_a_key.jpg)
 To get started, click the "Action required" button (kinda' obvious, right!?).
 
 ### Add or create a key
 
-![Keybase.io: To add, or create, that is the question.]({{site.baseurl}}/files/5_keybase_add_or_create_key.jpg)
+![Keybase.io: To add, or create, that is the question.](/files/5_keybase_add_or_create_key.jpg)
 You now have a choice, you can either `add` or `create` a public key. 
 
 If you alrady have a public PGP key, you can upload that public key to Keybase at this point. Just click the `add` button.
 
 If you don't have a public key yet, this is a fine time to create one and Keybase can help you with that. Click "Add or create a key" to get started.
 
-![Keybase.io: You picked a good passphrase, right?]({{site.baseurl}}/files/6_keybase_passphrase_again.jpg)
+![Keybase.io: You picked a good passphrase, right?](/files/6_keybase_passphrase_again.jpg)
 You picked a [good passphrase](https://www.facebook.com/video.php?v=687975607998118&pnref=story), right? Something memorable that you didn't need to write down on a piece of paper that is now sitting beside your computer on your desk?
 
-![Keybase.io: Math is hard!]({{site.baseurl}}/files/7_keybase_math_is_hard.jpg)
+![Keybase.io: Math is hard!](/files/7_keybase_math_is_hard.jpg)
 Sit back and relax while Keybase handles the hard math for you.
 
 
 ### To host or not to host, that is the question
 
-![Keybase.io: to host or not to host.]({{site.baseurl}}/files/8_keybase_host_private_key2.jpg)
+![Keybase.io: to host or not to host.](/files/8_keybase_host_private_key2.jpg)
 
 This is a hotly-debated step in the security community. [There's a good explanatory conversation thread](https://github.com/keybase/keybase-issues/issues/160) on the site that hosts Keybase's code where various folks weigh-in on the options -- if you're concerned about this step, [it's worth a read](https://github.com/keybase/keybase-issues/issues/160).
 
@@ -94,7 +94,7 @@ If if helps you to make a decision, here are a couple of points to consider:
 
 ### Hurray, you've got a public PGP key
 
-![Keybase.io: You got key!]({{site.baseurl}}/files/10_keybase_published_a_key_yeah.jpg)
+![Keybase.io: You got key!](/files/10_keybase_published_a_key_yeah.jpg)
 Horray! You've got a public key hosted on Keybase. You are now officially one of the "cool kids." You can pat yourself on the back for a job well done.
 
 Of course, the real test of coolness is using your new skills to start exchanging encrypted messages with your friends, family, and colleagues.
@@ -105,13 +105,13 @@ There are a couple of ways to do that. Let's dive right in.
 
 Now that you've got a public key (and possibly a private key) on Keybase, you can start to encrypt messages to people you know.
 
-![Keybase.io: Track yo friends!]({{site.baseurl}}/files/12_keybase_track_yo_friends2.jpg)
+![Keybase.io: Track yo friends!](/files/12_keybase_track_yo_friends2.jpg)
 The easiest way to do this is to start `tracking` them. To track someone on Keybase through the Web interface, simply:
 - Search for them by a handle they typically use
 - Use the provided "social proofs" to verify that is actually the person you think it is
 - Then click the `Track` button to indicate that you believe this person is who they say they are, and to add them to the list of people that you track
 
-![Keybase.io: encryption and decryption]({{site.baseurl}}/files/11_keybase_encrypt_decrypt.jpg)
+![Keybase.io: encryption and decryption](/files/11_keybase_encrypt_decrypt.jpg)
 Now, when you click the `encrypt` button, you'll have the option fo typing in the names of people you're tracking and not tracking. The only difference is that people you track will have an icon indicating that they are someone you've tracked (helpful if there are people with similar names).
 
 Type your message. Click `encrypt`. And you should get a large block of [cyphertext](https://en.wikipedia.org/wiki/Ciphertext) that you can e-mail, instant message, SMS, or otherwise transmit to the recipient.
