@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: "Jim Jennings: Canadian's should be \"shared shitless\" about the state of media"
+title: "Jim Jennings: Canadian's should be \"scared shitless\" about the state of media"
 category: coding
 img_opt: cover
 ---
