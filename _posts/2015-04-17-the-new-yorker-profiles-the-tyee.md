@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: The New Yorker profiles The Tyee
 category: commentary
 img_opt: none
