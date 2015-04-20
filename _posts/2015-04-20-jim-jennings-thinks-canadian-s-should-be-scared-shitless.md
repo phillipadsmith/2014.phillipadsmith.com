@@ -8,6 +8,7 @@ dek: "Rare honesty was on display at last week's panel on media sustainability"
 tags: 
   - thetyee
   - journalism
+  - frontpage
 img_xlg: /files/dembicki_and_jennings.jpg
 img_lrg: /files/dembicki_and_jennings.jpg
 img_med: /files/dembicki_and_jennings.jpg
