@@ -40,6 +40,6 @@ On the question of Canada's media future, The Tyee's Dembicki is "quite hopeful"
 
 Even though the panel focused more on the sustainability of Canada's media landscape than it did how Canadian media covers sustainability, Dembicki did leave the audience with this final thought: Sustainability is not a single "thing" to be covered, but a meta lens through which to see the world -- a perspective.
 
-![guardian-keep-it-in-the-ground.jpg]({{site.baseurl}}/files/guardian-keep-it-in-the-ground.jpg)
+![guardian-keep-it-in-the-ground.jpg](/files/guardian-keep-it-in-the-ground.jpg)
 
 It's a perspective that perhaps Canadian's should not hold their breath to see on the home page of the Globe and Mail. When I asked Jennings -- a self-proclaimed carbon-conscious citizen (he walks to work, doesn't own a car, turns off lights) -- about The Guardian UK's recent [home page take over](http://www.theguardian.com/environment/keep-it-in-the-ground-blog/2015/mar/25/keep-it-in-the-ground-campaign-six-things-weve-learned) that encouraged readers to keep oil in the ground, after reminding me that he was not at the panel representing the Globe he predicted that it would be unlikely that Canadians would see something similar at home.
