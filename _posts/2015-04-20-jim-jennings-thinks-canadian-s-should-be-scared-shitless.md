@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Jim Jennings thinks Canadian's should be "scared shitless"'
+title: 'Jim Jennings thinks Canadian's should be &ldquo;scared shitless&rdquo;'
 category: commentary
 img_opt: cover
 dek: "Rare honesty was on display at last week's panel on media sustainability"
