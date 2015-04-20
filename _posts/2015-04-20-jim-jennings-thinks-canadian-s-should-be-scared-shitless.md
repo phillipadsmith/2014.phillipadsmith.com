@@ -18,6 +18,7 @@ img_sml: /files/dembicki_and_jennings.jpg
 
 
 
+
 Whether you believe it's one of the most exciting times to work in journalism, or one of the scariest times, one thing is clear: the conceptual divide between new media and traditional media continues to grow wider. That gap -- and many others -- were in plain view last Wednesday night during the Board of Change's recent panel on [The Role of the Media in a New and Sustainable World](https://www.boardofchange.com/activities/events/#!event/2015/4/16/the-role-of-media-in-a-new-sustainable-world).
 {: .lead}
 
@@ -25,7 +26,7 @@ The event brought together a panel including Huffington Post's [Andree Lau](http
 
 What was evident, however, was the distance between the newer "startup" news organizations -- that is, organizations started in a post-print era, not literally startups as both HuffPo and The Tyee are more than a decade old -- and traditional, print-born media organizations see the future of journalism.
 
-Jennings -- who made it clear he was not at the event representing the Globe -- sees a frightening future for Canadians as far as the health of the Canadian media ecosystem goes. Though the comment was intended to be sensational, the underlying facts are quite accurate: [Canada has a staggeringly consolidated media environment by global standards](https://en.wikipedia.org/wiki/Concentration_of_media_ownership#Canada).
+Jennings -- who made it clear he was not at the event representing the Globe -- sees a frightening future for Canadians as far as the health of the Canadian media ecosystem goes. In fact, he said they should be "scared shitless" about the what's happening right now. Though the comment was intended to be sensational, the underlying facts are quite accurate: [Canada has a staggeringly consolidated media environment by global standards](https://en.wikipedia.org/wiki/Concentration_of_media_ownership#Canada).
 
 Jennings' point however was that if organizations like the Globe and Mail and the CBC were not around, Canadians would be in a difficult situation when it comes to being informed. Specifically, Jennings proposed that the Huffington Post's two reporters in Canada are just not enough "boots on the ground" to provide the coverage that Canadians need.
 
