@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Jim Jennings thinks Canadian's should be \"scared shitless\""
 category: commentary
 img_opt: cover
