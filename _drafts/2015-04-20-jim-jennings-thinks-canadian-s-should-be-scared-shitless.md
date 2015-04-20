@@ -6,7 +6,6 @@ category: commentary
 img_opt: cover
 dek: "Rare honesty was on display at last week's panel on media sustainability"
 tags: 
-  - frontpage
   - thetyee
   - journalism
 img_xlg: /files/dembicki_and_jennings.jpg
