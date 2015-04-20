@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Jim Jennings thinks Canadian's should be &ldquo;scared shitless&rdquo;"
+title: "Jim Jennings thinks Canadian's should be “scared shitless”"
 category: commentary
 img_opt: cover
 dek: "Rare honesty was on display at last week's panel on media sustainability"
@@ -14,6 +14,7 @@ img_lrg: /files/dembicki_and_jennings.jpg
 img_med: /files/dembicki_and_jennings.jpg
 img_sml: /files/dembicki_and_jennings.jpg
 ---
+
 
 Whether you believe it's one of the most exciting times to work in journalism, or one of the scariest times, one thing is clear: the conceptual divide between new media and traditional media continues to grow wider. That gap -- and many others -- were in plain view last Wednesday night during the Board of Change's recent panel on [The Role of the Media in a New and Sustainable World](https://www.boardofchange.com/activities/events/#!event/2015/4/16/the-role-of-media-in-a-new-sustainable-world).
 {: .lead}
@@ -34,7 +35,7 @@ The Vancouver Observer has four reporters in British Columbia and has just added
 
 When you start to add things up -- The Tyee with it's five-plus staff reporters, Vancouver Observer's five reporters, HuffPo's two and so on -- there's a growing ecosystem of online news operations that are starting to fill in the cracks that have formed over the years. And as Canadians continue to step up and make a financial commitment to see that reporting happen -- both [The Tyee](http://thetyee.ca/Mediacheck/2015/04/14/Election-Journalism-Tyee-Style/) and [VO](https://www.kickstarter.com/projects/870712911/national-observer-reports-from-the-energy-battlegr) have recently raised significant sums from readers -- the outlines start to emerge of a different media landscape for Canadians in the future.
 
-On the question of Canada's media future, The Tyee's Dembicki is "quite hopeful" about the situation. Dembicki pointed to [recent investments in millennial-focused publishers like Vice](http://www.thestar.com/business/2014/10/30/rogers_partnering_with_vice_to_create_multimedia_studio_in_toronto.html) (Not "Dice," as suggested by TK, the evening's host) as one bright spot on the horizon. While admitting their recent forays into news haven't all been perfect, he points to Vice's recent [expose on the Koch brothers](http://www.vice.com/read/a-brief-guide-to-the-koch-brothers) as an example of the kind of reporting that is missing from other news organizations (like Global News for example). What Dembicki sees in these new news organizations, organization like Vice, Mic, Buzzfeed and Quartz, is a focus on solutions that resonates with younger audiences -- [audiences that Dembicki increasingly finds are not drawn to tradition party lines](http://thetyee.ca/News/2015/04/06/Young-Voters-Could-Defeat-Harper/).
+On the question of Canada's media future, The Tyee's Dembicki is "quite hopeful" about the situation. Dembicki pointed to [recent investments in millennial-focused publishers like Vice](http://www.thestar.com/business/2014/10/30/rogers_partnering_with_vice_to_create_multimedia_studio_in_toronto.html) (Not "Dice," as suggested by [Rob Lucy](https://twitter.com/rlucy), the evening's host) as one bright spot on the horizon. While admitting their recent forays into news haven't all been perfect, he points to Vice's recent [expose on the Koch brothers](http://www.vice.com/read/a-brief-guide-to-the-koch-brothers) as an example of the kind of reporting that is missing from other news organizations (like Global News for example). What Dembicki sees in these new news organizations, organization like Vice, Mic, Buzzfeed and Quartz, is a focus on solutions that resonates with younger audiences -- [audiences that Dembicki increasingly finds are not drawn to tradition party lines](http://thetyee.ca/News/2015/04/06/Young-Voters-Could-Defeat-Harper/).
 
 Even though the panel focused more on the sustainability of Canada's media landscape than it did how Canadian media covers sustainability, Dembicki did leave the audience with this final thought: Sustainability is not a single "thing" to be covered, but a meta lens through which to see the world -- a perspective.
 
