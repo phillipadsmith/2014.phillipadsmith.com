@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Jim Jennings thinks Canadian's should be “scared shitless”"
+title: "Jim Jennings: Canadian's should be “scared shitless”"
 category: commentary
 img_opt: cover
 dek: "Rare honesty was on display at last week's panel on media sustainability"
@@ -14,6 +14,7 @@ img_lrg: /files/dembicki_and_jennings.jpg
 img_med: /files/dembicki_and_jennings.jpg
 img_sml: /files/dembicki_and_jennings.jpg
 ---
+
 
 
 Whether you believe it's one of the most exciting times to work in journalism, or one of the scariest times, one thing is clear: the conceptual divide between new media and traditional media continues to grow wider. That gap -- and many others -- were in plain view last Wednesday night during the Board of Change's recent panel on [The Role of the Media in a New and Sustainable World](https://www.boardofchange.com/activities/events/#!event/2015/4/16/the-role-of-media-in-a-new-sustainable-world).
