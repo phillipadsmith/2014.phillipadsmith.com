@@ -31,11 +31,11 @@ Jennings -- who made it clear he was not at the event representing the Globe -- 
 
 Jennings' point however was that if organizations like the Globe and Mail and the CBC were not around, Canadians would be in a difficult situation when it comes to being informed. Specifically, Jennings proposed that the Huffington Post's two reporters in Canada are just not enough "boots on the ground" to provide the coverage that Canadians need.
 
-![Andree Lau and Linda Solomon Wood](/files/media_sustainability_panel_huffpo.jpg)
-
 Huffington Post's Andree Lau responded to Jennings' comment by explaining how the HuffPo's 40-odd editors in Canada work their magic to package stories for maximum online reach -- something that HuffPo has been perfecting for the decade (and more than three years in BC). Their content comes from a variety of sources: individuals that sign-up for their own virtual soapbox on HuffPo, some original reporting, and a lot of re-printing stories from Canadian Press and online outfits like The Tyee. 
 
 No matter the source, HuffPo reaches a huge audience in Canada. Case in point: a story that does well on The Tyee could easily reach four or five times more people when picked up, re-packaged, and promoted by the Huffington Post. Instead of thinking of this as competition, The Tyee sees sites like HuffPo, Vice, Buzzfeed and the like as powerful "distribution channels" for important and necessary reporting -- just another part of a diverse media network.
+
+![Andree Lau and Linda Solomon Wood](/files/media_sustainability_panel_huffpo.jpg)
 
 The Vancouver Observer has four reporters in British Columbia and has just added one more in Toronto, the audience was told by VO's Publisher, Linda Solomon Wood. Solomon Wood also pointed out that their recent hire in Toronto is non other than muzzled Global News journalist Bruce Livesey. [Canadaland's Jesse Brown reported that Livesey was fired](http://canadalandshow.com/podcast/when-global-news-killed-documentary-about-koch-brothers) by top brass at Global News "after they spiked his report on the billionaire Koch Brothers." Another telling gap between the old media and the new: the Vancouver Observer's "top brass" are entirely women.
 
