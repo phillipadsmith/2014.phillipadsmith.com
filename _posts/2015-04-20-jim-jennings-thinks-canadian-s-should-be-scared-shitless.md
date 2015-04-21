@@ -19,6 +19,7 @@ img_sml: /files/dembicki_and_jennings.jpg
 
 
 
+
 Whether you believe it's one of the most exciting times to work in journalism, or one of the scariest times, one thing is clear: the conceptual divide between new media and traditional media continues to grow wider. That gap -- and many others -- were in plain view last Wednesday night during the Board of Change's recent panel on [The Role of the Media in a New and Sustainable World](https://www.boardofchange.com/activities/events/#!event/2015/4/16/the-role-of-media-in-a-new-sustainable-world).
 {: .lead}
 
@@ -29,6 +30,8 @@ What was evident, however, was the distance between the newer "startup" news org
 Jennings -- who made it clear he was not at the event representing the Globe -- sees a frightening future for Canadians as far as the health of the Canadian media ecosystem goes. In fact, he said they should be "scared shitless" about the what's happening right now. Though the comment was intended to be sensational, the underlying facts are quite accurate: [Canada has a staggeringly consolidated media environment by global standards](https://en.wikipedia.org/wiki/Concentration_of_media_ownership#Canada).
 
 Jennings' point however was that if organizations like the Globe and Mail and the CBC were not around, Canadians would be in a difficult situation when it comes to being informed. Specifically, Jennings proposed that the Huffington Post's two reporters in Canada are just not enough "boots on the ground" to provide the coverage that Canadians need.
+
+![Andree Lau and Linda Solomon Wood](/files/media_sustainability_panel_huffpo.jpg)
 
 Huffington Post's Andree Lau responded to Jennings' comment by explaining how the HuffPo's 40-odd editors in Canada work their magic to package stories for maximum online reach -- something that HuffPo has been perfecting for the decade (and more than three years in BC). Their content comes from a variety of sources: individuals that sign-up for their own virtual soapbox on HuffPo, some original reporting, and a lot of re-printing stories from Canadian Press and online outfits like The Tyee. 
 
