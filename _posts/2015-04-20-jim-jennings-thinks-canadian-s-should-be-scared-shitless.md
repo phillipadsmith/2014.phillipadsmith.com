@@ -4,7 +4,7 @@ published: true
 title: "Jim Jennings: Canadians should be “scared shitless”"
 category: commentary
 img_opt: cover
-dek: "Rare honesty was on display at last week's panel on media sustainability"
+dek: "Rare candidness was on display at last week's panel on media sustainability"
 tags: 
   - thetyee
   - journalism
@@ -14,10 +14,6 @@ img_lrg: /files/dembicki_and_jennings.jpg
 img_med: /files/dembicki_and_jennings.jpg
 img_sml: /files/dembicki_and_jennings.jpg
 ---
-
-
-
-
 
 
 Whether you believe it's one of the most exciting times to work in journalism, or one of the scariest times, one thing is clear: the conceptual divide between new media and traditional media continues to grow wider. That gap -- and many others -- were in plain view last Wednesday night during the Board of Change's recent panel on [The Role of the Media in a New and Sustainable World](https://www.boardofchange.com/activities/events/#!event/2015/4/16/the-role-of-media-in-a-new-sustainable-world).
@@ -31,7 +27,7 @@ Jennings -- who made it clear he was not at the event representing the Globe -- 
 
 Jennings' point however was that if organizations like the Globe and Mail and the CBC were not around, Canadians would be in a difficult situation when it comes to being informed. Specifically, Jennings proposed that the Huffington Post's two reporters in Canada are just not enough "boots on the ground" to provide the coverage that Canadians need.
 
-Huffington Post's Andree Lau responded to Jennings' comment by explaining how the HuffPo's 40-odd editors in Canada work their magic to package stories for maximum online reach -- something that HuffPo has been perfecting for the decade (and more than three years in BC). Their content comes from a variety of sources: individuals that sign-up for their own virtual soapbox on HuffPo, some original reporting, and a lot of re-printing stories from Canadian Press and online outfits like The Tyee. 
+Huffington Post's Andree Lau responded to Jennings' comment by explaining how the HuffPo's 40-odd editors[^1] in Canada work their magic to package stories for maximum online reach -- something that HuffPo has been perfecting for the decade (and more than three years in BC). Their content comes from a variety of sources: individuals that sign-up for their own virtual soapbox on HuffPo, some original reporting, and a lot of re-printing stories from Canadian Press and online outfits like The Tyee. 
 
 No matter the source, HuffPo reaches a huge audience in Canada. Case in point: a story that does well on The Tyee could easily reach four or five times more people when picked up, re-packaged, and promoted by the Huffington Post. Instead of thinking of this as competition, The Tyee sees sites like HuffPo, Vice, Buzzfeed and the like as powerful "distribution channels" for important and necessary reporting -- just another part of a diverse media network.
 
@@ -48,3 +44,5 @@ Even though the panel focused more on the sustainability of Canada's media lands
 ![guardian-keep-it-in-the-ground.jpg](/files/guardian-keep-it-in-the-ground.jpg)
 
 It's a perspective that perhaps Canadian's should not hold their breath to see on the home page of the Globe and Mail. When I asked Jennings -- a self-proclaimed carbon-conscious citizen (he walks to work, doesn't own a car, turns off lights) -- about The Guardian UK's recent [home page take over](http://www.theguardian.com/environment/keep-it-in-the-ground-blog/2015/mar/25/keep-it-in-the-ground-campaign-six-things-weve-learned) that encouraged readers to keep oil in the ground, after reminding me that he was not at the panel representing the Globe he predicted that it would be unlikely that Canadians would see something similar at home.
+
+[^1]: Lau dropped me a note clarifying that, in fact, HuffPo editors in Canada do original reporting as part of their jobs, just not 100% of the time like the dedicated reporters.
