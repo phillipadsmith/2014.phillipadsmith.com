@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: ""
+published: true
+title: Yet another eclectic reading list
 category: covering
 img_opt: inline
 dek: Ode to another year that has passed too quickly
