@@ -3,8 +3,11 @@ layout: post
 published: false
 title: Yet another eclectic reading list
 category: covering
-img_opt: none
+img_opt: inline
 dek: Ode to another year that has passed too quickly
+img_lrg: "http://i.giphy.com/34ZNcoaN5u4hi.gif"
+img_med: "http://i.giphy.com/34ZNcoaN5u4hi.gif"
+img_sml: "http://i.giphy.com/34ZNcoaN5u4hi.gif"
 ---
 
 I know your curious. So here it is. The Phillip Smith birthday week reading list, episode 2015...
