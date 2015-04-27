@@ -1,9 +1,10 @@
 ---
 layout: post
 published: false
-title: Birthday week reading list
-category: coding
-img_opt: cover
+title: Yet another eclectic reading list
+category: covering
+img_opt: none
+dek: Ode to another year that has passed too quickly
 ---
 
 I know your curious. So here it is. The Phillip Smith birthday week reading list, episode 2015...
@@ -15,4 +16,10 @@ Another book that recently hit Safari Online Books that I haven't had time to cr
 
 I actually had this book on my list to pick up, and then a friend handed me a copy to borrow a few weeks ago: [Trust Me, I'm Lying: Confessions of a Media Manipulator](https://www.amazon.com/Trust-Me-Lying-Confessions-Manipulator-ebook/dp/B0074VTHH0/ref=as_sl_pc_ss_til?tag=phillipadsmit-20&linkCode=w01&linkId=CNXDJG3G7RZ372ES&creativeASIN=B0074VTHH0), by Ryan Holiday.
 
+Last but not least, a book that's been on my shelf for almost three months now, [Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Second-Edition/dp/B00ATXA8BE/ref=as_sl_pc_ss_til?tag=phillipadsmit-20&linkCode=w01&linkId=O7QIPYJPWSVMXVMP&creativeASIN=B00ATXA8BE), by Marshall Rosenberg.
 
+I doubt I'll get through them all, but I'll have a hell of a relaxing time trying! :)
+
+See y'all in a week,
+
+Phillip.
