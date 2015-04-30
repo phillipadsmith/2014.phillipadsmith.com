@@ -18,13 +18,13 @@ This has made it challenging to define what the term "home" means. Is it where I
 
 One thing has become clear, however: as I seek to embrace minimalism and simplicity in my life, what I envision as "the perfect home" increasingly becomes more symbolic, less sentimental, and ultimately practical.
 
-This week I am blessed with the opportunity to spend a few days living with my best friend in the luxurious confines of an [Airstream]() and a [yurt](). However, what at first was a good-humoured adventure in urban ["glamping"]() has actually ignited a fire in my mind...
+This week I am blessed with the opportunity to spend a few days living with my best friend in the luxurious confines of an [Airstream](https://duckduckgo.com/?q=airstream&ia=about) and a [yurt](https://duckduckgo.com/?q=yurt&ia=about). However, what at first was a good-humoured adventure in urban ["glamping"](https://duckduckgo.com/?q=glamping&ia=about) has actually ignited a fire in my mind...
 
 ![Airstream livin'](https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70)
 What at first appeared like a novelty has actually started growing on me. Something about the well-considered simplicity of the Airstream makes so much sense; it is so small, but it contains everything you could possibly imagine. Every space is used perfectly and thoughtfully. Kitchen with gas stove. Bathroom with composting toilet. LED lighting (on dimmers!) throughout. It's a testiment to simple living.
 
-In this small backyeard where we are staying, there's room for an Airstream, a yurt (the "guest bedroom") and ample space for lounging outside. It is a paradise, really.
+In this small backyeard where we are staying, there's room for the Airstream, the yurt (the "guest bedroom") and yet still there is ample space for lounging outside, a BBQ, two bikes, and so on. It is a paradise, really.
 
-As I ponder the next few years, I have to admit, my idea of "The Perfect Home" has started to take bit more shape.
+As I ponder the next few years, I have to admit, my idea of "The Perfect Home" has started to take bit more "shape" so to speak. 
 
 Stay tuned...
