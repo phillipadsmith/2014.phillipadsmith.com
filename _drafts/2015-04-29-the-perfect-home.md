@@ -2,8 +2,13 @@
 layout: post
 published: false
 title: The Perfect Home
-category: coding
-img_opt: cover
+category: covering
+img_opt: inline
+img_lrg: "https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70"
+img_med: "https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70"
+img_sml: "https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70"
+tags: 
+  - home
 ---
 
 [As I've been known to do in the past](TK), I've spent a bit of time this week pondering what the next few years might look like. If you've been following along, [you already know that I'm a bit of a "rambler"](TK) and that I like to keep moving.
