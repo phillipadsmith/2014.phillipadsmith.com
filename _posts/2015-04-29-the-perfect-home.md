@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: The Perfect Home
 category: covering
 img_opt: inline
 img_lrg: "https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70"
