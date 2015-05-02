@@ -4,9 +4,9 @@ published: true
 title: The Perfect Home
 category: covering
 img_opt: inline
-img_lrg: "https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70"
-img_med: "https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70"
-img_sml: "https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70"
+img_lrg: "https://a0.muscache.com/ic/pictures/67328747/680998b2_original.jpg?interpolation=lanczos-none&size=xx_large&output-format=jpg&output-quality=70"
+img_med: "https://a0.muscache.com/ic/pictures/67328747/680998b2_original.jpg?interpolation=lanczos-none&size=xx_large&output-format=jpg&output-quality=70"
+img_sml: "https://a0.muscache.com/ic/pictures/67328747/680998b2_original.jpg?interpolation=lanczos-none&size=xx_large&output-format=jpg&output-quality=70"
 tags: 
   - home
   - simplicity
