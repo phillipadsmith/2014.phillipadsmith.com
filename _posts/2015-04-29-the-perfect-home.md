@@ -21,6 +21,8 @@ One thing has become clear, however: as I seek to embrace minimalism and simplic
 
 This week I am blessed with the opportunity to spend a few days living with a friend in the luxurious confines of an [Airstream](https://duckduckgo.com/?q=airstream&ia=about) and a [yurt](https://duckduckgo.com/?q=yurt&ia=about). However, what at first was a good-humoured adventure in urban ["glamping"](https://duckduckgo.com/?q=glamping&ia=about) has actually ignited a fire in my mind...
 
+![Airstream living](https://a0.muscache.com/ic/pictures/75746759/4fa554f2_original.jpg?interpolation=lanczos-none&size=x_large&output-format=progressive-jpeg&output-quality=70)
+
 Something about the well-considered simplicity of the Airstream makes so much sense; it is so small, but it contains everything you could possibly imagine. Every space is used perfectly and thoughtfully. Kitchen with gas stove. Bathroom with composting toilet. LED lighting (on dimmers!) throughout. It's a testiment to simple living.
 
 In this small backyard where we are staying, there's room for the Airstream, the yurt (the "guest bedroom") and yet still there is ample space for lounging outside, a BBQ, two bikes, and so on. It is a paradise, really.
