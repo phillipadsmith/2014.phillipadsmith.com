@@ -16,4 +16,6 @@ img_opt: cover
 - Dress shoes
 - Running shoes
 - Sandals
-
+- Sun glasses
+- Sarong
+- Travel towel
