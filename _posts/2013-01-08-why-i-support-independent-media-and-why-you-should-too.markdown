@@ -3,6 +3,11 @@ layout: post
 title: Why I support independent media, and why you should too.
 date: '2013-01-08 10:30:49 -0600'
 mt_id: 2897
+category: commentary
+tags:
+- media
+- indymedia
+- briarpatch
 ---
 <a href="http://www.phillipadsmith.com/files/phillipadsmith-w-fancy-hat.jpg"><img alt="phillipadsmith-w-fancy-hat.jpg" src="http://www.phillipadsmith.com/assets_c/2013/01/phillipadsmith-w-fancy-hat-thumb-600x398-1591.jpg" width="600" height="398" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>
 <br />

@@ -4,6 +4,10 @@ title: 'A Tyee Master Class: Telling Stories with Data. June 2-3, 2012, Vancouve
   B.C.'
 date: '2012-02-15 09:22:52 -0600'
 mt_id: 2806
+category: convening
+tags:
+- workshops
+- training
 ---
 <img src="http://thetyee.cachefly.net/Tyeenews/2012/02/12/MasterClassesStoryGraphic.jpg" alt="Telling Stories with Data: Explore, Understand and Present Data in Engaging Ways. Part of The Tyee's new Master Class series." />
 

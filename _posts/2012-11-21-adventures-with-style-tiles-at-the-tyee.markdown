@@ -7,6 +7,8 @@ tags:
 - styletiles
 - responsivewebdesign
 - thetyee
+- design
+- thetyee
 mt_id: 2880
 ---
 <a href="http://www.flickr.com/photos/phillipadsmith/8205476689/" title="StileTiles-draft1-page2 by phillipadsmith, on Flickr"><img src="http://farm9.staticflickr.com/8070/8205476689_20a41f8e07_z.jpg" width="640" height="495" alt="StileTiles-draft1-page2"></a>

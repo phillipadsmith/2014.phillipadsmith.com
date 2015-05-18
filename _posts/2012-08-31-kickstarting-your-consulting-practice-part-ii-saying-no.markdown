@@ -3,6 +3,9 @@ layout: post
 title: 'Kickstarting your consulting practice, Part II: Saying "No."'
 date: '2012-08-31 09:28:05 -0500'
 mt_id: 2857
+category: consulting
+tags:
+- taoofconsulting
 ---
 
 <div align="center">

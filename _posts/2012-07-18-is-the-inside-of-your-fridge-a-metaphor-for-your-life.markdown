@@ -3,6 +3,9 @@ layout: post
 title: Is the inside of your fridge a metaphor for your life?
 date: '2012-07-18 13:13:17 -0500'
 mt_id: 2843
+category: covering
+tags:
+- pondering
 ---
 
 <div align="center"><a href="http://www.flickr.com/photos/indi/3074208025/" title="inside of fridge by indi.ca, on Flickr"><img src="http://farm4.staticflickr.com/3003/3074208025_1a2aa9571d_z.jpg" width="640" height="480" alt="inside of fridge"></a></div>
@@ -23,7 +26,7 @@ I actually have a fair bit of field work on this topic because I'm often staying
 
 Anyway, back to the minimalist fridge. After seeing the aforementioned fridge I was transported back to the year 1998, when I was twenty five, and my own fridge resembled this one greatly. I distinctly recall a friend -- perhaps even [_the_ friend](http://chrisblattman.com) who's apartment I'm looking after right now! -- remarking that all I had in my fridge was a case of sparkling water, a case of champange, and several avocados. When I was twenty five I was a bachelor of the first degree and my existence consisted mostly of eating take-out food and staying up all night...
 
-Without much doubt, the inside of my fridge in 1998 match my life and my soul almost perfectly.
+Without much doubt, the inside of my fridge in 1998 matched my life and my soul almost perfectly.
 
 Fast forward to 2012...
 

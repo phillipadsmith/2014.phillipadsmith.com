@@ -3,6 +3,9 @@ layout: post
 title: 'The upgrade hamster wheel: hoping for a future of recyled personal computing'
 date: '2012-09-10 10:16:51 -0500'
 mt_id: 2858
+category: commentary
+tags:
+- future
 ---
 <a href="http://www.flickr.com/photos/phillipadsmith/7971507186/" title="IMG_1154 by phillipadsmith, on Flickr"><img src="http://farm9.staticflickr.com/8462/7971507186_39e6346270_z.jpg" width="640" height="484" alt="IMG_1154"></a>
 

@@ -3,6 +3,11 @@ layout: post
 title: Hey, I need your input on a "Crunching Public Data" course at Code Lesson
 date: '2012-01-30 16:48:57 -0600'
 mt_id: 2794
+category: convening
+tags:
+- workshops
+- training
+- journalism
 ---
 
 <img src="https://img.skitch.com/20120130-m7jx2b3eqjd3p728de7iaby4gm.jpg" alt="Crunching Public Data on Code Lesson." />

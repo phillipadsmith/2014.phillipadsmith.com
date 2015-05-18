@@ -3,6 +3,10 @@ layout: post
 title: When in doubt, try something new.
 date: '2012-04-18 11:08:58 -0500'
 mt_id: 2819
+category: covering
+tags:
+- theleanlife
+- musings
 ---
 
 I caught this tweet from a long-time colleague flying across my screen this morning:

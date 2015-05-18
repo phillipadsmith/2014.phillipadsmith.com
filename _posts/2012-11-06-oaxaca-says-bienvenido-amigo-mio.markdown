@@ -3,6 +3,10 @@ layout: post
 title: Oaxaca says, "Bienvenido, amigo mio"
 date: '2012-11-06 11:45:57 -0600'
 mt_id: 2875
+category: covering
+tags:
+- mexico
+- oaxaca
 ---
 <a href="http://www.flickr.com/photos/phillipadsmith/8154165182/" title="&quot;Meat alley,&quot; Oaxaca, Nov 2012 12 by phillipadsmith, on Flickr"><img src="http://farm8.staticflickr.com/7135/8154165182_4f22f9ac84_z.jpg" width="640" height="425" alt="&quot;Meat alley,&quot; Oaxaca, Nov 2012 12"></a>
 

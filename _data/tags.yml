@@ -7,6 +7,7 @@
   dek:      '(You can make it if you try.)'
   desc:     'I gave up alcohol for a month before my 40th birthday and spent some of that time writing instead. Here''s how that turned out:'
 - name: newsteckstacks
+- name: future
 - name: thetyee
 - name: crowdfunding
 - name: journalism
@@ -18,8 +19,30 @@
 - name: lifehacking 
 - name: workingwithdata
 - name: makerculture
+- name: makerspace
+- name: nomadism
 - name: slacktivism 
 - name: staticnewsapps
   heading: 'The Static News App Kitchen'
   dek:      '(Trying new recipes. Making a mess.)'
   desc:     'News apps should be inexpensive to deploy, respond quickly to user interaction, and scale to handle large volumes of traffic. However, trade-offs make it hard to achieve news app nirvana. These are notes from my journey to find the just the right mix:'
+- name: training
+- name: lists
+- name: perfectday
+  heading: 'The Perfect Day'
+  dek: "(There's nothing better, right?)"
+  desc: 'A slowly growing collection of interesting things I learn about places I''ve been.'
+- name: taoofconsulting
+- name: vancouver
+- name: montreal
+- name: pondering
+- name: publishing
+- name: innovation
+- name: opengovernment
+- name: talks
+- name: freesoftware
+- name: musings
+- name: theleanlife
+- name: workopen
+- name: productivity
+- name: home

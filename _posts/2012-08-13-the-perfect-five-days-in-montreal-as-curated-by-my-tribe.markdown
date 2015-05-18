@@ -3,6 +3,10 @@ layout: post
 title: The perfect five days in Montreal, as curated by my tribe.
 date: '2012-08-13 11:46:08 -0500'
 mt_id: 2851
+category: covering
+tags:
+- perfectday
+- montreal
 ---
 <div align="center"><img src="https://lh6.googleusercontent.com/-3SQm7u42hbk/UCkuUGzwzpI/AAAAAAAABPQ/TbesXZBkNXg/s640/IMG_1043.jpg" alt="Jean Talon market in Montreal. Photo by Phillip Smith" /></div>
 

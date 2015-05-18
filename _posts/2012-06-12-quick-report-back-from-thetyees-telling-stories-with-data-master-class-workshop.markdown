@@ -4,6 +4,10 @@ title: Quick report back from @TheTyee's "Telling stories with data" Master Clas
   workshop
 date: '2012-06-12 12:19:25 -0500'
 mt_id: 2833
+category: convening
+tags:
+- workshops
+- training
 ---
 <embed type="application/x-shockwave-flash" src="https://picasaweb.google.com/s/c/bin/slideshow.swf" width="600" height="400" flashvars="host=picasaweb.google.com&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F117798476913318184592%2Falbumid%2F5749832904168223089%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
 

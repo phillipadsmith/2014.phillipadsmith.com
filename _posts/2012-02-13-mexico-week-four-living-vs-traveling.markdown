@@ -3,6 +3,11 @@ layout: post
 title: 'Mexico: Week four, living vs. traveling'
 date: '2012-02-13 09:23:17 -0600'
 mt_id: 2805
+category: covering
+tags:
+- mexico
+- oaxaca
+- home
 ---
 <img src="https://lh5.googleusercontent.com/-1tjGQQ0iZVQ/TzkcdakSGgI/AAAAAAAAAcg/qrufYUlbGUI/s640/photo.JPG" alt="Hotel California, Oaxaca, Mexico. Photo: Phillip Smith" />
 

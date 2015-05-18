@@ -4,6 +4,11 @@ title: 'Vancouver, Vancouver, Vancouver: food, politics, and geek-friendly event
   in October'
 date: '2012-10-02 14:42:48 -0500'
 mt_id: 2864
+category: covering
+tags:
+- vancouver
+- lists
+- perfectday
 ---
 <a href="http://www.flickr.com/photos/33237881@N08/5739213043/" title="Vancouver by Matthew Grapengieser, on Flickr"><img src="http://farm3.staticflickr.com/2723/5739213043_343b179564_z.jpg" width="640" height="425" alt="Vancouver"></a>
 

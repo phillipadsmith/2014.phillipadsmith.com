@@ -3,6 +3,10 @@ layout: post
 title: 'Mexico: Week one, a slow start in Oaxaca.'
 date: '2012-01-23 09:52:27 -0600'
 mt_id: 2792
+category: covering
+tags:
+- mexico
+- oaxaca
 ---
 <img src="http://src.sencha.io/https://lh4.googleusercontent.com/-G2vreOUW5Yg/Tx0Dq4-fjbI/AAAAAAAAAbE/Qeb2DIrAj5k/s640/Red%252520wall.jpg" alt="Red Wall, Oaxaca, Mexico. Photo: Phillip Smith" style="text-align: center; display: block; margin: 0 auto 20px;" />
 

@@ -3,6 +3,10 @@ layout: post
 title: Working toward a more "open" news organization at @TheTyee
 date: '2012-05-03 12:00:51 -0500'
 mt_id: 2822
+category: covering
+tags:
+- workopen
+- thetyee
 ---
 
 <a href="http://www.flickr.com/photos/codepo8/5485814755/" title="Come in we're open by codepo8, on Flickr"><img src="http://farm6.staticflickr.com/5296/5485814755_cc5b13c0ae.jpg" width="500" height="375" alt="Come in we're open"></a>

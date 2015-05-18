@@ -4,6 +4,11 @@ title: 'Dear Publishers: Please learn how to experiment and recognize when it''s
   to innovate.'
 date: '2012-07-03 11:25:36 -0500'
 mt_id: 2840
+category: commentary
+tags:
+- publishing
+- journalism
+- innovation
 ---
 
 <blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/phillipadsmith">phillipadsmith</a> innovate when you still have a chance; worst time = when staring over the precipice <a href="https://twitter.com/search/%2523magnet12">#magnet12</a></p>&mdash; Jaclyn Law (@jaclynlaw) <a href="https://twitter.com/jaclynlaw/status/210802067994980352" data-datetime="2012-06-07T18:35:04+00:00">June 7, 2012</a></blockquote>

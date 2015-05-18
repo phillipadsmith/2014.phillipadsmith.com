@@ -3,6 +3,11 @@ layout: post
 title: Is it time to throw out the Planet with the Universe?
 date: '2012-03-13 12:07:02 -0600'
 mt_id: 2813
+category: commentary
+tags:
+- mozilla
+- publishing
+- musings
 ---
 
 <img align="right" src="http://upload.wikimedia.org/wikipedia/en/0/0a/Titanoplanet.JPG" alt="The Daily Planet covered the news in Metropolis" style="margin: 0 0 10px 10px;" />

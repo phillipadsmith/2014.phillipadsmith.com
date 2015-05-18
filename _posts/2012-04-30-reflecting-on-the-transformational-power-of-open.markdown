@@ -3,6 +3,9 @@ layout: post
 title: Reflecting on the transformational power of "Open."
 date: '2012-04-30 12:24:04 -0500'
 mt_id: 2820
+category: covering
+tags:
+- workopen
 ---
 
 <a href="http://www.flickr.com/photos/phillipadsmith/3723848922/" title="Thoughts on &quot;The two-by-two of Open.&quot; Version Two. by phillipadsmith, on Flickr"><img src="http://farm3.staticflickr.com/2622/3723848922_90d467e858.jpg" width="500" height="354" alt="Thoughts on &quot;The two-by-two of Open.&quot; Version Two."></a>

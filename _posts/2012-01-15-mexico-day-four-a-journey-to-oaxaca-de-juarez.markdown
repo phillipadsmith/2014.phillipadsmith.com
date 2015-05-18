@@ -3,6 +3,10 @@ layout: post
 title: 'Mexico: Day Four, a journey to Oaxaca de Juarez'
 date: '2012-01-15 13:39:16 -0600'
 mt_id: 2789
+category: covering
+tags:
+- mexico
+- oaxaca
 ---
 
 <img alt="Occupy the fields" src="http://src.sencha.io/http://www.phillipadsmith.com/files/occupy-the-fields.jpg" style="text-align: center; display: block; margin: 0 auto 20px;" />

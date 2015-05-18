@@ -3,6 +3,10 @@ layout: post
 title: 'Mexico: Week two, flying solo in Oaxaca'
 date: '2012-01-28 10:11:52 -0600'
 mt_id: 2793
+category: covering
+tags:
+- mexico
+- oaxaca
 ---
 
 <img src="https://lh6.googleusercontent.com/-039am2uU-WM/TyQSgqL7yfI/AAAAAAAAAbs/tq7taTnG8KU/s640/saturday_market_oaxaca.jpg" alt="Saturday market in Xochimilco. Photo: Phillip Smith." />

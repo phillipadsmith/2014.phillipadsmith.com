@@ -3,6 +3,10 @@ layout: post
 title: 'Mexico: Month four, Te ver&eacute; pronto, Oaxaca.'
 date: '2012-05-09 12:22:09 -0500'
 mt_id: 2824
+category: covering
+tags:
+- mexico
+- oaxaca
 ---
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/fhgkxEAQYkPUydT1J2eQgEqEuDQBsaPoh5srhCxxm8s?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-cPFJKRj2KeY/T6qm5gqjgdI/AAAAAAAAAw0/LSj6_Gds78Y/s640/292246_10150902346556153_511961152_11951924_2143009318_n.jpg" height="425" width="640" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">The first Sunday BBQ at Casa Felipe</td></tr></table>
 <br />

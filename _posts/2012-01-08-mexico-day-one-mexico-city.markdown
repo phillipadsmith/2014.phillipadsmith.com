@@ -3,6 +3,10 @@ layout: post
 title: 'Mexico: Day One, Mexico City'
 date: '2012-01-08 22:38:25 -0600'
 mt_id: 2786
+category: covering
+tags:
+- mexico
+- mexicocity
 ---
 
 <a href="https://en.wikipedia.org/wiki/El_%C3%81ngel" title="El Angel de la Independencia in Mexico City. Photo courtesy of Wikipedia"><img src="http://src.sencha.io/https://upload.wikimedia.org/wikipedia/commons/8/8b/Angel_de_la_Independencia_Mexico_City.jpg" alt="El Angel de la Independencia in Mexico City. Photo courtesy of Wikipedia" /></a>
