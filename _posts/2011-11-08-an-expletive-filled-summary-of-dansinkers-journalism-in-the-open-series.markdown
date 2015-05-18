@@ -3,6 +3,11 @@ layout: post
 title: An expletive-filled summary of @DanSinker's "Journalism in the open" series
 date: '2011-11-08 09:30:31 -0600'
 mt_id: 2770
+category: commentary
+tags:
+- journalism
+- mozilla
+- opennews
 ---
 
 If you haven't been following [Dan Sinker's posts on "Journalism in the open"](http://sinker.tumblr.com/post/12171489037/thinking-about-journalism-in-the-open-an-intro), you _really_ should. In fact, I think they're so important for you to read that I'm going to summarize them here:

@@ -4,6 +4,11 @@ title: '#ShowYourWork -- Quite possibly the most straightforward way to build a 
   Web'
 date: '2011-11-30 16:30:22 -0600'
 mt_id: 2778
+category: commentary
+tags:
+- showyourwork
+- musings
+- workopen
 ---
 
 Just a quick, fun anecdote today.

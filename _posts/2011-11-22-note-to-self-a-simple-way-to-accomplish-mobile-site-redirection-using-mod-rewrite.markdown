@@ -3,6 +3,10 @@ layout: post
 title: 'Note to self: A simple way to accomplish mobile site redirection using mod_rewrite'
 date: '2011-11-22 16:05:46 -0600'
 mt_id: 2776
+category: coding
+tags:
+- mobile
+- recipes
 ---
 
 In preparation for the launch of [The Tyee's mobile-friendly site](http://m.thetyee.ca) (not to be confused with [The Tyee's HTML5 "app" for mobile devices](http://app.thetyee.ca)), I did some research on approaches to mobile site redirection. The key considerations were straightforward:

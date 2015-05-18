@@ -3,6 +3,10 @@ layout: post
 title: Pay yourself first, in life.
 date: '2012-05-14 11:05:28 -0500'
 mt_id: 2826
+category: covering
+tags:
+- musings
+- theleanlife
 ---
 
 <a href="http://www.flickr.com/photos/josefeliciano/3849557951/" title="Zen by Josefe aka Hipnosapo, on Flickr"><img src="http://farm3.staticflickr.com/2548/3849557951_0d8b5277f0.jpg" width="500" height="299" alt="Zen"></a>

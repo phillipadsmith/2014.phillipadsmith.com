@@ -3,6 +3,11 @@ layout: post
 title: 'Mexico: Day Two, Mexico City. San Angel, Coyoacan, and La Condessa.'
 date: '2012-01-10 12:15:41 -0600'
 mt_id: 2787
+category: covering
+tags:
+- mexico
+- mexicocity
+- perfectday
 ---
 <img alt="A park in the San Angel district of Mexico City. Photo: Phillip Smith." src="http://src.sencha.io/http://www.phillipadsmith.com/San-Angel.jpg" />
 

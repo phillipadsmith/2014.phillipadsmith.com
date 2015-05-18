@@ -3,6 +3,10 @@ layout: post
 title: 'Mexico: Adventures in San Cristobal de las Casas, Chiapas.'
 date: '2012-04-03 11:05:42 -0500'
 mt_id: 2816
+category: covering
+tags:
+- mexico
+- chiapas
 ---
 
 <img src="https://lh4.googleusercontent.com/-mb_bB5I2aCM/T3saq_s9XcI/AAAAAAAAAik/fDo3g7gAlEY/s640/San%2520Cristobal%2520de%2520las%2520Casas.jpg" alt=" San Cristobal de las Casas, Chiapas. Photo: Phillip Smith" />

@@ -4,6 +4,10 @@ title: 'Young journalists don''t seem to care about the Web: Why not? #hackshack
   #hhto'
 date: '2012-06-28 09:55:34 -0500'
 mt_id: 2839
+category: commentary
+tags:
+- journalism
+- hackhackers
 ---
 
 <blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/phillipadsmith">phillipadsmith</a> is surprised by how there are many young writers not interested in tech stuff; care mostly about byline, clips <a href="https://twitter.com/search/%2523magnet12">#magnet12</a></p>&mdash; Jaclyn Law (@jaclynlaw) <a href="https://twitter.com/jaclynlaw/status/210805649037209602" data-datetime="2012-06-07T18:49:17+00:00">June 7, 2012</a></blockquote>
@@ -21,7 +25,7 @@ There are many initiatives underway to address these last two concerns -- convin
 
 Organizations like [Poynter](http://www.newsu.org/courses/all) and [IRE](http://ire.org/events-and-training/) are delivering great trainings for everything from the basics of [data journalism](http://www.newsu.org/courses/campaign-finance-data), to [multi-day "boot camps"](http://ire.org/events-and-training/event/165/) that aim to teach journalists how to program basic Web applications, but those are all targeting "the choir:" the tip of the iceberg of people who are already convinced that the Web is an inevitably part of the future of journalism, and -- somewhat sadly -- these are mostly older and wiser journalists who probably see the writing on the wall and want to upgrade their skills before it's too late.
 
-At the entry-level end of the spectrum, initiatives like [Mozilla's Thimbl](https://thimble.webmaker.org/en-US/) and [Codecademy](http://www.codecademy.com/) might finally break through the conceptual barrier to learning basic Web skills like HTML and JavaScript, while tools like [JSFiddle](jsfiddle.net   ) are making it much easier to literally SEE how all of the pieces fit together, which might also be part of the puzzle that has been missing all of these years. There are new tools being developed all of the time, which is great, but also presents the challenge of keeping learning materials and efforts up-to-date.
+At the entry-level end of the spectrum, initiatives like [Mozilla's Thimbl](https://thimble.webmaker.org/en-US/) and [Codecademy](http://www.codecademy.com/) might finally break through the conceptual barrier to learning basic Web skills like HTML and JavaScript, while tools like [JSFiddle](http://jsfiddle.net) are making it much easier to literally SEE how all of the pieces fit together, which might also be part of the puzzle that has been missing all of these years. There are new tools being developed all of the time, which is great, but also presents the challenge of keeping learning materials and efforts up-to-date.
 
 During the recent workshop I delivered on "[Telling stories with data](http://www.phillipadsmith.com/2012/06/quick-report-back-from-thetyees-telling-stories-with-data-master-class-workshop.html)" only a handful of participants had experience with Google Spreadsheets, one or two with Google Fusion Tables, and none had used Google Refine. This is not to say that these participants -- mostly journalists, academic researchers, and concerned citizens -- should be up-to-date on the latest-and-greatest data tools, but just to point out that -- of those that are interested enough in the topic to invest a weekend of their time and a non-trivial amount of money -- tools that are freely available and have been around for years are still relatively unknown even to those with an interest.
 

@@ -3,6 +3,9 @@ layout: post
 title: Much to my own surprise, I believe the "native app" for mobile is here to stay.
 date: '2011-11-10 16:18:49 -0600'
 mt_id: 2771
+category: commentary
+tags:
+- mobile
 ---
 
 I happened to end up in a conversation with my old [Web of Change](http://webofchange.org) friend, [Andre Charland](http://twitter.com/AndreCharland), last night. We haven't spoken in a few months, and his first update to me was "Dude, ...I work for Adobe now."

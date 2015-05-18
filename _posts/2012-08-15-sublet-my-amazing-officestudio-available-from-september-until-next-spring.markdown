@@ -3,6 +3,10 @@ layout: post
 title: 'Sublet my *amazing* office/studio: available from September until next spring.'
 date: '2012-08-15 11:04:38 -0500'
 mt_id: 2852
+category: covering
+tags:
+- makerspace
+- announcements
 ---
 <div align="center"><img src="https://lh4.googleusercontent.com/-3Fmr-1s7zQ0/UCu4LQqrAiI/AAAAAAAABPs/otAA3Qo9F1g/s640/IMG_1057.jpg" alt="Office space in Studio Huddle. Photo by Phillip Smith." /></div>
 

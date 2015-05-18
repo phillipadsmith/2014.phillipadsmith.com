@@ -3,6 +3,10 @@ layout: post
 title: 'Mexico: Day Three, Mexico City. Pedestrian Sunday, Flash Mob, and The Zocalo.'
 date: '2012-01-12 11:54:36 -0600'
 mt_id: 2788
+category: covering
+tags:
+- mexico
+- mexicocity
 ---
 <img alt="The Zocalo, Mexico City. Photo: Phillip Smith" src="http://src.sencha.io/http://www.phillipadsmith.com/files/The-Zocalo.jpg" />
 

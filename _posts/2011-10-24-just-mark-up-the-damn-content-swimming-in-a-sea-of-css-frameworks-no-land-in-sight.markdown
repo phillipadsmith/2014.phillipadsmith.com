@@ -4,6 +4,10 @@ title: 'Just mark-up the damn content: Swimming in a sea of CSS "frameworks," no
   in sight.'
 date: '2011-10-24 08:51:39 -0500'
 mt_id: 2765
+category: coding
+tags:
+- css
+- frameworks
 ---
 
 Whenever I start a new Web project, I ask myself the question "So, where do I start again?" It has been more than fifteen years, but I still don't feel like I have a consistent workflow, a rhythm, for starting a project from scratch.

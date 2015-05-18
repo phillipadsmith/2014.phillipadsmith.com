@@ -8,6 +8,7 @@ summary:         # 140 characters or less!
 category: covering
 tags:
 - makers
+- makerspaces
 
 mt_id: 2916
 ---

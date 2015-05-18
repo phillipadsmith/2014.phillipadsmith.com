@@ -7,7 +7,7 @@ category: convening
 tags:
 - journalism
 - thetyee
-- trainings
+- training
 mt_id: 2869
 ---
 <a href="http://www.phillipadsmith.com/files/tyee-lunch-and-learn.jpg"><img alt="tyee-lunch-and-learn.jpg" src="http://www.phillipadsmith.com/assets_c/2012/10/tyee-lunch-and-learn-thumb-600x398-1440.jpg" width="600" height="398" class="mt-image-center" style="text-align: center; display: block; margin: 0 auto 20px;" /></a>

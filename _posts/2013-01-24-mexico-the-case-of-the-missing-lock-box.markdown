@@ -3,6 +3,10 @@ layout: post
 title: 'Mexico: The case of the missing lock box'
 date: '2013-01-24 11:14:51 -0600'
 mt_id: 2899
+category: covering
+tags:
+- mexico
+- oaxaca
 ---
 <img alt="KeyGarage_797.JPG" src="http://www.phillipadsmith.com/files/KeyGarage_797.JPG" width="320" height="320" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;" />
 

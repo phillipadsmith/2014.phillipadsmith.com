@@ -3,6 +3,11 @@ layout: post
 title: 'Rethinking Planet Mozilla: Hacking the core of Mozilla''s story'
 date: '2011-12-12 12:28:12 -0600'
 mt_id: 2781
+category: commentary
+tags:
+- mozilla
+- publishing
+- musings
 ---
 
 <blockquote class="twitter-tweet" data-in-reply-to="144769998152413184"><p>@<a href="https://twitter.com/paulrouget">paulrouget</a> It's a serious problem & opportunity, IMHO. Too much signal is the problem you want to have. But opportunity to re-think is huge</p>&mdash; Phillip Smith (@phillipadsmith) <a href="https://twitter.com/phillipadsmith/status/144784326469500928" data-datetime="2011-12-08T14:24:08+00:00">December8, 2011</a></blockquote>

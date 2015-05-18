@@ -3,6 +3,11 @@ layout: post
 title: 'Commentary: Do we really need state-funded news entities any more?'
 date: '2012-11-13 10:45:20 -0600'
 mt_id: 2878
+category: commentary
+tags:
+- media
+- news
+- cbc
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CBC_Radio-Canada_logo.svg/500px-CBC_Radio-Canada_logo.svg.png" />
 

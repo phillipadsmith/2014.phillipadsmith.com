@@ -3,6 +3,11 @@ layout: post
 title: 'Mozilla Planet: Bootstrapping technology news for the people.'
 date: '2012-04-10 08:20:45 -0500'
 mt_id: 2817
+category: commentary
+tags:
+- mozilla
+- publishing
+- musings
 ---
 
 <img src="/files/mozilla-planet-crop.jpg" alt="Mozilla Planet" style="float: right; margin: 0 0 10px 10px;" />

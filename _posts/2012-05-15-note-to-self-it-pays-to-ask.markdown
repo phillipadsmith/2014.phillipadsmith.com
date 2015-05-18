@@ -3,6 +3,9 @@ layout: post
 title: 'Note to self: It pays to ask'
 date: '2012-05-15 09:17:55 -0500'
 mt_id: 2827
+category: covering
+tags:
+- freesoftware
 ---
 
 <div class="thumbnail"><img style="max-width:638px" src="https://img.skitch.com/20120515-rbygtm3wnhhkwuf6xj4jbish5e.medium.jpg" alt="Firefox" /></div>

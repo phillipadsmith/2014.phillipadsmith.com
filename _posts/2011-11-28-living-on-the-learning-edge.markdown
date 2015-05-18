@@ -3,6 +3,10 @@ layout: post
 title: Living on the "learning edge"
 date: '2011-11-28 15:01:42 -0600'
 mt_id: 2777
+category: covering
+tags:
+- theleanlife
+- musings
 ---
 
 If there's one thing I've learned in the last fifteen years, it's to live on my "learning edge."

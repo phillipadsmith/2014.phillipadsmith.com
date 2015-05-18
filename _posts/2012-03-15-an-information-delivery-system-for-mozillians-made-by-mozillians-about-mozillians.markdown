@@ -3,6 +3,11 @@ layout: post
 title: An information-delivery system for Mozillians, made by Mozillians, about Mozillians
 date: '2012-03-15 13:00:00 -0600'
 mt_id: 2815
+category: commentary
+tags:
+- mozilla
+- publishing
+- musings
 ---
 <div style="float: right; margin: 0 0 10px 10px;"><a href="http://www.flickr.com/photos/phillipadsmith/6500079041/" title="Rethinking Planet Mozilla by phillipadsmith, on Flickr"><img src="http://farm8.staticflickr.com/7020/6500079041_d9aa4daf0b.jpg" width="375" height="500" alt="Rethinking Planet Mozilla"></a></div>
 

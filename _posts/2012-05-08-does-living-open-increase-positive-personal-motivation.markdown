@@ -3,6 +3,11 @@ layout: post
 title: Does "living open" increase positive personal motivation?
 date: '2012-05-08 09:54:29 -0500'
 mt_id: 2823
+category: covering
+tags:
+- theleanlife
+- workopen
+- musings
 ---
 <a href="http://www.flickr.com/photos/matthileo/4826783509/" title="OPEN by matthileo, on Flickr"><img src="http://farm5.staticflickr.com/4118/4826783509_4b98dc290b.jpg" width="500" height="333" alt="OPEN"></a>
 <br />

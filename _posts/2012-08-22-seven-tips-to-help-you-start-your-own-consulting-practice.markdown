@@ -3,6 +3,9 @@ layout: post
 title: Seven tips to help kickstart your own consulting practice
 date: '2012-08-22 09:57:56 -0500'
 mt_id: 2855
+category: consulting
+tags:
+- taoofconsulting
 ---
 
 <div align="center"><a href="http://www.flickr.com/photos/matthileo/4826783509/" title="OPEN by matthileo, on Flickr"><img src="http://farm5.staticflickr.com/4118/4826783509_4b98dc290b_z.jpg" width="640" height="427" alt="OPEN"></a></div>

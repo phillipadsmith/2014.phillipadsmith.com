@@ -3,6 +3,9 @@ layout: post
 title: 'Post-fact democracy: political engagement in an era of "truthiness"'
 date: '2012-10-29 12:22:22 -0600'
 mt_id: 2872
+category: commentary
+tags:
+- democracy
 ---
 <div align="center"><a href="http://www.flickr.com//photos/phillipadsmith/sets/72157631830568049/show/" title="Click for slideshow, on Flickr"><img src="http://farm9.staticflickr.com/8464/8113840140_cd2c5522d9_z.jpg" width="640" height="425" alt="DSCF2376"></a></div>
 
@@ -20,7 +23,7 @@ While our group didn't come up with any definitive answers, the conversation cer
 
 I one point, I wondered if the current obsession with the [quantified self](https://en.wikipedia.org/wiki/Quantified_Self), when projected into the future, could help to address this challenge by making the invisible visible. For example, imagine if I was walking down the street and my "personal stats" were visible in some way to others: Phillip has used 1KW of electricity and released 5kg of carbon into the atmosphere today. His annual carbon footprint is the size of big foot. Phillip did not vote in the last federal election. 
 
-I'm riffing here on a concept that Cory Doctorow introduced in [ Down and Out in the Magic Kingdom](https://en.wikipedia.org/wiki/Down_and_Out_in_the_Magic_Kingdom), which he called "Whuffie" (that is really [not that far off]((http://www.slideshare.net/renjithravi/sixth-sense-technology)), and was reinforced by a [piece I saw on recycling culture in Japan, where families are required to sort their recycling into 34 different bins](http://news.bbc.co.uk/2/hi/science/nature/7499954.stm) and put out their remaining "waste" in clear plastic bags with their apartment number clearly displayed.
+I'm riffing here on a concept that Cory Doctorow introduced in [Down and Out in the Magic Kingdom](https://en.wikipedia.org/wiki/Down_and_Out_in_the_Magic_Kingdom), which he called "Whuffie" (that is really [not that far off]((http://www.slideshare.net/renjithravi/sixth-sense-technology)), and was reinforced by a [piece I saw on recycling culture in Japan, where families are required to sort their recycling into 34 different bins](http://news.bbc.co.uk/2/hi/science/nature/7499954.stm) and put out their remaining "waste" in clear plastic bags with their apartment number clearly displayed.
 
 There are some days when I actually believe that many of the larger societal challenges are merely design problems that have yet to be solved with simple, elegant, solutions. Those are good days. 
 

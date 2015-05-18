@@ -3,6 +3,11 @@ layout: post
 title: 'Rethinking Planet Mozilla: The challenge of too much signal'
 date: '2011-12-14 13:49:23 -0600'
 mt_id: 2782
+category: commentary
+tags:
+- mozilla
+- publishing
+- musings
 ---
 
 <img align="right" src="http://upload.wikimedia.org/wikipedia/en/0/0a/Titanoplanet.JPG" alt="The Daily Planet covered the news in Metropolis" style="margin: 0 0 10px 10px;" />

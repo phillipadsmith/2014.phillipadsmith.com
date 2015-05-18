@@ -3,6 +3,10 @@ layout: post
 title: 'Digital nomadism: What''s the strangest thing in your carry-on luggage?'
 date: '2012-09-24 13:35:11 -0500'
 mt_id: 2863
+category: covering
+tags:
+- nomadism
+- packing
 ---
 <div align="center"><a href="http://www.flickr.com/photos/phillipadsmith/8020342415/" title="379501_10150577144656153_1638578813_n by phillipadsmith, on Flickr"><img src="http://farm9.staticflickr.com/8441/8020342415_8180f4e4a8_z.jpg" width="640" height="480" alt="379501_10150577144656153_1638578813_n"></a></div>
 

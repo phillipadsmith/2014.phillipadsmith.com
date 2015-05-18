@@ -4,6 +4,10 @@ title: If I ever write another post about iPhone apps that you should be using, 
   shoot me.
 date: '2012-10-12 13:00:13 -0500'
 mt_id: 2866
+category: commentary
+tags:
+- iphone
+- apps
 ---
 Writing a post about iPhone apps is about as far from what I thought I would be writing about today (or ever) as you can get. But, what the fuck, it's Friday and it's rainy in Vancouver.
 

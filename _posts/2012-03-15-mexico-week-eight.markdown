@@ -3,6 +3,11 @@ layout: post
 title: 'Mexico: Week eight. All your base are belong to us.'
 date: '2012-03-15 00:19:51 -0600'
 mt_id: 2814
+category: covering
+tags:
+- mexico
+- oaxaca
+- home
 ---
 
 <table style="width:auto;"><tr><td><a href="https://picasaweb.google.com/lh/photo/cb1WqmWhaBzE4Hy6ezNC9NMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-ucMiH3YG_fA/T1lAB-3-xCI/AAAAAAAAAd4/bK_5wyrB2vw/s640/Dying%2520maguey%2520at%2520Hierve%2520el%2520Agua.jpg" height="425" width="640" /></a></td></tr><tr><td style="font-family:arial,sans-serif; font-size:11px; text-align:right">From <a href="https://picasaweb.google.com/117798476913318184592/OaxacaMexico2012?authuser=0&feat=embedwebsite">Oaxaca, Mexico, 2012</a></td></tr></table>
