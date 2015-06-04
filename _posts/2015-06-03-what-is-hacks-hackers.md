@@ -18,6 +18,7 @@ img_caption: The Hacks/Hackers global movement
 
 
 
+
 Five years ago, Hacks/Hackers was born. It started its life as a meet-up in San Francisco. Today it’s a global movement that brings together tens of thousands of tech-interested-reporters and journalism-curious-techies. The recent partnership with Google News Lab creates some big opportunities, and also bubbles up some important questions. Let’s explore.
 {: .lead}
 
@@ -74,7 +75,7 @@ There are some of the typical open source project patterns, for example:
 
 * [A Benevolent Dictator For Life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life): in this case, Burt Herman.
 * Project “lieutenants:” the Hacks/Hacker Board of Directors, Chrys, Jenny, Rich, and Aron
-* Localization leaders: people like [Mariano Blejman](https://twitter.com/blejman) in Latin America, [Justin Arenstein](https://twitter.com/justinarenstein) in Africa, and so on.
+* Localization leaders: people like [Mariano Blejman](https://twitter.com/blejman) in Latin America, [Justin Arenstein](https://twitter.com/justinarenstein) in Africa, Joanna Geary in London, and many others.
 
 [And hundreds very active contributors around the world who organize chapters and run events](http://hackshackers.meetup.com/) — forking the project, improving it, and contributing back.
 
