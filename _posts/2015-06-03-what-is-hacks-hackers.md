@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: ""
+published: true
+title: "What is Hacks/Hackers?"
 category: convening
 img_opt: cover
 dek: " A network, a meme, an open source project?"
