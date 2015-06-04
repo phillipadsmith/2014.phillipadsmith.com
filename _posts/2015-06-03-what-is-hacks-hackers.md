@@ -30,11 +30,11 @@ The launch was very much _not perfect_, but we believed that news of the partner
 
 [The response was pretty amazing](https://twitter.com/search?q=https%3A%2F%2Fwww.journalism.co.uk%2Fnews%2Fhacks-hackers-launches-global-program-for-media-entrepreneurs-%2Fs2%2Fa565192%2F):
 
-{% embedly https://twitter.com/news_journalism/status/601399817571536896 %}
+{% embedly http://twitter.com/news_journalism/status/601399817571536896 %}
 
 [But there was also some confusion](https://twitter.com/pudo/status/601405937560203264):
 
-{% embedly https://twitter.com/pudo/status/601405937560203264 %}
+{% embedly http://twitter.com/pudo/status/601405937560203264 %}
 
 The confusion is not entirely surprising when you think about it: this global phenomenon comprises more than 30,000 “members” from 80+ chapters across several continents.
 
