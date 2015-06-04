@@ -17,6 +17,7 @@ img_caption: The Hacks/Hackers global movement
 ---
 
 
+
 Five years ago, Hacks/Hackers was born. It started its life as a meet-up in San Francisco. Today it’s a global movement that brings together tens of thousands of tech-interested-reporters and journalism-curious-techies. The recent partnership with Google News Lab creates some big opportunities, and also bubbles up some important questions. Let’s explore.
 {: .lead}
 
@@ -30,11 +31,11 @@ The launch was very much _not perfect_, but we believed that news of the partner
 
 [The response was pretty amazing](https://twitter.com/search?q=https%3A%2F%2Fwww.journalism.co.uk%2Fnews%2Fhacks-hackers-launches-global-program-for-media-entrepreneurs-%2Fs2%2Fa565192%2F):
 
-{% embedly http://twitter.com/news_journalism/status/601399817571536896 %}
+![Journalism.co.uk tweet](/files/What_is_Hacks_Hackers__A_network__a_meme__an_open_source_project__—_Medium.png)
 
 [But there was also some confusion](https://twitter.com/pudo/status/601405937560203264):
 
-{% embedly http://twitter.com/pudo/status/601405937560203264 %}
+![Pudo tweet](/files/What_is_Hacks_Hackers__A_network__a_meme__an_open_source_project__%E2%80%94_Medium.png)
 
 The confusion is not entirely surprising when you think about it: this global phenomenon comprises more than 30,000 “members” from 80+ chapters across several continents.
 
