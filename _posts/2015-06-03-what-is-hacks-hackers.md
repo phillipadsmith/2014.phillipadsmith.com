@@ -35,7 +35,7 @@ The launch was very much _not perfect_, but we believed that news of the partner
 
 [But there was also some confusion](https://twitter.com/pudo/status/601405937560203264):
 
-![Pudo tweet](/files/What_is_Hacks_Hackers__A_network__a_meme__an_open_source_project__%E2%80%94_Medium.png)
+![Pudo tweet](/files/What_is_Hacks_Hackers__A_network__a_meme__an_open_source_project__—_Medium2.png)
 
 The confusion is not entirely surprising when you think about it: this global phenomenon comprises more than 30,000 “members” from 80+ chapters across several continents.
 
