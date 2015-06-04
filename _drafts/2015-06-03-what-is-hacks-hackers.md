@@ -73,18 +73,18 @@ However, over the last few weeks, I’ve started to wonder if Hacks/Hackers is m
 
 There are some of the typical open source project patterns, for example: 
 
-* A [Benevolent Dictator For Life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life): in this case, Burt Herman.
+* [A Benevolent Dictator For Life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life): in this case, Burt Herman.
 * Project “lieutenants:” the Hacks/Hacker Board of Directors, Chrys, Jenny, Rich, and Aron
 * Localization leaders: people like [Mariano Blejman](https://twitter.com/blejman) in Latin America, [Justin Arenstein](https://twitter.com/justinarenstein) in Africa, and so on.
 
-[And hundreds very active contributors around the world that are organize chapters and running events](http://hackshackers.meetup.com/) — forking the project, improving it, and contributing back.
+[And hundreds very active contributors around the world who organize chapters and run events](http://hackshackers.meetup.com/) — forking the project, improving it, and contributing back.
 
 There’s a kernel. There’s an identity. There’s an idea.
 
 ## All the things
 So what do we call a this thing? And what does that imply for it’s shape, form, and — perhaps more importantly — it’s future growth, governance, and direction? 
 
-As it grows, what — if any — changes are needed to keep the “kernel” intact, while enabling individuals to continue to fork, adapt, and contribute back? How can individuals be encouraged to carry the Hacks/Hackers flag, while at the same opening up opportunities for the movement to grow, accelerate, and increase its capacity, like this partnership with Google News Lab?
+As it grows, what — if any — changes are needed to keep the “kernel” intact, while enabling individuals to continue to fork, adapt, and contribute back? How can individuals be encouraged to carry the Hacks/Hackers flag, while at the same time opening up opportunities for the movement to grow, accelerate, and increase its capacity, like this partnership with Google News Lab?
 
 These are some big and hairy questions.
 
