@@ -42,7 +42,7 @@ The confusion is not entirely surprising when you think about it: this global ph
 
 Given the sheer size and growth in just a handful of years, how could there possibly be just one idea of what Hacks/Hackers is?
 
-**So, given the above, what other concepts does Hacks/Hackers map on to?** Is it a **network**, a **meme**, or is it closer to an **open-source project**? And can we use one of these guide what comes next...?
+**So, given the above, what other concepts does Hacks/Hackers map on to?** Is it a **network**, a **meme**, or is it closer to an **open-source project**? And can we use one of these to guide what comes next...?
 
 Let’s think out loud here:
 
