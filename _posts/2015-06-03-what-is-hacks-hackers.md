@@ -30,11 +30,13 @@ The launch was very much _not perfect_, but we believed that news of the partner
 
 [The response was pretty amazing](https://twitter.com/search?q=https%3A%2F%2Fwww.journalism.co.uk%2Fnews%2Fhacks-hackers-launches-global-program-for-media-entrepreneurs-%2Fs2%2Fa565192%2F):
 
+
 <blockquote class=“twitter-tweet” lang=“en”><p lang=“es” dir=“ltr”>Hacks/Hackers launches global program for media entrepreneurs <a href=“http://t.co/SJ6glzemSv”>http://t.co/SJ6glzemSv</a> <a href=“https://twitter.com/hashtag/journ?src=hash”>#journ</a></p>&mdash; Journalism.co.uk (@news_journalism) <a href=“https://twitter.com/news_journalism/status/601399817571536896”>May 21, 2015</a></blockquote>
 <script async src=“//platform.twitter.com/widgets.js” charset=“utf-8”></script>
 
 
 [But there was also some confusion](https://twitter.com/pudo/status/601405937560203264):
+
 
 <blockquote class=“twitter-tweet” lang=“en”><p lang=“en” dir=“ltr”><a href=“https://twitter.com/burtherman”>@burtherman</a> looking fwd to it. Been going around the globe telling people to organise in H/H, so I&#39;d love to see that &quot;meme&quot; stay indy! :)</p>&mdash; Friedrich Lindenberg (@pudo) <a href=“https://twitter.com/pudo/status/601405937560203264”>May 21, 2015</a></blockquote>
 <script async src=“//platform.twitter.com/widgets.js” charset=“utf-8”></script>
