@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Blow it all up: How can we make events suck less?"
 category: convening
 img_opt: cover
