@@ -8,10 +8,15 @@ dek: "Musings on creative destruction & event design "
 tags: 
   - frontpage
   - events
+img_xlg: /files/blow_up_events_xlg
+img_lrg: /files/blow_up_events_xlg
+img_med: /files/blow_up_events_xlg
+img_sml: /files/blow_up_events_xlg
 ---
 
 How many of the usual trappings of a “business” event would need to be taken away before you no longer recognized it as an “event” at all? What would be the limits of your comfort zone for a day of professional development? Are you ready to play?
 {: .lead}
+![blow_up_events_xlg.jpg]({{site.baseurl}}/files/blow_up_events_xlg.jpg)
 
 I’ve been having some great fun with the question above in the context of [Connect](http://connect.hackshackers.com/). The event is just three weeks away and — while I don’t give away all of the surprises yet — I’m also keen to build on the amazing input on the event design that I’ve received to date from our design team in Brooklyn [The Public Society](http://thepublicsociety.com/), [Rubik Marketing’s](http://www.rubikmarketing.com/) Katie Bowman, and my long-time collaborator [Mark Greenspan](http://markgreenspan.com).
 
@@ -60,7 +65,5 @@ Looking forward to your input, and hope that you can [make it out to one of the 
 
 Questions, ideas, feedback, hate mail? Drop me a note here in the comments, or on [Twitter](https://twitter.com/phillipadsmith).
 
-——
-
-This post would not be complete without acknowledging a huge inspiration debt to some pretty big geniuses in the unusual event-design space that I’ve had the honour of collaborating with over the years: [Mark Surman](https://commonspace.wordpress.com/about/), [Allen Gunn](https://aspirationtech.org/about/people/gunner), and [Misha Glouberman](http://www.collective-intelligence.ca/index.php/about-misha-glouberman-45709).
+**P.S.** This post would not be complete without acknowledging a huge inspiration debt to some pretty big geniuses in the unusual event-design space that I’ve had the honour of collaborating with over the years: [Mark Surman](https://commonspace.wordpress.com/about/), [Allen Gunn](https://aspirationtech.org/about/people/gunner), and [Misha Glouberman](http://www.collective-intelligence.ca/index.php/about-misha-glouberman-45709).
 
