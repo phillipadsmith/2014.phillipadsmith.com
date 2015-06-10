@@ -16,7 +16,6 @@ img_sml: /files/blow_up_events_xlg
 
 How many of the usual trappings of a “business” event would need to be taken away before you no longer recognized it as an “event” at all? What would be the limits of your comfort zone for a day of professional development? Are you ready to play?
 {: .lead}
-![blow_up_events_xlg.jpg]({{site.baseurl}}/files/blow_up_events_xlg.jpg)
 
 I’ve been having some great fun with the question above in the context of [Connect](http://connect.hackshackers.com/). The event is just three weeks away and — while I don’t give away all of the surprises yet — I’m also keen to build on the amazing input on the event design that I’ve received to date from our design team in Brooklyn [The Public Society](http://thepublicsociety.com/), [Rubik Marketing’s](http://www.rubikmarketing.com/) Katie Bowman, and my long-time collaborator [Mark Greenspan](http://markgreenspan.com).
 
