@@ -8,10 +8,10 @@ dek: "Musings on creative destruction & event design "
 tags: 
   - frontpage
   - events
-img_xlg: /files/blow_up_events_xlg
-img_lrg: /files/blow_up_events_xlg
-img_med: /files/blow_up_events_xlg
-img_sml: /files/blow_up_events_xlg
+img_xlg: /files/blow_up_events_xlg.jpg
+img_lrg: /files/blow_up_events_xlg.jpg
+img_med: /files/blow_up_events_xlg.jpg
+img_sml: /files/blow_up_events_xlg.jpg
 ---
 
 How many of the usual trappings of a “business” event would need to be taken away before you no longer recognized it as an “event” at all? What would be the limits of your comfort zone for a day of professional development? Are you ready to play?
