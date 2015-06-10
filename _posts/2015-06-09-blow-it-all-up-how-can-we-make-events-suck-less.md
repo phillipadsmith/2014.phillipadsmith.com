@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: "Blow it all up: How can we make events suck less?"
 category: convening
 img_opt: cover
 dek: "Musings on creative destruction & event design "
@@ -16,6 +16,7 @@ img_alt: "Boring by Strevo, on Flickr"
 img_caption: "Boring by Strevo, on Flickr"
 img_url: "https://www.flickr.com/photos/strevs/1986663675"
 ---
+
 
 How many of the usual trappings of a “business” event would need to be taken away before you no longer recognized it as an “event” at all? What would be the limits of your comfort zone for a day of professional development? Are you ready to play?
 {: .lead}
@@ -70,4 +71,3 @@ Looking forward to your input, and hope that you can [make it out to one of the 
 Questions, ideas, feedback, hate mail? Drop me a note here in the comments, or on [Twitter](https://twitter.com/phillipadsmith).
 
 **P.S.** This post would not be complete without acknowledging a huge inspiration debt to some pretty big geniuses in the unusual event-design space that I’ve had the honour of collaborating with over the years: [Mark Surman](https://commonspace.wordpress.com/about/), [Allen Gunn](https://aspirationtech.org/about/people/gunner), and [Misha Glouberman](http://www.collective-intelligence.ca/index.php/about-misha-glouberman-45709).
-
