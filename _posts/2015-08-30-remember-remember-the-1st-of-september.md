@@ -15,7 +15,7 @@ img_xlg: "/files/hacks-hackers-map-aug-2015.jpg"
 img_alt: A map of Hacks/Hackers chapters (not including chapters on the African continent)
 img_caption: A map of Hacks/Hackers chapters (not including chapters on the African continent)
 img_url: ""
-published: false
+published: true
 title: "Remember, remember, the 1st of September"
 ---
 
