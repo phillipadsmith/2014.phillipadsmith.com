@@ -5,20 +5,19 @@ dek: "Join the first even Hacks/Hackers global \"open call\""
 summary: ""
 category: convening
 tags: 
-  - "null"
-img_opt: cover
-img_sml: ""
-img_med: ""
-img_lrg: ""
-img_xlg: ""
-img_alt: ""
-img_caption: ""
+  - frontpage
+  - hackshackers
+img_opt: inline
+img_sml: "/files/hacks-hackers-map-aug-2015.jpg"
+img_med: "/files/hacks-hackers-map-aug-2015.jpg"
+img_lrg: "/files/hacks-hackers-map-aug-2015.jpg"
+img_xlg: "/files/hacks-hackers-map-aug-2015.jpg"
+img_alt: A map of Hacks/Hackers chapters (not including chapters on the African continent)
+img_caption: A map of Hacks/Hackers chapters (not including chapters on the African continent)
 img_url: ""
 published: false
 title: "Remember, remember, the 1st of September"
 ---
-
-
 
 If you're interested in helping to shape the future of Hacks/Hackers -- one of the the world’s largest networks of people interested in the future of news, media, and information -- you will want to [put Tuesday, September 1st, in your calendar][calendar] (that's **tomorrow**). 
 {: .lead}
