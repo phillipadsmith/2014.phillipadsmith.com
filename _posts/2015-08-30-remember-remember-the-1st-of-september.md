@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ""
+date: "2015-08-31 08:00:00"
 dek: "Join the first even Hacks/Hackers global \"open call\""
 summary: ""
 category: convening
