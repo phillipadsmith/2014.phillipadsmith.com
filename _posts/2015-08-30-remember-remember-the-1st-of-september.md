@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2015-08-31 08:00:00"
-dek: "Join the first even Hacks/Hackers global \"open call\""
+dek: "Join the first ever Hacks/Hackers global \"open call\""
 summary: ""
 category: convening
 tags: 
