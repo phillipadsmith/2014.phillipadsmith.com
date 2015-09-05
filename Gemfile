@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '1.4.2'
+gem 'jekyll', '2.5.3'
 gem 'RedCloth'
 gem 'domainatrix'
 gem 'kramdown'
