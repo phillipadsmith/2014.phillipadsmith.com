@@ -9,7 +9,7 @@ body:
     <header>
 {% assign have_tag = false %}
 {% for tag in site.data.tags %}
-    {% if tag.name == page.tag %}
+    {% if tag.name == page.title %}
         {% assign have_tag = true %}
         <hgroup>
             <h1 class="title">{{ tag.heading }}</h1>
@@ -19,12 +19,18 @@ body:
     {% endif %}
 {% endfor %}
 {% if have_tag != true %}
-    <h1 class="title">Filed under '{{ page.tag }}'</h1>
+    <h1 class="title">Filed under '{{ page.title }}'</h1>
 {% endif %}
     </header>
-    <ul>
-{{ content }}
-    </ul>
+
+<ul class="posts">
+  {% for post in page.posts %}
+    <li>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
     <p><i>Psst!</i> I've recently re-launched this site and lots of content is not filed yet. You may want to check the <a href="/archive">archive</a>.</p>
     </div> <!-- /.section -->
 </div> <!-- /.container -->
