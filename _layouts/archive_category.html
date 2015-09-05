@@ -7,7 +7,7 @@ body:
 <div class="container category-archive ">
     <div class="section">
 {% for category in site.data.categories %}
-    {% if category.name == page.category %}
+    {% if category.name == page.title %}
     <header>
         <hgroup>
             <h1 class="title">{{ category.heading }}</h1>
@@ -15,12 +15,17 @@ body:
         </hgroup>
         <p>{{ category.desc }}</p>
     </header>
-    <h5>{{ category.links }}</h5>
     {% endif %}
 {% endfor %}
-    <ul>
-{{ content }}
-    </ul>
+
+<ul class="posts">
+  {% for post in page.posts %}
+    <li>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
     <p><i>Psst!</i> I've recently re-launched this site and lots of content is not filed yet. You may want to check the <a href="/archive">archive</a>.</p>
     </div> <!-- /.section -->
 </div> <!-- /.container -->
