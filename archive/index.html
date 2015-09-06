@@ -12,12 +12,16 @@ body:
         <h1 class="title">{{ page.title }}</h1>
         <h2 class="dek">( ...all the way back to 2004)</h2>
         </hgroup>
-        <p>{{ tag.desc }}</p>
     </header>
-        <ul>
+    <dl class="table-display">
         {% for post in site.posts %}
-        <li><span class="date">{{ post.date | date: "%b %d, %Y" }}</span>: <a href="{{ post.url }}">{{ post.title }}</a></li>
+	<dt><h6 class="date">{{ post.date | date: "%b %d, %Y" }}</h6></dt>
+        <dd>
+            <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+            <p>{{ post.dek }}</p>
+        </dd>
         {% endfor %}
-        </ul>
+    </dl>
+
     </div> <!-- /.section -->
 </div> <!-- /.container -->
