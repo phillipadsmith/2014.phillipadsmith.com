@@ -1,5 +1,6 @@
 name: 'phillipadsmith.com re-loaded for 2014'
 # Also used in the RSS plugin
+version: '0.2.0'
 url: 'http://www.phillipadsmith.com' 
 description: "Veteran digital publishing consultant, online advocacy specialist, and strategic convener." 
 author: 'Phillip Smith' 
