@@ -1,6 +1,6 @@
 name: 'phillipadsmith.com re-loaded for 2014'
 # Also used in the RSS plugin
-version: '0.2.0'
+version: '0.2.1' # If you bump this, you need to delete the /tmp directory on the server to reinstall gems & JS 
 url: 'http://www.phillipadsmith.com' 
 description: "Veteran digital publishing consultant, online advocacy specialist, and strategic convener." 
 author: 'Phillip Smith' 
@@ -12,6 +12,7 @@ markdown: 'kramdown'
 highlighter: pygments
 gems:
   - jekyll-archives
+  - jekyll-feed
 
 jekyll-archives:
   enabled: 
