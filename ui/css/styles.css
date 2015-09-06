@@ -360,6 +360,21 @@ body.category .section header p {
 .toggle-comments {
   margin-bottom: 10px;
 }
+/* Module: Related */
+.read-more {
+  background: rgba(0, 0, 0, 0.02);
+  margin-top: 40px;
+  padding: 40px;
+}
+.read-more h3 {
+  margin: 0px 0px 6px 0px;
+}
+.read-more h4 {
+  margin-top: 4px;
+}
+.read-more .list-item {
+  margin-bottom: 20px;
+}
 /* Module: Footer */
 footer p.copyright {
   text-align: center;
