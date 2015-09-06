@@ -172,7 +172,7 @@
 
                 // Removes any backlinks and hackily encodes double quotes and >/< symbols to prevent conflicts
                 footnoteContent = removeBackLinks($(footnotes[i]).html().trim(), $(finalFNLinks[i])
-                    .data("footnote-backlink-ref")).replace(/"/g, "&quot;")
+                        .data("footnote-backlink-ref")).replace(/"/g, "&quot;")
                     .replace(/&lt;/g, "&ltsym;").replace(/&gt;/g, "&gtsym;");
                 footnoteIDNum = +(i + 1);
                 footnoteButton = "";
@@ -655,8 +655,8 @@
                 }
 
                 var delta = (e.type == 'DOMMouseScroll' ?
-                    e.originalEvent.detail * -40 :
-                    e.originalEvent.wheelDelta), // Get the change in scroll position
+                        e.originalEvent.detail * -40 :
+                        e.originalEvent.wheelDelta), // Get the change in scroll position
                     up = delta > 0; // Decide whether the scroll was up or down
 
                 var prevent = function() {
@@ -1028,17 +1028,19 @@
             trueCallback = trueCallback ||
                 makeDefaultCallbacks(
                     removeOpen, deleteDelay,
-                    trueDefaultPositionSetting, function($popover) {
+                    trueDefaultPositionSetting,
+                    function($popover) {
                         $popover.addClass("fixed-bottom");
                     }
-            );
+                );
 
             // Create default falseCallback
             falseCallback = falseCallback ||
                 makeDefaultCallbacks(
                     removeOpen, deleteDelay,
-                    falseDefaultPositionSetting, function() {}
-            );
+                    falseDefaultPositionSetting,
+                    function() {}
+                );
 
             // MQ Listener function
             var mqListener = function(mq) {
