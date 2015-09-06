@@ -1,0 +1,48 @@
+{% comment %}
+Note: if there are no related posts, we're probalby on the front page
+{% endcomment %} 
+{% assign related_posts = '' | append: site.related_posts %}
+{% if related_posts == '' %}
+<div class="read-more well">
+    <div class="prev-next-list">
+    {% if page.previous.url %}
+        <div class="list-item">
+            <h6 class="slug">Previously</h6>
+            <h3><a href="{{ page.previous.url }}" title="{{ page.previous.title }}">{{ page.previous.title }}</a></h3>
+            <p>{% if page.previous.description %}{{ page.previous.description }}{% else %}{{ page.previous.content | strip_html | strip_newlines | truncate: 140 }}&hellip;{% endif %} <a href="{{ page.previous.url }}">Continue reading</a></p>
+        </div><!-- /.list-item -->
+    {% endif %}
+    </div>
+</div>
+{% else %}
+<div class="read-more well">
+  {% for post in site.related_posts limit:1 %}
+    {% assign related_post_url = '' | append: post.url %}
+    <div class="read-more-content">
+      <h6 class="slug">Related</h6>
+      <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 140 }}&hellip;{% endif %} <a href="{{ post.url }}">Continue reading</a></p>
+    </div><!-- /.read-more-content -->
+  {% endfor %}
+  <div class="prev-next-list">
+    {% if page.previous.url %}
+    {% assign prev_url = '' | append: page.previous.url %}
+        {% if prev_url != related_post_url %}
+      <div class="list-item">
+        <h6 class="slug">Previously</h6>
+        <h4><a href="{{ page.previous.url }}" title="{{ page.previous.title }}">{{ page.previous.title }}</a></h4>
+      </div><!-- /.list-item -->
+        {% endif %}
+    {% endif %}
+    {% if page.next.url %}
+    {% assign next_url = '' | append: page.next.url %}
+        {% if next_url != related_post_url %}
+      <div class="list-item">
+        <h6 class="slug">From the future</h6>
+        <h4><a href="{{ page.next.url }}" title="{{ page.next.title }}">{{ page.next.title }}</a></h4>
+      </div><!-- /.list-item -->
+        {% endif %}
+    {% endif %}
+  </div><!-- /.prev-next-list -->
+</div><!-- /.read-more -->
+{% endif %}
