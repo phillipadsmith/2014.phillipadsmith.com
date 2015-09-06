@@ -48,7 +48,7 @@ module.exports = function(grunt) {
             css: {
                 files:
                 // includes files within path
-                [{
+                    [{
                     expand: true,
                     src: ['ui/css/*'],
                     dest: '_site/',
