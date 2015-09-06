@@ -1,5 +1,6 @@
 name: 'phillipadsmith.com re-loaded for 2014'
 # Also used in the RSS plugin
+version: '0.2.0'
 url: 'http://www.phillipadsmith.com' 
 description: "Veteran digital publishing consultant, online advocacy specialist, and strategic convener." 
 author: 'Phillip Smith' 
@@ -7,7 +8,25 @@ copyright: 'Copyleft 2014'
 tagline: "Pushing bits since '96"
 mode: 'development'
 markdown: 'kramdown'
-pygments: true
+#pygments: true
+highlighter: pygments
+gems:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled: 
+    - categories
+    - tags
+  layouts:
+    tag: archive_tag
+    category: archive_category
+  permalinks:
+    #year: '/:year/'
+    #month: '/:year/:month/'
+    #day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/:name/'
+
 # excerpt_separator: "\n\n" TODO Fix excepts on old posts
 permalink: /:year/:month/:title.html
 exclude: 
