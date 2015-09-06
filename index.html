@@ -15,11 +15,13 @@ body:
   {% if forloop.first %}
         <article  itemscope itemtype="http://schema.org/BlogPosting">
         <script>
-            var disqus_shortname  = 'phillipadsmith';
+            // This is defined in the head include
+            // var disqus_shortname  = 'phillipadsmith';
             var disqus_title      = "{{ page.title }}"
             var disqus_url        = '{{ site.url }}{{ page.url }}';
             var disqus_identifier = '{{ page.id }}';
-            var img_opt = '{{ page.img_opt }}';
+            // This is initialized in the head include
+            img_opt = '{{ page.img_opt }}';
             var img_sml = '{{ page.img_sml }}';
             var img_med = '{{ page.img_med }}';
             var img_lrg = '{{ page.img_lrg }}';
