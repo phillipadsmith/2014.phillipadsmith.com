@@ -12,6 +12,7 @@ markdown: 'kramdown'
 highlighter: pygments
 gems:
   - jekyll-archives
+  - jekyll-feed
 
 jekyll-archives:
   enabled: 
