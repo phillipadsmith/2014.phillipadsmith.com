@@ -31,7 +31,7 @@ TODO
 
 **The problem is: Github is still surprisingly hard for most everyday users to use and unlock full potential**. Non-technical users hit big barriers when trying to understand what Github is all about. And even experienced users struggle to keep up with all the new features, third-party integrations, and open-source innovations. 
 
-Given that premise, I decided to propose a session for the [Mozilla Festival](TK), with the hope that some of the bright minds that gather there will be interested in hacking on solutions to this problem. This post is an edited version of the actual proposal that was submitted.
+Given that premise, I decided to propose a session for the upcoming [Mozilla Festival](TK), with the hope that some of the bright minds that gather at the festival will be interested in hacking on solutions to this problem. This post is an edited version of that proposal, which benefited from generous contributions by my long-time collaborator, [Matt Thompson](TK).
 
 So, with some solid intentions and a no small amount of luck, we'll set out to map out a bit of Github’s territory, to ask the question “What if…?,” and to wax poetic about what might be possible in this new world of open, networked, co-creation. 
 
@@ -44,8 +44,8 @@ One important outcome would be an evolving “map” that lived on Github. It wo
 * Where are the best tutorials and entry points for beginners? 
 * And what are the biggest *gaps* or current needs within that list? What still needs to be written, built, or developed? 
 
-My home is that by flying our "pirate flag" on Github we will be able to attract contributors who are similarly obsessed with the coming Github World Order.
+My hope is that by flying our "pirate flag" on Github we will be able to attract contributors who are similarly obsessed with the coming Github World Order, and are passionate about TK.
 
-An aspirational outcome would be to take the highly-ranked ideas from the “What more can we grow in Github’s fertile ground?” question into hands-on makers sessions at Mozfest, agitating for participants to start prototyping new tools, services, and so on. A Github-powered tool as world changing as Bostock’s bl.ocks.org could be the next thing to come out of Mozfest.
+An very aspirational outcome would be to take high-potential ideas from the “What more can we grow in Github’s fertile ground?” question into hands-on maker sessions at Mozfest, agitating for participants to start prototyping new tools, services, and so on. Perhaps a Github-powered tool as world changing as [Bostock’s bl.ocks.org](TK) could be the next big thing to come out of the Mozilla Festival?
 
-TK...
+TK... wrap it up.
