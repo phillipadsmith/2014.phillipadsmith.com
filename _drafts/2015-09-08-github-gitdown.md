@@ -22,9 +22,9 @@ title: Github Gitdown
 
 TODO
 
-[ ] - Set-up the Awesome Github repo/list
+[X] - Set-up the Awesome Github repo/list
 
-[ ] - Do an initial population of the list
+[X] - Do an initial population of the list
 
 **Today, Github is virtually everywhere**. It’s become a part of most developers’ daily lives, and is increasingly spreading to the lives of non-developers too. From [civic hackers](TK), researchers and policymakers to educators, [journalists](TK) and project managers, it seems like the whole world is “going Github.” 
 {: .lead }
