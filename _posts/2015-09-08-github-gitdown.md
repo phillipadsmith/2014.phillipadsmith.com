@@ -16,7 +16,7 @@ img_xlg: "https://cdn.rawgit.com/phillipadsmith/2014.phillipadsmith.com/master/f
 img_alt: ""
 img_caption: ""
 img_url: ""
-published: false
+published: true
 title: Github Gitdown
 ---
 
