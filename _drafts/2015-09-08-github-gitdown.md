@@ -49,7 +49,7 @@ One important outcome would be an evolving resources that lived on Github. It wo
 
 * And what still needs to be written, built, or developed? 
 
-[In fact, I've started that list -- called Awesome Github -- here](https://github.com/phillipadsmith/awesome-github).
+[**In fact, I've started that list -- called Awesome Github -- here**](https://github.com/phillipadsmith/awesome-github).
 
 My hope is that by flying our do-it-yourself, maker-movement "pirate flag" on Github we will be able to attract contributors who are similarly obsessed with the coming Github World Order, and are passionate about growing the movement.
 
@@ -57,7 +57,9 @@ A very aspirational outcome for a Mozilla Festival session would be to take high
 
 Perhaps a Github-powered tool as world changing as [Bostock’s bl.ocks.org](http://bost.ocks.org/mike/block/) could be the next big thing to come out of the Mozilla Festival?
 
-In the meantime, I'm sure you have lots of ideas about why Github is pretty darn amazing today. Why wait until December? If you think Github is awesome, contribute something to the [Awesome Github list](https://github.com/phillipadsmith/awesome-github) It's easy, just have a look at the [contribution guidelines](https://github.com/phillipadsmith/awesome-github/blob/master/CONTRIBUTING.md) and let me know if you have any questions here in the comments, or over there on [Twitter](http://twitter.com/phillipadsmith).
+**In the meantime, I'm sure you have lots of ideas about why Github is pretty darn amazing today. Why wait until December?**
+
+If you think Github is awesome, contribute something to the [Awesome Github list](https://github.com/phillipadsmith/awesome-github) It's easy, just have a look at the [contribution guidelines](https://github.com/phillipadsmith/awesome-github/blob/master/CONTRIBUTING.md) and let me know if you have any questions here in the comments, or over there on [Twitter](http://twitter.com/phillipadsmith).
 
 
 
