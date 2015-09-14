@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "2015-09-09 09:00:00"
+date: "2015-09-14 11:00:00"
 dek: "Unlocking the potential of the world’s largest co-creation platform"
 summary: "What would it take to simplify and unlock the collaborative power Github for all? "
 category: convening
