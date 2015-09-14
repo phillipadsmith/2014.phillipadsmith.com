@@ -27,27 +27,29 @@ title: Github Gitdown
 
 Given that premise, I decided to propose a session for the upcoming [Mozilla Festival](https://2015.mozillafestival.org/), with the hope that some of those hoards of bright minds that gather there will be interested in hacking on solutions to this problem. 
 
-This post is an edited version of that proposal, which benefited from generous contributions by my long-time collaborator, [Matt Thompson](https://twitter.com/openmatt).
+This post is an edited version of that proposal, which benefited from generous contributions by my long-time collaborator, Mr. "Work Open" himself, [Matt Thompson](https://twitter.com/openmatt).
 
-So, with some solid intentions and a no small amount of luck, we can start a small effort to map out a bit of Github’s territory, to ask the question “What if…?,” and to wax poetic about what might be possible in this new world of open, networked, co-creation. 
+So, with some solid intentions and a no small amount of luck, we can ignite an effort to map out a bit of Github’s territory, to ask the question “What if…?,” and to wax poetic about what might be possible in this new world of open, networked, co-creation. 
 
-If the session moves forward, I was thinking that we would kick it off with a mapping exercise aimed at collectively capturing everything we know about the current terrain: from organic Github knowledge memes like the “[Awesome Lists](https://github.com/sindresorhus/awesome)”, to touching on the best learning resources for beginners and experts, while also capturing the hidden gems and tricks for making Github do more.
+If the session moves forward, I was thinking that we would kick it off with a mapping exercise aimed at collectively capturing everything we know about the current terrain: from organic Github knowledge memes like the “[Awesome Lists](https://github.com/sindresorhus/awesome)”, to touching on the best learning resources for beginners and experts, while also capturing the hidden gems and tricks for making Github do even more than you ever thought possible.
 
 From there, we’d break into some groups based on interest and try to tackle  some very specific questions like: 
 
-* “How could Github be easier for beginners?,” 
+* “How could Github be easier for non-technical users?,” 
 
 * “What are all the ways to write a book on Github?,”  
 
 * and “What else could we grow in Github’s fertile ground?”  
 
-One important outcome would be an evolving resources that lived on Github. It would be similar to the “curated list of awesome lists” (https://github.com/sindresorhus/awesome) and would focus on the theme of Github itself, e.g.:
+One important outcome would be an evolving resources that lived on Github. It would be similar to the “[curated list of awesome lists](https://github.com/sindresorhus/awesome)" and would focus on the theme of Github itself, e.g.:
 
-* Where are the best tutorials and entry points for beginners? 
+* Where are the best tutorials and entry points? 
+
 * What are the biggest *gaps* or current needs within that list? 
+
 * And what still needs to be written, built, or developed? 
 
-[In fact, I've started one here](https://github.com/phillipadsmith/awesome-github).
+[In fact, I've started that list -- called Awesome Github -- here](https://github.com/phillipadsmith/awesome-github).
 
 My hope is that by flying our do-it-yourself, maker-movement "pirate flag" on Github we will be able to attract contributors who are similarly obsessed with the coming Github World Order, and are passionate about growing the movement.
 
@@ -55,7 +57,7 @@ A very aspirational outcome for a Mozilla Festival session would be to take high
 
 Perhaps a Github-powered tool as world changing as [Bostock’s bl.ocks.org](http://bost.ocks.org/mike/block/) could be the next big thing to come out of the Mozilla Festival?
 
-In the meantime, if you think Github is awesome, contribute something to the [Awesome Github list](https://github.com/phillipadsmith/awesome-github) It's easy, just have a look at the [contribution guidelines](https://github.com/phillipadsmith/awesome-github/blob/master/CONTRIBUTING.md) and let me know if you have any questions here in the comments, or over there on [Twitter](http://twitter.com/phillipadsmith).
+In the meantime, I'm sure you have lots of ideas about why Github is pretty darn amazing today. Why wait until December? If you think Github is awesome, contribute something to the [Awesome Github list](https://github.com/phillipadsmith/awesome-github) It's easy, just have a look at the [contribution guidelines](https://github.com/phillipadsmith/awesome-github/blob/master/CONTRIBUTING.md) and let me know if you have any questions here in the comments, or over there on [Twitter](http://twitter.com/phillipadsmith).
 
 
 
