@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ""
+date: "2015-09-22 11:00:00"
 dek: "The \"Why\" and the \"What\" of Hacks/Hackers Connect"
 summary: "Connecting the dots of a global movement: The \"Why\" and the \"What\" of Hacks/Hackers Connect"
 category: convening
