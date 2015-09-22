@@ -16,7 +16,7 @@ img_xlg: "/files/connecting-the-dots_xlg.png"
 img_alt: Anita Zielina and Dirk Herzbach hear from participants at Connect Berlin
 img_caption: Anita Zielina and Dirk Herzbach hear from participants at Connect Berlin
 img_url: ""
-published: false
+published: true
 title: Connecting the dots of a global movement
 ---
 
