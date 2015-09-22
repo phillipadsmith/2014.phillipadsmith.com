@@ -9,12 +9,12 @@ tags:
   - hackshackers
   - hackshackersconnect
 img_opt: cover
-img_sml: "/files/connecting-the-dots_xlg.png"
-img_med: "/files/connecting-the-dots_xlg.png"
-img_lrg: "/files/connecting-the-dots_xlg.png"
+img_sml: "/files/connecting-the-dots_sml.png"
+img_med: "/files/connecting-the-dots_med.png"
+img_lrg: "/files/connecting-the-dots_lrg.png"
 img_xlg: "/files/connecting-the-dots_xlg.png"
-img_alt: ""
-img_caption: ""
+img_alt: Anita Zielina and Dirk Herzbach hear from participants at Connect Berlin
+img_caption: Anita Zielina and Dirk Herzbach hear from participants at Connect Berlin
 img_url: ""
 published: false
 title: Connecting the dots of a global movement
