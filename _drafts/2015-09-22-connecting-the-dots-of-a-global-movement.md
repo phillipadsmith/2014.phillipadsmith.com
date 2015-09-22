@@ -26,7 +26,7 @@ The last two weeks have been full-speed ahead in preparation to announce the dat
 When I first signed-on to help produce these events, I asked [Burt][burtherman] a lot of questions. Specifically, I wanted to know how we would measure impact and success. Through that conversation, we committed to three guiding principles:
 
 1. To connect members to members, and chapters to chapters; 
-1. To convene spaces, and to produce experiences, that enables learning, facilitate collaboration and inspire creativity;
+1. To convene spaces, and to produce experiences, that enable learning, facilitate collaboration, and inspire creativity;
 3. To illuminate a path forward — to "connect the dots" if you will — to local resources and next steps for event participants
 
 There is also an underlying theory of change about the “future of news, media, and information” that provides the thematic frame for these events:
@@ -37,7 +37,7 @@ We are not alone: [recent investments](http://www.nytimes.com/2015/08/13/busines
 
 Our aspirational objective? To be able to point to unprecedented experiments, products, and teams by the end of 2016.
 
-I say aspirational, because producing Connect is not a walk in the park. Each city that Connect visits is unique: the levels of investment in media entrepreneurship, the relationship to startups and startup culture, and — most importantly — the  contours of its Hacks/Hackers community. There is no one-size-fits-all approach that will be a silver bullet toward the outcomes we seek. Each event needs to be tailor-made for its audience.
+I say aspirational, because producing Connect is not a walk in the park. Each city that Connect visits is unique: the levels of investment in media entrepreneurship, the relationship to startups and startup culture, and — most importantly — the  contours of its Hacks/Hackers community. There is no one-size-fits-all approach or silver bullet for the outcomes we seek. Each event needs to be tailor-made for its audience.
 
 ## The recipe
 
@@ -53,7 +53,7 @@ Our recipe for these event, so far, is fairly simple:
 
 * Provide meaningful and practical opportunities to for these individuals to create together and to learn from each other.
 
-Like most complex recipes — think [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), not toast — this also requires careful attention to detail to get right; not to mention a large kitchen and numerous chefs.
+Like most complex recipes — think [Baked Alaska](https://en.wikipedia.org/wiki/Baked_Alaska), not toast — this also requires careful attention to detail to get right; not to mention an efficient kitchen and many hands.
 
 One might warn of “too many chefs,” and yet we believe that building a great experience is worth the risk, and something that comes from a spirit of enthusiastic co-creation.
 
@@ -61,27 +61,27 @@ In working to convene these spaces, we believe that the process is as important 
 
 ## The potential
 
-The Hacks/Hackers global network is made up of more than 40,000 members around the world. There are chapters in more than 75 cities and 35 different countries. [These volunteer-driven chapters produce hundreds of professional-development events for their members every year][hhpro].
+The Hacks/Hackers global network is made up of 40,000+ members around the world. There are chapters in more than 75 cities and 35 different countries. [These volunteer-driven chapters produce hundreds of professional-development events for their members every year][hhpro].
 
 These chapters organize [talks](http://www.meetup.com/HacksHackersLondon/events/225202244/), [demo days](http://www.meetup.com/hacks-hackers-nyc/events/224032139/), and [social events](http://www.meetup.com/Hacks-Hackers-Seattle/events/225173570/). They organize [regular times for like-minded professionals to work on projects together](http://www.meetup.com/hackshackersIRE/events/225424632/). They organize “[hackathons](https://hackdash.org/dashboards/mp15hack)” and some of the [largest media innovation gatherings on the globe](http://mediaparty.info/).
 
 Hacks/Hackers literally reaches into the world’s most forward-thinking newsrooms: their labs, innovation programs, data desks, news app & data visualization teams, and beyond.
 
-This network has grown organically over the last several years and often defies a narrow definition. [It is many things to many people](http://phillipadsmith.com/2015/06/what-is-hacks-hackers.html). And yet, if it’s defined by any single idea, I believe that idea is “[makers](https://makerba.se/).” Hacks/Hackers is the people who are making — and those who are driven to learn how to make — a society that is more informed, connected, and empowered[^1].
+This network has grown organically over the last several years and often defies a narrow definition. [It is many things to many people](http://phillipadsmith.com/2015/06/what-is-hacks-hackers.html). And yet, if it’s defined by any single idea, I believe that idea is **“[makers](https://makerba.se/).”** _Hacks/Hackers is the people who are making — and those who are driven to learn how to make — a society that is more informed, connected, and empowered[^1]._
 
 **I believe there is huge potential in this network**. 
 
-Today marks almost five years to the day since I [started a Hacks/Hackers chapter with some great friends][hhto]. Those friends have gone on to do amazing things, and I’ve made many more new connections at those events over those years. I continue to [organize here in Vancouver][hhyvr] because I am passionate about what Hacks/Hackers means to me, and what it means to the people who invest their personal time to come out to the events. And I committed to the Connect series for the same reason: **I believe in the potential of this network to manifest outcomes that we have yet to even imagine.**
+Today marks almost five years to the day since I [started a Hacks/Hackers chapter with some great friends in Toronto][hhto]. Those friends have gone on to do amazing things, and I’ve made many more new connections at those events over those years. I continue to [organize here in Vancouver][hhyvr] because I am passionate about what Hacks/Hackers means to me, and what it means to the people who invest their personal time to come out to the events. And I committed to the Connect series for the same reason: **I believe in the potential of this network to manifest outcomes that we have yet to even imagine.**
 
 ## The ask
 
-So, perhaps you can tell that I’m a bit obsessed with the opportunity that I see here? Or perhaps you live at this intersection too, and understand the catalytic time that “journalism” is currently living in?
+So, perhaps you can tell that I’m a bit obsessed with the potential that I see within this network? Or perhaps you live at this intersection too, and understand the catalytic time that “journalism” is currently living in?
 
 **If so, here’s how you can help…** 
 
-Ask yourself, “Who do you know who:
+Ask yourself, “Who do you know who:"
 
-* Is working at the nexus of news, media, and technology and is passionate about about testing out new ideas, and building new teams and products?
+* Who do you know who... is working at the nexus of news, media, and technology and is passionate about about testing out new ideas, and building new teams and products?
 
 * Is currently getting a new news/media/information-focused startup or product off ground? And who has done so successfully in the past in your community?
 
