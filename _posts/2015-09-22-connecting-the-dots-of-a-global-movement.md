@@ -20,7 +20,7 @@ published: true
 title: Connecting the dots of a global movement
 ---
 
-The last two weeks have been full-speed ahead in preparation to announce the dates for the next [Connect events][connect]. It’s been a great time to reflect on the who, what, when, where and why of this whole thing. The where and when will be announced soon, so I’m going to ruminate out loud here on “Why we are doing it,” and “What we have learned along the way” [And then I'm going to ask for your help](#the-ask).
+The last few weeks have been full-speed ahead in preparation to announce the dates for the next [Connect events][connect]. It’s been a great time to reflect on the who, what, when, where and why of this whole thing. The where and when will be announced soon, so I’m going to ruminate out loud here on “Why we are doing it,” and “What we have learned along the way” [And then I'm going to ask for your help](#the-ask).
 {: .lead}
 
 When I first signed-on to help produce these events, I asked [Burt][burtherman] a lot of questions. Specifically, I wanted to know how we would measure impact and success. Through that conversation, we committed to three guiding principles:
