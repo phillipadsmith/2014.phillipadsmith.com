@@ -83,11 +83,11 @@ Ask yourself, “Who do you know who:"
 
 * Who do you know who... is working at the nexus of news, media, and technology and is passionate about about testing out new ideas, and building new teams and products?
 
-* Is currently getting a new news/media/information-focused startup or product off ground? And who has done so successfully in the past in your community?
+* Is currently getting a new news/media/information-focused startup or product off the ground? And who has done so successfully in the past in your community?
 
 * Is educating the information-meets-journalism-meets-technology makers of tomorrow? What are the innovative academic programs in your community? The new immersive learning experiences? Who are the people behind these initiatives? 
 
-* Is incubating, accelerating, and investing in media in your community? Who are the [Matters][matter] and [Media Factories][mediafactory] of your city? 
+* And, last but not least...  Who is incubating, accelerating, and investing in media in your community? Who are the [Matters][matter] and [Media Factories][mediafactory] of your city? 
 
 [As Connect works its way around the globe][connect], we are organically drawing a map of these resources -- resources that will serve as the connective tissue between events, participants, Hacks/Hackers members, and all of the organizations and people that we are able to connect along the way.
 
