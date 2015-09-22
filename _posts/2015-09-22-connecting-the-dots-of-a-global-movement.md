@@ -27,7 +27,7 @@ When I first signed-on to help produce these events, I asked [Burt][burtherman] 
 
 1. To connect members to members, and chapters to chapters; 
 1. To convene spaces, and to produce experiences, that enable learning, facilitate collaboration, and inspire creativity;
-3. To illuminate a path forward — to "connect the dots" if you will — to local resources and next steps for event participants
+3. To illuminate a path forward — to "connect the dots" if you will — to local resources and next steps for event participants.
 
 There is also an underlying theory of change about the “future of news, media, and information” that provides the thematic frame for these events:
 
