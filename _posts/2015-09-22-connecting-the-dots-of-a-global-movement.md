@@ -97,7 +97,7 @@ I am grateful for, and look forward to, your contributions.
 
 — Phillip.
 
-[^1] To steal a catchy phrase from our friends at [Matter.vc](http://matter.vc/mission/)
+[^1]: To steal a catchy phrase from our friends at [Matter.vc](http://matter.vc/mission/)
 
 
 [connect]: http://connect.hackshackers.com
