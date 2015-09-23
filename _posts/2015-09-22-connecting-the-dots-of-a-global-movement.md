@@ -33,7 +33,7 @@ There is also an underlying theory of change about the “future of news, media,
 
 > The belief that the information ecosystem of tomorrow will be heavily influenced by entrepreneurial and upstart activities: new experimental products in market, new risk-taking enterprises, and never-attempted-before civic undertakings.
 
-We are not alone: [recent investments](http://www.nytimes.com/2015/08/13/business/media/nbcuniversal-invests-200-million-in-vox-media.html?_r=0), the appearance of [several][matter] [new][nma] [media-focused accelerators][mediafactory], and a [growing](http://www.niemanlab.org/2015/08/at-the-new-york-daily-newss-innovation-lab-inspiration-comes-from-outside-startups-and-events/) [number](http://www.niemanlab.org/2015/06/a-qa-with-the-guardian-u-s-about-its-new-mobile-innovation-lab/) of [intrapreneurial “labs”](http://www.wired.com/2015/05/buzzfeed-founder-launches-new-lab-open-source-invention/) within news organizations point to a similar understanding of one possible recipe for change: experiment, measure, learn.
+We are not alone: [recent investments](http://www.nytimes.com/2015/08/13/business/media/nbcuniversal-invests-200-million-in-vox-media.html?_r=0), the appearance of [several][matter] [new][nma] [media-focused accelerators][mediafactory], and a [growing](http://www.niemanlab.org/2015/08/at-the-new-york-daily-newss-innovation-lab-inspiration-comes-from-outside-startups-and-events/) [number](http://www.niemanlab.org/2015/06/a-qa-with-the-guardian-u-s-about-its-new-mobile-innovation-lab/) of [intrapreneurial “labs”](http://www.wired.com/2015/05/buzzfeed-founder-launches-new-lab-open-source-invention/) within news organizations point to a similar understanding of one possible recipe for change: experiment, measure, learn, repeat.
 
 Our aspirational objective? To be able to point to unprecedented experiments, products, and teams by the end of 2016.
 
@@ -47,7 +47,7 @@ Our recipe for these event, so far, is fairly simple:
 
 * Find the right participants: people who are working in those places where news and technology are colliding every day, and those individuals who have passion-driven ideas about how to change the future of information as we know it. 
 
-* Take this room full of potential co-creators and put them in direct conversation with each other, again and again. To ensure that each participant leaves the event with new connections and a potential collaborators.
+* Take this room full of potential co-creators and put them in direct conversation with each other, again and again. To ensure that each participant leaves the event with new connections and new collaboration opportunities.
 
 * Inspire them, and introduce them to mentors — industry veterans — who share their experiences, as well as the accelerators, incubators, and investors working to support innovation in the space.
 
