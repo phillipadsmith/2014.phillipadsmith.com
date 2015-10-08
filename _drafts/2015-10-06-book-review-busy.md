@@ -37,7 +37,7 @@ Last but not least, Crabbe points out research by Tim Kasser that found that tho
 
 **Seems obvious, right?**
 
-Some might find it odd to learn that I’m reading a book about being busy. As a card-carrying “[Slacktivist][http://phillipadsmith.com/tag/slacktivism/]” who has written about [slow e-mail](http://phillipadsmith.com/2007/07/longing-for-the-days-of-snail-mail-a-guide-to-slow-e-mail.html), and who is known to not check e-mail on the weekends, many might assume that “busy” is not challenge that I struggle with. If only it were that simple...
+Some might find it odd to learn that I’m reading a book about being busy. As a card-carrying “[Slacktivist](http://phillipadsmith.com/tag/slacktivism/)” who has written about [slow e-mail](http://phillipadsmith.com/2007/07/longing-for-the-days-of-snail-mail-a-guide-to-slow-e-mail.html), and who is known to not check e-mail on the weekends, many might assume that “busy” is not challenge that I struggle with. If only it were that simple...
 
 Busy is the pull of that “urgent” but not necessarily important quadrant of life distracts from seeing the bigger picture. It is the constant interruptions that prevent us from finding “flow” in our work. It is a life so fully scheduled that there is no time for reflection. And, frankly, it is something that I witness almost everyone in my life struggle with, including first-and-foremost myself.
 
