@@ -24,14 +24,14 @@ In a modern-day laptop there is enough power to edit a movie, mix a song, build 
 
 I had been pondering this tension — the urge to turn to the laptop for creative production, and the danger of turning to it too soon — when I started reading the book [Busy: How to Thrive in a World of Too Much][busy].[^1] And, given that it’s been a while since I’ve done a book review, I thought I’d start up again with [this one][busy].
 
+> Our ability to be fully present in the moment is our most rewarding capability, allowing us to find real joy, to cherish moments and experience connectedness. 
+> <small><cite>Tony Crabbe, Busy: How to Thrive in a World of Too Much</cite></small>
+
 On my journey through the book, I realized that much of what I felt in my gut about my relationship to technology these last several years was born out by contemporary research. For example:
 
 * The author, Tony Crabbe, cites “[Exploring the ‘Planning Fallacy’: Why People Underestimate Their Task Completion Times,](http://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366,_1994.pdf)” where researchers found that “We overestimate how much we can do, endowing ourselves with greater intellectual and focusing capabilities than we really have, and ignore all the contextual factors that could get in our way.” [A topic I debated with my colleague Rob Purdie, the project management guru, back in 2006.](http://phillipadsmith.com/2006/05/project-management-vs-time-management.html)
 
 * Crabbe goes further than my argument that time management is more important than project management to say that “that attention management is far, far more important than time management.” To back this up, he references studies that found “Multitasking can drop the performance of a Harvard MBA student to that of an eight-year-old,” and eloquently proposes that “Our ability to be fully present in the moment is our most rewarding capability, allowing us to find real joy, to cherish moments and experience connectedness.”
-
-> Our ability to be fully present in the moment is our most rewarding capability, allowing us to find real joy, to cherish moments and experience connectedness. 
-> <small><cite>Tony Crabbe, Busy: How to Thrive in a World of Too Much</cite></small>
 
 Last but not least, Crabbe points out research by Tim Kasser that found that those individuals “with a powerful focus on ‘affinity’ [being together] tend to enjoy happiness, health and mental well-being. On the other hand, the reverse was found with those who strove for popularity: they were less happy, more depressed and more anxious.” [Kasser’s research](http://www.knox.edu/academics/majors-and-minors/psychology/faculty/kasser-tim) is a great segue into the challenges of our contemporary, digitally-connected reality -- which makes it easy for us to stay connected to ever-increasing numbers of friends. Crabbe contrasts  studies on the impacts of social media on our lives against the idea of “[Dunbar’s number](https://en.wikipedia.org/wiki/Dunbar%27s_number)” and concludes “that well-being, satisfaction and joy come from the 15,” those family, friends, and life partners that “trigger more flow experiences.”
 
