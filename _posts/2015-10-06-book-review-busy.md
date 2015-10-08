@@ -15,7 +15,7 @@ img_xlg: /files/book_busy_cover.jpg
 img_alt: "Cover of Busy: How to Thrive in a World of Too Much, by Tony Crabbe"
 img_caption: "Cover of Busy: How to Thrive in a World of Too Much, by Tony Crabbe"
 img_url: ""
-published: false
+published: true
 title: "Busy: How to Thrive in a World of Too Much"
 ---
 
