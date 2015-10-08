@@ -19,10 +19,10 @@ published: false
 title: "Busy: How to Thrive in a World of Too Much"
 ---
 
-In a modern-day laptop there is enough power to edit a movie, mix a song, build the foundation of a successful business, or to write, typeset, and publish a novel. It is the creative equivalent of having a nuclear reactor that you carry with you. And yet, if we open that lid without clear intention, it is like staring into a black hole: a raw, unfiltered, and limitless sea of information so vast that it can easily steal hours from our productive lives.
+In a modern-day laptop there is enough power to edit a movie, mix a song, build the foundation of a successful business, or to write, design, and publish a novel. It is the creative equivalent of having a nuclear reactor that you carry with you. And yet, if we open that lid without clear intention, it is like staring into a black hole: a raw, unfiltered, and limitless sea of information so vast that it can easily steal hours from our productive lives.
 {: .lead}
 
-I had been pondering this tension — the urge to turn to the laptop for creative production, and the danger of turning to it too soon — when I started reading the book [Busy: How to Thrive in a World of Too Much][busy]. And, given that it’s been a while since I’ve done a book review, I thought I’d start up again with [this one][busy].
+I had been pondering this tension — the urge to turn to the laptop for creative production, and the danger of turning to it too soon — when I started reading the book [Busy: How to Thrive in a World of Too Much][busy].[^1] And, given that it’s been a while since I’ve done a book review, I thought I’d start up again with [this one][busy].
 
 On my journey through the book, I realized that much of what I felt in my gut about my relationship to technology these last several years was born out by contemporary research. For example:
 
@@ -49,12 +49,13 @@ As someone who’s put a fair bit of focus on figuring out how to be less busy o
 Of course, some classics from my own repertoire were also offered up too:
 
 * [Work in sprints](http://www.theatlantic.com/business/archive/2014/09/science-tells-you-how-many-minutes-should-you-take-a-break-for-work-17/380369/). Some research suggests a 50/20 approach, I find that 90 minutes of focus followed by a 30 minute break works best for me.
-* To make that possible, I enable the “Do not disturb” feature of **both** my phone and my laptop. Checking for notifications more than 4-5 times a work day seems unnecessary to me.
+* To make that possible, I enable the “Do not disturb” feature of *both* my phone and my laptop. Checking for notifications more than 4-5 times a work day seems unnecessary to me.
 * [Meditate, exercise, and eat a health meal first thing in the morning](http://phillipadsmith.com/2013/04/reflections-on-40-meditate-destroy-everyday.html): then start the day.
-* Focus on the bit stuff first. If possible, I start the day by working on a large task, not responding to e-mail or attending meetings. My current schedule makes this pretty challenging because I’m collaborating with people on the east coast and Europe, and still I try to at least do 30 minutes of writing or reading before diving in.
+* Focus on the bit stuff first. If possible, I start the day by working on a large task, not responding to e-mail or attending meetings. My current schedule makes this pretty challenging because I’m collaborating with people on the east coast and Europe -- and yet I still try to do at least 30 minutes of writing or reading before diving in to the day.
 
 In sum, if you struggle with the plague of our time called “busyness,” it would be hard to find a better remedy — especially one that is such a low investment of time and money —  than [Busy: How to Thrive in a World of Too Much][busy]. Kudos to Tony Crabbe for taking a well-covered topic and shining some new, researched-backed light on it. The chapter summaries are particularly considerate, given the target audience.
 
-[Go get less busy and reclaim some of your life][busy]. Or, in Crabbe’s words, “We will not lead completely happy lives unless we can be completely engaged in our activity; and quietly content in our idleness.”
+[What are you waiting for? Go get less busy and reclaim some of your life!][busy]. Or, in Crabbe’s words, “We will not lead completely happy lives unless we can be completely engaged in our activity; and quietly content in our idleness.”
 
 [busy]:http://amzn.to/1FU22Kk
+[^1]: Reading on my Kindle of course!
