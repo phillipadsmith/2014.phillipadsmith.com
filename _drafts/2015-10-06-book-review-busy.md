@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ""
+date: "2015-10-8 09:00:00"
 dek: Our ability to be fully present in the moment is our most rewarding capability
 summary: "Book review of Busy: How to Thrive in a World of Too Much, by Tony Crabbe"
 category: commentary
