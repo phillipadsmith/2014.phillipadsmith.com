@@ -8,12 +8,12 @@ tags:
   - frontpage
   - books
 img_opt: inline
-img_sml: ""
-img_med: ""
-img_lrg: ""
-img_xlg: ""
-img_alt: ""
-img_caption: ""
+img_sml: /files/book_busy_cover.jpg
+img_med: /files/book_busy_cover.jpg
+img_lrg: /files/book_busy_cover.jpg
+img_xlg: /files/book_busy_cover.jpg
+img_alt: "Cover of Busy: How to Thrive in a World of Too Much, by Tony Crabbe"
+img_caption: "Cover of Busy: How to Thrive in a World of Too Much, by Tony Crabbe"
 img_url: ""
 published: false
 title: "Busy: How to Thrive in a World of Too Much"
