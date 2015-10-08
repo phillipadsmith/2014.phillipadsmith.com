@@ -3,7 +3,7 @@ layout: post
 date: "2015-10-8 09:00:00"
 dek: Our ability to be fully present in the moment is our most rewarding capability
 summary: "Book review of Busy: How to Thrive in a World of Too Much, by Tony Crabbe"
-category: commentary
+category: covering
 tags: 
   - frontpage
   - books
@@ -18,6 +18,7 @@ img_url: ""
 published: true
 title: "Busy: How to Thrive in a World of Too Much"
 ---
+
 
 In a modern-day laptop there is enough power to edit a movie, mix a song, build the foundation of a successful business, or to write, design, and publish a novel. It is the creative equivalent of having a nuclear reactor that you carry with you. And yet, if we open that lid without clear intention, it is like staring into a black hole: a raw, unfiltered, and limitless sea of information so vast that it can easily steal hours from our productive lives.
 {: .lead}
@@ -55,7 +56,7 @@ Of course, some classics from my own repertoire were also offered up too:
 
 In sum, if you struggle with the plague of our time called “busyness,” it would be hard to find a better remedy — especially one that is such a low investment of time and money —  than [Busy: How to Thrive in a World of Too Much][busy]. Kudos to Tony Crabbe for taking a well-covered topic and shining some new, researched-backed light on it. The chapter summaries are particularly considerate, given the target audience.
 
-[What are you waiting for? Go get less busy and reclaim some of your life!][busy]. Or, in Crabbe’s words, “We will not lead completely happy lives unless we can be completely engaged in our activity; and quietly content in our idleness.”
+[What are you waiting for? Go get less busy and reclaim some of your life!][busy] Or, in Crabbe’s words, “We will not lead completely happy lives unless we can be completely engaged in our activity; and quietly content in our idleness.”
 
 [busy]:http://amzn.to/1FU22Kk
 [^1]: Reading on my Kindle of course!
