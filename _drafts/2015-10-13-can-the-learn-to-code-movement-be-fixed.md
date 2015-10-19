@@ -4,7 +4,8 @@ date: ""
 dek: ""
 summary: ""
 category: coding
-tags: null
+tags: 
+  - "null"
 img_opt: cover
 img_sml: ""
 img_med: ""
@@ -16,6 +17,7 @@ img_url: ""
 published: false
 title: "Can the \"learn to code\" movement be fixed?"
 ---
+
 
 Are ready to become a full stack web developer? If so, [at least one online school](https://makerscabin.com/web/) proposes a mix of [more than 20 subjects](https://makerscabin.com/web/): HTML, CSS, Sass, JavaScript, jQuery, PHP, Laravel, SQL, MySQL, Git, GitHub, Ubuntu, Linux Command Line Tools, Gulp, NPM, Bower, Amazon AWS, Website Design, Zurb Foundation, Bootstrap, Web App Design, Sketch 3, Sublime Text 3, Server Architecture, Apache, Nginx, and Redis.
 
@@ -69,3 +71,7 @@ Not that I have it all figured out. Here’s what I’d recommend to those start
 Conclusion TK.
 
 [^1]The folks at Viking Code School have summarized some of the challenges quite well here: http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
+
+
+NOTES:
+https://nodejs.org/en/blog/release/v4.2.0/
