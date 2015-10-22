@@ -60,12 +60,14 @@ If you have some years behind you, these are probably familiar tools and perhaps
 ## The opportunity / solution
 I don’t know if there’s a solution to this quandary. I want more people to learn to code, or — perhaps more realistically —  to learn how to co-create using the building blocks of the open Web. And yet, I want them to start with a complete idea of what’s ahead, to pace themselves, and to stick with it for the long-term.
 
-Too often, in my experience, the "learn to code" moments at meetups are conferences are little more than a magic trick: some seemingly accessible slight-of-hand that makes it all seem easy, leaving out the fact that it took years to learn. Or worse, an illusion presented to make the teacher appear smart and the learner feel stupid.
+Too often, in my experience, the "learn to code" moments at meetups are conferences are little more than a magic trick: some seemingly accessible slight-of-hand that makes it all seem easy, leaving out the fact that it took years to learn. Or worse, an illusion presented to make the presenter appear smart and leaves the learner feel overwhelmed.
 
-I don't have much confidence that efforts like [Codecademy](https://www.codecademy.com/) are going to teach significantly more learners to program -- nor has any more than a single programming book been enough to TK programmers. Learning to make great stuff on the Web takes practice, effort, time, and attention. There is no silver bullet.
+I don't have much confidence that efforts like [Codecademy](https://www.codecademy.com/) are going to teach significantly more people to program, just as I have my doubts that any a single programming has ever been enough. Learning to make great stuff on the Web takes practice, effort, time, and attention. There is no silver bullet.
 
-## Five suggestions for those new to programming
-I don't have it all figured out myself, and yet here are five paths that I've often shared with those starting on the journey:
+## Five suggestions for the journey of learning
+I don't have it all figured out myself, and -- [like many in my field](https://en.wikipedia.org/wiki/Impostor_syndrome) -- I cringe when others refer to me as a programmer, believing instead that after a more than two decades of professional experience I have only just begun learning. And yet, tools I developed more than a decade ago are still running on the Internet today -- so that must count for something.
+
+When asked, here are there five paths that I've often shared with those who are also on the journey:
 
 * **Scratch your own itch first:** Start with a problem that you want to solve, not a problem that is set out by a book or online course. As many have said before, the path to making great software is solving your own problems. Working to solive your problem in its entirety will often walk you through most of the layers of the stack described above.
 
@@ -73,14 +75,13 @@ I don't have it all figured out myself, and yet here are five paths that I've of
 
 * **Learn to ask answerable questions:** 99% of problems that you encounter, have been experienced before by someone else -- and 99% of the time, [they've also been answered](http://stackoverflow.com). So the first warp speed leap you can make is learning how and where to search for answers. And yet the real magic comes when you learn how to ask questions that are easier for others to answer. That means learning how to provide all of the necessary information, ideally, [something like a small demonstration of the problem you are trying to solve](https://github.com/times/doctop/pull/12).
 
-* **Learn how to prototype quickly, and how to show your work quickly:** As I've  noted above, Making stuff on the Web has become a relatively complex task when compared to how it was a decade ago (or even a five years ago, frankly). With that complexity comes a lot of distractions and dead-end paths. Don't let your efforts languish in obscurity! Get it out in the open where it can get some air, and can been seen, and get it out there as quickly and frequently as possible. 
+* **Prototype quickly. Show your work early.:** As I've  noted above, Making stuff on the Web has become a relatively complex task when compared to how it was a decade ago (or even a five years ago, frankly). With that complexity comes a lot of distractions and dead-end paths. Don't let your efforts languish in obscurity! Get it out in the open where it can get some air, and can been seen, and get it out there as quickly and frequently as possible. 
 
-* **Learn to not fear feedback:** There are times when I've looked at a friend or colleague's work and thought "Wow, you've just re-written an existing library from scratch -- how long did that take!?" There are times when that's the right thing to do, don't get me wrong, and yet I would propose that you should aim to do that with intention, not lack of awareness. All that to say, if you learn to ask for feedback early and often, you'll probably have the information you need to make the most informed decisions. Better yet, just [work open](http://blog.workopen.org) and practice "thinking out loud" about your work.
+* **Be fearless about feedback:** There are times when I've looked at a friend or colleague's work and thought "Wow, you've just re-written an existing library from scratch -- how long did that take!?" There are times when that's the right thing to do, don't get me wrong, and yet I would propose that you should aim to do that with intention, not lack of awareness. All that to say, if you learn to ask for feedback early and often, you'll probably have the information you need to make the most informed decisions. Better yet, just [work open](http://blog.workopen.org) and practice "thinking out loud" about your work.
 
-Have your own set of guiding principles around making stuff on the Web? Drop a note for other readers in the comments below, or hit me on [Twitter][phillipadsmithtw].
+These suggestions aren't going to fix the problems I believe are inherent in the broader learn to code movement, and yet I hope they might help some people stick with what has be one of the most rewarding life pursuits I've ever known.
+
+Do you have your own set of guiding principles around making stuff on the Web? Drop a note for other readers in the comments below, or hit me on [Twitter][phillipadsmithtw].
 
 [^1]The folks at Viking Code School have summarized some of the challenges quite well here: http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 [phillipadsmithtw]: http://twitter.com/phillipadsmith
-
-NOTES:
-https://nodejs.org/en/blog/release/v4.2.0/
