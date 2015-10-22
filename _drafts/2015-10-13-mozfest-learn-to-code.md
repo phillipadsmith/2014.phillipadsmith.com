@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2015-10-22 9:00:00"
-dek: "Thinking about the upcoming Mozilla Festival, I'm left pondering the big challenges ahead..."
+dek: "Thinking about the upcoming Mozilla Festival, I'm left pondering some big challenges ahead..."
 summary: ""
 category: commentary
 tags: 
