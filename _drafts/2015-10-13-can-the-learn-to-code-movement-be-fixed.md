@@ -3,22 +3,22 @@ layout: post
 date: ""
 dek: ""
 summary: ""
-category: coding
+category: commentary
 tags: 
-  - "null"
+  - makers
+  - programming
+  - learning
 img_opt: cover
-img_sml: ""
-img_med: ""
-img_lrg: ""
-img_xlg: ""
+img_sml: /files/makers_cabin_screenshot.jpg
+img_med: /files/makers_cabin_screenshot.jpg
+img_lrg: /files/makers_cabin_screenshot.jpg
+img_xlg: /files/makers_cabin_screenshot.jpg
 img_alt: ""
 img_caption: ""
 img_url: ""
 published: false
 title: "Can the \"learn to code\" movement be fixed?"
 ---
-
-
 
 Are ready to become a full stack web developer? If so, [at least one online school](https://makerscabin.com/web/) proposes a mix of [more than 20 subjects](https://makerscabin.com/web/): HTML, CSS, Sass, JavaScript, jQuery, PHP, Laravel, SQL, MySQL, Git, GitHub, Ubuntu, Linux Command Line Tools, Gulp, NPM, Bower, Amazon AWS, Website Design, Zurb Foundation, Bootstrap, Web App Design, Sketch 3, Sublime Text 3, Server Architecture, Apache, Nginx, and Redis.
 
