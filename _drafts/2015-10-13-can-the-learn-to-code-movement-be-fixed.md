@@ -17,7 +17,7 @@ img_alt: Screenshot of Makers Cabin
 img_caption: Screenshot of Makers Cabin
 img_url: ""
 published: false
-title: "The \"learn to code\" problem: How can #Mozfest help?"
+title: "The &ldquo;learn to code&rdquo; problem: How can #Mozfest help?"
 ---
 
 Are ready to become a full stack web developer? If so, [at least one online school](https://makerscabin.com/web/) proposes a mix of [more than 20 subjects](https://makerscabin.com/web/): HTML, CSS, Sass, JavaScript, jQuery, PHP, Laravel, SQL, MySQL, Git, GitHub, Ubuntu, Linux Command Line Tools, Gulp, NPM, Bower, Amazon AWS, Website Design, Zurb Foundation, Bootstrap, Web App Design, Sketch 3, Sublime Text 3, Server Architecture, Apache, Nginx, and Redis.
