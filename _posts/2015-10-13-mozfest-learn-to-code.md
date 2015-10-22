@@ -75,7 +75,7 @@ I don't have a lot of confidence that efforts like [Codecademy](https://www.code
 ## Five suggestions for a journey of lifeline learning
 I don't have it all figured out myself, and -- [like many in my field](https://en.wikipedia.org/wiki/Impostor_syndrome) -- I cringe when others refer to me as someone who makes things with software, believing instead that after a more than two decades of professional experience I have only just begun the *real* learning. And yet, tools I developed more than a ten years ago are (somewhat amazingly) still running on the Internet today -- so that must count for something.
 
-Here are there five paths that I've often shared with those who are also on the journey:
+Here are five paths that I've often shared with those who are also on the journey:
 
 * **Scratch your own itch first:** Start with a problem that you want to solve, not a problem that is set out by a book or online course. As many have said before, the path to making great software is solving something personal, something that you're passionate about. Working to solve *that* problem in its entirety will often walk you through most of the layers of the stack described above.
 
