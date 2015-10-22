@@ -5,6 +5,7 @@ dek: "Thinking about the upcoming Mozilla Festival, I'm left pondering some big 
 summary: ""
 category: commentary
 tags: 
+  - frontpage
   - makers
   - programming
   - learning
