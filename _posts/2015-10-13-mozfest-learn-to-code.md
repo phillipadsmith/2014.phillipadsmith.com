@@ -21,6 +21,7 @@ published: true
 title: "The &ldquo;learn to code&rdquo; problem: Can #Mozfest help?"
 ---
 
+
 Are ready to become a full stack web developer? If so, [at least one online school](https://makerscabin.com/web/) proposes a mix of [more than 20 subjects](https://makerscabin.com/web/): HTML, CSS, Sass, JavaScript, jQuery, PHP, Laravel, SQL, MySQL, Git, GitHub, Ubuntu, Linux Command Line Tools, Gulp, NPM, Bower, Amazon AWS, Website Design, Zurb Foundation, Bootstrap, Web App Design, Sketch 3, Sublime Text 3, Server Architecture, Apache, Nginx, and Redis.
 {: .lead}
 
@@ -89,5 +90,5 @@ These suggestions aren't going to fix the problems I believe are inherent in the
 
 *Do you have your own set of guiding principles around making stuff on the Web? Drop a note for other readers in the comments below, or hit me on [Twitter][phillipadsmithtw].*
 
-[^1]The folks at Viking Code School have summarized some of the challenges quite well here: http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
+[^1]: The folks at Viking Code School have summarized some of the challenges quite well here: http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 [phillipadsmithtw]: http://twitter.com/phillipadsmith
