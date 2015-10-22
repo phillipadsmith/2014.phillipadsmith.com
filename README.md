@@ -13,3 +13,7 @@ I've been blogging (irregularly) since about 2001. I started with [Greymatter](h
 * [ ] Responsive image generation: automatically generate the various sizes if not provided in the front matter
 * [x] Upgrade Jekyll to take advantage of faster regeneration, etc.
 * [ ] Start migrating posts from the old Community Bandwidth site (circa 2003)
+
+## Fake push events to fix jekyll-hook
+
+- Oct 21/15.1
