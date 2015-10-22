@@ -27,10 +27,10 @@ The learn to code movement has gained a lot of steam. Every week I read in the m
 
 And yet, I wonder if we’re setting people up for a rude awakening? Or worse, the kind of failure that leads people to give up too soon.[^1]
 
-As I prepare to set sail for London to [facilitate a session on making GitHub event more awesome than it already is](http://phillipadsmith.com/2015/09/github-gitdown.html) at the [Mozilla Festival](https://2015.mozillafestival.org/), I keep asking myself: *How can we really help the Web makers of tomorrow to navigate the rough seas ahead?*
+As I prepare to set sail for London to [facilitate a session on making things with GitHub](http://phillipadsmith.com/2015/09/github-gitdown.html) at the [Mozilla Festival](https://2015.mozillafestival.org/), I keep asking myself: *How can we really help the Web makers of tomorrow to navigate the rough seas ahead?*
 
 ## Program or be programmed
-Over the past few years, I’ve had the opportunity to onboard new people to technical teams and to meet with young people who are exploring opportunities in the field of “making things with software.” Both experiences are enlightening. Explaining “How we build things at organization X,” or “How Web stuff is built in 2015” in general is a surprisingly complex task. It ain’t 1995 anymore, unfortunately.
+Over the past several years, I’ve had the opportunity to onboard new people to technical teams and to meet with young people who are exploring opportunities in the field of “making things with software.” Both experiences are enlightening. Explaining “How we build things at organization X,” or “How Web stuff is built in 2015” in general is a surprisingly complex task. It ain’t 1995 anymore, unfortunately.
 
 I’ve experienced this when [teaching journalists](http://phillipadsmith.com/2014/02/ipys-venezuela-data-journalism-workshops.html), whether it’s [data literacy skills](http://phillipadsmith.com/2012/02/a-tyee-master-class-telling-stories-with-data-june-2-3-2012-vancouver-bc.html) or [basic security skills](http://phillipadsmith.com/2015/03/digital-security-encryption-resources-for-journalists.html). It’s hard. The concepts are difficult. And the knowledge often isn’t “sticky,” because people aren’t using the skills or tools _every day_.
 
@@ -63,7 +63,7 @@ If you have some years behind you, these are probably familiar tools and perhaps
 ## A noble cause, without clear outcomes
 I don’t know if there’s a solution to this quandary. I want more people to learn to code, or — perhaps more realistically —  to learn how to co-create using the building blocks of the open Web. And yet, I want them to start with a complete idea of what’s ahead, to pace themselves, and to stick with it for the long term.
 
-Too often, in my experience, the "learn to code" moments at meetups and conferences are little more than a magic trick: some seemingly accessible slight-of-hand that makes it all seem easy, leaving out the fact that it took years to perfect. Or worse, an illusion conjured up to make the presenter appear smart and leaving the learner feel overwhelmed.
+Too often, in my experience, the "learn to code" moments at meetups and conferences are little more than a magic trick: some seemingly accessible slight-of-hand that makes it all seem easy, leaving out the fact that it took years to perfect. Or worse, an illusion conjured up to make the presenter appear smart and leaving the learner feeling overwhelmed.
 
 It's amazing that more than 25 million people have started the exploration "learning to code" for time on sites like these, and still I wonder how many of these learners finish even a single course, let alone take the necessary step of building something beyond the provided examples and excercises.
 
