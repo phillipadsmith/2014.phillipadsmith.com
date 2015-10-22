@@ -1,7 +1,7 @@
 ---
 layout: post
-date: ""
-dek: ""
+date: "2015-10-22 9:00:00"
+dek: "Thinking about the upcoming Mozilla Festival, I'm left pondering the big challenges ahead."
 summary: ""
 category: commentary
 tags: 
@@ -13,11 +13,11 @@ img_sml: /files/makers_cabin_screenshot.jpg
 img_med: /files/makers_cabin_screenshot.jpg
 img_lrg: /files/makers_cabin_screenshot.jpg
 img_xlg: /files/makers_cabin_screenshot.jpg
-img_alt: ""
-img_caption: ""
+img_alt: Screenshot of Makers Cabin
+img_caption: Screenshot of Makers Cabin
 img_url: ""
 published: false
-title: "Can the \"learn to code\" movement be fixed?"
+title: "The \"learn to code\" problem: How can #Mozfest help?"
 ---
 
 Are ready to become a full stack web developer? If so, [at least one online school](https://makerscabin.com/web/) proposes a mix of [more than 20 subjects](https://makerscabin.com/web/): HTML, CSS, Sass, JavaScript, jQuery, PHP, Laravel, SQL, MySQL, Git, GitHub, Ubuntu, Linux Command Line Tools, Gulp, NPM, Bower, Amazon AWS, Website Design, Zurb Foundation, Bootstrap, Web App Design, Sketch 3, Sublime Text 3, Server Architecture, Apache, Nginx, and Redis.
@@ -26,6 +26,8 @@ The learn to code movement has gained a lot of steam. Every week I read about so
 
 And yet, I wonder if we’re setting people up for a rude awakening? Or worse, the kind of failure that leads people to give up too soon.[^1]
 
+As I prepare to set saile for London to [facilitate a session on making GitHub event more awesome than it already is](http://phillipadsmith.com/2015/09/github-gitdown.html) at the [Mozilla Festival](https://2015.mozillafestival.org/), I keep asking myself: *How can we really help the Web makers of tomorrow to navigate the rough seas ahead?*
+
 ## Program or be programmed
 Over the past few years, I’ve had the opportunity to onboard new people to technical teams and to meet with young people who are exploring opportunities in the field of “making things with software.” Both experiences are enlightening. Explaining “How we build things at organization X,” or “How Web stuff is built in 2015” in general is a surprisingly complex task. It ain’t 1995 anymore, unfortunately.
 
@@ -33,7 +35,7 @@ I’ve experienced this when [teaching journalists](http://phillipadsmith.com/20
 
 I’ve also experienced this when working with colleagues in related fields like design. Just to be able to co-create with someone who’s an *expert* in their field — admittedly, a field that has typically worked with very different tool up until recently — has required significant time investment to set-up the tooling and knowledge necessary to [actually collaborate on a project efficiently](https://github.com/TheTyee/bottom-lines).
 
-**So, I wonder, when we encourage the world to code, do we spell out that fluency is a long-term endeavour?** Is it clear at the outset that the mythical 10,000 hour mark requires a 20-hour-a-week investment *for the next ten years*? And it’s not just the time investment, it’s a ongoing commitment to a field that never stops evolving -- making software is a commitment to life-long learning.
+*So, I wonder, when we encourage the world to code, do we spell out that fluency is a long-term endeavour?* Is it clear at the outset that the mythical 10,000 hour mark requires a 20-hour-a-week investment *for the next ten years*? And it’s not just the time investment, it’s a ongoing commitment to a field that never stops evolving -- making software is a commitment to life-long learning.
 
 ## Lots of questions, few answers
 [Part of the challenge is the pace of change](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard), and the breadth of knowledge required. For example, even if the range of subjects required to be a “full stack Web developer” (as described by Makers Cabin) were language agnostic and narrowed just one tool from each part of the stack, there would still be more than ten different tools to learn. And, at each layer of the stack, several decisions for the learner to make.
