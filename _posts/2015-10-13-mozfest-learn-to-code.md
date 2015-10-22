@@ -16,7 +16,7 @@ img_xlg: /files/makers_cabin_screenshot.jpg
 img_alt: Screenshot of Makers Cabin
 img_caption: Screenshot of Makers Cabin
 img_url: ""
-published: false
+published: true
 title: "The &ldquo;learn to code&rdquo; problem: Can #Mozfest help?"
 ---
 
