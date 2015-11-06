@@ -1,5 +1,6 @@
 ---
 layout: post
+date: "2015-11-06 12:00:00"
 dek: "Let's put on our chefs' hat & make some prototypes this weekend!"
 summary: ""
 category: commentary
