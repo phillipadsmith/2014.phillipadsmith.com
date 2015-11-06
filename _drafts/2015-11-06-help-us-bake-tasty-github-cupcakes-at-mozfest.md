@@ -1,7 +1,7 @@
 ---
 layout: post
 date: ""
-dek: "Let's make some prototypes this weekend"
+dek: "Let's put on our chefs' hat & make some prototypes this weekend!"
 summary: ""
 category: commentary
 tags: 
@@ -49,11 +49,14 @@ Levitation aims to make using GitHub pages as easy as something like Wordpress o
 
 Join us! Here’s some of the links we’ll use to hack together. Even if you’re not at MozFest, please feel free to contribute or follow along.
 
-Join us at the Mozilla Festival on Saturday at 10:45am GMT. We'll keep hacking in that same space all weekend.
-Use this pad to add session notes or brilliant ideas
-Contribute to our GitHub repo for this session
-Use these hashtags: #mozfest #github
-Get in touch with the session organizers, Phillip Smith or OpenMatt
+* [Join us at the Mozilla Festival on Saturday at 10:45am GMT][session]. We'll keep hacking in that same space all weekend.
+* **[Use this pad][pad]** to add session notes or brilliant ideas
+* **[Contribute to our GitHub repo][repo]** for this session
+* **Use these hashtags:** [#mozfest #github](https://twitter.com/search?f=tweets&vertical=default&q=%23mozfest%20%23github&src=typd&lang=en)
+* **Get in touch** with the session organizers, Phillip Smith or OpenMatt
 
 [session]:https://schedule.mozillafestival.org/#_session-325
 [mozfest]:https://2015.mozillafestival.org/
+[pad]:http://etherpad.io/getting-down-with-github
+[repo]:https://github.com/phillipadsmith/getting-down-with-github
+
