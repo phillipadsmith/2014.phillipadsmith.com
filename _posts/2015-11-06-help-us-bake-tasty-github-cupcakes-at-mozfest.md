@@ -15,7 +15,7 @@ img_xlg: "/files/GitHub_jetpack1-1700x956.jpg"
 img_alt: ""
 img_caption: ""
 img_url: ""
-published: false
+published: true
 title: Help us bake tasty GitHub cupcakes at MozFest
 ---
 
