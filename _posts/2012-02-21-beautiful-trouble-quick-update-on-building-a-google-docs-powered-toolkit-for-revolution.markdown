@@ -10,8 +10,6 @@ tags:
 mt_id: 2809
 ---
 
-<img src="https://img.skitch.com/20120221-rresf27a63tw5craxgrpu915rq.jpg" alt="The raw contnet for Beautiful Trouble in all is beautful glory" />
-
 In late 2010 we embarked on a mission to bring more [Beautiful Trouble](http://beautifultrouble.org/) into the world. Over the course of the summer and fall last year, more than seventy contributors were pulled together to make the project a reality. The contributors were brought together physically, in New York, during several [book sprints](http://www.phillipadsmith.com/2011/06/a-beautiful-book-sprint-for-beautiful-trouble-tips-on-collaboratively-writing-a-book.html) and virtually from around the world thanks to the modern-day magic of the Internet and [Google Docs](http://docs.google.com).
 
 In fact, Google Docs, for better and for worse, is "the medium" of this project: the project consists of more than 450 documents in total.
