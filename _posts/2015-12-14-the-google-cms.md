@@ -31,9 +31,9 @@ However, these almost magical Docs and Sheets are not without their shortcomings
 
 * [Doctop.js](https://github.com/times/doctop) is similarly genius, and yet it needs to [jump through some serious hoops](https://github.com/times/doctop#preserveformatting-default-true) to deliver clean, structured data;
 
-* To solve that problem, the NYTimes developed and released [ArchieML](http://archieml.org/) -- a light-weight markup that can be used in Google Docs to denote keys and values -- and one has to wonder if that would be necessary if Docs simply supported input fields like a "fillable form" in Word documents, or forms in PDFs.
+* To solve that problem, the NYTimes developed and released [ArchieML](http://archieml.org/) -- a light-weight markup that can be used in Google Docs to denote keys and values -- and one has to wonder if that would be necessary if Docs simply supported input fields like a "fillable form" in Word documents, or forms in PDFs?
 
-This feature alone would likely catapult Docs to the top spot in the Web-content editing race — well ahead of Wordpress and Medium’s editing environments. Clearly, the "I want this" is demonstrated, and the pain with existing solutions is well documented.
+This last feature alone would likely catapult Docs to the top spot in the Web-content editing race — well ahead of Wordpress and Medium’s editing environments. Clearly, the "I want this" is demonstrated, and the pain with existing solutions is well documented.
 
 ## Five years later, little major progress has been made
 Newsrooms have been innovating on top of Google Drive for several years now. [As early as 2011 the Bangor Daily News was experimenting with using Docs as a key part of their digital _and_ print workflow](http://www.adweek.com/fishbowlny/how-to-run-a-news-site-and-newspaper-using-wordpress-and-google-docs/245737?red=kw). Once implemented, staff could simply drag & drop Docs into folders and have them appear in their CMS -- complete with comments -- ready to be published to the Web and flowed into print layout programs. Some years later, BDN also introduced a [story budgeting tool build on the Google Drive API, as well as Google Docs integration within their CMS](http://dev.bangordailynews.com/2013/08/28/google-drive-to-wordpress-to-indesign-refined/).
