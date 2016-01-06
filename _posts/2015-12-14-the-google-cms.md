@@ -4,6 +4,7 @@ date: "2015-12-14 9:00:00"
 dek: "Reinventing the newsroom content-management system: What would Google do?"
 summary: ""
 category: commentary
+crosspost_to_medium: true
 tags: 
   - frontpage
   - google
