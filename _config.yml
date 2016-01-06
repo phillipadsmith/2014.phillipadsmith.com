@@ -50,6 +50,14 @@ fbadmins:
 embedly:
   api_key: cbf1fb1adfe34a3eac4cc7dd71f1b497
 img_lrg: '/ui/img/phillipadsmith-500x500.jpg'
+
+# Crosspost to Medium
+jekyll-crosspost_to_medium:
+  enabled: false
+  cache: .jekyll-crosspost_to_medium
+  status: draft
+  #license: all-rights-reserved | cc-40-by | cc-40-by-sa | cc-40-by-nd | cc-40-by-nc | cc-40-by-nc-nd | cc-40-by-nc-sa | cc-40-zero | public-domain
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://phillipadsmith.com'
