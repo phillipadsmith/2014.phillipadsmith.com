@@ -8,3 +8,4 @@ _x*
 _vendor
 node_modules
 bower_components
+env.sh
