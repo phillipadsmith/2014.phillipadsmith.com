@@ -25,10 +25,10 @@ crosspost_to_medium: true
 > 
 > We know you’ve got questions about AMP, and we will do our very best to answer them and help you create a better mobile experience for your users. 
 > 
-> Over the next 6 weeks, we’ll host weekly Hangouts on Air with speakers discussing AMP and many of its specific components. Richard Gingras, Head of News @ Google, will kick off the series with an overview and vision of AMP: a faster, open mobile web. Google Product Managers will discuss specific components of AMP like Analytics, Ads, and Format Innovation, and they’re here to answer your questions! We’ll continue after 6 weeks with Open Office Hours so you can bring any burning questions you may have about AMP.
+> Over the next 6 weeks, we’ll host weekly Hangouts on Air with speakers discussing AMP and many of its specific components.
 > &mdash; [News Lab Open Office Hour: Accelerated Mobile Pages (AMP) featuring Richard Gingras, Head of News @Google](https://plus.google.com/u/0/events/cfn8fnt47j09qs7d3t0l7rqmjr0)
 
-"Office hours" are a great idea -- and I'll be there -- and yet, I think there's more to be done to get the word out about AMP.
+"Office hours" are a great idea -- and I'll be there -- and yet I think there's more to be done to help get the word out, and to get people exited, about AMP.
 {: .lead}
 
 A few weeks ago, I wrote an e-mail to Richard Gingras proposing some ideas on how to "**make AMP “irresistible” to the broader news publisher community.**"
