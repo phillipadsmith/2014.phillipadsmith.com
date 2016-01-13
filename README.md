@@ -6,6 +6,11 @@ I've been blogging (irregularly) since about 2001. I started with [Greymatter](h
 
 [Static site generators are a bit of an obsession at the moment](http://phillipadsmith.com/tag/staticnewsapps/), and this repo is just part of the experiment and learning.
 
+## Process challenges
+
+* [ ] Uploading images with posts
+* [ ] Working locally as quickly & efficiently as via Prose
+
 ## Technical TODO list
 
 * [x] ~~Set-up [jekyll-hook](https://github.com/developmentseed/jekyll-hook)~~
@@ -13,7 +18,3 @@ I've been blogging (irregularly) since about 2001. I started with [Greymatter](h
 * [ ] Responsive image generation: automatically generate the various sizes if not provided in the front matter
 * [x] Upgrade Jekyll to take advantage of faster regeneration, etc.
 * [ ] Start migrating posts from the old Community Bandwidth site (circa 2003)
-
-## Fake push events to fix jekyll-hook
-
-- Oct 21/15.1
