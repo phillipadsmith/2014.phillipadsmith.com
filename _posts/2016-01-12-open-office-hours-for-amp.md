@@ -6,10 +6,12 @@ link: "https://plus.google.com/u/0/events/cfn8fnt47j09qs7d3t0l7rqmjr0"
 published: true
 dek: "Google News Lab launches weekly \"Office Hours\" for AMP"
 summary: ""
-category: coding
+category: commentary
 tags: 
   - frontpage
   - links
+  - amphtml
+  - google
 img_opt: inline
 img_sml: /files/Accelerated_Mobile_Pages_Project.png
 img_med: /files/Accelerated_Mobile_Pages_Project.png
@@ -20,6 +22,7 @@ img_caption: ""
 img_url: ""
 crosspost_to_medium: true
 ---
+
 
 > Instant. Everywhere. That’s the goal of the Accelerated Mobile Pages (AMP) Project: an open source initiative that embodies the vision that publishers can create mobile optimized content once, and have it load instantly everywhere.
 > 
@@ -48,5 +51,3 @@ I believe that AMP development is moving too fast for most newsroom developers t
 In the meantime, [I'll see you this Friday for the first Hangout](https://plus.google.com/u/0/events/cfn8fnt47j09qs7d3t0l7rqmjr0).
 
 **P.S.** If you're interested in helping to organize an in-person, hands-on AMP deep dive, please drop me a note here or on [Twitter](http://twitter.com/phillipadsmith).
-
-
