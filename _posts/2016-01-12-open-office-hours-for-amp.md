@@ -24,6 +24,7 @@ crosspost_to_medium: true
 ---
 
 
+
 > Instant. Everywhere. That’s the goal of the Accelerated Mobile Pages (AMP) Project: an open source initiative that embodies the vision that publishers can create mobile optimized content once, and have it load instantly everywhere.
 > 
 > We know you’ve got questions about AMP, and we will do our very best to answer them and help you create a better mobile experience for your users. 
@@ -34,7 +35,7 @@ crosspost_to_medium: true
 "Office hours" are a great idea -- and I'll be there -- and yet I think there's more to be done to help get the word out, and to get people exited, about AMP.
 {: .lead}
 
-A few weeks ago, I reached out to Richard Gingras proposing some ideas on how to "**make AMP “irresistible” to the broader news publisher community.**"
+A few weeks ago, I reached out to Richard Gingras proposing some ideas on how to "**make AMP 'irresistible' to the broader news publisher community.**"
 
 The notion came out of a quick conversation with [Stacie Chan](https://twitter.com/staciechan) about a positioning or messaging challenge that might be impacting AMP's rapid adoption. Specifically, when I'm speaking to publishers, many of them express that AMP is “yet another” thing that their newsroom development team needs to implement. 
 
