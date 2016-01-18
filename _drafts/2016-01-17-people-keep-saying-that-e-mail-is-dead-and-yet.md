@@ -49,3 +49,13 @@ Here’s what happened when the founders of a $100 million company stopped using
 
 Read more at http://www.businessinsider.my/founders-of-life-is-good-stopped-using-email-2015-12/#UTyOIAz5HkmhkWAI.99
 
+
+Also:
+https://context.io/
+Build awesome things with email
+
+Context.IO takes the pain out of syncing email data with your app so you can focus on what makes your product great.
+
+https://nylas.com/features/
+Nylas provides a modern developer platform for email, contacts, and calendar. Stop fighting old protocols, and start building great products.
+Learn More
