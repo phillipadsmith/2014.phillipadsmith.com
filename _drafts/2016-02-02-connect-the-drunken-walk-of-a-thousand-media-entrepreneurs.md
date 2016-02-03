@@ -1,7 +1,7 @@
 ---
 layout: post
 date: ""
-dek: "How Hacks/Hackers Connect is using lessons from the Lean Startup movement to learn quickly, improve iteratively, and scale"
+dek: "How Hacks/Hackers Connect is using lessons from the Lean Startup movement to learn, improve, and scale"
 summary: ""
 category: coding
 tags: null
