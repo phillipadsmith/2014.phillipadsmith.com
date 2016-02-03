@@ -1,10 +1,13 @@
 ---
 layout: post
-date: ""
+date: "2016-02-03 09:00:00"
 dek: "How Hacks/Hackers Connect is using lessons from the Lean Startup movement to learn, improve, and scale"
 summary: ""
-category: coding
-tags: null
+category: convening
+tags: 
+  - frontpage
+  - hackshackers
+  - hhconnect
 img_opt: cover
 img_sml: /files/connects_drunken_media_entrepreneurs.jpg
 img_med: /files/connects_drunken_media_entrepreneurs.jpg
