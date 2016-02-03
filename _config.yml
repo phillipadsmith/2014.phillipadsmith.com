@@ -113,6 +113,15 @@ prose:
       field:
         element: "text"
         label: "title"
+    - name: "crosspost_to_medium"
+      field:
+        element: "select"
+        label: "Crosspost to Medium?"
+        options:
+          - name: "False"
+            value: "false"
+          - name: "True"
+            value: "true"
     - name: "category"
       field:
         element: "select"
