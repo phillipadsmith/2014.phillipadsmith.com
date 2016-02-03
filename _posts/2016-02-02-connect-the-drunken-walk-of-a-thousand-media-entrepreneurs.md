@@ -18,7 +18,7 @@ img_caption: "Our \"drunken media entrepreneurs\" at Connect. Photo by Karl Mond
 img_url: ""
 published: false
 title: The Drunken Walk of a Thousand Media Entrepreneurs
-crosspost_to_medium: "false"
+crosspost_to_medium: "true"
 ---
 
 
