@@ -16,7 +16,7 @@ img_xlg: /files/connects_drunken_media_entrepreneurs.jpg
 img_alt: "Our \"drunken media entrepreneurs\" at Connect"
 img_caption: "Our \"drunken media entrepreneurs\" at Connect. Photo by Karl Mondon"
 img_url: ""
-published: false
+published: true
 title: The Drunken Walk of a Thousand Media Entrepreneurs
 crosspost_to_medium: "true"
 ---
