@@ -51,7 +51,7 @@ We’ve now incorporated this promising strategy into Connect’s DNA.
 
 As part of that initiative, we were lucky enough to host [Sarah Marshal](https://twitter.com/SarahMarshall) (H/H London) and [Camille Pollie](https://twitter.com/camillepollie) (H/H Brussels) at Connect San Francisco. Sarah and Camille added enormous capacity to the SF team, and they now take those experiences, learnings, and ideas into Connect London this weekend, and a soon-to-be-announced Connect Brussels this spring. And [Rebekah Monson](https://twitter.com/rsm) will be in London this weekend to share insights from her media entrepreneurship experience, and to bring the lessons back to an upcoming Connect Miami.
 
-## Connect The Dots of a Global Movement
+## Connecting The Dots of a Global Movement
 Back in September, [I wrote about the “Why” and the “What” of Connect, and about an explicit objective to “connect the dots” of this global movement](https://medium.com/hacks-hackers-journalism-meets-technology/connecting-the-dots-of-a-global-movement-7730e8956205#.svlkzzlw0). After just two events, we’re already seeing many positive signs.
 
 ![Connect, now in Virtual Reality and 360 degrees!]({{site.baseurl}}/files/virtual_reality_at_connect_sf.jpg)
