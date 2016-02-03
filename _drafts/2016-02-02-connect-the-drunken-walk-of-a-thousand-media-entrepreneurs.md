@@ -1,20 +1,21 @@
 ---
 layout: post
 date: ""
-dek: ""
+dek: "How Hacks/Hackers Connect is using lessons from the lean startup movement to improve & scale"
 summary: ""
 category: coding
 tags: null
 img_opt: cover
-img_sml: ""
-img_med: ""
-img_lrg: ""
-img_xlg: ""
-img_alt: ""
-img_caption: ""
+img_sml: /files/connects_drunken_media_entrepreneurs.jpg
+img_med: /files/connects_drunken_media_entrepreneurs.jpg
+img_lrg: /files/connects_drunken_media_entrepreneurs.jpg
+img_xlg: /files/connects_drunken_media_entrepreneurs.jpg
+img_alt: "Our \"drunken media entrepreneurs\" at Connect"
+img_caption: "Our \"drunken media entrepreneurs\" at Connect. Photo by Karl Mondon"
 img_url: ""
 published: false
 title: "Connect: The Drunken Walk of a Thousand Media Entrepreneurs"
+crosspost_to_medium: "false"
 ---
 
 [Connect is the product of “lots and lots of experiments”](https://medium.com/hacks-hackers-journalism-meets-technology/connect-bringing-new-business-models-for-media-to-life-2068441d59e6#.fh9le4f2a) (to steal a phrase from our friend [Corey Ford at Matter Ventures](https://medium.com/hacks-hackers-journalism-meets-technology/bringing-it-together-for-tomorrow-s-media-entrepreneurs-with-matter-jsk-medill-more-9549c084dc7a#.s0zrwxayl)). In each city, we add new tests into the mix and then we watch what happens. What is validated as successful moves forward to the next event and becomes of part of the evolving Connect event format. That is our “drunken walk of the event convener.” The rest is up to you…
