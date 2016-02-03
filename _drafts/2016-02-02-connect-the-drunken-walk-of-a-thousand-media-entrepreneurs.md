@@ -1,7 +1,7 @@
 ---
 layout: post
 date: ""
-dek: "How Hacks/Hackers Connect is using lessons from the lean startup movement to improve & scale"
+dek: "How Hacks/Hackers Connect is using lessons from the Lean Startup movement to iterative, improve, and scale"
 summary: ""
 category: coding
 tags: null
@@ -14,7 +14,7 @@ img_alt: "Our \"drunken media entrepreneurs\" at Connect"
 img_caption: "Our \"drunken media entrepreneurs\" at Connect. Photo by Karl Mondon"
 img_url: ""
 published: false
-title: "Connect: The Drunken Walk of a Thousand Media Entrepreneurs"
+title: The Drunken Walk of a Thousand Media Entrepreneurs
 crosspost_to_medium: "false"
 ---
 
