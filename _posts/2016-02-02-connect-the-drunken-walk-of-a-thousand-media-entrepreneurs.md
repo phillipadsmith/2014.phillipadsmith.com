@@ -22,6 +22,7 @@ crosspost_to_medium: "true"
 ---
 
 
+
 [Connect is the product of “lots and lots of experiments”](https://medium.com/hacks-hackers-journalism-meets-technology/connect-bringing-new-business-models-for-media-to-life-2068441d59e6#.fh9le4f2a) (to steal a phrase from our friend [Corey Ford at Matter Ventures](https://medium.com/hacks-hackers-journalism-meets-technology/bringing-it-together-for-tomorrow-s-media-entrepreneurs-with-matter-jsk-medill-more-9549c084dc7a#.s0zrwxayl)). In each city, we add new tests into the mix and then we watch what happens. What is validated as successful moves forward to the next event and becomes of part of the evolving Connect event format. That is our “drunken walk of the event convener.” The rest is up to you…
 {: .lead}
 
@@ -32,7 +33,7 @@ At [Connect Berlin](http://connect.hackshackers.com/event/berlin/), we received 
 After the San Francisco event, we collected feedback again from participants, mentors, partners and demo presenters alike, and we’ve worked to integrate those learnings into the upcoming events in [London](http://connect.hackshackers.com/event/london/) and [NYC](http://connect.hackshackers.com/event/nyc/). This is how we iteratively find our “product-market fit,” in the lingo of the Lean Startup movement. We believe in the concept of “[dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)” as much as the next media entrepreneur.
 
 ## Spreading an Open-Source Idea 
-However, the objective of Connect’s experimentation is more aspirational than learning for the sake of learning. We are striving to develop a ruthlessly practical, wildly relevant, and  thoroughly-tested professional development experience for the Hacks/Hackers community at large. _And we are striving for that experience to be so compelling that spreads around the world._
+However, the objective of Connect’s experimentation is more aspirational than learning for the sake of learning. We are striving to develop a ruthlessly practical, wildly relevant, and  thoroughly-tested professional development experience for the Hacks/Hackers community at large. _And we are striving for that experience to be so compelling that it spreads around the world._
 
 Like the [40,000-strong global movement](http://hackshackers.com) itself — which quickly spread using a relatively simple formula and a great idea — we see each Connect event borrowing liberally from previous events, and sharing forward to future events. We think of it like an open-source project that can be cloned directly, or forked and adapted to a specific community — an ongoing project where pull requests are always welcome.
 
