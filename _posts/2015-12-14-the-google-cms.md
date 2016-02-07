@@ -5,7 +5,6 @@ title: The Google CMS
 dek: "Reinventing the newsroom content-management system: What would Google do?"
 summary: ""
 category: commentary
-crosspost_to_medium: true
 tags: 
   - frontpage
   - google
