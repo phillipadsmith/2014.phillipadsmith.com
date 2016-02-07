@@ -1,6 +1,7 @@
 ---
 layout: post
 date: "2016-02-03 09:00:00"
+title: The Drunken Walk of a Thousand Media Entrepreneurs
 dek: "How Hacks/Hackers Connect is using lessons from the Lean Startup movement to learn, improve, and scale"
 summary: ""
 category: convening
@@ -17,8 +18,6 @@ img_alt: "Our \"drunken media entrepreneurs\" at Connect"
 img_caption: "Our \"drunken media entrepreneurs\" at Connect. Photo by Karl Mondon"
 img_url: ""
 published: true
-title: The Drunken Walk of a Thousand Media Entrepreneurs
-crosspost_to_medium: "true"
 ---
 
 
