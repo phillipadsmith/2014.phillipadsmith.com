@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ""
+date: "2016-02-01 00:00:01"
 dek: ""
 summary: ""
 category: coding
