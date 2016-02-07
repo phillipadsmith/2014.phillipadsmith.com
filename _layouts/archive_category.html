@@ -4,8 +4,9 @@ layout: archive
 {% include module_avatar_plus_bio_short.html %}
 <div class="container category-archive ">
     <div class="section">
+{% capture category_slug %}{{ page.title | downcase }}{% endcapture %}
 {% for category in site.data.categories %}
-    {% if category.name == page.title %}
+    {% if category.name == category_slug %}
     <header>
         <hgroup>
             <h1 class="title">{{ category.heading }}</h1>
