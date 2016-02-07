@@ -28,6 +28,11 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/:name/'
 
+# Collections
+collections:
+  projects:
+    output: true
+
 # excerpt_separator: "\n\n" TODO Fix excepts on old posts
 permalink: /:year/:month/:title.html
 exclude: 
@@ -52,11 +57,11 @@ embedly:
 img_lrg: '/ui/img/phillipadsmith-500x500.jpg'
 
 # Crosspost to Medium
-#jekyll-crosspost_to_medium:
-  #enabled: false
-  #cache: .jekyll-crosspost_to_medium
-  #status: draft
-  #text: '<p><i><a href="{{ url }}" rel="canonical">First published on phillipadsmith.com</a>.</i></p>'
+jekyll-crosspost_to_medium:
+  enabled: false
+  cache: .jekyll-crosspost_to_medium
+  status: draft
+  text: '<p><i><a href="{{ url }}" rel="canonical">First published on phillipadsmith.com</a>.</i></p>'
   #license: all-rights-reserved | cc-40-by | cc-40-by-sa | cc-40-by-nd | cc-40-by-nc | cc-40-by-nc-nd | cc-40-by-nc-sa | cc-40-zero | public-domain
 
 prose:

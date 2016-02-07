@@ -20,7 +20,6 @@ img_xlg: /files/Accelerated_Mobile_Pages_Project.png
 img_alt: ""
 img_caption: ""
 img_url: ""
-crosspost_to_medium: true
 ---
 
 

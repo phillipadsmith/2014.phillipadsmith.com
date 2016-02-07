@@ -1,6 +1,7 @@
 ---
 layout: post
 date: "2015-12-14 9:00:00"
+title: The Google CMS
 dek: "Reinventing the newsroom content-management system: What would Google do?"
 summary: ""
 category: commentary
@@ -19,7 +20,6 @@ img_xlg: "/files/the_google_cms_xlg.jpg"
 img_alt: ""
 img_caption: ""
 img_url: ""
-title: The Google CMS
 ---
 Many newsrooms already rely on Google Sheets, Docs, Maps, and Tables to power an increasing array of news interactives and micro sites. The business side of publishing has long relied on products like DoubleClick for Publishers, AdSense, Analytics and First Click Free. As new [products for monetization][consumersurveys] and [speed][amp] are introduced, it begs the question: why not go all the way and reinvent the CMS?
 {: .lead}
