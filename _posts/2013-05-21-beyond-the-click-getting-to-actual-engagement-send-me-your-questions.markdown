@@ -5,7 +5,7 @@ dek:
 summary:         # 140 characters or less!
 date: '2013-05-21 14:38:56 -0500'
 mt_id: 2914
-category: Convening
+category: convening
 tags: 
 - frontpage
 - journalism
