@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'octopress', '~> 3.0'
 gem 'jekyll', '~> 3.0' 
 gem 'jekyll-archives', '~> 2.1.0'
 gem 'jekyll-feed'
