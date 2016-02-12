@@ -24,7 +24,7 @@ mt_id: 1774
 
 <p>I've been a member of my self-prescribed slow e-mail movement for six months now. I was always a bit slow on the e-mail, but the guideline to respond less, in addition to checking it less, is what made all the difference. Now, I'm usually able to glide through a day without worrying too much about the inbox, and <em>mostly</em> focused on the work that my clients are paying me for.</p>
 
-<p>Why do it? Well, for me, it's all about the promise I've made to my clients to go above-and-beyond -- and this is the program that helps me deliver that commitment. I needed a way to clear my mental space for "real work<sup><small>TM</sup></small>," which is usually activities involving at least 3-hours of distraction-free application of my mental energy and full attention. This is the secret for how I can consistently get into the "[flow](http://en.wikipedia.org/wiki/Flow_(psychology)."</p>
+<p>Why do it? Well, for me, it's all about the promise I've made to my clients to go above-and-beyond -- and this is the program that helps me deliver that commitment. I needed a way to clear my mental space for "real work<small><sup>TM</sup></small>," which is usually activities involving at least 3-hours of distraction-free application of my mental energy and full attention. This is the secret for how I can consistently get into the "<a href="http://en.wikipedia.org/wiki/Flow_(psychology">flow</a>"</p>
 
 <p>There are some other great side benefits of the slow e-mail movement:</p>
 
