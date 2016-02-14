@@ -5,9 +5,6 @@ layout: default
         <script>
             // This is defined in the head include
             // var disqus_shortname  = 'phillipadsmith';
-            var disqus_title      = "{{ page.title }}"
-            var disqus_url        = '{{ site.url }}{{ page.url }}';
-            var disqus_identifier = '{{ page.id }}';
             // This is initialized in the head include
             img_opt = '{{ page.img_opt }}';
             var img_sml = '{{ page.img_sml }}';
@@ -52,7 +49,7 @@ layout: default
                         <h2 class="dek">{{ page.dek }}</h2>
                         {% endif %}
                     </hgroup>
-                <p class="post-meta">{{ page.date | date_to_string }}<span class="pipe">&nbsp;|&nbsp;</span><a href="#disqus_thread" data-toggle="collapse" data-target="#comments">No comments yet</a>
+                    <p class="post-meta">{{ page.date | date_to_string }}<span class="pipe">&nbsp;|&nbsp;</span><a href="#disqus_thread" data-toggle="collapse" data-target="#comments" data-disqus-identifier="{{ page.id }}">No comments yet</a>
                 <span class="google-authorship">By <a href="https://plus.google.com/u/0/+PhillipSmithGPLUS?rel=author">{{ site.author }}</a></span>
                 </p>
                 <!-- only show this if there's a cover image -->
