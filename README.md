@@ -17,7 +17,7 @@ I've been blogging (irregularly) since about 2001. I started with [Greymatter](h
 * [x] ~~Re-enable mod_pagespeed for this site~~
 * [x] Upgrade Jekyll to take advantage of faster regeneration, etc.
 * [ ] Projects section
-* [ ] Link posts
+* [x] Link posts
 * [ ] Tag listing page?
 * [ ] Responsive image generation: automatically generate the various sizes if not provided in the front matter
 * [ ] Start migrating posts from the old Community Bandwidth site (circa 2003)
