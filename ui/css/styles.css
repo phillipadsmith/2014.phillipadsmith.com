@@ -166,6 +166,21 @@ footer p a:hover {
   font-weight: 300;
   font-style: normal;
 }
+/* module notification */
+#notification-bar span {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#notification-bar p {
+  margin: 0px;
+  color: white;
+  font-family: "Open Sans";
+  font-size: 14px;
+  padding: 2px 0px 2px 0px;
+}
+#notification-bar a:link {
+  color: white;
+}
 /* module img_cover */
 .img_cover h1,
 .img_cover h2.dek,
@@ -288,6 +303,11 @@ div.noimage hgroup {
 }
 @media screen and (min-width: 768px) and (max-width: 992px) {
   /* portrait tablets */
+}
+/* Module: notification bar */
+#notification-bar {
+  background: black;
+  border-bottom: 1px solid #333;
 }
 /* Module: front page */
 body.frontpage h1 a:link,
