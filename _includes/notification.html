@@ -1,0 +1,11 @@
+        {% for post in site.posts | limit: 1 %}
+        {% if page.date < post.date %}
+<div id="notification-bar">
+    <div class="container">
+        <div class="section">
+            <p><span class="latest-post">{{ post.date | date: "%h %d, %Y" }}: </span> <a title="{{ post.dek }}" href="{{ post.url }}">{{ post.title }}</a></p>
+        </div>
+    </div>
+</div>
+        {% endif %}
+        {% endfor %}
