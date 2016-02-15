@@ -4,9 +4,16 @@ var minWinHeight = '400';
 
 // Functions
 function resizeCoverImageDiv(height) {
+    var notification = $('#notification-bar');
     var h = height;
     if (h >= minWinHeight) {
         h = height;
+        if ( notification.length > 0 ) {
+            console.log( notification );
+            // Less height with the bar
+            // TODO fix this yuck
+            h = h - 30;
+        }
     } else {
         h = minWinHeight;
     }
