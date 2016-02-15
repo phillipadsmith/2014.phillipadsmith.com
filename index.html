@@ -12,7 +12,8 @@ body:
 - frontpage
 ---
 {% for page in site.tags.frontpage %}
-  {% if forloop.first %}
+    {% if forloop.first %}
+        {% include notification.html %}
         <article  itemscope itemtype="http://schema.org/BlogPosting">
         <script>
             // This is defined in the head include
