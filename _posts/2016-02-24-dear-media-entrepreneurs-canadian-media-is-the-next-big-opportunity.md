@@ -74,8 +74,7 @@ I look forward to a near future where my friends and colleagues in the Canadian 
 
 Questions, comments, shameless plugs or rants? [Find me on Twitter](http://twitter.com/phillipadsmith).
 
-[^1]:[Sun Media axes 11 newspapers, 360 jobs
-](http://www.cbc.ca/news/business/sun-media-axes-11-newspapers-360-jobs-1.1385447)
+[^1]:[Sun Media axes 11 newspapers, 360 jobs](http://www.cbc.ca/news/business/sun-media-axes-11-newspapers-360-jobs-1.1385447)
 [^2]:[Canadian Pulitzer Prize-winning journalist Paul Watson welcomes newsroom closures and layoffs](http://www.cbc.ca/radio/the180/journalistic-darwinism-establishing-ties-with-north-korea-and-alison-sydor-1.3434009/canadian-pulitzer-prize-winning-journalist-paul-watson-welcomes-newsroom-closures-and-layoffs-1.3434048)
 [^6]:[Postmedia’s promises prove practically worthless](http://blog.wan-ifra.org/2016/02/10/postmedia-s-promises-prove-practically-worthless)
 [^3]:[The Ottawa Citizen died yesterday](http://warrenkinsella.com/2016/02/the-ottawa-citizen-with-a-whimper-not-a-bang/)
