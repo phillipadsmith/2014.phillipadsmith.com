@@ -55,10 +55,10 @@ Today — when I’m not in [The Tyee’s](http://thetyee.ca) newsroom trying to
 
 Since June this year, Connect been part of conversations about the “future of information, news, and media” in Berlin, San Francisco, and London. [This week, we are taking that conversation to New York](http://connect.hackshackers.com/event/nyc/). And we’ve recently confirmed dates for [Austin](http://connect.hackshackers.com/event/austin/), [Brussels](http://connect.hackshackers.com/event/brussels/), and Miami.
 
-TK: These events are TK, TK, and TK.
+Connect events are trying to build a culture of experimentation and a community of innovators; the kind of experimentation and culture of innovation that is so needed in Canada right now.
 
 ## Oh Canada? 
-Canada is noticeably absent from the list of cities that Connect is visiting, as it is absent from many lists that are making a difference in the global media conversation. 
+Canada is noticeably absent from the list of cities that Connect is visiting, however, as it is absent from many lists that are making a difference in the global media conversation. 
 
 There are few, if any, notable Knight Foundation investments in Canadian experiments. The Open News program has also passed Canada over for five years in a row, even though the Mozilla Foundation is mostly based in Canada. And the last time that the Online News Association — one of the world’s largest gatherings of people thinking about these questions — held its conference in Canada was almost a decade a go.
 
@@ -72,17 +72,15 @@ That is the kind of conversation that we’re convening at [Connect events acros
 
 I look forward to a near future where my friends and colleagues in the Canadian media community have shed the desperation and embraced inspiration enough to put Canada back on the map.
 
-TK
+Questions, comments, shameless plugs or rants? [Find me on Twitter](http://twitter.com/phillipadsmith).
 
-
-[^1]:http://www.cbc.ca/news/business/sun-media-axes-11-newspapers-360-jobs-1.1385447
-[^2]:http://www.cbc.ca/radio/the180/journalistic-darwinism-establishing-ties-with-north-korea-and-alison-sydor-1.3434009/canadian-pulitzer-prize-winning-journalist-paul-watson-welcomes-newsroom-closures-and-layoffs-1.3434048
-[^6]:http://blog.wan-ifra.org/2016/02/10/postmedia-s-promises-prove-practically-worthless
-[^3]:http://warrenkinsella.com/2016/02/the-ottawa-citizen-with-a-whimper-not-a-bang/
-[^4]:http://www.theglobeandmail.com/report-on-business/rogers-media-to-cut-200-jobs-across-tv-radio-publishing-divisions/article28371743/
-[^5]:http://www.huffingtonpost.ca/2016/02/09/canadian-business-magazine-rogers-may-shut-down_n_9197262.html
-
-
-[^10]:http://ipolitics.ca/2016/02/02/will-the-last-working-journalist-in-canada-please-turn-the-lights-out/
-[^11]:http://www.thestar.com/business/2016/01/29/bleak-times-for-local-journalism-in-canada.html
+[^1]:[Sun Media axes 11 newspapers, 360 jobs
+](http://www.cbc.ca/news/business/sun-media-axes-11-newspapers-360-jobs-1.1385447)
+[^2]:[Canadian Pulitzer Prize-winning journalist Paul Watson welcomes newsroom closures and layoffs](http://www.cbc.ca/radio/the180/journalistic-darwinism-establishing-ties-with-north-korea-and-alison-sydor-1.3434009/canadian-pulitzer-prize-winning-journalist-paul-watson-welcomes-newsroom-closures-and-layoffs-1.3434048)
+[^6]:[Postmedia’s promises prove practically worthless](http://blog.wan-ifra.org/2016/02/10/postmedia-s-promises-prove-practically-worthless)
+[^3]:[The Ottawa Citizen died yesterday](http://warrenkinsella.com/2016/02/the-ottawa-citizen-with-a-whimper-not-a-bang/)
+[^4]:[Rogers Media to cut 200 jobs across TV, radio, publishing divisions](http://www.theglobeandmail.com/report-on-business/rogers-media-to-cut-200-jobs-across-tv-radio-publishing-divisions/article28371743/)
+[^5]:[Canadian Business May Be Shut Down: Sources](http://www.huffingtonpost.ca/2016/02/09/canadian-business-magazine-rogers-may-shut-down_n_9197262.html)
+[^10]:[Will the last working journalist in Canada please turn the lights out?](http://ipolitics.ca/2016/02/02/will-the-last-working-journalist-in-canada-please-turn-the-lights-out/)
+[^11]:[Bleak times for local journalism in Canada](http://www.thestar.com/business/2016/01/29/bleak-times-for-local-journalism-in-canada.html)
 [^20]: Full disclosure, I have an ongoing work relationship with The Tyee.
