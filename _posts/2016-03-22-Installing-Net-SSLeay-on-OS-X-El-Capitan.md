@@ -26,9 +26,9 @@ img_url: ""
 
 [Installing Net::SSLeay on OS X El Capitan](https://medium.com/@deepak.gulati/installing-net-ssleay-on-os-x-el-capitan-446c40cffeba#.9oyy7w1m2)
 
-> On OS X El Capitan (10.11.1), building Net::SSLeay fails with the following error:
-> SSLeay.xs:163:10: fatal error: ‘openssl/err.h’ file not found
-> #include <openssl/err.h>
+> On OS X El Capitan (10.11.1), building Net::SSLeay fails with the following error:<br />
+> SSLeay.xs:163:10: fatal error: ‘openssl/err.h’ file not found<br />
+> #include <openssl/err.h><br />
 > The problem is that Apple no longer ships openssl headers
 
 Hit this super-annoying issue today.
@@ -36,6 +36,7 @@ Hit this super-annoying issue today.
 Contrary to this fellow's post, the right solution is simply to install the OpenSSL libraries with Homebrew:
 
 `brew install openssl`
+
 `brew link openssl --force`
 
 Then Net::SSLeay can be successfully installed using `cpanm Net::SSLeay`.
