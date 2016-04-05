@@ -16,7 +16,7 @@ img_xlg: /files/lotus.jpg
 img_alt: ""
 img_caption: ""
 img_url: ""
-published: false
+published: true
 title: 10+ books to free your mind
 ---
 
