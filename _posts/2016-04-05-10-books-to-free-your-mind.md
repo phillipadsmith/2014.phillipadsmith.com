@@ -1,6 +1,6 @@
 ---
 layout: post
-date: ""
+date: "2016-04-05 6:00:00"
 dek: "I asked my friends for recommendations, and this is what they said."
 summary: ""
 crosspost_to_medium: "false"
