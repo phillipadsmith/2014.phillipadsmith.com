@@ -20,6 +20,7 @@ published: true
 title: 10+ books to free your mind
 ---
 
+
 This year, I’m taking a one-time experiment in personal reflection and turning it into an annual tradition. Here’s the general idea: in the weeks leading up to my birthday, I give up some distractions and work to deepen my daily contemplations. If all goes well, enlightenment will be mine!
 {: .lead}
 
@@ -32,7 +33,7 @@ Given that I tend to end up with a bit more time on my hands during this period,
 * [The Joy of Living: Unlocking the Secret and Science of Happiness](http://amzn.to/1Y9Fglx) by Yongey Mingyur Rinpoche (recommended by Ana Paula)
 * [An Imaginary Life](http://amzn.to/25FteGa) by David Malouf (recommended by Carlyn)
 * [Siddhartha](http://amzn.to/25FthSz) by Hermann Hesse (already read it, yet a great recommendation by Lisa)
-* [All the Single Ladies: Unmarried Women and the Rise of an Independent Nation](http://amzn.to/233WVC8) by Rebecca Traitor (not sure what Yvonne was trying to tell me with this recommendation?) 
+* [All the Single Ladies: Unmarried Women and the Rise of an Independent Nation](http://amzn.to/233WVC8) by Rebecca Traister (not sure what Yvonne was trying to tell me with this recommendation?) 
 * [Middlemarch](http://amzn.to/1Y9FsBc) by George Eliot (already read it, yet great recommendation by Alexandra)
 * [The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century’s On-line Pioneers](http://amzn.to/1qibYqq) by Tom Standee (recommended by Rolf)
 * [On Love: A Novel](http://amzn.to/1Y9FxF3) by Alain de Botton (another from Rolf)
@@ -46,4 +47,4 @@ If there was a Kindle option available, I downloaded the sample and I’ve start
 
 If you’ve got a recommendation to add, drop me a note on [Twitter](http://twitter.com/phillipadsmith) or here in the comments.
 
-See you on the other side. 
+See you on the other side.
