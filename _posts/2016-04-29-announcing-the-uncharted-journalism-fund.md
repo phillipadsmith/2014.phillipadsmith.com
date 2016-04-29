@@ -70,4 +70,4 @@ Questions, comments, shameless plugs or rants? Leave a comment here, or find me 
 
 [^2]: We’ll meet once every three months, both to lighten the administrative load and increase the grant size to a level that can adequately fund a small project.
 
-[^3]: I hate to use a contact form -- so impersonal! -- but this elliminates the risk of missing an important e-mail from you!
+[^3]: I hate to use a contact form -- so impersonal! -- but this eliminates the risk of missing an important e-mail from you!
