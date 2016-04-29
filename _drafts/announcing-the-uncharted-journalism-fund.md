@@ -28,7 +28,7 @@ There is still much to finalize, and yet the basic idea is quite simple: a new p
 
 Where does the money come from, you ask? It comes directly from a “board of trustees” — [roughly ten individuals](TK) who commit to support the fund financially for a year (at the somewhat-accessible level of $100/month per trustee). These individuals will meet in person every three months, review the proposals, and select a project to fund.
 
-If you do the math, you’ll see that this will generate approximately $12,000 annually to invest. I may not seem like much at first, and yet I’ve worked with publications over the years that have had smaller editorial budgets than that! The point is: it’s a start.
+If you do the math, you’ll see that this will generate approximately $12,000 annually to invest. It may not seem like much at first, and yet I’ve worked with publications over the years that have had smaller editorial budgets than that! The point is: it’s a start.
 
 The aspirational goal is to provide approximately 4-5 grants in the first year for amounts ranging from $2000 to $3000. The grants will go directly to individuals who propose bold, uncharted ideas for experimental journalism undertakings. For now, the fund will be focused on British Columbia’s Lower Mainland[^1].
 
@@ -36,11 +36,11 @@ The aspirational goal is to provide approximately 4-5 grants in the first year f
 
 If this funding model sounds familiar, it is because it was brazenly taken from the shoulders of giants: specifically, the [Awesome Foundation](http://www.awesomefoundation.org) and [Awesome Journalism](http://www.awesomefoundation.org/en/chapters/journalism). Haven’t heard of the Awesome Foundation? It’s an ever-growing worldwide community devoted to forwarding the interest of awesome in the universe. And what could be more awesome than that?
 
-Five years ago — thanks to very astute friends in Toronto and a chance meeting with [Tim Hwang](http://timhwang.org/projects) in Boston that involved a lost Moleskin notebook — I became a founding trustee of the [Awesome Foundation Toronto](http://www.thestar.com/news/gta/2011/01/26/awesome_foundation_offers_cash_for_crazy_ideas.html), and [the impact we had](http://torontolife.com/tag/awesome-foundation/) with this small undertaking of citizen-powered action has stuck with me ever since… yet the idea of applying this idea to Canada’s journalism crisis didn’t cross my mind until a few weeks ago.
+Five years ago — thanks to some very astute friends and a chance meeting with [Tim Hwang](http://timhwang.org/projects) in Boston that involved a lost Moleskin notebook — I became a founding trustee of the [Awesome Foundation Toronto](http://www.thestar.com/news/gta/2011/01/26/awesome_foundation_offers_cash_for_crazy_ideas.html), and [the impact we had](http://torontolife.com/tag/awesome-foundation/) with this small undertaking of citizen-powered action has stuck with me ever since… yet the idea of applying this idea to Canada’s journalism crisis didn’t cross my mind until a few weeks ago.
 
 And while the Awesome Foundation is most certainly awesome, several conversations lead me to believe it was not quite the right model to achieve the outcomes I had in mind, specifically sizeable undertakings that explore new ways to tell stories and experiment with new approaches to informing people about the world around them. For that, I believe the grants need to be larger, given out less frequently, and chosen with an eye for the uncharted waters of tomorrow’s journalism.
 
-# Example of uncharted journalism
+# Examples of uncharted journalism
 
 This section is TK tomorrow.
 
