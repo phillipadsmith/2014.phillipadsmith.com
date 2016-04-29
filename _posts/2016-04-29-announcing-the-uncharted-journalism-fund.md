@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Announcing the Uncharted Journalism Fund"
+date: 2016-04-29T08:25:22-07:00
 dek: Collective citizen action to advance adventurous reporting
 summary: null
 img_opt: cover
