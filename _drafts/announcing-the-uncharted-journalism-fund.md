@@ -11,7 +11,7 @@ img_xlg: /files/uncharted-journalism-fund.jpg
 img_alt: ""
 img_caption: ""
 img_url: ""
-category: coding
+category: covering
 tags: 
   - frontpage
 ---
