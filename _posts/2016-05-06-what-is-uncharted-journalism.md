@@ -26,7 +26,7 @@ Finding an answer to this question is complicated by the fact that something “
 
 Looking back, however, it is possible for us today to point to reporting that was embarked upon at the time without a clear sense of what the outcome would be, or if it was even possible to accomplish. The projects mentioned below speak to the ethos of uncharted journalism, and represent some of the most ambitious efforts that have been seen to date in each field.
 
-By no means would it be feasible to expect that the [small investments made by the Uncharted Journalism Fund]((http://phillipadsmith.com/2016/04/announcing-the-uncharted-journalism-fund.html) would result in such monumental leaps forward, but each of these projects needed to start _somewhere_ — possibly, just with the seed of an idea that needed to be tested — and that kind of germination is what I believe this fund can help to nurture.
+By no means would it be feasible to expect that the [small investments made by the Uncharted Journalism Fund](http://phillipadsmith.com/2016/04/announcing-the-uncharted-journalism-fund.html) would result in such monumental leaps forward, but each of these projects needed to start _somewhere_ — possibly, just with the seed of an idea that needed to be tested — and that kind of germination is what I believe this fund can help to nurture.
 
 ## Reporting that explores new territory
 
