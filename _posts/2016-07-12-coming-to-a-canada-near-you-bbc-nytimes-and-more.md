@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coming to a Canada near you: BBC, NYTimes & more..."
+date: 2016-07-12T09:47:33-07:00
 dek: Why do foreign news outlets see opportunity in a land where Canadian publishers seem on the brink of imminent collapse?
 summary: null
 img_opt: cover
