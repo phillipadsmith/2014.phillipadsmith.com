@@ -22,7 +22,7 @@ tags:
   - media
 ---
 
-It's a question that many people working in Canada's media ecosystem must be asking this month. Are foreign publishers simply naive? How can they see an opportunity in a Country [where the entire news sector appears to be downsizing rapidly](http://phillipadsmith.com/2016/02/dear-media-entrepreneurs-canadian-media-is-the-next-big-opportunity.html)? Or is the _very_ opportunity they see to step in just as the existing institutions collapse -- potentially winning over an affluent, English-speaking audience, while keeping foreign news production costs relatively low?
+It's a question that many people working in Canada's media ecosystem must be asking this month: Are foreign publishers simply naive? How can they see an opportunity in a country [where the entire news sector appears to be downsizing rapidly](http://phillipadsmith.com/2016/02/dear-media-entrepreneurs-canadian-media-is-the-next-big-opportunity.html)? Or is the _very_ opportunity they see to step in just as the existing institutions collapse -- potentially winning over an affluent, English-speaking audience, while keeping foreign news production costs relatively low?
 {: .lead }
 
 In case you missed the memo: The [BBC recently announced investments to expand their market in Canada](http://www.bbc.co.uk/mediacentre/worldnews/2016/bbc-news-announces-new-investments-in-canada). The Beeb will be opening an editorial office in Toronto, and plans to launch a a Canadian version of BBC.com.
