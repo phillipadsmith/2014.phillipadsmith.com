@@ -45,7 +45,7 @@ So here are the questions on my mind:
 
 These questions about the Canadian audience -- the challenges and opportunities of serving an audience of this size, _and_ being successful as a publisher -- are going to be at the centre of the [Connect Toronto event](http://connect.hackshackers.com/event/toronto/) this September.
 
-To get fresh perspectives, we've asked people spearheading NYT Global to come and share their perspectives, and we'll be reaching out to the BBC and Guardian in the coming weeks.
+To get fresh perspectives, we've asked people spearheading NYT Global to come and share their learnings, and we'll be reaching out to the BBC and Guardian in the coming weeks.
 
 [Connect Toronto](http://connect.hackshackers.com/event/toronto/), September 23 & 24 at the Centre for Social Innovation, is shaping up to be a landmark conversation about the future of Canada's media ecosystem. **Don't miss it.**
 
