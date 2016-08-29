@@ -3,6 +3,29 @@ layout: post
 crosspost_to_medium: 'false'
 published: false
 title: 'The answer you’ve been looking for: How to find-and keep-love'
+dek: >-
+  Attached: The New Science of Adult Attachment and How It Can Help You Find-and
+  Keep-Love
+date: '2016-08-07 00:00:00'
+summary: >-
+  Book review for Attached: The New Science of Adult Attachment and How It Can
+  Help You Find-and Keep-Love
+category: covering
+tags:
+  - relationships
+  - love
+  - attachment
+img_opt: inline
+img_sml: /files/Attached.jpg
+img_med: /files/Attached.jpg
+img_lrg: /files/Attached.jpg
+img_xlg: /files/Attached.jpg
+img_alt: >-
+  Attached: The New Science of Adult Attachment and How It Can Help You Find-and
+  Keep-Love
+img_caption: >-
+  Attached: The New Science of Adult Attachment and How It Can Help You Find-and
+  Keep-Love
 ---
 > All happiness or unhappiness solely depends upon the quality of the object to which we are attached by love.
 
