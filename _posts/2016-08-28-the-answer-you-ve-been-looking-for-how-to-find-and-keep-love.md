@@ -1,7 +1,7 @@
 ---
 layout: post
 crosspost_to_medium: 'false'
-published: false
+published: true
 title: 'The answer you’ve been looking for: How to find-and keep-love'
 dek: >-
   Attached: The New Science of Adult Attachment and How It Can Help You Find-and
