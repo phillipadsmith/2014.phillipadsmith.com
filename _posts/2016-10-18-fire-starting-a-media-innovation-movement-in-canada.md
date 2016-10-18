@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fire starting a media innovation movement in Canada"
+date: 2016-10-18T10:02:59-07:00
 dek: Hacks/Hackers Connect landed in Toronto last month, here's what happened...
 summary: null
 img_opt: cover
