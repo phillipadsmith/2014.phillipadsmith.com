@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Look into the fuss about fake news and you’ll see a view into journalism’s future"
-date: '2017-01-02 11:10:00'
+date: '2017-01-02 08:10:00'
 dek: How individual journalists can "go direct" and rebuild trust one story at a time.
 summary: null
 img_opt: cover
