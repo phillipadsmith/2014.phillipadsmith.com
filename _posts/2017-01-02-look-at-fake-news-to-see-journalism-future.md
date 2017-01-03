@@ -29,7 +29,7 @@ The first shift is fairly obvious. News consumers are "snacking" on stories -- e
 
 I think that the "news packages" of tomorrow look more like information triangulation around a broad theme or issue -- ongoing beat reporting, in essence -- and less like the “Snowfall” news packages that we saw in recent years. I believe you can see this clearly in the work of Mic.com, Quartz, and many others. Sitting down to a “meal” of news, whether that’s reading the paper from front-to-back or enjoying a high production value news package online, is becoming a rich person’s hobby.
 
-This shift is important, because it starts to level the playing field between independent news producers, smaller newsrooms, and news collectives -- and the larger newsrooms that have a greater capacity for (as well as addiction to, and obsession with) producing large news packages. The wave of fake news hustlers in Macedonia have shown the world that it’s possible to find an audience, grow that audience, give the audience what they want, and -- most importantly -- how to succeed financially as an independent news producer.
+This shift is important, because it starts to level the playing field between independent news producers, smaller newsrooms, and news collectives -- and the larger newsrooms that have a greater capacity for (as well as addiction to, and obsession with) producing large news packages. [The wave of fake news hustlers in Macedonia](https://www.buzzfeed.com/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo) have shown the world that it’s possible to find an audience, grow that audience, give the audience what they want, and -- most importantly -- how to succeed financially as an independent news producer.
 
 ## From news brands to new voices
 
@@ -51,11 +51,11 @@ To put it simply, here’s the opportunity that I believe the fake news phenomen
 
 All but the largest news brands are crumbling around us. This presents an enormous opportunity for individual journalists with passion and commitment to finding their audience and "go direct." Trust needs to be rebuilt from the ground up, one story at a time.
 
-Going deep on a single beat, putting out consistently well-reported content, giving it to the audience in the format they want -- short, snappy, snackable, skimmable, and shareable pieces -- and optimizing that content for a platform like Facebook is both a path to audience growth and securing revenue. No need to move to Macedonia, it can be done from anywhere.
+Going deep on a single beat, putting out consistently well-reported content, giving it to the audience in the format they want -- short, snappy, snackable, skimmable, and shareable pieces -- and optimizing that content for a platform like Facebook is both a path to audience growth and securing revenue. [No need to move to the Georgia](http://www.nytimes.com/2016/11/25/world/europe/fake-news-donald-trump-hillary-clinton-georgia.html), it can be done from anywhere.
 
 There is more than one way to generate income as a reporter and selling your stories to traditional news sources is becoming the path of "most effort, least return." As budgets get cut, and editorial mandates shift toward opinion (free) and entertainment (eyeballs), less “real news” pitches are going to be successful. 
 
-Fear not, because those trusted sources are becoming less important in terms of readers’ trust, and in terms of distribution. If you can shed this addiction and learn from the news hustlers of Macedonia, you’ll find there are more ways to survive and thrive covering what you’re passionate about.
+Fear not, because those trusted sources are becoming less important in terms of readers’ trust, and in terms of distribution. If you can shed this addiction and learn from fake news hustlers, you’ll find there are more ways to survive and thrive covering what you’re passionate about.
 
 [My aspiration this year is to help passionate reporters focused on accountability journalism to find their way to financial viability](http://phillipadsmith.com/2016/12/making-accountability-reporting-journalism-financially-viable.html). If you’re ready to wean yourself off of an addition to freelance pitches to the established news brands, [let’s talk](http://phillipadsmith.com/about/#contact).
 
