@@ -25,7 +25,7 @@ In the days following the election, I received a loving, yet firm critique of my
 
 Shortly thereafter I received some less loving, and more direct feedback from a colleague. It was full of anxiety for the state of the world and outrage that I did not expect -- this person’s fear about what had just happened was *palpable*.
 
-This theme of fear started to appear everywhere. I noticed it in conversations with close friends ([or tweet streams in one case](https://twitter.com/cblatts/status/796358460665462784)). I recognized it on calls with [work colleagues in the U.S](http://beautifultrouble.org/). I felt it manifest as tension at family dinners. Many people that I cared about were in shock about what happened in the U.S., just eight short weeks ago. There is a lot of fear about the future, especially, as my friend pointed out, for the people who have to bare the brunt of hate crimes in the U.S.
+This theme of fear started to appear everywhere. I noticed it in conversations with close friends ([or tweet streams in one case](https://twitter.com/cblatts/status/796358460665462784)). I recognized it on calls with [work colleagues in the U.S](http://beautifultrouble.org/). I felt it manifest as tension at family dinners. Many people that I cared about were in shock about what happened in the U.S. just eight short weeks ago. There is a lot of fear about the future, especially, as my friend pointed out, for the people who have to bare the brunt of hate crimes in the U.S.
 
 ## The awakening
 
