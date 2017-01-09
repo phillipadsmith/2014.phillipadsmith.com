@@ -65,8 +65,7 @@ category_archive:
     layout: archive_category
 fbadmins:
     - 511961152
-embedly:
-  api_key: cbf1fb1adfe34a3eac4cc7dd71f1b497
+
 img_lrg: '/ui/img/phillipadsmith-500x500.jpg'
 
 # Crosspost to Medium
