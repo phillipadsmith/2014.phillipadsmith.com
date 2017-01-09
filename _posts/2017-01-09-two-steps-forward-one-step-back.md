@@ -4,6 +4,7 @@ title: "Two steps forward, one step back"
 date: 2017-01-09T07:27:48-08:00
 dek: How can we stay the course in times of great fear?
 summary: 
+crosspost_to_medium: true
 img_opt: cover
 img_sml: /files/bt-sc22w-be-jake-hills.jpg
 img_med: /files/bt-sc22w-be-jake-hills.jpg
