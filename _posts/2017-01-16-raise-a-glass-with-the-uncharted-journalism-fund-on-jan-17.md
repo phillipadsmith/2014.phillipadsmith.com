@@ -14,7 +14,6 @@ img_caption: ""
 img_url: ""
 category: covening
 tags: 
-  - frontpage
   - uncharted
   - journalism
   - philanthropy
