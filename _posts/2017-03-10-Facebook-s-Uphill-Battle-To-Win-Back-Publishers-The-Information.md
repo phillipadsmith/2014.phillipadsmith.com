@@ -2,7 +2,7 @@
 layout: post
 title: "Facebook’s Uphill Battle To Win Back Publishers — The Information"
 date: 2017-03-10 07:49
-link: https://www.theinformation.com/facebooks-uphill-battle-to-win-back-publishers
+link: http://go.theinformation.com/PVsbawiooNo
 dek: ""
 summary: ""
 category: commentary
