@@ -15,7 +15,7 @@ img_lrg:
 img_alt: ""
 ---
 
-[Facebook’s Uphill Battle To Win Back Publishers — The Information](https://www.theinformation.com/facebooks-uphill-battle-to-win-back-publishers)
+[Facebook’s Uphill Battle To Win Back Publishers — The Information](http://go.theinformation.com/PVsbawiooNo)
 
 > Facebook is making various changes to Instant Articles, including improved data sharing and analytics and better tools for publishers to sign readers up for text alerts. But many publishers have already moved on to rival offerings from Apple and Google.
 
