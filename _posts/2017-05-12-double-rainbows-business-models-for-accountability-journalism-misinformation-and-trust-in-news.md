@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Double rainbows: business models for accountability journalism, misinformation & trust in news"
+title: "Double rainbows: business models for accountability journalism, plus misinformation & trust in news"
 date: '2017-05-12 00:00:00'
 dek: "One week, two fellowships: the adventure continues at Mozilla and JSK Stanford."
 img_opt: cover
