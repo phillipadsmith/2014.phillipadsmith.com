@@ -32,8 +32,6 @@ When I said "yes" to working on MisinfoCon, it felt like there was no time to wa
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/0Nqn3x3xFM4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 <p class="small">Three minute video recap from MisinfoCon.</p>
 </center>
-<br />
-
 
 That sense of urgency has only increased in the days, weeks -- and now months -- that followed. And, for me, these two challenges  -- business models for accountability journalism and trust in news -- are deeply interconnected. The only burning question was: *how was I going to continue to work on them both?*
 
