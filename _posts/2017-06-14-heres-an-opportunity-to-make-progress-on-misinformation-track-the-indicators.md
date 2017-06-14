@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Here’s an opportunity to make progress on misinformation: Track the indicators."
+title: "Here’s an opportunity to make progress on misinformation: track the indicators."
 dek: Mozilla’s Internet Health indicators give us a scorecard to use in the fight against misinformation
 date: '2017-06-13 09:00:00'
 published: true
