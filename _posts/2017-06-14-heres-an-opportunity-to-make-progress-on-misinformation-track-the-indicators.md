@@ -3,6 +3,7 @@ layout: post
 title: "Here’s an opportunity to make progress on misinformation: Track the indicators."
 dek: Mozilla’s Internet Health indicators give us a scorecard to use in the fight against misinformation
 date: '2017-06-14 09:00:00'
+published: true
 summary: 
 img_opt: inline
 img_sml: /files/internet-health-indicators-vs-misinformation.jpg
