@@ -63,4 +63,4 @@ Here’s are a few ways we can do that:
 
 Thanks for reading this far. If you’re passionate about making progress on solutions to misinformation, please say hello on [Twitter](https://twitter.com/phillipadsmith) or [LinkedIn](https://ca.linkedin.com/in/phillipadsmith) so that I can keep you updated on [upcoming events](https://hackshackers.github.io/misinfocon-event-calendar/), the latest research, Mozilla’s work in the space and more.
 
-[^1]: Full disclosure: I have [recently started a fellowship at Mozilla](http://phillipadsmith.com/2017/05/double-rainbows-business-models-for-accountability-journalism-misinformation-and-trust-in-news.html) focusing on media, misinformation & trust -- so I am a tad biased on this point.)
+[^1]: Full disclosure: I have [recently started a fellowship at Mozilla](http://phillipadsmith.com/2017/05/double-rainbows-business-models-for-accountability-journalism-misinformation-and-trust-in-news.html) focusing on media, misinformation & trust -- so I am a tad biased on this point.
