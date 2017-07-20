@@ -96,6 +96,6 @@ If you’ve made it this far, you’re probably passionately interested in worki
 
 Questions, comments, or insights on any of the above? [You can find me in all the usual online places](http://phillipadsmith.com/about/#contact) and say "hello."
 
-_**Thanks** to Matt Thompson, Katharina Borchert, and Chris Lawrence for reading drafts of this, to Mozilla for funding my fellowship work on media, misinformation & trust, and to all of the individuals who've so generously g their time to help me advance my understand of these complex issues (you know who you are)._
+_**Thanks** to Matt Thompson, Katharina Borchert, and Chris Lawrence for reading drafts of this, to Mozilla for funding my fellowship work on media, misinformation & trust, and to all of the individuals who've so generously gave their time to help me advance my understand of these complex issues (you know who you are)._
 
 
