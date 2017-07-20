@@ -2,7 +2,7 @@
 layout: post
 title: "Dear Internet, can we talk? We have an information pollution problem of epic proportions."
 date: 2017-07-20
-dek: The proliferation of digital disinformation is "the most pressing threat to global democracy," according to experts a recent industry event at Stanford
+dek: The proliferation of digital disinformation is "the most pressing threat to global democracy," according to experts at a recent industry event at Stanford
 summary: null
 img_opt: cover
 img_sml: /files/1280px-Water_pollution_0025.jpg
