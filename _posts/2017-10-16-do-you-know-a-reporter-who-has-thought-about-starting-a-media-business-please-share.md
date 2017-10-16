@@ -2,7 +2,7 @@
 layout: post
 title: "Do you know a reporter who has thought about starting a media business? Please share."
 date: 2017-10-16
-dek: I'm Looking for input on these four areas of investigation
+dek: I'm looking for input on these four areas of investigation
 summary: 
 img_opt: cover
 img_sml: /files/videojournalist-xlg.jpg
