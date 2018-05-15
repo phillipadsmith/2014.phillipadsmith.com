@@ -20,7 +20,7 @@ tags:
   - jskfellowship
 ---
 
-A colleague recently asked me a seemingly simple question: Would you mind sharing a recent reading list related to journalism, innovation and entrepreneurship?
+A colleague recently asked me a seemingly simple question: Would you mind sharing a recent reading list related to journalism innovation and entrepreneurship?
 {: .lead}
 
 "This should be easy!," I thought, given that I’ve spent the last nine months at one epicentre of journalism, innovation and entrepreneurship. Even more so because I’ve been focused on the very question of [how might we kickstart the journalism ecosystem of tomorrow](https://medium.com/jsk-class-of-2018/how-might-we-kickstart-the-journalism-ecosystem-of-tomorrow-615ae5efb9f3) and [what might be effective ways to inspire and support reporters to start a media business of their own](https://medium.com/@phillipadsmith/do-you-know-a-reporter-who-has-thought-about-starting-a-media-business-please-share-502c10a19148).
