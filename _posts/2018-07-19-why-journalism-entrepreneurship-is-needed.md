@@ -5,10 +5,10 @@ date: 2018-07-19T13:13:49-07:00
 dek: One of the fundamental information production and distribution systems on the planet is wildly broken. I believe we can fix it.
 summary: null
 img_opt: inline
-img_sml: /files/make-journalism-great-again.png
-img_med: /files/make-journalism-great-again.png
-img_lrg: /files/make-journalism-great-again.png
-img_xlg: /files/make-journalism-great-again.png
+img_sml: /files/957px-Michael_Mc_Nelis,_8_years_old,_a_newsboy._This_boy_has_just_recovered_from_his_second_attack_of_pneumonia._Was_found..._-_NARA_-_523323.jpg
+img_med: /files/957px-Michael_Mc_Nelis,_8_years_old,_a_newsboy._This_boy_has_just_recovered_from_his_second_attack_of_pneumonia._Was_found..._-_NARA_-_523323.jpg
+img_lrg: /files/957px-Michael_Mc_Nelis,_8_years_old,_a_newsboy._This_boy_has_just_recovered_from_his_second_attack_of_pneumonia._Was_found..._-_NARA_-_523323.jpg
+img_xlg: /files/957px-Michael_Mc_Nelis,_8_years_old,_a_newsboy._This_boy_has_just_recovered_from_his_second_attack_of_pneumonia._Was_found..._-_NARA_-_523323.jpg
 img_alt: ""
 img_caption: ""
 img_url: ""
