@@ -58,4 +58,4 @@ Last but not least are the countless initiatives that just keep on publishing gr
 
 Hopefully that’s a helpful start. I invite you to improve upon this list by sharing your own personal favourites in the comments, or by [dropping me a note in one of the usual place](http://phillipadsmith.com/about/#contact).
 
-Enjoyed this? Follow me on [Medium](https://medium.com/@phillipadsmith), [Twitter](https://twitter.com/phillipadsmith), or [sign-up for my newsletter](https://tinyletter.com/phillipadsmith) to get the next instalments.
+Enjoyed this? Follow me on [Medium](https://medium.com/@phillipadsmith), [Twitter](https://twitter.com/phillipadsmith), or [sign-up for my newsletter](http://phillipadsmith.com/dispatches) to get the next instalments.

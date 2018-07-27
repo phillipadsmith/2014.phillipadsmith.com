@@ -48,7 +48,7 @@ It’s going to be an epic year, and I hope you’ll consider being a part of th
 
 * And if you’re similarly obsessed with exploring the new technologies and business models that might support modern-day investigative journalism -- [shout loudly](http://phillipadsmith.com/about/#contact). I’d love to be in touch.
 
-And, if you just want to receive very infrequent updates on what’s going on, you can hop on my [TinyLetter mailing list](https://tinyletter.com/phillipadsmith) or [connect in the usual places](http://phillipadsmith.com/about/#contact).
+And, if you just want to receive very infrequent updates on what’s going on, you can hop on my [mailing list](http://phillipadsmith.com/dispatches) or [connect in the usual places](http://phillipadsmith.com/about/#contact).
 
 My deepest thanks to everyone -- friends, family, and colleagues around the world -- for your help in making this happen; I would not have found this laser-sharp focus, or dreamed of moon shots, without all of the gleaned wisdom, profound insights, and late-night debates.
 

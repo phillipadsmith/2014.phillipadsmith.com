@@ -302,7 +302,7 @@ Behind all of this, like any enterprise, there will need to be business-side con
 
 As always, I welcome your contributions in the comments below, or feel free to send them to me directly in [one of the usual places](http://phillipadsmith.com/about/#contact).
 
-Follow me on Medium, [Twitter](https://twitter.com/phillipadsmith), or [sign-up for my newsletter](https://tinyletter.com/phillipadsmith) to receive updates as this framework evolves.
+Follow me on Medium, [Twitter](https://twitter.com/phillipadsmith), or [sign-up for my newsletter](http://phillipadsmith.com/dispatches) to receive updates as this framework evolves.
 
 Many thanks in advance for your help on this,
 
