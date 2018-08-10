@@ -2,7 +2,7 @@
 layout: post
 title: "Judgement day for journalism: Will digital news startups be ready to face the challenge?"
 date: 2018-08-09T11:46:54-07:00
-dek: Signals that this new media ecosystem will rise to meet the needs of democracy
+dek: There are signals that this new media ecosystem will rise to meet the needs of our democracy
 summary: null
 img_opt: inline
 img_sml: /files/willian-justen-de-vasconcellos-685763-unsplash.jpg
@@ -40,17 +40,15 @@ When a 14-year veteran of the media industry like Brown talks about these trends
 
 And yet, that sentiment is often met with legitimate questions and some resistance from really smart people. Here’s a great example: 
 
-> I’m looking forward to you adding some substance to the wishful thinking - that’s not meant sarcastically- I’d love to know how these sentiments go beyond niche.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Im looking forward to you adding some substance to the wishful thinking - that’s not meant sarcastically- I’d love to know how these sentiments go beyond niche.</p>&mdash; Charlie Beckett (@CharlieBeckett) <a href="https://twitter.com/CharlieBeckett/status/1021898239321235457?ref_src=twsrc%5Etfw">July 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[https://twitter.com/CharlieBeckett/status/1021898239321235457](https://twitter.com/CharlieBeckett/status/1021898239321235457)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I don’t want to sound hostile because I’m not - quite the opposite - but you say the current model is broken - I’d agree - but not sure how something like Der Correspondent ever gets to any kind of scale and is a new ‘model’.</p>&mdash; Charlie Beckett (@CharlieBeckett) <a href="https://twitter.com/CharlieBeckett/status/1021901257521463296?ref_src=twsrc%5Etfw">July 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-> I don’t want to sound hostile because I’m not - quite the opposite - but you say the current model is broken - I’d agree - but not sure how something like Der Correspondent ever gets to any kind of scale and is a new ‘model’.
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I guess I’m asking what works outside of Amsterdam and Vancouver.</p>&mdash; Charlie Beckett (@CharlieBeckett) <a href="https://twitter.com/CharlieBeckett/status/1021901766282096640?ref_src=twsrc%5Etfw">July 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[https://twitter.com/CharlieBeckett/status/1021901257521463296](https://twitter.com/CharlieBeckett/status/1021901257521463296)
-
-> I guess I’m asking what works outside of Amsterdam and Vancouver.
-
-[https://twitter.com/CharlieBeckett/status/1021901766282096640](https://twitter.com/CharlieBeckett/status/1021901766282096640) 
 
 Charlie’s questions are not unique. These are questions I hear regularly. I believe the questions typically boil down to:
 
@@ -80,9 +78,11 @@ However, as mentioned at beginning of the announcement for the [Journalism Entre
 
 Thankfully, there are more examples of what's working today at a slightly smaller or younger scale. And, to answer Charlie’s question, there are also many examples outside of the names that are regularly covered in the industry press, like [De Correspondent](https://decorrespondent.nl/) in Holland. 
 
-[https://twitter.com/DonLDay/status/1027249516439687169](https://twitter.com/DonLDay/status/1027249516439687169) 
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">July was another record month for <a href="https://t.co/LTX47pXxFE">https://t.co/LTX47pXxFE</a> as I began putting my attention toward it full time. It’s a scrappy operation - but it’s the most trafficked business news site in Idaho. Thanks for reading! Here are the most-read stories - all of them broke first here: <a href="https://t.co/Gwy8fLwjRO">pic.twitter.com/Gwy8fLwjRO</a></p>&mdash; 🔆Don Day (@DonLDay) <a href="https://twitter.com/DonLDay/status/1027249516439687169?ref_src=twsrc%5Etfw">August 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* In the local news space, there are many emerging examples (like the one from Idaho above). One I'm currently watching closely is [The Colorado Sun](https://www.kickstarter.com/projects/873054240/the-colorado-sun?ref=email): "a reader-supported, journalist-owned news outlet focused on investigative, explanatory and narrative journalism." So far, they’ve raised more than $150,000 on Kickstarter from 2,500 supporters. However, there are so many examples of digital upstarts in this space it’s hard not to mention a few more to look at, for example: [The New Tropic](https://thenewtropic.com/) in Miami, [TylerLoop](https://thetylerloop.com/) in Tyler, Texas, or [The Devil Strip](http://thedevilstrip.com/) in Akron, Ohio.
+
+* In the local news space, there are many emerging examples (like the one recently shared by my fellow JSK alum, Don Day, above). One I'm currently watching closely is [The Colorado Sun](https://www.kickstarter.com/projects/873054240/the-colorado-sun?ref=email): "a reader-supported, journalist-owned news outlet focused on investigative, explanatory and narrative journalism." So far, they’ve raised more than $150,000 on Kickstarter from 2,500 supporters. However, there are so many examples of digital upstarts in this space it’s hard not to mention a few more to look at, for example: [The New Tropic](https://thenewtropic.com/) in Miami, [TylerLoop](https://thetylerloop.com/) in Tyler, Texas, or [The Devil Strip](http://thedevilstrip.com/) in Akron, Ohio.
 
 * On the regional level, I like to point to Canadian examples like The Tyee, [National Observer](https://www.nationalobserver.com/), and [The Discourse](https://www.thediscourse.ca/). Each have very humble beginnings and proved that they could scale to do groundbreaking and award-winning reporting. Each has raised significant funding directly from readers.
 
