@@ -76,7 +76,9 @@ The first two examples of scale I typically point toward ([both are broken](http
 
 Arguably, Vice Media is a similar story, having started its shift away from a print magazine into digital around 2006. Coming from Montreal, Canada, and covering music and drugs, Vice is a great example of the unexpected places where innovation can come from. 
 
-However, as mentioned at beginning of the announcement for the [Journalism Entrepreneurship Boot Camp](https://medium.com/@phillipadsmith/announcing-a-new-journalism-entrepreneurship-bootcamp-lets-reboot-the-media-together-3281a1863451), the aspiring entrepreneurs I meet are hungry for examples to model themselves after, *but they need examples that are right-sized for what they are hoping to do, and at a similar stage of growth*.* *Examples like Vice, Vox, and BuzzFeed have outgrown their startup roots and prove to be unhelpful examples for most people starting a news business today.
+However, as mentioned at beginning of the announcement for the [Journalism Entrepreneurship Boot Camp](https://medium.com/@phillipadsmith/announcing-a-new-journalism-entrepreneurship-bootcamp-lets-reboot-the-media-together-3281a1863451), the aspiring entrepreneurs I meet are hungry for examples to model themselves after, *but they need examples that are right-sized for what they are hoping to do, and at a similar stage of growth*.\*<br />
+
+(\*Examples like Vice, Vox, and BuzzFeed have outgrown their startup roots and prove to be unhelpful examples for most people starting a news business today.)
 
 Thankfully, there are more examples of what's working today at a slightly smaller or younger scale. And, to answer Charlie’s question, there are also many examples outside of the names that are regularly covered in the industry press, like [De Correspondent](https://decorrespondent.nl/) in Holland. 
 
