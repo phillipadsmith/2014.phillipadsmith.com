@@ -51,7 +51,7 @@ Eversley is a veteran journalist who has covered race, politics, social issues a
 
 <br />
 
-<img src ="files/jronson.jpg" style="float:left; margin-right:10px;" />
+<img src ="/files/jronson.jpg" style="float:left; margin-right:10px;" />
 
 **Jacqueline Ronson** ([@jacsrons](https://twitter.com/@jacsrons))
 
