@@ -17,5 +17,5 @@ tags:
   - 
 ---
 
-Util I update this page, you can [read the story here]*(https://medium.com/@phillipadsmith/civils-token-sale-totally-failed-yet-their-real-success-has-been-completely-overlooked-15179633de41).
+Util I update this page, you can [read the story here](https://medium.com/@phillipadsmith/civils-token-sale-totally-failed-yet-their-real-success-has-been-completely-overlooked-15179633de41)
 {: .lead}
