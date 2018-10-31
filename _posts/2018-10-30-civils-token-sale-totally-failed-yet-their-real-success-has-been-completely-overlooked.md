@@ -4,7 +4,7 @@ title: "Civil's token sale totally failed. Yet their real success has been compl
 date: 2018-10-30T22:12:30-07:00
 dek: null
 summary: null
-img_opt: cover
+img_opt: inline
 img_sml: /ui/img/320x256.jpg
 img_med: /ui/img/640x512.jpg
 img_lrg: /ui/img/800x640.jpg
@@ -17,5 +17,5 @@ tags:
   - 
 ---
 
-Lead or intro paragraph, class 'lead' or 'intro'
+Content coming soon!
 {: .lead}
