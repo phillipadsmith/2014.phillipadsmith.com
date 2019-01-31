@@ -21,4 +21,4 @@ tags:
 
 {: .lead}
 
-This content is currently available on Medium here.
+This content is currently <a href="https://medium.com/@phillipadsmith/the-food-truck-not-the-tacos-sister-why-a-lack-of-technology-is-not-the-biggest-crisis-that-927dcd4c46f7?source=friends_link&sk=054a91ba892bcdb7f65dbba71b645e65">available on Medium here</a>.
