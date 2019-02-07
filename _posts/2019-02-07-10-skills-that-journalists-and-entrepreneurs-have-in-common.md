@@ -28,7 +28,7 @@ With the Dallas Morning News layoffs, the Digital First attempt to buy Gannett, 
 > We're living in a time where the watchdog function of journalism is being eroded. And the question we're facing is: What happens to society, to democracy, when that happens?
 <small>Burt Herman, Director of Innovation, Lenfest Institute for Journalism.</small>
 
-The implications of these shifts are really tricky because many newsroom staffers still see themselves as the victims (and they are) and not the saviors that they must become.
+The implications of these shifts are really tricky because many newsroom staffers still see themselves as the victims (and they are) and not the saviours that they must become.
 
 On occasion, I've overheard newsroom executives describe how the business-editorial divide in news companies has supported a "it's not my problem" mentality among many newsroom staffers. When hearing of financial challenges at the company, a beat reporter might think to themselves "That was _your_ responsibility, Miss or Mister. Management."
 
@@ -118,7 +118,7 @@ Here's the really surprising thing: journalists and entrepreneurs -- when you th
 </table>
 <small>(As synthesized from several post in journalism and entrepreneurially-focused online forums.)</small>
 
-**And this is just the tip of the iceberg!** Add your suggestions for the list as a comment below. Or drop me a suggestion on Twitter.
+**And this is just the tip of the iceberg!** Add your suggestions for the list as a comment below. [Or drop me a suggestion on Twitter](https://twitter.com/phillipadsmith).
 
 The simple truth is that anyone can learn to think more like an entrepreneur. In the [d.School at Stanford](https://dschool.stanford.edu/) there's a belief that anyone can "[design your life](https://designingyour.life/)," which means, basically, applying the skills of design thinking to your personal and professional objectives. The same is true for entrepreneurship: the basic skills are both teachable and learnable.
 
@@ -127,7 +127,7 @@ Don't just take my word for it, take it from the "the inventor of modern managem
 
 >  _"The entrepreneurial mystique? It's not magic, it's not mysterious, and it has nothing to do with the genes. It's a discipline. And, like any discipline, it can be learned."_
 
-Let's face it, if you can make it in the world of journalism today -- cranking out stories with little editorial support -- you can most certainly make it as an entrepreneur. You've already got the moxy and grit -- as well as most of the other skills listed above -- you just need to apply the skills a little differently when steering a business toward financial viability. 
+Let's face it, if you can make it in the world of journalism today -- cranking out stories with little editorial support -- you can most certainly make it as an entrepreneur. You've already got the moxie and grit -- as well as most of the other skills listed above -- you just need to apply the skills a little differently when steering a business toward financial viability. 
 
 Last year I [interviewed several dozen reporters who'd left newsrooms to start news businesses on their own](https://medium.com/jsk-class-of-2018/why-do-reporters-take-the-risk-to-start-a-media-business-these-answers-might-surprise-you-3be6418000bf). Overwhelmingly, there were **only two factors that lead most of them to start something new**: inspiration, or desperation. Desperation is easy to understand. There are fewer and fewer jobs, and more and more layoffs, as the traditional press shrinks across the nation -- that's a powerful motivator. 
 
