@@ -26,7 +26,7 @@ With the Dallas Morning News layoffs, the Digital First attempt to buy Gannett, 
 
 
 > We're living in a time where the watchdog function of journalism is being eroded. And the question we're facing is: What happens to society, to democracy, when that happens?
-<small>Phillip Smith, Founder, Journalism Entrepreneurship Training Co.</small>
+<small>Burt Herman, Director of Innovation, Lenfest Institute for Journalism.</small>
 
 The implications of these shifts are really tricky because many newsroom staffers still see themselves as the victims (and they are) and not the saviors that they must become.
 
