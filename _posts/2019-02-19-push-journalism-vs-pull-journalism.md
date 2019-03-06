@@ -19,7 +19,7 @@ tags:
   - innovation
 ---
 
-A few months back, I sat down for a coffee with a with a journalist who was starting a new a regional news project. The conversation was focused on potential business models for this new initiative. Since announcing the Journalism Entrepreneurship Boot Camp and News Foundry, these coffee conversation have been happening with more frequency -- _and I love every minute of them._
+A few months back, I sat down for a coffee with a journalist who was starting a new a regional news project. The conversation was focused on potential business models for this new initiative. Since announcing the Journalism Entrepreneurship Boot Camp and News Foundry, these coffee conversation have been happening with more frequency -- _and I love every minute of them._
 {: .lead}
 
 Over the course of these conversations -- literally dozens of them -- several patterns have started to emerge. There's one specific pattern, however, that I believe is indicative of how some significant percentage of journalists see the process of connecting the work of a new journalistic undertaking to the people it's aiming to serve.
@@ -67,7 +67,7 @@ The pull pattern is quite simple, really:
 *   Now go and do the reporting, the building, the producing.
 *   When it's done, publish it, and then present it to all of the people that you've spoken with and ask them, if they believe it's useful, to let people know.
 
-The exciting thing about a process like this is that it might provide an opportunity to create products _so good_ -- so well-tailored to a community's needs -- that people might just _pull_ the products into their lives.
+The exciting thing about a process like this is that it might provide an opportunity to create products _so good_ -- so well-tailored to a community's needs -- that people just _pull_ the products into their lives.
 
 What would the act of a reader "pulling journalism into their life" look like? Great question! I don't have all the answers, but I have a few hunches (and, if you have the answers, please post them in the comments below): 
 
