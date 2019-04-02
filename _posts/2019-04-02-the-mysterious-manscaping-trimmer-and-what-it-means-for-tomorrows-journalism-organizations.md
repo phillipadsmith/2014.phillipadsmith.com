@@ -132,6 +132,8 @@ I believe that there are all kinds of "moments" to build just-in-time journalism
 
 Some laughed when BuzzFeed announced its foray into hard news in 2011, but it went on to become a two-time Pulitzer Prize finalist and to win dozens of prestigious awards for its news reporting.
 
+![Little fish vs big fish](/files/20130626-big-fish-little-fish-1.jpg)
+
 The same is true for micro news organizations: at first the industry will laugh, then the industry will deride the micro news organizations as "toys" not capable of having an impact on the larger problems the news industry is facing today, and then -- as the micros learn to work faster, better, and more collaboratively across newsrooms -- they will take a bite out of the larger fish in the pond.
 
 And, whether this prediction is right or wrong, I believe that the timing for these experiments is right now because  a lot of attention has suddenly shifted to the local news situation in the US and Canada. The shift in attention has resulted in more than 1 billion in funding committed to fixing what's currently broken.
