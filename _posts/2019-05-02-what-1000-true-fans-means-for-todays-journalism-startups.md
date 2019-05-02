@@ -17,5 +17,7 @@ tags:
   - journalism
 ---
 
+This is on Medium for now.
+
 {: .lead}
 
