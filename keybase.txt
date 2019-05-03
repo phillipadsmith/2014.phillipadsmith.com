@@ -4,64 +4,66 @@ https://keybase.io/phillipadsmith
 
 I hereby claim:
 
-  * I am an admin of http://phillipadsmith.com
+  * I am an admin of https://phillipadsmith.com
   * I am phillipadsmith (https://keybase.io/phillipadsmith) on keybase.
   * I have a public key with fingerprint 25F7 F458 C261 B25B 5297  8F0A 518B F15D D63C 5D49
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
-    "body": {
-        "client": {
-            "name": "keybase.io node.js client",
-            "version": "0.7.2"
-        },
-        "key": {
-            "fingerprint": "25f7f458c261b25b52978f0a518bf15dd63c5d49",
-            "host": "keybase.io",
-            "key_id": "518BF15DD63C5D49",
-            "uid": "c448c8a685d9a0ef635a2324e9e97e00",
-            "username": "phillipadsmith"
-        },
-        "merkle_root": {
-            "ctime": 1413384113,
-            "hash": "44e27a9fb209816931d5cf6b9dbeeaac034fe631d05c154e5ded0cbde1d5ce7b463a0147b685a6b4a8f785e06a969755ac9a15aa8ff950845f08869cf8da79f2",
-            "seqno": 78856
-        },
-        "service": {
-            "hostname": "phillipadsmith.com",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0111f4d50414e032890729062dfe1de30232df238cc1372cd8843cca8b28b96e54370a",
+      "fingerprint": "25f7f458c261b25b52978f0a518bf15dd63c5d49",
+      "host": "keybase.io",
+      "key_id": "518bf15dd63c5d49",
+      "kid": "0111f4d50414e032890729062dfe1de30232df238cc1372cd8843cca8b28b96e54370a",
+      "uid": "c448c8a685d9a0ef635a2324e9e97e00",
+      "username": "phillipadsmith"
     },
-    "ctime": 1413384146,
-    "expire_in": 157680000,
-    "prev": "d20bc0a1ff83194fc7c29288e47b85b1c9ca585d44bc54491e6f67b29de889f1",
-    "seqno": 16,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1556898294,
+      "hash_meta": "af1a4a437a014a463721fb4602191d4b1cd0dd19000a81866d7ce15672364c90",
+      "seqno": 5290859
+    },
+    "revoke": {
+      "sig_ids": [
+        "b8299aeb22843fff83f84beec34f54d33fa5def00a5c4bfb27311c9e67df181c0f"
+      ]
+    },
+    "service": {
+      "hostname": "phillipadsmith.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1556898422,
+  "expire_in": 157680000,
+  "prev": "786b6b3d6fddd6c355b20bcbdf39b325107bb4a2b8594921720b03338b133fe4",
+  "seqno": 75,
+  "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG/MacGPG2 v2.0.20 (Darwin)
-Comment: GPGTools - http://gpgtools.org
 
-owFtkr9rFEEUx88fEQwIprYJC6LCeczszs9DUsQgWKkgaSQc8+PN3SR3u+vuJhpC
-QEQwIBgbC/8JtbUQQUUwVlrEyhCwMWWsLZw5Iv7AqWbefN73ve+8eXTiSGty6tqD
-/YXtCwuXD33Y063rM/c/rSW6sKtJdy0xQw95E3e5GkHSTZZgVasaOr6YzgsLncV6
-+oBpJytQ1b7IA4U6vJMm6+2Ix2Tn8z5UZeWjVpJSxx2hwqQM65RqmkouHFIUC+0w
-tZZlhloig+SgqJu/qiZjzZ63IRr42UuYzs2x7CKdG/PL4wtDiDBCMUGtVAgcy6hK
-s5SABMkBoQjWUB1YKgd+OPSlsvXIN4PY9QiqpSH0qqIYWzeNjyAmOMsEwTgLfal6
-EFIJgZQr6XSKpMBMZthS45iWVgMoZVBGHLAQRdRgSoBasMhoC5EDrgnLFMKE69Cq
-Ypoo4biggJiSTHJKlZEKUxXCTlIkCHVICCaNE1Zx6dJgpIabeZF0uRCUrcdjteIN
-xLbj2/3XYscUo5BZVkVTmGIY7gdNU3aj8xfNahkTboHuHUj1tM9tmN+fA8YB/edV
-CGsncLv0FfR8JChnAoUV68BKkLQp0gYp7JzIsCTOcJPKVAgI9gXV2EijaJgYIdpQ
-QiQG5hjXqbQghHT4t1ccSjWqHzRr389Vs1xBsr4xf7Q1Ndk6NnE4/uDW5PGTv771
-cKK1c/bx7uaZ9s73xe2Zu+dG/nT/SXv2y9b8x72vN962dr+9fLZ/Z0O8+/Hm1fty
-897V6VNbT8+/tjOfrzx8/hM=
-=MZPw
+owGtkz9oFEEUxk8TCxOFpLFLwAVRJIT5vzOHvdoZq0ASjvnzJrfm7vbc3ZzGkEJs
+REUFC8XWxsLKMoiKiEI0lZjCKiAoloIiWPk2GESwtJrZme9975vfztw+ONQYHZ+5
+/nVh68TC6T1vvrjG/Ft3czVxeVhJmqvJEuwM0AlQVq2lLCTNhFBKowiSCCqAcKYN
+SZkhioUINAAnjOOUce095SnzQWvBvbfaMe2MAil4SmwylcSstwhFv8h6FdoyGdMo
+pPZMUcekk8ykOhIrqXaRyhAU9zIIg4XtvKwrMJyzJUxnOa7hR2sn3j/0/zn38o6d
+F0J7bZWWwVgCUXFp0UGAAZMCIbWwhKJnu4DqfjvrdLK+DWU3q9rJ2lTShWKpA60i
+z6sasa+yWkilVNpoZgQe05btVhcqi/U2UissJrCE4qgwII1OKMKooUE46gMJgRpC
+iNVUKxVSD1SqlHElvKnTlHC+lydN5Eq0NJiggEG+BHXzMltEeGXSfH5lLnHY3Vhw
+jOH5Y4yaRy0cgOciShE4j1YGiNhIeuGiYymn1BtQaYhUU09isrBWtysGmd+xr//X
+PzlM+7yLyfpFXuU+7+B+u6r6ZbPmU63064IL4Fq/rVou6wW8M1gxgKLM8h7yQuXf
+6ARjUwlc7GcFtLJaIVOlEQup+8AALVOtnHI8qBjwlngupWPEeRciN44zSUnqnLDM
+ISZhGE1xl3DOtaN4eBB/WKYSc9pF9ESCPVstF5CsjVztDjfGRxsThw4PH/nxbfaF
+fTx39u6tkd1ntm9v/cYaI/vHdlfOvGpsP7x38vv8hwMNuXEpfbI+8Smsv360eeP9
+sZHu6GZje+PjuZfhwbU7p37OPDt+dLL6PLT1dGy2P3z53f3JXw==
+=2T4C
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -70,3 +72,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/phillipadsmith
 
 ==================================================================
+
