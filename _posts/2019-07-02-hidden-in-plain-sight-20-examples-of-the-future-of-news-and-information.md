@@ -14,7 +14,6 @@ img_caption: ""
 img_url: ""
 category: covering
 tags: 
-  - frontpage
   - journalism
   - innovation
   - news
