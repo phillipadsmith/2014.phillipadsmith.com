@@ -18,6 +18,7 @@ tags:
   - nonprofit
   - forprofit
   - innovation
+  - business-models
 ---
 
 For the moment, you can read this piece on Medium...
