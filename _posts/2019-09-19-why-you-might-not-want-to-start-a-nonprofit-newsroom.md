@@ -20,4 +20,4 @@ tags:
   - innovation
 ---
 
-For the moment, you can read this piece on Medium.
+For the moment, you can read this piece on Medium...
