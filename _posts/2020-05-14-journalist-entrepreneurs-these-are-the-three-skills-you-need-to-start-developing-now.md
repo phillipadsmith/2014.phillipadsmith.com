@@ -10,8 +10,8 @@ img_med: /files/marketing-school-business-idea-21696.jpg
 img_lrg: /files/marketing-school-business-idea-21696.jpg
 img_xlg: /files/marketing-school-business-idea-21696.jpg
 img_alt: ""
-img_caption: ""
-img_url: ""
+img_caption: "Photo by Gerd Altmann from Pexels"
+img_url: "https://www.pexels.com/photo/marketing-school-business-idea-21696/"
 category: covering
 tags: 
   - journalism
@@ -38,9 +38,11 @@ The theory was, in a nutshell, that it was possible to develop “viral content�
 *   Upworthy (founded in 2012)
 *   … and BuzzFeed (founded in 2006)
 
-However, it was BuzzFeed’s founder, Jonah Peretti, and his culture-jamming contemporaries that brought this theory to life with early work like the [Nike Sweatshop Emails](https://www.theguardian.com/media/2001/feb/19/1) (2001). And that brand of fresh thinking combined with a nascent Internet became the foundation of a whole movement around how to seed viral content on the Internet (for better and for worse).
+However, it was BuzzFeed’s founder, Jonah Peretti, and his culture-jamming contemporaries that brought this theory to life with early work like the [Nike Sweatshop Emails](https://www.theguardian.com/media/2001/feb/19/1) (2001). And that brand of fresh thinking combined with a nascent Internet became the foundation of a whole movement around how to seed viral content online (for better and for worse).
 
 Studying and applying the underlying theory behind Peretti’s work eventually resulted in my colleagues and I launching a successful viral project called Marry An American (if you were in the U.S., it was called Marry A Canadian). The project was so successful at the time that it brought my 2004-powered web server to its knees because thousands of people were signing up and it was appearing on news sites around the world including NYTimes, CNN, NPR, The Nation, as well as the CBC, BBC, and many others.
+
+![Screenshot of Marry An American](/files/marry-an-american-and-cnn.jpg)
 
 _But what stuck with me from that experience has nothing to do with viral content._
 
@@ -125,7 +127,7 @@ Circling back to the quote that opened this essay:
 
 > _“It’s at those moments of sharp sudden change, when the system is being shocked and shaken in various ways, that we might have the greatest opportunity to change things”_
 
-Thomas Homer-Dixon went on to say: “We need to develop the attitude of expecting surprise. Welcoming it into our lives.”
+Thomas Homer-Dixon went on to say: **“We need to develop the attitude of expecting surprise. Welcoming it into our lives.”**
 
 We are living through a profoundly unique moment in the history of humanity. Our civil society is being dramatically reinvented in front of our eyes. And it’s likely that many aspects of our lives that we’ve taken for granted for these last decades might be tested over the next weeks, months, and years. 
 
@@ -165,7 +167,7 @@ The exercises build on, and roughly follow, the d.School’s Design Thinking Pro
 
 At the risk of repeating myself to death, the takeaway here is: **to be ready to take advantage of opportunity -- you need to practice.** You need to have developed several concepts -- guesses at what you might do, and what might work -- and you need to have tested those concepts in advance, so that you’ve got more than just a gut-level hunch guiding you.
 
-<h3>Start small and build a habbit</h3>
+<h3>Start small and build a habit</h3>
 
 I’m not going to say “Stop watching Tiger King, give up Netflix, and establish a monk-like devotion to developing these skills,” because that would just be crazy! However, I am going to go so far as to suggest that if you make the time to establish these habits _now_ they will pay off in the _near future_.
 
