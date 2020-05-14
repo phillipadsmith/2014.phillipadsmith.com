@@ -4,11 +4,11 @@ title: "Journalist entrepreneurs: These are the three skills you need to start d
 date: 2020-05-14T08:03:22-07:00
 dek: A little preparation can go a long way toward de-risking your business model
 summary: null
-img_opt: none
-img_sml: /files/
-img_med: /files/
-img_lrg: /files/
-img_xlg: /files/
+img_opt: cover
+img_sml: /files/marketing-school-business-idea-21696.jpg
+img_med: /files/marketing-school-business-idea-21696.jpg
+img_lrg: /files/marketing-school-business-idea-21696.jpg
+img_xlg: /files/marketing-school-business-idea-21696.jpg
 img_alt: ""
 img_caption: ""
 img_url: ""
@@ -163,7 +163,7 @@ The exercises build on, and roughly follow, the d.School’s Design Thinking Pro
 
 ![Deisgn Thinking Process](/files/design-thinking-process.png)
 
-At the risk of repeating myself to death, the takeaway here is:** to be ready to take advantage of opportunity -- you need to practice. **You need to have developed several concepts -- guesses at what you might do, and what might work -- and you need to have tested those concepts in advance, so that you’ve got more than just a gut-level hunch guiding you.
+At the risk of repeating myself to death, the takeaway here is: **to be ready to take advantage of opportunity -- you need to practice.** You need to have developed several concepts -- guesses at what you might do, and what might work -- and you need to have tested those concepts in advance, so that you’ve got more than just a gut-level hunch guiding you.
 
 <h3>Start small and build a habbit</h3>
 
