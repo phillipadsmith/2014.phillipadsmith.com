@@ -14,7 +14,8 @@ img_caption: ""
 img_url: ""
 category: covering
 tags: 
-  - frontpage
+  - journalism
+  - entrepreneurship
 ---
 
 Until this story is imported here, you can read it on Medium.
