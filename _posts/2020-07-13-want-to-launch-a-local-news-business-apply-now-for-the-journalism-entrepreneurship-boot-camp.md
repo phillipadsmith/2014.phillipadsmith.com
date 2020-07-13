@@ -19,10 +19,10 @@ tags:
   - startups
   - bootcamp
 ---
-I’m excited to announce that applications are now open again for the journalism entrepreneurship boot camp. And I’m even more excited to share that the boot camp is now part of the newly announced Google News Initiative Startups Lab that is being piloted in partnership with [LION Publishers](https://www.lionpublishers.com/), an association for independent digital news startups.
+I’m excited to announce that applications are now open again for the journalism entrepreneurship boot camp. And I’m even more excited to share that the boot camp is now part of the newly announced [Google News Initiative Startups Lab](https://www.gnistartupslab.com/) that is being piloted in partnership with [LION Publishers](https://www.lionpublishers.com/), an association for independent digital news startups.
 {: .lead}
 
-The first phase of our GNI Startups Lab will include an eight-week fully-remote boot camp that includes live online classes, one-on-one coaching and peer learning. Upon completion of the program, participants will also receive a free year-long membership to LION Publishers, and the opportunity to apply to the second phase of the GNI Startups Lab program, which will help participants to further grow their project from a plan into a news business -- one with loyal customers and recurring revenue.
+The first phase of the [GNI Startups Lab](https://www.gnistartupslab.com/) will include an eight-week fully-remote boot camp that includes live online classes, one-on-one coaching and peer learning. Upon completion of the program, participants will also receive a free year-long membership to LION Publishers, and the opportunity to apply to the second phase of the GNI Startups Lab program, which will help participants to further grow their project from a plan into a news business -- one with loyal customers and recurring revenue.
 
 **And, the best news of all: the only cost for you to participate is your time**. You can apply today, [right here](https://docs.google.com/forms/d/e/1FAIpQLSd5rQrolFQLUaipj95HDqR9xtgeYSC-x2GxnhdPJUR4iYtr1w/viewform). Applications are due by August 17.
 
