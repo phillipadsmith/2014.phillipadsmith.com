@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Want to launch a local news business? Apply now for the journalism entrepreneurship boot camp"
-date: 2020-07-08
+date: 2020-07-08T00:00:00-00:00
 dek: A custom-made program for people who are ready to create a viable business based on delivering reported news or information
 summary: A custom-made program for people who are ready to create a viable business based on delivering reported news or information
 img_opt: cover
