@@ -9,3 +9,5 @@ _vendor
 node_modules
 bower_components
 env.sh
+/files/next-challenge_xlg_w_text.psd
+*.psd
